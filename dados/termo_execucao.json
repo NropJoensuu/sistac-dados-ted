@@ -1,0 +1,1836 @@
+[
+ {
+  "id_plano_acao": 3,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": null,
+  "tx_numero_ns_termo": "2022NS000574",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 6,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-03-30",
+  "tx_numero_ns_termo": "2022NS002063",
+  "tx_num_processo_sei": "108/2022"
+ },
+ {
+  "id_plano_acao": 7,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-03-30",
+  "tx_numero_ns_termo": "2022NS002058",
+  "tx_num_processo_sei": "109/2022"
+ },
+ {
+  "id_plano_acao": 8,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-03-30",
+  "tx_numero_ns_termo": "2022NS002012",
+  "tx_num_processo_sei": "0111/2022"
+ },
+ {
+  "id_plano_acao": 9,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-03-30",
+  "tx_numero_ns_termo": "2022NS002011",
+  "tx_num_processo_sei": "0110/2022"
+ },
+ {
+  "id_plano_acao": 10,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": null,
+  "tx_numero_ns_termo": "2022NS001183",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 23,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-08",
+  "tx_numero_ns_termo": "2022NS004465",
+  "tx_num_processo_sei": "0120/2022"
+ },
+ {
+  "id_plano_acao": 24,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-04-26",
+  "tx_numero_ns_termo": "2022NS002370",
+  "tx_num_processo_sei": "0133/2022"
+ },
+ {
+  "id_plano_acao": 29,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-03-30",
+  "tx_numero_ns_termo": "2022NS002061",
+  "tx_num_processo_sei": "130/2022"
+ },
+ {
+  "id_plano_acao": 30,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-01",
+  "tx_numero_ns_termo": "2022NS004470",
+  "tx_num_processo_sei": "0131/2022"
+ },
+ {
+  "id_plano_acao": 32,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-16",
+  "tx_numero_ns_termo": "2022NS002958",
+  "tx_num_processo_sei": "0119/2022"
+ },
+ {
+  "id_plano_acao": 33,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-03-30",
+  "tx_numero_ns_termo": "2022NS002060",
+  "tx_num_processo_sei": "137/2022"
+ },
+ {
+  "id_plano_acao": 35,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-20",
+  "tx_numero_ns_termo": "2022NS003156",
+  "tx_num_processo_sei": "0125/2022"
+ },
+ {
+  "id_plano_acao": 37,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-20",
+  "tx_numero_ns_termo": "2022NS003244",
+  "tx_num_processo_sei": "0132/2022"
+ },
+ {
+  "id_plano_acao": 39,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-04-01",
+  "tx_numero_ns_termo": "2022NS002059",
+  "tx_num_processo_sei": "139/2022"
+ },
+ {
+  "id_plano_acao": 48,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-04-01",
+  "tx_numero_ns_termo": "2022NS002062",
+  "tx_num_processo_sei": "134/2022"
+ },
+ {
+  "id_plano_acao": 50,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-05",
+  "tx_numero_ns_termo": "2022NS004452",
+  "tx_num_processo_sei": "0135/2022"
+ },
+ {
+  "id_plano_acao": 51,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-20",
+  "tx_numero_ns_termo": "2022NS003245",
+  "tx_num_processo_sei": "Ref. Finep nº 0138/2022"
+ },
+ {
+  "id_plano_acao": 59,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-09",
+  "tx_numero_ns_termo": "2022NS002678",
+  "tx_num_processo_sei": "0129/2022"
+ },
+ {
+  "id_plano_acao": 69,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-11",
+  "tx_numero_ns_termo": "2022NS002854",
+  "tx_num_processo_sei": "0128/2022"
+ },
+ {
+  "id_plano_acao": 70,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-05",
+  "tx_numero_ns_termo": "2022NS004451",
+  "tx_num_processo_sei": "0136/2022"
+ },
+ {
+  "id_plano_acao": 80,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-20",
+  "tx_numero_ns_termo": "2022NS003155",
+  "tx_num_processo_sei": "0115/2022"
+ },
+ {
+  "id_plano_acao": 109,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-23",
+  "tx_numero_ns_termo": "2022NS003153",
+  "tx_num_processo_sei": "0117/2022"
+ },
+ {
+  "id_plano_acao": 122,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-05-06",
+  "tx_numero_ns_termo": "2022NS000958",
+  "tx_num_processo_sei": "59000.019913/2021-85"
+ },
+ {
+  "id_plano_acao": 125,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-06-27",
+  "tx_numero_ns_termo": "2022NS000230",
+  "tx_num_processo_sei": "01245.003865/2022-31"
+ },
+ {
+  "id_plano_acao": 137,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-04-26",
+  "tx_numero_ns_termo": "2022NS047808",
+  "tx_num_processo_sei": "25000.056911/2022-36"
+ },
+ {
+  "id_plano_acao": 138,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": null,
+  "tx_numero_ns_termo": "2022NS037546",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 144,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-06-03",
+  "tx_numero_ns_termo": "2022NS000149",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 196,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-08",
+  "tx_numero_ns_termo": "2022NS004485",
+  "tx_num_processo_sei": "0116/2022"
+ },
+ {
+  "id_plano_acao": 234,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-05-31",
+  "tx_numero_ns_termo": "2022NS000385",
+  "tx_num_processo_sei": "01245.006858/2022-91"
+ },
+ {
+  "id_plano_acao": 272,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-07-01",
+  "tx_numero_ns_termo": "2022NS004454",
+  "tx_num_processo_sei": "1411/2022"
+ },
+ {
+  "id_plano_acao": 276,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-13",
+  "tx_numero_ns_termo": "2022NS004453",
+  "tx_num_processo_sei": "1414/2022"
+ },
+ {
+  "id_plano_acao": 277,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-13",
+  "tx_numero_ns_termo": "2022NS004467",
+  "tx_num_processo_sei": "1419/2022"
+ },
+ {
+  "id_plano_acao": 279,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-13",
+  "tx_numero_ns_termo": "2022NS004469",
+  "tx_num_processo_sei": "1430/2022"
+ },
+ {
+  "id_plano_acao": 280,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-11",
+  "tx_numero_ns_termo": "2022NS004459",
+  "tx_num_processo_sei": "1438/2022"
+ },
+ {
+  "id_plano_acao": 282,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-01",
+  "tx_numero_ns_termo": "2022NS004466",
+  "tx_num_processo_sei": "1420/2022"
+ },
+ {
+  "id_plano_acao": 283,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-13",
+  "tx_numero_ns_termo": "2022NS004460",
+  "tx_num_processo_sei": "1443/2022"
+ },
+ {
+  "id_plano_acao": 284,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-13",
+  "tx_numero_ns_termo": "2022NS004486",
+  "tx_num_processo_sei": "1429/2022"
+ },
+ {
+  "id_plano_acao": 285,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-01",
+  "tx_numero_ns_termo": "2022NS004456",
+  "tx_num_processo_sei": "1410/2022"
+ },
+ {
+  "id_plano_acao": 287,
+  "tx_situacao_termo": "PENDENTE_REGISTRO_NO_SIAFI",
+  "dt_assinatura_termo": "2022-07-19",
+  "tx_numero_ns_termo": null,
+  "tx_num_processo_sei": "1437/2022"
+ },
+ {
+  "id_plano_acao": 288,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-07-27",
+  "tx_numero_ns_termo": "2022NS004611",
+  "tx_num_processo_sei": "1427/2022"
+ },
+ {
+  "id_plano_acao": 291,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-13",
+  "tx_numero_ns_termo": "2022NS004457",
+  "tx_num_processo_sei": "1413/2022"
+ },
+ {
+  "id_plano_acao": 292,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-28",
+  "tx_numero_ns_termo": "2022NS004614",
+  "tx_num_processo_sei": "1435/2022"
+ },
+ {
+  "id_plano_acao": 294,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-21",
+  "tx_numero_ns_termo": "2022NS004534",
+  "tx_num_processo_sei": "1446/2022"
+ },
+ {
+  "id_plano_acao": 295,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-21",
+  "tx_numero_ns_termo": "2022NS004533",
+  "tx_num_processo_sei": "1444/2022"
+ },
+ {
+  "id_plano_acao": 296,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-07-28",
+  "tx_numero_ns_termo": "2022NS004616",
+  "tx_num_processo_sei": "1445/2022"
+ },
+ {
+  "id_plano_acao": 299,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-21",
+  "tx_numero_ns_termo": "2022NS004531",
+  "tx_num_processo_sei": "1423/2022"
+ },
+ {
+  "id_plano_acao": 300,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-06",
+  "tx_numero_ns_termo": "2022NS004455",
+  "tx_num_processo_sei": "1412/2022"
+ },
+ {
+  "id_plano_acao": 303,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-27",
+  "tx_numero_ns_termo": "2022NS004613",
+  "tx_num_processo_sei": "1422/2022"
+ },
+ {
+  "id_plano_acao": 304,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-11",
+  "tx_numero_ns_termo": "2022NS004484",
+  "tx_num_processo_sei": "0122/2022"
+ },
+ {
+  "id_plano_acao": 305,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-22",
+  "tx_numero_ns_termo": "2022NS004532",
+  "tx_num_processo_sei": "1424/2022"
+ },
+ {
+  "id_plano_acao": 306,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-27",
+  "tx_numero_ns_termo": "2022NS004610",
+  "tx_num_processo_sei": "1425/2022"
+ },
+ {
+  "id_plano_acao": 307,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-25",
+  "tx_numero_ns_termo": "2022NS004573",
+  "tx_num_processo_sei": "1441/2022"
+ },
+ {
+  "id_plano_acao": 311,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-28",
+  "tx_numero_ns_termo": "2022NS004609",
+  "tx_num_processo_sei": "1440/2022"
+ },
+ {
+  "id_plano_acao": 312,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-01",
+  "tx_numero_ns_termo": "2022NS004458",
+  "tx_num_processo_sei": "1428/2022"
+ },
+ {
+  "id_plano_acao": 313,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-07-27",
+  "tx_numero_ns_termo": "2022NS004608",
+  "tx_num_processo_sei": "1421/2022"
+ },
+ {
+  "id_plano_acao": 314,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-22",
+  "tx_numero_ns_termo": "2022NS004535",
+  "tx_num_processo_sei": "1431/2022"
+ },
+ {
+  "id_plano_acao": 315,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-27",
+  "tx_numero_ns_termo": "2022NS004615",
+  "tx_num_processo_sei": "1449/2022"
+ },
+ {
+  "id_plano_acao": 316,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-07-21",
+  "tx_numero_ns_termo": "2022NS004530",
+  "tx_num_processo_sei": "1433/2022"
+ },
+ {
+  "id_plano_acao": 317,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-18",
+  "tx_numero_ns_termo": "2022NS004468",
+  "tx_num_processo_sei": "1432/2022"
+ },
+ {
+  "id_plano_acao": 318,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-21",
+  "tx_numero_ns_termo": "2022NS004529",
+  "tx_num_processo_sei": "1434/2022"
+ },
+ {
+  "id_plano_acao": 319,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-08-05",
+  "tx_numero_ns_termo": "2022NS004903",
+  "tx_num_processo_sei": "1513/2022"
+ },
+ {
+  "id_plano_acao": 320,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-28",
+  "tx_numero_ns_termo": "2022NS004600",
+  "tx_num_processo_sei": "1439/2022"
+ },
+ {
+  "id_plano_acao": 321,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-01",
+  "tx_numero_ns_termo": "2022NS004461",
+  "tx_num_processo_sei": "1442/2022"
+ },
+ {
+  "id_plano_acao": 322,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-27",
+  "tx_numero_ns_termo": "2022NS004612",
+  "tx_num_processo_sei": "1426/2022"
+ },
+ {
+  "id_plano_acao": 327,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-08",
+  "tx_numero_ns_termo": "2022NS004487",
+  "tx_num_processo_sei": "0118/2022"
+ },
+ {
+  "id_plano_acao": 329,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-06-15",
+  "tx_numero_ns_termo": "2022NS000149",
+  "tx_num_processo_sei": "01245.006067/2022-61"
+ },
+ {
+  "id_plano_acao": 333,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-27",
+  "tx_numero_ns_termo": "2022NS004628",
+  "tx_num_processo_sei": "1436/2022"
+ },
+ {
+  "id_plano_acao": 340,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-06-28",
+  "tx_numero_ns_termo": "2022NS000229",
+  "tx_num_processo_sei": "01245.003862/2022-06"
+ },
+ {
+  "id_plano_acao": 362,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-01",
+  "tx_numero_ns_termo": "2022NS000480",
+  "tx_num_processo_sei": "01245.008178/2022-11"
+ },
+ {
+  "id_plano_acao": 382,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-06-30",
+  "tx_numero_ns_termo": "2022NS000192",
+  "tx_num_processo_sei": "01245.004586/2022-95"
+ },
+ {
+  "id_plano_acao": 434,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-02-01",
+  "tx_numero_ns_termo": "2022NS000251",
+  "tx_num_processo_sei": "01245.003668/2022-12"
+ },
+ {
+  "id_plano_acao": 436,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-08-03",
+  "tx_numero_ns_termo": "2022NS004889",
+  "tx_num_processo_sei": "1512/2022"
+ },
+ {
+  "id_plano_acao": 441,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-08-03",
+  "tx_numero_ns_termo": "2022NS004902",
+  "tx_num_processo_sei": "1511/2022"
+ },
+ {
+  "id_plano_acao": 446,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-08-26",
+  "tx_numero_ns_termo": "2022NS008004",
+  "tx_num_processo_sei": "1517/2022"
+ },
+ {
+  "id_plano_acao": 476,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-08-03",
+  "tx_numero_ns_termo": "2022NS000223",
+  "tx_num_processo_sei": "01245.011038/2022-11"
+ },
+ {
+  "id_plano_acao": 477,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-08-03",
+  "tx_numero_ns_termo": "2022NS000224",
+  "tx_num_processo_sei": "01245.008937/2022-37"
+ },
+ {
+  "id_plano_acao": 478,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-08-26",
+  "tx_numero_ns_termo": "2022NS008005",
+  "tx_num_processo_sei": "1520/2022"
+ },
+ {
+  "id_plano_acao": 495,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-07-19",
+  "tx_numero_ns_termo": "2022NS005034",
+  "tx_num_processo_sei": "1437/22"
+ },
+ {
+  "id_plano_acao": 501,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-09-26",
+  "tx_numero_ns_termo": "2022NS001816",
+  "tx_num_processo_sei": "21000.055177/2022-37"
+ },
+ {
+  "id_plano_acao": 505,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-09-01",
+  "tx_numero_ns_termo": "2022NS000869",
+  "tx_num_processo_sei": "01245.013792/2022-96"
+ },
+ {
+  "id_plano_acao": 540,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-09-09",
+  "tx_numero_ns_termo": "2022NS000275",
+  "tx_num_processo_sei": "01245.012852/2022-53"
+ },
+ {
+  "id_plano_acao": 594,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-10-01",
+  "tx_numero_ns_termo": "2022NS015880",
+  "tx_num_processo_sei": "23477.006801/2022-00"
+ },
+ {
+  "id_plano_acao": 595,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-10-03",
+  "tx_numero_ns_termo": "2022NS000274",
+  "tx_num_processo_sei": "01245.008730/2022-62"
+ },
+ {
+  "id_plano_acao": 687,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-11-29",
+  "tx_numero_ns_termo": "2022NS000407",
+  "tx_num_processo_sei": "01245.003526/2022-55"
+ },
+ {
+  "id_plano_acao": 734,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-05",
+  "tx_numero_ns_termo": "2023NS000034",
+  "tx_num_processo_sei": "09284.000029/2022-41"
+ },
+ {
+  "id_plano_acao": 757,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-09",
+  "tx_numero_ns_termo": "2022NS000415",
+  "tx_num_processo_sei": "01280.001281/2022-03"
+ },
+ {
+  "id_plano_acao": 810,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-15",
+  "tx_numero_ns_termo": "2022NS000463",
+  "tx_num_processo_sei": "01245.018999/2022-57"
+ },
+ {
+  "id_plano_acao": 811,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-15",
+  "tx_numero_ns_termo": "2022NS000462",
+  "tx_num_processo_sei": "01245.019197/2022-64"
+ },
+ {
+  "id_plano_acao": 816,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-22",
+  "tx_numero_ns_termo": "2022NS000461",
+  "tx_num_processo_sei": "01245.022626/2022-81"
+ },
+ {
+  "id_plano_acao": 817,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-22",
+  "tx_numero_ns_termo": "2022NS000464",
+  "tx_num_processo_sei": "01245.022681/2022-71"
+ },
+ {
+  "id_plano_acao": 834,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2022-12-01",
+  "tx_numero_ns_termo": "2022NS003096",
+  "tx_num_processo_sei": "02070.023930/2021-76"
+ },
+ {
+  "id_plano_acao": 862,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-30",
+  "tx_numero_ns_termo": "2022NS002713",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 909,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-30",
+  "tx_numero_ns_termo": "2022NS002724",
+  "tx_num_processo_sei": "21000.127549/2022-34"
+ },
+ {
+  "id_plano_acao": 910,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-30",
+  "tx_numero_ns_termo": "2022NS000570",
+  "tx_num_processo_sei": "01245.024361/2022-55"
+ },
+ {
+  "id_plano_acao": 911,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2022-12-30",
+  "tx_numero_ns_termo": "2022NS000569",
+  "tx_num_processo_sei": "01245.021100/2022-83"
+ },
+ {
+  "id_plano_acao": 986,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-05-01",
+  "tx_numero_ns_termo": "2023NS000231",
+  "tx_num_processo_sei": "01245.005109/2023-28"
+ },
+ {
+  "id_plano_acao": 991,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-06-27",
+  "tx_numero_ns_termo": "2023NS001717",
+  "tx_num_processo_sei": "02501.000641/2023-43"
+ },
+ {
+  "id_plano_acao": 992,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-05-01",
+  "tx_numero_ns_termo": "2023NS000221",
+  "tx_num_processo_sei": "01245.006590/2023-79"
+ },
+ {
+  "id_plano_acao": 1004,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-07-01",
+  "tx_numero_ns_termo": "2023NS000337",
+  "tx_num_processo_sei": "01245.006981/2023-93"
+ },
+ {
+  "id_plano_acao": 1068,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-06-16",
+  "tx_numero_ns_termo": "2023NS050016",
+  "tx_num_processo_sei": "25000.089054/2023-31"
+ },
+ {
+  "id_plano_acao": 1073,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-07-03",
+  "tx_numero_ns_termo": "2023NS054907",
+  "tx_num_processo_sei": "25000.102782/2023-46"
+ },
+ {
+  "id_plano_acao": 1083,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-06-28",
+  "tx_numero_ns_termo": "2023NS002236",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1092,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-06-28",
+  "tx_numero_ns_termo": "2023NS000346",
+  "tx_num_processo_sei": "01245.009013/2023-39"
+ },
+ {
+  "id_plano_acao": 1098,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-07-04",
+  "tx_numero_ns_termo": "2023NS000343",
+  "tx_num_processo_sei": "01245.008343/2023-15"
+ },
+ {
+  "id_plano_acao": 1100,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-07-31",
+  "tx_numero_ns_termo": "2023NS001339",
+  "tx_num_processo_sei": "00350.001235/2023-43"
+ },
+ {
+  "id_plano_acao": 1101,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-07-04",
+  "tx_numero_ns_termo": "2023NS000342",
+  "tx_num_processo_sei": "01245.008743/2023-12"
+ },
+ {
+  "id_plano_acao": 1111,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-08-08",
+  "tx_numero_ns_termo": "2023NS000210",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1124,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-08-21",
+  "tx_numero_ns_termo": "2023NS000391",
+  "tx_num_processo_sei": "01245.013968/2023-91"
+ },
+ {
+  "id_plano_acao": 1137,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-08-21",
+  "tx_numero_ns_termo": "2023NS000390",
+  "tx_num_processo_sei": "01245.011582/2023-44"
+ },
+ {
+  "id_plano_acao": 1155,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-07-24",
+  "tx_numero_ns_termo": "2023NS000347",
+  "tx_num_processo_sei": "01245.009106/2023-63"
+ },
+ {
+  "id_plano_acao": 1216,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-08-16",
+  "tx_numero_ns_termo": "2023NS000392",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1217,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-08-16",
+  "tx_numero_ns_termo": "2023NS000435",
+  "tx_num_processo_sei": "01245.004274/2023-62"
+ },
+ {
+  "id_plano_acao": 1253,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-08-09",
+  "tx_numero_ns_termo": "2023NS000385",
+  "tx_num_processo_sei": "01245.013204/2023-03"
+ },
+ {
+  "id_plano_acao": 1308,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-08-22",
+  "tx_numero_ns_termo": "2023NS000434",
+  "tx_num_processo_sei": "01245.015140/2023-77"
+ },
+ {
+  "id_plano_acao": 1378,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-09-08",
+  "tx_numero_ns_termo": "2023NS000456",
+  "tx_num_processo_sei": "01245.006053/2023-29"
+ },
+ {
+  "id_plano_acao": 1384,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-10-02",
+  "tx_numero_ns_termo": "2023NS001441",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1429,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-10-02",
+  "tx_numero_ns_termo": "2023NS001443",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1450,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-09-22",
+  "tx_numero_ns_termo": "2023NS000455",
+  "tx_num_processo_sei": "01245.018269/2023-37"
+ },
+ {
+  "id_plano_acao": 1479,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-11-01",
+  "tx_numero_ns_termo": "2023NS002169",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1498,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-10-20",
+  "tx_numero_ns_termo": "2023NS000499",
+  "tx_num_processo_sei": "01245.019040/2023-10"
+ },
+ {
+  "id_plano_acao": 1539,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-09-30",
+  "tx_numero_ns_termo": "2023NS004350",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1560,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-11-06",
+  "tx_numero_ns_termo": "2023NS000514",
+  "tx_num_processo_sei": "01245.017705/2023-51"
+ },
+ {
+  "id_plano_acao": 1626,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-11-09",
+  "tx_numero_ns_termo": "2023NS002183",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1631,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-10-23",
+  "tx_numero_ns_termo": "2023NS005979",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1674,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_APROVADO",
+  "dt_assinatura_termo": "2023-12-07",
+  "tx_numero_ns_termo": "2023NS008559",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1753,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-12-11",
+  "tx_numero_ns_termo": "2023NS008565",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 1758,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-11-06",
+  "tx_numero_ns_termo": "2023NS000513",
+  "tx_num_processo_sei": "01245.013176/2023-16"
+ },
+ {
+  "id_plano_acao": 1834,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-12-08",
+  "tx_numero_ns_termo": "2023NS000217",
+  "tx_num_processo_sei": "19965200256202340"
+ },
+ {
+  "id_plano_acao": 1876,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "0232-12-21",
+  "tx_numero_ns_termo": "2023NS001803",
+  "tx_num_processo_sei": "47648.001274/2023-79"
+ },
+ {
+  "id_plano_acao": 1956,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-11-24",
+  "tx_numero_ns_termo": "2023NS000583",
+  "tx_num_processo_sei": "01245.020378/2023-14"
+ },
+ {
+  "id_plano_acao": 2026,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-11-22",
+  "tx_numero_ns_termo": "2023NS000584",
+  "tx_num_processo_sei": "01245.018510/2023-28"
+ },
+ {
+  "id_plano_acao": 2113,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-12-06",
+  "tx_numero_ns_termo": "2023NS031694",
+  "tx_num_processo_sei": "03607.000216/2023-39"
+ },
+ {
+  "id_plano_acao": 2131,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-02-22",
+  "tx_numero_ns_termo": "2024NS003801",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2190,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-12-08",
+  "tx_numero_ns_termo": "2023NS003572",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2198,
+  "tx_situacao_termo": "PENDENTE_REGISTRO_NO_SIAFI",
+  "dt_assinatura_termo": "2023-12-08",
+  "tx_numero_ns_termo": null,
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2257,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2023-12-09",
+  "tx_numero_ns_termo": "2023NS031700",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2291,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-12-12",
+  "tx_numero_ns_termo": "2023NS021224",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2298,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-12-12",
+  "tx_numero_ns_termo": "2023NS021225",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2409,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-12-11",
+  "tx_numero_ns_termo": "2023NS000643",
+  "tx_num_processo_sei": "01245.004285/2023-42"
+ },
+ {
+  "id_plano_acao": 2423,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2023-12-11",
+  "tx_numero_ns_termo": "2023NS000664",
+  "tx_num_processo_sei": "01245.017076/2023-69"
+ },
+ {
+  "id_plano_acao": 2570,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-04-09",
+  "tx_numero_ns_termo": "2024NS013791",
+  "tx_num_processo_sei": "25030.000232/2024-17"
+ },
+ {
+  "id_plano_acao": 2581,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-03-26",
+  "tx_numero_ns_termo": "2024NS000135",
+  "tx_num_processo_sei": "01245.003126/2024-10"
+ },
+ {
+  "id_plano_acao": 2592,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-04-11",
+  "tx_numero_ns_termo": "2024NS001116",
+  "tx_num_processo_sei": "01420.100743/2024-86"
+ },
+ {
+  "id_plano_acao": 2604,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-04-23",
+  "tx_numero_ns_termo": "2024NS000576",
+  "tx_num_processo_sei": "21290.201128/2024-26"
+ },
+ {
+  "id_plano_acao": 2629,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-06-26",
+  "tx_numero_ns_termo": "2024NS000312",
+  "tx_num_processo_sei": "01245.000391/2024-38"
+ },
+ {
+  "id_plano_acao": 2635,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-05-31",
+  "tx_numero_ns_termo": "2024NS005241",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2639,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-04-19",
+  "tx_numero_ns_termo": "2024NS083571",
+  "tx_num_processo_sei": "25000.047081/2024-18"
+ },
+ {
+  "id_plano_acao": 2643,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-04-30",
+  "tx_numero_ns_termo": "2024NS000240",
+  "tx_num_processo_sei": "01245.002255/2024-82"
+ },
+ {
+  "id_plano_acao": 2644,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-04-30",
+  "tx_numero_ns_termo": "2024NS000615",
+  "tx_num_processo_sei": "21290.200530/2024-93"
+ },
+ {
+  "id_plano_acao": 2656,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-04-22",
+  "tx_numero_ns_termo": "2024NS096802",
+  "tx_num_processo_sei": "25000.081133/2024-85"
+ },
+ {
+  "id_plano_acao": 2674,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-04-29",
+  "tx_numero_ns_termo": "2024NS000189",
+  "tx_num_processo_sei": "01245.004552/2024-62"
+ },
+ {
+  "id_plano_acao": 2693,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-07-03",
+  "tx_numero_ns_termo": "2024NS005805",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2697,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-07-03",
+  "tx_numero_ns_termo": "2024NS005804",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2701,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-05-10",
+  "tx_numero_ns_termo": "2024NS001347",
+  "tx_num_processo_sei": "59000.015113/2023-57"
+ },
+ {
+  "id_plano_acao": 2732,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-07-01",
+  "tx_numero_ns_termo": "2024NS006056",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2748,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-05-07",
+  "tx_numero_ns_termo": "2024NS000245",
+  "tx_num_processo_sei": "01245.002183/2024-73"
+ },
+ {
+  "id_plano_acao": 2793,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-03-17",
+  "tx_numero_ns_termo": "2025NS002844",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2816,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-07-01",
+  "tx_numero_ns_termo": "2024NS006068",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2822,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-06-10",
+  "tx_numero_ns_termo": "2024NS096801",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2891,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-07-08",
+  "tx_numero_ns_termo": "2024NS018219",
+  "tx_num_processo_sei": "25383.000135/2024-24"
+ },
+ {
+  "id_plano_acao": 2906,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-06-19",
+  "tx_numero_ns_termo": "2024NS000279",
+  "tx_num_processo_sei": "01245.008372/2024-50"
+ },
+ {
+  "id_plano_acao": 2982,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-07-16",
+  "tx_numero_ns_termo": "2024NS006139",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 2990,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-08-01",
+  "tx_numero_ns_termo": "2024NS006355",
+  "tx_num_processo_sei": "Referência 1740/24"
+ },
+ {
+  "id_plano_acao": 2998,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-08-13",
+  "tx_numero_ns_termo": "2024NS000383",
+  "tx_num_processo_sei": "01245.003549/2024-21"
+ },
+ {
+  "id_plano_acao": 3006,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-08-09",
+  "tx_numero_ns_termo": "2024NS018133",
+  "tx_num_processo_sei": "25387.000496/2024-31"
+ },
+ {
+  "id_plano_acao": 3018,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-04-02",
+  "tx_numero_ns_termo": "2024NS000325",
+  "tx_num_processo_sei": "01245.000471/2024-93"
+ },
+ {
+  "id_plano_acao": 3039,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-10-04",
+  "tx_numero_ns_termo": "2024NS007459",
+  "tx_num_processo_sei": "02501.003436/2024-11"
+ },
+ {
+  "id_plano_acao": 3040,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-10-11",
+  "tx_numero_ns_termo": "2024NS008519",
+  "tx_num_processo_sei": "1784/24"
+ },
+ {
+  "id_plano_acao": 3089,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-07-30",
+  "tx_numero_ns_termo": "2024NS000348",
+  "tx_num_processo_sei": "01245.010119/2024-66"
+ },
+ {
+  "id_plano_acao": 3144,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-10-09",
+  "tx_numero_ns_termo": "2024NS008449",
+  "tx_num_processo_sei": "Ref. Finep 2325/24"
+ },
+ {
+  "id_plano_acao": 3147,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-08-07",
+  "tx_numero_ns_termo": "2024NS000377",
+  "tx_num_processo_sei": "01245.000495/2024-42"
+ },
+ {
+  "id_plano_acao": 3148,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-10-15",
+  "tx_numero_ns_termo": "2024NS008518",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 3182,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-08-19",
+  "tx_numero_ns_termo": "2024NS003651",
+  "tx_num_processo_sei": "01340.007174/2023-18"
+ },
+ {
+  "id_plano_acao": 3190,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-09-02",
+  "tx_numero_ns_termo": "2024NS003650",
+  "tx_num_processo_sei": "01340.004197/2024-43"
+ },
+ {
+  "id_plano_acao": 3236,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-08-30",
+  "tx_numero_ns_termo": "2024NS000652",
+  "tx_num_processo_sei": "01208.000167/2024-92"
+ },
+ {
+  "id_plano_acao": 3263,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-09-20",
+  "tx_numero_ns_termo": "2024NS008108",
+  "tx_num_processo_sei": "Referência Finep 2614/24"
+ },
+ {
+  "id_plano_acao": 3276,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-12-06",
+  "tx_numero_ns_termo": "2024NS002361",
+  "tx_num_processo_sei": "55000.012533/2024-10"
+ },
+ {
+  "id_plano_acao": 3279,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-09-30",
+  "tx_numero_ns_termo": "2024NS008219",
+  "tx_num_processo_sei": "Referência Finep nº 3132/24"
+ },
+ {
+  "id_plano_acao": 3376,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-12-05",
+  "tx_numero_ns_termo": "2024NS002523",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 3483,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-11-01",
+  "tx_numero_ns_termo": "2024NS156549",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 3615,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-12-05",
+  "tx_numero_ns_termo": "2024NS000492",
+  "tx_num_processo_sei": "01245.006858/2024-53"
+ },
+ {
+  "id_plano_acao": 3624,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-11-11",
+  "tx_numero_ns_termo": "2024NS006081",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 3659,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-11-29",
+  "tx_numero_ns_termo": "2024NS005460",
+  "tx_num_processo_sei": "01340.007202/2024-70"
+ },
+ {
+  "id_plano_acao": 3664,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-12-02",
+  "tx_numero_ns_termo": "2024NS009870",
+  "tx_num_processo_sei": "Referência: 3523/24"
+ },
+ {
+  "id_plano_acao": 3730,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-11-20",
+  "tx_numero_ns_termo": "2024NS000489",
+  "tx_num_processo_sei": "01245.011393/2023-71"
+ },
+ {
+  "id_plano_acao": 3803,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2024-10-16",
+  "tx_numero_ns_termo": "2024NS000528",
+  "tx_num_processo_sei": "01245.002265/2024-18"
+ },
+ {
+  "id_plano_acao": 3832,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_ENVIADO_ANALISE",
+  "dt_assinatura_termo": "2024-12-30",
+  "tx_numero_ns_termo": "2024NS000362",
+  "tx_num_processo_sei": "02000.013502/2024-10"
+ },
+ {
+  "id_plano_acao": 3833,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-12-09",
+  "tx_numero_ns_termo": "2024NS017962",
+  "tx_num_processo_sei": "23477.030076/2024-44"
+ },
+ {
+  "id_plano_acao": 3976,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-12-27",
+  "tx_numero_ns_termo": "2024NS000085",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 3980,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2024-12-27",
+  "tx_numero_ns_termo": "2024NS004697",
+  "tx_num_processo_sei": "00350.081050/2024-95"
+ },
+ {
+  "id_plano_acao": 3998,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-02-01",
+  "tx_numero_ns_termo": "2025NS001192",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 3999,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-02-17",
+  "tx_numero_ns_termo": "2025NS002730",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 4011,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-02-12",
+  "tx_numero_ns_termo": "2025NS001280",
+  "tx_num_processo_sei": "25067.000423/2024-61"
+ },
+ {
+  "id_plano_acao": 4095,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-04-08",
+  "tx_numero_ns_termo": "2025NS000227",
+  "tx_num_processo_sei": "71000.030427/2025-47"
+ },
+ {
+  "id_plano_acao": 4096,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-05-19",
+  "tx_numero_ns_termo": "2025NS004593",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 4107,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-04-29",
+  "tx_numero_ns_termo": "2025NS008761",
+  "tx_num_processo_sei": "25380.001111/2025-01"
+ },
+ {
+  "id_plano_acao": 4111,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-09-30",
+  "tx_numero_ns_termo": "2025NS132713",
+  "tx_num_processo_sei": "25000.044393/2025-51 "
+ },
+ {
+  "id_plano_acao": 4113,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-05-05",
+  "tx_numero_ns_termo": "2025NS000584",
+  "tx_num_processo_sei": "01242.000102/2025-10"
+ },
+ {
+  "id_plano_acao": 4145,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-05-27",
+  "tx_numero_ns_termo": "2025NS004594",
+  "tx_num_processo_sei": "Ref. Finep 1130/25"
+ },
+ {
+  "id_plano_acao": 4146,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-05-10",
+  "tx_numero_ns_termo": "2025NS000345",
+  "tx_num_processo_sei": "01245.000159/2025-81"
+ },
+ {
+  "id_plano_acao": 4169,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-06-02",
+  "tx_numero_ns_termo": "2025NS005602",
+  "tx_num_processo_sei": "Ref. Finep 1146/25"
+ },
+ {
+  "id_plano_acao": 4170,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-07-18",
+  "tx_numero_ns_termo": "2025NS002640",
+  "tx_num_processo_sei": "SEI PR 00133.000771/2025-58"
+ },
+ {
+  "id_plano_acao": 4183,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-09-15",
+  "tx_numero_ns_termo": "2025NS155228",
+  "tx_num_processo_sei": "25000.101458/2025-72"
+ },
+ {
+  "id_plano_acao": 4195,
+  "tx_situacao_termo": "CUMPRIMENTO_OBJETO_INICIADO",
+  "dt_assinatura_termo": "2025-05-29",
+  "tx_numero_ns_termo": "2025NS000365",
+  "tx_num_processo_sei": "01245.007243/2025-25"
+ },
+ {
+  "id_plano_acao": 4235,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-06-04",
+  "tx_numero_ns_termo": "2025NS000376",
+  "tx_num_processo_sei": "01245.005997/2025-41"
+ },
+ {
+  "id_plano_acao": 4252,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-06-09",
+  "tx_numero_ns_termo": "2025NS000396",
+  "tx_num_processo_sei": "01245.004777/2025-08"
+ },
+ {
+  "id_plano_acao": 4253,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-09-15",
+  "tx_numero_ns_termo": "2025NS128168",
+  "tx_num_processo_sei": "25000.092949/2025-15"
+ },
+ {
+  "id_plano_acao": 4305,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-08-01",
+  "tx_numero_ns_termo": "2025NS007348",
+  "tx_num_processo_sei": null
+ },
+ {
+  "id_plano_acao": 4348,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-07-02",
+  "tx_numero_ns_termo": "2025NS000095",
+  "tx_num_processo_sei": "02000.007559/2025-52"
+ },
+ {
+  "id_plano_acao": 4387,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-09-01",
+  "tx_numero_ns_termo": "2025NS013830",
+  "tx_num_processo_sei": "25380.004590/2024-29"
+ },
+ {
+  "id_plano_acao": 4392,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-08-01",
+  "tx_numero_ns_termo": "2025NS000150",
+  "tx_num_processo_sei": "02000.005326/2025-15"
+ },
+ {
+  "id_plano_acao": 4402,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-10-06",
+  "tx_numero_ns_termo": "2025NS000662",
+  "tx_num_processo_sei": "01245.008561/2025-11"
+ },
+ {
+  "id_plano_acao": 4414,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-06-09",
+  "tx_numero_ns_termo": "2025NS000503",
+  "tx_num_processo_sei": "01245.006583/2025-39"
+ },
+ {
+  "id_plano_acao": 4503,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-07-28",
+  "tx_numero_ns_termo": "2025NS000536",
+  "tx_num_processo_sei": "01245.017508/2024-12"
+ },
+ {
+  "id_plano_acao": 4515,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-08-22",
+  "tx_numero_ns_termo": "2025NS007954",
+  "tx_num_processo_sei": "Ref. Finep 2251/25"
+ },
+ {
+  "id_plano_acao": 4518,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-08-22",
+  "tx_numero_ns_termo": "2025NS007814",
+  "tx_num_processo_sei": "Ref. Finep 2250/25"
+ },
+ {
+  "id_plano_acao": 4524,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-09-01",
+  "tx_numero_ns_termo": "2025NS007930",
+  "tx_num_processo_sei": "Ref. Finep 2263/25"
+ },
+ {
+  "id_plano_acao": 4538,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-09-01",
+  "tx_numero_ns_termo": "2025NS001861",
+  "tx_num_processo_sei": "00100.001789/2024-73"
+ },
+ {
+  "id_plano_acao": 4712,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-10-02",
+  "tx_numero_ns_termo": "2025NS162134",
+  "tx_num_processo_sei": "25000.175173/2025-78"
+ },
+ {
+  "id_plano_acao": 4726,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-10-01",
+  "tx_numero_ns_termo": "2025NS003605",
+  "tx_num_processo_sei": "01340.005425/2025-83"
+ },
+ {
+  "id_plano_acao": 4790,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-23",
+  "tx_numero_ns_termo": "2025NS005318",
+  "tx_num_processo_sei": "00350.010798/2025-94"
+ },
+ {
+  "id_plano_acao": 4872,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-11-01",
+  "tx_numero_ns_termo": "2025NS004016",
+  "tx_num_processo_sei": "01340.006442/2025-38"
+ },
+ {
+  "id_plano_acao": 4887,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-11-19",
+  "tx_numero_ns_termo": "2025NS000763",
+  "tx_num_processo_sei": "01245.021436/2025-99"
+ },
+ {
+  "id_plano_acao": 4907,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-10-10",
+  "tx_numero_ns_termo": "2025NS000563",
+  "tx_num_processo_sei": "21290.001482/2025-33"
+ },
+ {
+  "id_plano_acao": 4968,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-10-29",
+  "tx_numero_ns_termo": "2025NS000734",
+  "tx_num_processo_sei": "01245.004768/2025-17"
+ },
+ {
+  "id_plano_acao": 4988,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-11-01",
+  "tx_numero_ns_termo": "2025NS004261",
+  "tx_num_processo_sei": "01340.006457/2025-04"
+ },
+ {
+  "id_plano_acao": 5059,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-09",
+  "tx_numero_ns_termo": "2026NS000810",
+  "tx_num_processo_sei": "Ref. Finep 2702/25"
+ },
+ {
+  "id_plano_acao": 5094,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-01",
+  "tx_numero_ns_termo": "2025NS000168",
+  "tx_num_processo_sei": "16100.004391/2025-18"
+ },
+ {
+  "id_plano_acao": 5099,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-11-26",
+  "tx_numero_ns_termo": "2025NS000762",
+  "tx_num_processo_sei": "01245.007090/2025-16"
+ },
+ {
+  "id_plano_acao": 5103,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-11-26",
+  "tx_numero_ns_termo": "2025NS000761",
+  "tx_num_processo_sei": "01245.008795/2025-51"
+ },
+ {
+  "id_plano_acao": 5196,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-02",
+  "tx_numero_ns_termo": "2025NS000756",
+  "tx_num_processo_sei": "04035.000017/2025-87"
+ },
+ {
+  "id_plano_acao": 5220,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-01",
+  "tx_numero_ns_termo": "2025NS001018",
+  "tx_num_processo_sei": "01400.034445/2025-18"
+ },
+ {
+  "id_plano_acao": 5232,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-11-27",
+  "tx_numero_ns_termo": "2025NS000768",
+  "tx_num_processo_sei": "01245.021828/2025-58"
+ },
+ {
+  "id_plano_acao": 5305,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-02",
+  "tx_numero_ns_termo": "2025NS000775",
+  "tx_num_processo_sei": "01245.026237/2025-77"
+ },
+ {
+  "id_plano_acao": 5423,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-01-01",
+  "tx_numero_ns_termo": "2026NS000809",
+  "tx_num_processo_sei": "Ref, Finep 2755/25"
+ },
+ {
+  "id_plano_acao": 5461,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-15",
+  "tx_numero_ns_termo": "2025NS000846",
+  "tx_num_processo_sei": "01245.007248/2025-58"
+ },
+ {
+  "id_plano_acao": 5496,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-22",
+  "tx_numero_ns_termo": "2025NS019829",
+  "tx_num_processo_sei": "23477.029182/2025-66"
+ },
+ {
+  "id_plano_acao": 5506,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-23",
+  "tx_numero_ns_termo": "2025NS000874",
+  "tx_num_processo_sei": "01245.007256/2025-02"
+ },
+ {
+  "id_plano_acao": 5536,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2025-12-18",
+  "tx_numero_ns_termo": "2025NS024620",
+  "tx_num_processo_sei": "21200.008618/2025-06"
+ },
+ {
+  "id_plano_acao": 5619,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-01-26",
+  "tx_numero_ns_termo": "2026NS000811",
+  "tx_num_processo_sei": "Ref. Finep 0070/26"
+ },
+ {
+  "id_plano_acao": 5628,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-01-26",
+  "tx_numero_ns_termo": "2026NS003065",
+  "tx_num_processo_sei": "Ref. Finep 0097/26"
+ },
+ {
+  "id_plano_acao": 5697,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-12",
+  "tx_numero_ns_termo": "2026NS000319",
+  "tx_num_processo_sei": "01245.002578/2026-38"
+ },
+ {
+  "id_plano_acao": 5778,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-05-01",
+  "tx_numero_ns_termo": "2026NS000001",
+  "tx_num_processo_sei": "00135.205339/2026-12"
+ },
+ {
+  "id_plano_acao": 5779,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-04-02",
+  "tx_numero_ns_termo": "2026NS000187",
+  "tx_num_processo_sei": "01245.020944/2025-50"
+ },
+ {
+  "id_plano_acao": 5817,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-04-22",
+  "tx_numero_ns_termo": "2026NS005091",
+  "tx_num_processo_sei": "Ref. Finep 1716/26"
+ },
+ {
+  "id_plano_acao": 5842,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-01",
+  "tx_numero_ns_termo": "2026NS006747",
+  "tx_num_processo_sei": "Ref, Finep 2589/26"
+ },
+ {
+  "id_plano_acao": 5847,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-04-14",
+  "tx_numero_ns_termo": "2026NS000190",
+  "tx_num_processo_sei": "01245.002965/2026-74"
+ },
+ {
+  "id_plano_acao": 5872,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-05-06",
+  "tx_numero_ns_termo": "2026NS000209",
+  "tx_num_processo_sei": "01245.002185/2026-24"
+ },
+ {
+  "id_plano_acao": 5887,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-05-26",
+  "tx_numero_ns_termo": "2026NS006452",
+  "tx_num_processo_sei": "Ref. Finep 1862/26"
+ },
+ {
+  "id_plano_acao": 5937,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-04-29",
+  "tx_numero_ns_termo": "2026NS000206",
+  "tx_num_processo_sei": "01245.002986/2026-90"
+ },
+ {
+  "id_plano_acao": 5962,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-03-24",
+  "tx_numero_ns_termo": "2026NS000208",
+  "tx_num_processo_sei": "01245.002977/2026-07"
+ },
+ {
+  "id_plano_acao": 6026,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-08",
+  "tx_numero_ns_termo": "2026NS000303",
+  "tx_num_processo_sei": "01245.002749/2026-29"
+ },
+ {
+  "id_plano_acao": 6027,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-05-27",
+  "tx_numero_ns_termo": "2026NS001148",
+  "tx_num_processo_sei": "21260.002041/2026-97"
+ },
+ {
+  "id_plano_acao": 6043,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-01",
+  "tx_numero_ns_termo": "2026NS000302",
+  "tx_num_processo_sei": "01400.009026/2026-11"
+ },
+ {
+  "id_plano_acao": 6057,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-15",
+  "tx_numero_ns_termo": "2026NS006801",
+  "tx_num_processo_sei": "Ref. Finep 3022/26"
+ },
+ {
+  "id_plano_acao": 6075,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-03",
+  "tx_numero_ns_termo": "2026NS000293",
+  "tx_num_processo_sei": "01245.002645/2026-14"
+ },
+ {
+  "id_plano_acao": 6104,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-19",
+  "tx_numero_ns_termo": "2026NS006845",
+  "tx_num_processo_sei": "Ref. Finep 3156/26"
+ },
+ {
+  "id_plano_acao": 6120,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-07-01",
+  "tx_numero_ns_termo": "2026NS007066",
+  "tx_num_processo_sei": "Ref. Finep 3128/26"
+ },
+ {
+  "id_plano_acao": 6143,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-24",
+  "tx_numero_ns_termo": "2026NS001003",
+  "tx_num_processo_sei": "21260.001130/2026-16"
+ },
+ {
+  "id_plano_acao": 6151,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-07-01",
+  "tx_numero_ns_termo": "2026NS006744",
+  "tx_num_processo_sei": "Ref. Finep 3130/26"
+ },
+ {
+  "id_plano_acao": 6252,
+  "tx_situacao_termo": "EM_EXECUCAO",
+  "dt_assinatura_termo": "2026-06-22",
+  "tx_numero_ns_termo": "2026NS000339",
+  "tx_num_processo_sei": "01245.007275/2026-10"
+ }
+]

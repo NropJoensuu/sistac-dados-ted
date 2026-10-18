@@ -1,0 +1,1948 @@
+[
+ {
+  "id_programa": 7,
+  "tx_codigo_programa": "03655420220001",
+  "tx_nome_programa": "Execução do TR nº 8391251 - Chamada Pública CNPq/SEMPI/MCTI - RHAE (Ref. Finep nº 0099/2022)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 10,
+  "tx_codigo_programa": "03655420220002",
+  "tx_nome_programa": "Execução do TR nº 8295799 - Programa Institutos Nacionais de Ciência e Tecnologia - INCT (Ref. Finep nº 0106/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 13,
+  "tx_codigo_programa": "03655420220003",
+  "tx_nome_programa": "Execução do TR nº 8301818 - Rede Nacional de Vigilância Epidemiológica de Coronavirus SARS-COV-2 e outros Patógenos Emergentes - FASE II (Ref. Finep nº 0109/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 14,
+  "tx_codigo_programa": "03655420220004",
+  "tx_nome_programa": "Execução do TR nº 8302861 - Criação da rede MCTI de monitoramento de Covid-19 em águas residuais (Ref. Finep nº 0111/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 15,
+  "tx_codigo_programa": "03655420220005",
+  "tx_nome_programa": "Execução do TR nº 8301532 - Desenvolvimento de nova geração de análogos nucleosídeos/tídeos no combate a COVID-19 - Ensaio Clínico de fase I da Molécula MB-905 (Ref. Finep nº 0108/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 16,
+  "tx_codigo_programa": "03655420220006",
+  "tx_nome_programa": "Execução do TR nº 8302681 - Nanopartículas lipídicas biomiméticas (LNP-Bio) para administração inalatória como plataforma para alternativas terapêuticas e tratamento da Covid-19 com foco nos efeitos inflamatórios e invasão celular. (Ref. Finep nº 0110/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 19,
+  "tx_codigo_programa": "03655420220007",
+  "tx_nome_programa": "Execução do TR nº 8303708 - Chamada Pública MCTI/CNPq de Olimpíadas Científicas (Ref. Finep nº 0116/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 20,
+  "tx_codigo_programa": "03655420220008",
+  "tx_nome_programa": "Execução do TR nº 8303081 -  Semana Nacional de Ciência e Tecnologia - SNCT (Ref. Finep nº 0115/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 21,
+  "tx_codigo_programa": "03655420220009",
+  "tx_nome_programa": "Execução do TR nº 8303740 - FUTURAS CIENTISTAS: Transbordando o Conhecimento e Popularizando a Ciência e Tecnologia Nacional (Ref. Finep nº 0117/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 25,
+  "tx_codigo_programa": "03655420220011",
+  "tx_nome_programa": "Execução do TR nº 8292532 - Chamada CNPq 2021 - Bolsas Recém Doutor (Ref. Finep nº 0133/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 30,
+  "tx_codigo_programa": "04303220220015",
+  "tx_nome_programa": "Programa de Prospecção, Resgate e Acompanhamento Arqueológico e Educação Patrimonial",
+  "unidade_descentralizadora": "Secretaria Nacional de Segurança Hídrica",
+  "sigla_unidade_descentralizadora": "SNSH-MIDR"
+ },
+ {
+  "id_programa": 31,
+  "tx_codigo_programa": "03655420220012",
+  "tx_nome_programa": "Execução do TR nº 8303995 - Ações de impacto: imersão, pesquisa e desenvolvimento e popularização em Museus e Centros de Ciência, Tecnologia e Inovações no Brasil (Ref. Finep nº 0118/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 32,
+  "tx_codigo_programa": "03655420220013",
+  "tx_nome_programa": "Execução do TR nº 8753817 - Contratação de propostas qualificadas no \"Chamamento Público CNPq/DECIV/SEPEF/MCTI - Nº 11/2021 – Prospecção de Projetos de P, D & I em Terapias Avançadas\". (Ref. Finep nº 0135/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 33,
+  "tx_codigo_programa": "03655420220014",
+  "tx_nome_programa": "Execução do TR nº 8504010 - Incentivo ao desenvolvimento tecnológico e à inovação em apoio ao Programa Combustível do Futuro e Programa Nacional de Hidrogênio (Ref. Finep nº 0131/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 34,
+  "tx_codigo_programa": "03655420220015",
+  "tx_nome_programa": "Execução do TR nº 8309041 - Desenvolver estratégias para combater a poluição no mar e ambientes marinhos causada pelo plástico e seus subprodutos em consonância com o Plano Nacional de Combate ao Lixo no Mar. (Ref. Finep nº 0132/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 35,
+  "tx_codigo_programa": "03655420220016",
+  "tx_nome_programa": "Execução do TR nº 8304043 - COM-CIÊNCIA PARTICIPATIVA PARA A REDUÇÃO DAS VULNERABILIDADES, PROTEÇÃO E PREVENÇÃO DE RISCOS E DE DESASTRES NO BRASIL: AMPLIAÇÃO DOPROGRAMA EMADEN/MCTI EDUCAÇÃO (Ref. Finep 0119/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 36,
+  "tx_codigo_programa": "03655420220017",
+  "tx_nome_programa": "Execução do TR nº 8304110 - Do Parque da Ciência à Exploração Espacial, Astronomia e Astronáutica - Impacto das Exposições Itinerantes na Formação dos estudantes da Educação Básica e na População Local (Ref. Finep nº 0120/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 37,
+  "tx_codigo_programa": "03655420220018",
+  "tx_nome_programa": "Execução do TR nº 8304158 - A Inovação na Disseminação e Aprendizagem em Ciência, Tecnologia e Inovação (Ref. Finep 0124/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 39,
+  "tx_codigo_programa": "03655420220020",
+  "tx_nome_programa": "Execução do TR nº 8304397 - Olimpíadas Científicas e o desenvolvimento da ciência, tecnologia e inovação no Brasil (Ref. Finep nº 0122/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 42,
+  "tx_codigo_programa": "03655420220022",
+  "tx_nome_programa": "Execução do TR nº 8309456 - Estudo prospectivo de novas tecnologias de Inteligência Artificial visando aperfeiçoamento do ensino e divulgação da ciência. (Ref. Finep 0126/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 43,
+  "tx_codigo_programa": "03655420220023",
+  "tx_nome_programa": "Execução do TR nº 8309606 - Chamada Pública CNPQ/MCTI - FEIRAS DE CIÊNCIAS E MOSTRAS CIENTÍFICAS (Ref. Finep nº 0125/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 44,
+  "tx_codigo_programa": "03655420220024",
+  "tx_nome_programa": "Execução do TR nº 8291829 - Programa Institutos Nacionais de Ciência e Tecnologia – INCT - Complementação de recursos para projetos do Edital nº 71/2010 e da Chamada nº 16/2014. (Ref. Finep nº 0134/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 45,
+  "tx_codigo_programa": "03655420220025",
+  "tx_nome_programa": "Execução do TR nº 8322392 - Chamada para Projetos de Cooperação Internacional em Ciência, Tecnologia e Inovação no âmbito do agrupamento BRICS (Brasil, Rússia, índia, China e África do Sul) (Ref. Finep nº 0130/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 46,
+  "tx_codigo_programa": "03655420220026",
+  "tx_nome_programa": "Execução do TR nº 8295433 - PPP, PRONEM e PRONEX - Apoio aos Programas descentralizados de fomento em parceria com as Unidades da Federação (Ref. Finep nº 0137/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 47,
+  "tx_codigo_programa": "03655420220027",
+  "tx_nome_programa": "Execução do TR nº 82955531 - Suplementação à Chamada CNPq nº 12/2020 Programa de Mestrado e Doutorado Acadêmico para Inovação - MAI/DAI (Ref. Finep nº 0139/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 52,
+  "tx_codigo_programa": "03655420220028",
+  "tx_nome_programa": "Execução do TR nº 8310283 - Vacinas para Dengue: abordagem em frente múltipla, com vacina vetorial e vacina de mRNA (Ref. Finep nº 0136/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 53,
+  "tx_codigo_programa": "03655420220029",
+  "tx_nome_programa": "Execução do TR nº 8308925 - Pesquisa e Desenvolvimento para Enfrentar o Derramamento de Óleo na Costa Brasileira – Programa Ciência no Mar do MCTI. (Ref. Finep nº 0138/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 54,
+  "tx_codigo_programa": "03655420220030",
+  "tx_nome_programa": "Execução do TR nº 8706434 - Pesquisa, desenvolvimento e inovação para a produção de bioquerosene de aviação por hidroprocessamento de óleos vegetais e residuais (HEFA). (Ref. Finep nº 0129/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 55,
+  "tx_codigo_programa": "03655420220031",
+  "tx_nome_programa": "Execução do TR nº 8307055 - Biomas tropicais: Sistemática de Diagnóstico e Monitoramento visando o Desenvolvimento Sustentável e Gestão Estratégica do Território nacional. (Ref. Finep nº 0128/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 99,
+  "tx_codigo_programa": "26717520220001",
+  "tx_nome_programa": "Chamada para Projetos de Cooperação Internacional em Ciência, Tecnologia e Inovação no âmbito do agrupamento BRICS (Brasil, Rússia, índia, China e África do Sul)",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 114,
+  "tx_codigo_programa": "26717520220003",
+  "tx_nome_programa": "Realização de Chamada Pública para Apoio a Projetos Cooperativos em Nanotecnologia no âmbito do Centro Brasileiro-Argentino de Nanotecnologia (CBAN)",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 132,
+  "tx_codigo_programa": "00030420220017",
+  "tx_nome_programa": "5020 - Desenvolvimento Científico e Tecnológico Em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 134,
+  "tx_codigo_programa": "00030420220019",
+  "tx_nome_programa": "5023 - Vigilância em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 148,
+  "tx_codigo_programa": "26717520220005",
+  "tx_nome_programa": "Apoio à 25ª Olimpíada Brasileira de Astronomia e Astronáutica, 25ª OBA",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 165,
+  "tx_codigo_programa": "26717520220006",
+  "tx_nome_programa": "Pesquisa, Desenvolvimento Científico e Tecnológico e Formação Científica",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 178,
+  "tx_codigo_programa": "00030420220033",
+  "tx_nome_programa": "5020 - Desenvolvimento Científico, Tecnológico e Produtivo em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 179,
+  "tx_codigo_programa": "00030420220034",
+  "tx_nome_programa": "5020 - Desenvolvimento Científico e Tecnológico Em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 231,
+  "tx_codigo_programa": "26717520220018",
+  "tx_nome_programa": "Concessão de bolsas para pós-graduação a nível de mestrado e doutorado  nos temas Computação Quântica, Fotônica Integrada e em Inteligência Artificial. - Processo nº: 01245.006858/2022-91",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 256,
+  "tx_codigo_programa": "26717520220023",
+  "tx_nome_programa": " Encontro Nacional de alunos participantes do Programa de Iniciação Científica Jr da OBMEP",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 290,
+  "tx_codigo_programa": "03655420220032",
+  "tx_nome_programa": "Execução do TR 9719802 - Projeto IA2 ",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 292,
+  "tx_codigo_programa": "03655420220033",
+  "tx_nome_programa": "Execução do TR nº 10265019 - Promoção da Formação e Capacitação em Áreas Prioritárias para Inovação nas Empresas ",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 293,
+  "tx_codigo_programa": "03655420220034",
+  "tx_nome_programa": "Execução do TR nº 9759616 - Projeto Manna BR",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 294,
+  "tx_codigo_programa": "03655420220035",
+  "tx_nome_programa": "Execução do TR nº 9784115 - PD&I, gestão e extensão tecnológica, infraestrutura laboratorial, capacitação e formação de RH para mineração e transformação mineral em micro, pequena e média escala.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 295,
+  "tx_codigo_programa": "03655420220036",
+  "tx_nome_programa": "Execução do TR nº 9786078 - Implementação do Programa MCTI de Inovação em Grafeno (InovaGrafeno-MCTI)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 296,
+  "tx_codigo_programa": "03655420220037",
+  "tx_nome_programa": "Execução do TR nº 9787165 - Desenvolvimento de CT&I para os Setores de Transporte Aquaviário e Construção Naval.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 297,
+  "tx_codigo_programa": "03655420220038",
+  "tx_nome_programa": "Execução do TR nº 9859434 - Pesquisa, Desenvolvimento, Inovação em Temáticas Prioritárias para o Setor Elétrico Nacional ",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 299,
+  "tx_codigo_programa": "03655420220040",
+  "tx_nome_programa": "Execução do TR nº 9788540 - Capacitação estratégica de Recursos Humanos para atuação em ambientes de alto nível de contenção biológica",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 300,
+  "tx_codigo_programa": "03655420220041",
+  "tx_nome_programa": "Execução do TR nº 9789019 - Programa Nacional de Apoio a Jovens Doutores – Ampliação da Chamada CNPq 2021 para Bolsas Recém Doutor",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 301,
+  "tx_codigo_programa": "03655420220042",
+  "tx_nome_programa": "Execução do TR nº 9789028 - Programa Institutos Nacionais de Ciência e Tecnologia – INCT – Chamada 2022/2023",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 302,
+  "tx_codigo_programa": "03655420220043",
+  "tx_nome_programa": "Execução do TR nº 9789487 - Suplementação de recursos para a Chamada Pública CNPq/SEMPI/MCTI nº 21/2021- RHAE Pesquisador na Empresa",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 303,
+  "tx_codigo_programa": "03655420220044",
+  "tx_nome_programa": "Execução do TR nº 9791203 - Chamada MCTI/CNPq/FNDCT Nº xx/2022 – Apoio à pesq. cient. tecn. e em inovação, desenv. sobre gestão integrada de recursos hídricos e zonas costeiras, eficiência hídrica, e segurança hídrica no contexto das mudanças climáticas.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 304,
+  "tx_codigo_programa": "03655420220045",
+  "tx_nome_programa": "Execução do TR nº 9817295 - Implementação de Programa de PD&I em Nióbio (InovaNióbio), a ser instituído por Portaria do MCTI",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 305,
+  "tx_codigo_programa": "03655420220046",
+  "tx_nome_programa": "Execução do TR nº 9817315 - Aplicações de PD&I em prospecção e exploração de recursos minerais e de petróleo & gás natural",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 307,
+  "tx_codigo_programa": "03655420220048",
+  "tx_nome_programa": "Execução do TR nº 9818624 - Programa de Capacitação Institucional - PCI",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 308,
+  "tx_codigo_programa": "03655420220049",
+  "tx_nome_programa": "Execução do TR nº 10155531 - Chamada MCTI/CNPq/FNDCT Nº xx/2022 – Chamada Pública para o Desenvolvimento de Ações Estratégicas para Políticas em Biodiversidade no âmbito do Programa de Pesquisa em Biodiversidade (PPBio)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 309,
+  "tx_codigo_programa": "03655420220050",
+  "tx_nome_programa": "Execução do TR nº 9851809 - Programa Ciência no Mar e Ciência Antártica do MCTI e as ações nacionais para a Década das Nações Unidas da Ciência Oceânica para o Desenvolvimento Sustentável",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 310,
+  "tx_codigo_programa": "03655420220051",
+  "tx_nome_programa": "Execução do TR nº 9851845 - Chamada MCTI/CNPq/FNDCT - Chamada Pública para apoio à pesquisa científica, tecnológica e em inovação, desenvolvida na Antártica, para a geração de conhecimentos científicos, tecnológicos e em inovação relacionados à Antártica",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 311,
+  "tx_codigo_programa": "03655420220052",
+  "tx_nome_programa": "Execução do TR nº 9851914 - Suplementação da Chamada Pública nº 21/2018 PROANTAR - para apoiar a pesquisa científica, tecnológica e em inovação, desenvolvida na Antártica",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 313,
+  "tx_codigo_programa": "03655420220053",
+  "tx_nome_programa": "Execução do TR nº 9871373 - Ações em Ciência, Tecnologia e Inovação para o enfrentamento da Resistência Antimicrobiana (RAM)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 314,
+  "tx_codigo_programa": "03655420220054",
+  "tx_nome_programa": "Execução do TR nº 9851980 - Chamada Pública para projetos de Sistemas de observação e monitoramento oceânico relacionados ao Global Ocean Observing System (GOOS) Brasil",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 315,
+  "tx_codigo_programa": "03655420220055",
+  "tx_nome_programa": "Execução do TR nº 9854085 - CHAMADA PÚBLICA DESENVOLVIMENTO DE CT&I PARA CUBESATS E SUAS APLICAÇÕES ÀS ÁREAS DE INTERESSE DO BRASIL",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 316,
+  "tx_codigo_programa": "03655420220056",
+  "tx_nome_programa": "Execução do TR nº 9857864 - PD&I para o desenvolvimento integral das Cadeias Produtivas de Minerais Estratégicos",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 317,
+  "tx_codigo_programa": "03655420220057",
+  "tx_nome_programa": "Execução do TR nº 9871405 - Pesquisa, desenvolvimento e inovação em COVID Longa",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 318,
+  "tx_codigo_programa": "03655420220058",
+  "tx_nome_programa": "Execução do TR nº 9858784 - Apoio ao Sistema Brasileiro de Laboratórios de Hidrogênio – SisH2-MCTI",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 320,
+  "tx_codigo_programa": "03655420220059",
+  "tx_nome_programa": "Execução do TR nº 9874049 - Chamada Pública para apoio a projetos de P,D&I que visem o desenvolvimento e aplicação de novas tecnologias e ferramentas de Bioinformática em Biotecnologia",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 321,
+  "tx_codigo_programa": "03655420220060",
+  "tx_nome_programa": "Execução do TR nº 9874062 - Chamada Pública para apoio a projetos de P,D&I voltadas à Biotecnologia e aplicados à temas atuais de Saúde Humana, Agropecuária, Meio Ambiente e Indústria",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 322,
+  "tx_codigo_programa": "03655420220061",
+  "tx_nome_programa": "Execução do TR nº 9874567 - Chamada MCTI/CNPq/FNDCT Nº xx/2022 – Produção de Conhecimento Voltada para Soluções e Tecnologias Associadas à Mitigação e Adaptação às Mudanças do Clima",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 323,
+  "tx_codigo_programa": "03655420220062",
+  "tx_nome_programa": "Execução do TR nº 9892269 - PROGRAMA UNIESPAÇO",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 324,
+  "tx_codigo_programa": "03655420220063",
+  "tx_nome_programa": "Execução do TR nº 9914639 - Pesquisa e Inovação em Ciências Humanas e Sociais para o Desenvolvimento Social",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 339,
+  "tx_codigo_programa": "00030420220054",
+  "tx_nome_programa": "5020 - Desenvolvimento Científico, Tecnológico e Produtivo em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 346,
+  "tx_codigo_programa": "03655420220064",
+  "tx_nome_programa": "Execução do TR nº 9788554 -  Inovação em Ciências Humanas e Sociais para o Desenvolvimento Social",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 348,
+  "tx_codigo_programa": "03655420220065",
+  "tx_nome_programa": "Execução do TR nº 9717207 - Pesquisa e desenvolvimento em Computação Quântica",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 349,
+  "tx_codigo_programa": "03655420220066",
+  "tx_nome_programa": "Execução do TR nº 9717989 - EuTec ICT – Programa de Capacitação Profissional em Desenvolvimento Web",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 350,
+  "tx_codigo_programa": "03655420220067",
+  "tx_nome_programa": "Execução do TR nº 9859414 - CHAMADA PÚBLICA DESENVOLVIMENTO DE CT&I PARA O SETOR AERONÁUTICO",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 351,
+  "tx_codigo_programa": "03655420220068",
+  "tx_nome_programa": "Execução do TR nº 9817707 - PROGRAMA DE DISSEMINAÇÃO DO CONHECIMENTO TÉCNICO-CIENTÍFICO PARA AVANÇOS TECNOLÓGICOS E INOVAÇÕES NA INDÚSTRIA NAVAL E OCEÂNICA",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 352,
+  "tx_codigo_programa": "03655420220069",
+  "tx_nome_programa": "Execução do TR nº 9871113 - Chamada pública para apoio a projetos de P,D&I para a área de bioinsumos, nutrição de plantas e defensivos agrícolas sustentáveis.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 353,
+  "tx_codigo_programa": "03655420220070",
+  "tx_nome_programa": "Execução do TR nº 9786832 - Chamada Pública Desenvolvimento de CT&I para o Setor de Transporte",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 436,
+  "tx_codigo_programa": "26717520220029",
+  "tx_nome_programa": "Fomento a Serviços Tecnológicos e Gestão da Inovação",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 450,
+  "tx_codigo_programa": "26717520220032",
+  "tx_nome_programa": "Fomento aos Ambientes Inovadores e ao Empreendedorismo - VI",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 489,
+  "tx_codigo_programa": "03655420220077",
+  "tx_nome_programa": "Bolsas Projetos FNDCT/Finep  -  Pesquisa e Desenvolvimento para Produção do Fermento Terroir do Semiárido Brasileiro para Aplicação em Produtos Lácteos (Ref. Finep 1211/21) ",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 490,
+  "tx_codigo_programa": "03655420220078",
+  "tx_nome_programa": "Execução do TR nº 9946030 - Ampliação da Chamada CNPq 2021 para Bolsas Recém Doutor",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 491,
+  "tx_codigo_programa": "03655420220079",
+  "tx_nome_programa": "Execução do TR nº 10094541 - Apoio à Pesquisa Científica, Tecnológica e de Inovação, atividade de cooperação internacional (Suplementação Chamada CNPq Nº 26/2021)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 492,
+  "tx_codigo_programa": "03655420220080",
+  "tx_nome_programa": "Execução do TR nº 9983627 - Aditivo à 5ª Chamada Conjunta BRICS (Cooperação Internacional em Ciência, Tecnologia e Inovação: Fase 2022 – 2023)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 493,
+  "tx_codigo_programa": "03655420220081",
+  "tx_nome_programa": "Execução do TR nº 9980500 - Projeto de Cooperação Internacional para o Programa Ibero-Americano de Ciência e Tecnologia para o Desenvolvimento (CYTED)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 494,
+  "tx_codigo_programa": "03655420220082",
+  "tx_nome_programa": "Execução do TR nº 10120387 - Programa de Fomento Maker e Vocação Local MCTI",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 499,
+  "tx_codigo_programa": "30879420220023",
+  "tx_nome_programa": "Programa de Residência Profissional Agrícola - AgroResidência",
+  "unidade_descentralizadora": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+  "sigla_unidade_descentralizadora": "MDA"
+ },
+ {
+  "id_programa": 533,
+  "tx_codigo_programa": "03655420220087",
+  "tx_nome_programa": "Execução do TR nº 10182729 - Apoio a projetos de PD&I nas áreas de smart cities; bioeconomia; saúde; e mineração sustentável, no âmbito da cooperação em alta tecnologia industrial inovadora com a Suécia.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 545,
+  "tx_codigo_programa": "03655420220088",
+  "tx_nome_programa": "Execução do TR nº 9817315 - Aplicações de PD&I em prospecção e exploração de recursos minerais e de petróleo & gás natural (Ref. Finep nº 1437/22)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 576,
+  "tx_codigo_programa": "03655420220089",
+  "tx_nome_programa": "Execução do TR nº 10246570 - Projetos de pesquisa no âmbito da Organização do Tratado de Cooperação Amazônica",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 614,
+  "tx_codigo_programa": "26717520220038",
+  "tx_nome_programa": "Projeto Divulgação de Astronomia na Escola: Caça Asteroides como popularização da ciência no Brasil - MCTI/ Edição 2023",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 655,
+  "tx_codigo_programa": "11726720220001",
+  "tx_nome_programa": "Programa  de Iniciação Tecnológica da Ebserh (PIT)",
+  "unidade_descentralizadora": "Empresa Brasileira de Serviços Hospitalares",
+  "sigla_unidade_descentralizadora": "EBSERH"
+ },
+ {
+  "id_programa": 667,
+  "tx_codigo_programa": "26717520220041",
+  "tx_nome_programa": "Olimpíada Nacional em História do Brasil - ONHB",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 677,
+  "tx_codigo_programa": "26717520220043",
+  "tx_nome_programa": "Apoio ao projeto Oficina de Elaboração de Projetos para Editais de Popularização da Ciência",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 756,
+  "tx_codigo_programa": "03655420220091",
+  "tx_nome_programa": "Execução do TR nº 10552348 - Projetos de pesquisa para o desenvolvimento científico e tecnológico e inovação, em temas relacionados ao mercúrio",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 765,
+  "tx_codigo_programa": "26717520220050",
+  "tx_nome_programa": "Análise de efetividade da Chamada CNPq/MCTI/FNDCT n° 06/2022 – Feiras de Ciências e Mostras Científicas",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 768,
+  "tx_codigo_programa": "00026320220003",
+  "tx_nome_programa": "Auxílio-retorno a estudantes estrangeiros de programas oficias brasileiros",
+  "unidade_descentralizadora": "Ministério das Relações Exteriores",
+  "sigla_unidade_descentralizadora": "MRE"
+ },
+ {
+  "id_programa": 771,
+  "tx_codigo_programa": "26717520220052",
+  "tx_nome_programa": "Apoio à Chamada Pública FNDCT/CNPq/MCTI nº 41/2022  - Olimpíadas Científicas",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 772,
+  "tx_codigo_programa": "26717520220053",
+  "tx_nome_programa": "Apoio à Chamada CNPq/MCTI/FNDCT Nº 39/2022 - Programa de Apoio a Museus e Centros de Ciência e Tecnologia e a Espaços Científico-Culturais",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 799,
+  "tx_codigo_programa": "26717520220056",
+  "tx_nome_programa": "Programa Tecnologia Assistiva nas Escolas - TAE MCTI/CNPq",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 801,
+  "tx_codigo_programa": "09184220220001",
+  "tx_nome_programa": "Conservação e uso sustentável da biodiversidade",
+  "unidade_descentralizadora": "Instituto Chico Mendes de Conservação da Biodiversidade",
+  "sigla_unidade_descentralizadora": "ICMBio"
+ },
+ {
+  "id_programa": 816,
+  "tx_codigo_programa": "26717520220059",
+  "tx_nome_programa": "Projeto no Bosque da Ciência do INPA, como laboratório para fortalecer a educação básica em ciências na Amazônia.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 875,
+  "tx_codigo_programa": "26717520220065",
+  "tx_nome_programa": "Apoio a Projetos oriundos da CHAMADA CNPq/MCTI/FNDCT Nº 05/2022 SEMANA NACIONAL DE CIÊNCIA E TECNOLOGIA SNCT 2022",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 876,
+  "tx_codigo_programa": "26717520220066",
+  "tx_nome_programa": "Apoio a Projetos oriundos da Chamada CNPq/MCTI/FNDCT Nº 06/2022 FEIRAS DE CIÊNCIAS E MOSTRAS CIENTÍFICAS",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 917,
+  "tx_codigo_programa": "00001420220110",
+  "tx_nome_programa": "Fomento à inovação, ao desenvolvimento sustentável e irrigação",
+  "unidade_descentralizadora": "Ministério da Agricultura, Pecuária e Abastecimento",
+  "sigla_unidade_descentralizadora": "MAPA"
+ },
+ {
+  "id_programa": 952,
+  "tx_codigo_programa": "00001420220121",
+  "tx_nome_programa": "Fomento à inovação, ao desenvolvimento sustentável e irrigação",
+  "unidade_descentralizadora": "Ministério da Agricultura, Pecuária e Abastecimento",
+  "sigla_unidade_descentralizadora": "MAPA"
+ },
+ {
+  "id_programa": 960,
+  "tx_codigo_programa": "26717520220079",
+  "tx_nome_programa": "Implementação do projeto “Comunicação Estratégica como Elemento Transformador da Relação Ciência e Sociedade\", na forma de encomenda.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1014,
+  "tx_codigo_programa": "00030420230008",
+  "tx_nome_programa": "5023- Vigilância em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 1019,
+  "tx_codigo_programa": "04687620230002",
+  "tx_nome_programa": "Desenvolvimento de métodos e ferramentas para regulação e fiscalização de usos da água na agricultura irrigada",
+  "unidade_descentralizadora": "Agência Nacional de Águas e Saneamento Básico",
+  "sigla_unidade_descentralizadora": "ANA"
+ },
+ {
+  "id_programa": 1049,
+  "tx_codigo_programa": "26717520230006",
+  "tx_nome_programa": "Fomento à Pesquisa e ao Desenvolvimento Científico e Tecnológico",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1056,
+  "tx_codigo_programa": "26717520230007",
+  "tx_nome_programa": "Apoio à realização da 75ª Reunião Anual da SBPC- Sociedade Brasileira para o Progresso da Ciência do MCTI em parceria com o CNPq",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1063,
+  "tx_codigo_programa": "26717520230008",
+  "tx_nome_programa": "Apoio à Chamada Pública da 20ª Semana Nacional de Ciência e  Tecnologia - SNCT 2023.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1075,
+  "tx_codigo_programa": "26717520220080",
+  "tx_nome_programa": "Pesquisa, Desenvolvimento Científico e Tecnológico e Formação Científica",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1076,
+  "tx_codigo_programa": "26717520220081",
+  "tx_nome_programa": "Pesquisa, Desenvolvimento Científico e Tecnológico e Formação Científica",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1100,
+  "tx_codigo_programa": "26717520230010",
+  "tx_nome_programa": "Apoio à 26ª Olimpíada Brasileira de Astronomia e Astronáutica",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1118,
+  "tx_codigo_programa": "00030420230026",
+  "tx_nome_programa": "Desenvolvimento Científico e Tecnológico em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 1129,
+  "tx_codigo_programa": "26717520230012",
+  "tx_nome_programa": "Apoio à Olimpíada Brasileira de Química",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1137,
+  "tx_codigo_programa": "26717520230013",
+  "tx_nome_programa": "Fomento a Pesquisa e ao Desenvolvimento Científico e Tecnológico",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1149,
+  "tx_codigo_programa": "00001020230001",
+  "tx_nome_programa": "DESENVOLVIMENTO, EXECUÇÃO E APOIO ÀS OPERAÇÕES DE SATÉLITES PELO INPE",
+  "unidade_descentralizadora": "Instituto Nacional de Pesquisas Espaciais",
+  "sigla_unidade_descentralizadora": "INPE-MCT"
+ },
+ {
+  "id_programa": 1154,
+  "tx_codigo_programa": "30879520230005",
+  "tx_nome_programa": "1031.20Y2.0001 - REGISTRO, MONITORAMENTO E CERTIFICAÇÃO - NACIONAL",
+  "unidade_descentralizadora": "Ministério da Pesca e Aquicultura",
+  "sigla_unidade_descentralizadora": "MPA"
+ },
+ {
+  "id_programa": 1158,
+  "tx_codigo_programa": "30879720230006",
+  "tx_nome_programa": "Núcleos de extensão em esporte e atividade física.",
+  "unidade_descentralizadora": "Ministério do Esporte",
+  "sigla_unidade_descentralizadora": "MESP"
+ },
+ {
+  "id_programa": 1176,
+  "tx_codigo_programa": "26717520230016",
+  "tx_nome_programa": "Lançamento e operacionalização de Chamada Pública MCTI/CNPq de apoio financeiro a projetos de Feiras de Ciências e Mostras Científicas 2023, em todas as unidades da Federação",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1199,
+  "tx_codigo_programa": "26717520230019",
+  "tx_nome_programa": "Lançamento e operacionalização da Chamada Pública MCTI/CNPq de apoio financeiro a projetos de Olimpíadas Científicas 2023, em todas as unidades da Federação.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1227,
+  "tx_codigo_programa": "26717520230022",
+  "tx_nome_programa": "PARCERIAS NACIONAIS E INTERNACIONAIS EM INTELIGÊNCIA ARTIFICIAL-IA",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1228,
+  "tx_codigo_programa": "26717520230023",
+  "tx_nome_programa": "Apoio à projetos de Pesquisa, Desenvolvimento e Inovação (P,D&I) no âmbito Capacitação em Projeto de Sensores de Ambiente Espacial - CPSAE",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1384,
+  "tx_codigo_programa": "30879420230048",
+  "tx_nome_programa": "Extensão, Pesquisa e Inovação Para a Promoção, Fortalecimento e Ampliação da Agricultura Familiar Agroecológica e Produção de Alimentos Saudáveis e Recuperação de Biomas.",
+  "unidade_descentralizadora": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+  "sigla_unidade_descentralizadora": "MDA"
+ },
+ {
+  "id_programa": 1407,
+  "tx_codigo_programa": "30882320230014",
+  "tx_nome_programa": "Atlânticas: Programa Beatriz Nascimento de Mulheres na Ciência",
+  "unidade_descentralizadora": "Ministério da Igualdade Racial",
+  "sigla_unidade_descentralizadora": "MIR"
+ },
+ {
+  "id_programa": 1417,
+  "tx_codigo_programa": "26717520230033",
+  "tx_nome_programa": "Suplementação de Apoio à Projetos de Pesquisa, Desenvolvimento e Inovação (P,D&I) de empresas do Programa Centelha.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1432,
+  "tx_codigo_programa": "30882320230016",
+  "tx_nome_programa": " Bolsas para estudantes negras(os) de Graduação -  Programa Institucional de Iniciação Científica nas Ações Afirmativas (PIBIC-Af)",
+  "unidade_descentralizadora": "Ministério da Igualdade Racial",
+  "sigla_unidade_descentralizadora": "MIR"
+ },
+ {
+  "id_programa": 1445,
+  "tx_codigo_programa": "26717520230034",
+  "tx_nome_programa": "Apoio ao Projeto Mostra Itinerante de Astronomia de Taubaté",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1452,
+  "tx_codigo_programa": "30901820230002",
+  "tx_nome_programa": "Atlânticas Programa Beatriz Nascimento de Mulheres na Ciência",
+  "unidade_descentralizadora": "Secretaria Nacional de Articulação Institucional, Ações Temáticas e Participação Política",
+  "sigla_unidade_descentralizadora": "SENATP"
+ },
+ {
+  "id_programa": 1455,
+  "tx_codigo_programa": "26717520230036",
+  "tx_nome_programa": "Participação do Ministério da Ciência, Tecnologia e Inovação (MCTI) na 10ª edição do Congresso Internacional de Inovação da Indústria",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1527,
+  "tx_codigo_programa": "00001020230002",
+  "tx_nome_programa": "MONITORAMENTO E AVISOS DE MUDANÇAS DE COBERTURA DA TERRA NOS BIOMAS BRASILEIROS – CAPACITAÇÃO E SEMIAUTOMATIZAÇÃO DO PROGRAMA BIOMASBR.",
+  "unidade_descentralizadora": "Instituto Nacional de Pesquisas Espaciais",
+  "sigla_unidade_descentralizadora": "INPE-MCT"
+ },
+ {
+  "id_programa": 1550,
+  "tx_codigo_programa": "26717520230041",
+  "tx_nome_programa": "Apoio à realização da 33ª Conferência Anprotec de Empreendedorismo e Ambientes de Inovação",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1572,
+  "tx_codigo_programa": "23733920230005",
+  "tx_nome_programa": "Fomento de bolsas no exterior para mulheres indígenas",
+  "unidade_descentralizadora": "Diretoria de Orçamento, Finanças e Contabilidade",
+  "sigla_unidade_descentralizadora": "DFC"
+ },
+ {
+  "id_programa": 1589,
+  "tx_codigo_programa": "31299420230002",
+  "tx_nome_programa": "O FGTS e o FAT: trajetórias e perspectivas.",
+  "unidade_descentralizadora": "Secretaria de Proteção ao Trabalhador",
+  "sigla_unidade_descentralizadora": "SPT"
+ },
+ {
+  "id_programa": 1622,
+  "tx_codigo_programa": "30882320230020",
+  "tx_nome_programa": "Programa de Ações Afirmativas do Instituto Rio Branco",
+  "unidade_descentralizadora": "Ministério da Igualdade Racial",
+  "sigla_unidade_descentralizadora": "MIR"
+ },
+ {
+  "id_programa": 1669,
+  "tx_codigo_programa": "26717520230045",
+  "tx_nome_programa": "Apoio à realização da 45ª edição do Conselho Nacional de Associações de Pós-Graduandos – CONAP",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1678,
+  "tx_codigo_programa": "03655420230001",
+  "tx_nome_programa": "TR Nº 11492158 - PROGRAMA 1 - PRÓ-INFRA - APOIO A REPAROS EMERGENCIAIS DE EQUIPAMENTOS (ANEXO  Nº 11494018 )",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 1680,
+  "tx_codigo_programa": "30879520230034",
+  "tx_nome_programa": "Geração de dados e a avaliação de estoques dos principais recursos pesqueiros de importância comercial da costa brasileira.",
+  "unidade_descentralizadora": "Ministério da Pesca e Aquicultura",
+  "sigla_unidade_descentralizadora": "MPA"
+ },
+ {
+  "id_programa": 1793,
+  "tx_codigo_programa": "26717520230047",
+  "tx_nome_programa": "\"Iniciativas para a melhoria da educação básica de matemática no Estado de São Paulo, com ênfase na inclusão social e representatividade de gênero - Sociedade Brasileira de Matemática\".",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1796,
+  "tx_codigo_programa": "00022120230001",
+  "tx_nome_programa": "Programa Fundacentro de Bolsas de Pesquisa e de Difusão do Conhecimento em  segurança e saúde dos trabalhadores e trabalhadoras.",
+  "unidade_descentralizadora": "Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho",
+  "sigla_unidade_descentralizadora": "FUNDACENTRO"
+ },
+ {
+  "id_programa": 1913,
+  "tx_codigo_programa": "26717520230050",
+  "tx_nome_programa": " Centro Sino-Brasileiro de Inovação em Iluminação a Estado Sólido",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 1991,
+  "tx_codigo_programa": "00000320230001",
+  "tx_nome_programa": "Programa de Estudos, Seminários, Publicações e Material Multimídia a partir do Censo Demográfico de 2022, em diversas temáticas",
+  "unidade_descentralizadora": "Fundação Instituto Brasileiro de Geografia e Estatística",
+  "sigla_unidade_descentralizadora": "IBGE"
+ },
+ {
+  "id_programa": 2016,
+  "tx_codigo_programa": "11726720230001",
+  "tx_nome_programa": "Programa de Iniciação Científica da Ebserh (PIC) - 3° ciclo",
+  "unidade_descentralizadora": "Empresa Brasileira de Serviços Hospitalares",
+  "sigla_unidade_descentralizadora": "EBSERH"
+ },
+ {
+  "id_programa": 2020,
+  "tx_codigo_programa": "11726720230002",
+  "tx_nome_programa": "Programa de Iniciação Tecnológica da Ebserh (PIT) - 2° Ciclo",
+  "unidade_descentralizadora": "Empresa Brasileira de Serviços Hospitalares",
+  "sigla_unidade_descentralizadora": "EBSERH"
+ },
+ {
+  "id_programa": 2087,
+  "tx_codigo_programa": "26717520230060",
+  "tx_nome_programa": "Apoio aos grupos universitários brasileiros, que desenvolvem atividades de ensino, pesquisa, extensão e inovação relacionadas aos ‘dispositivos’ e aos ‘circuitos eletrônicos integrados’, através da facilitação do acesso às ferramentas de EDA",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2089,
+  "tx_codigo_programa": "00025020230001",
+  "tx_nome_programa": "Chamada Nº 34/2022 – Programa Institucional de Iniciação Científica nas Ações Afirmativas (PIBIC-Af)",
+  "unidade_descentralizadora": "Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+  "sigla_unidade_descentralizadora": "CAPES"
+ },
+ {
+  "id_programa": 2106,
+  "tx_codigo_programa": "00000320240001",
+  "tx_nome_programa": "Projetos de pesquisas envolvendo o Censo Demográfico de 2022",
+  "unidade_descentralizadora": "Fundação Instituto Brasileiro de Geografia e Estatística",
+  "sigla_unidade_descentralizadora": "IBGE"
+ },
+ {
+  "id_programa": 2335,
+  "tx_codigo_programa": "00030420240004",
+  "tx_nome_programa": "5123 - VIGILÂNCIA EM SAÚDE E AMBIENTE",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 2337,
+  "tx_codigo_programa": "00031520240001",
+  "tx_nome_programa": "Programa de Excelência em Pesquisa no Instituto Oswaldo Cruz /Fiocruz (PROEP-IOC)",
+  "unidade_descentralizadora": "Fundação Oswaldo Cruz",
+  "sigla_unidade_descentralizadora": "FIOCRUZ"
+ },
+ {
+  "id_programa": 2360,
+  "tx_codigo_programa": "26717520240004",
+  "tx_nome_programa": "Fomento à Pesquisa e ao Desenvolvimento Científico e Tecnológico",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2371,
+  "tx_codigo_programa": "26717520240007",
+  "tx_nome_programa": "Realização de Chamada Pública de Apoio à Eventos de Promoção do Empreendedorismo e da Inovação no Brasil",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2387,
+  "tx_codigo_programa": "26717520240009",
+  "tx_nome_programa": "Apoio à Chamada Pública da 21ª Semana Nacional de Ciência e  Tecnologia - SNCT 2024.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2388,
+  "tx_codigo_programa": "30882320240008",
+  "tx_nome_programa": "CNPq/MIR- Fomento à pesquisa com foco na igualdade racial",
+  "unidade_descentralizadora": "Ministério da Igualdade Racial",
+  "sigla_unidade_descentralizadora": "MIR"
+ },
+ {
+  "id_programa": 2389,
+  "tx_codigo_programa": "00178220240001",
+  "tx_nome_programa": "Bolsa de Vocação à Diplomacia - Programa Ações Afirmativas ",
+  "unidade_descentralizadora": "Fundação Cultural Palmares",
+  "sigla_unidade_descentralizadora": "FCP"
+ },
+ {
+  "id_programa": 2408,
+  "tx_codigo_programa": "30882320240011",
+  "tx_nome_programa": "Bolsas para estudantes negras(os) de Graduação -  Programa Institucional de Iniciação Científica nas Ações Afirmativas (PIBIC-Af) - CICLO 2024-2027",
+  "unidade_descentralizadora": "Ministério da Igualdade Racial",
+  "sigla_unidade_descentralizadora": "MIR"
+ },
+ {
+  "id_programa": 2461,
+  "tx_codigo_programa": "03655420240001",
+  "tx_nome_programa": "MAIS CIÊNCIA NA ESCOLA TR 11517823 - Programa 3 - Conecta & Capacita Brasil  Anexo 3 - 11928661",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2464,
+  "tx_codigo_programa": "00030420240020",
+  "tx_nome_programa": "5120: Pesquisa, Desenvolvimento, Inovação, Produção e Avaliação de Tecnologias em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 2481,
+  "tx_codigo_programa": "26717520240011",
+  "tx_nome_programa": "Emendas Tábata Amaral (41320007) / André Janones (39140006) / Dep. Vitor Lippi (37770013)/ / Sen. Marcos Pontes (42650011)",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2482,
+  "tx_codigo_programa": "26717520240012",
+  "tx_nome_programa": "Desenvolvimento de Atividades de Ensino, Pesquisa, Extensão e Inovação Relacionados aos Dispositivos e Circuitos Eletrônicos Integrados",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2513,
+  "tx_codigo_programa": "03655420240002",
+  "tx_nome_programa": "Anexo I - Programa de Repatriação de Talentos - Conhecimento Brasil - Programa de Atração e Fixação de Pesquisadores para Inovação e Desenvolvimento Científico.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2514,
+  "tx_codigo_programa": "03655420240003",
+  "tx_nome_programa": "Anexo II - Programa de Repatriação de Talentos - Conhecimento Brasil – Chamada para apoio a projetos em rede com pesquisadores brasileiros no exterior",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2517,
+  "tx_codigo_programa": "04303220240001",
+  "tx_nome_programa": "CNPq - Ramal do Salgado",
+  "unidade_descentralizadora": "Secretaria Nacional de Segurança Hídrica",
+  "sigla_unidade_descentralizadora": "SNSH-MIDR"
+ },
+ {
+  "id_programa": 2540,
+  "tx_codigo_programa": "03655420240004",
+  "tx_nome_programa": "Projeto Sistema de Pesquisas de Inovação e Temáticas/Estruturais do IBGE. Pesquisa de Inovação - PINTEC",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2553,
+  "tx_codigo_programa": "03655420240005",
+  "tx_nome_programa": "TR nº 8307055 - Biomas tropicais: Sistemática de Diagnóstico e Monitoramento visando o Desenvolvimento Sustentável e Gestão Estratégica do Território nacional",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2558,
+  "tx_codigo_programa": "03655420240006",
+  "tx_nome_programa": "Pesquisa e desenvolvimento em Computação Quântica",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2566,
+  "tx_codigo_programa": "26717520240015",
+  "tx_nome_programa": "Apoiar projetos de pesquisa, desenvolvimento e inovação que visem contribuir significativamente para o desenvolvimento científico e tecnológico e a inovação do País, no âmbito da cooperação CNPq/BRICS-STI",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2599,
+  "tx_codigo_programa": "26717520240018",
+  "tx_nome_programa": "Apoio à 27ª Olimpíada Brasileira de Astronomia e Astronáutica - OBA",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2620,
+  "tx_codigo_programa": "30882320230027",
+  "tx_nome_programa": "Programa de Ações Afirmativas do Instituto Rio Branco",
+  "unidade_descentralizadora": "Ministério da Igualdade Racial",
+  "sigla_unidade_descentralizadora": "MIR"
+ },
+ {
+  "id_programa": 2636,
+  "tx_codigo_programa": "26717520240023",
+  "tx_nome_programa": "Emenda Individual nº 44470019/2024 do Deputado Federal Pedro Campos​",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2638,
+  "tx_codigo_programa": "00030420240030",
+  "tx_nome_programa": "5120 - Pesquisa, Desenvolvimento, Inovação, Produção e Avaliação de Tecnologias em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 2651,
+  "tx_codigo_programa": "03655420240007",
+  "tx_nome_programa": "Fomento a projetos de pesquisa e desenvolvimento tecnológico em rede, incluindo projetos de inovação social, visando apoiar ou criar centros avançados em áreas estratégicas par a o desenvolvimento sustentável da região amazônica.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2687,
+  "tx_codigo_programa": "00031520240002",
+  "tx_nome_programa": "Programa de Excelência em Pesquisa do Instituto Gonçalo Moniz (IGM), Fiocruz, Bahia.",
+  "unidade_descentralizadora": "Fundação Oswaldo Cruz",
+  "sigla_unidade_descentralizadora": "FIOCRUZ"
+ },
+ {
+  "id_programa": 2713,
+  "tx_codigo_programa": "26717520240028",
+  "tx_nome_programa": "Chamada Pública do Programa RHAE Pesquisador na Empresa.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2734,
+  "tx_codigo_programa": "31299420240001",
+  "tx_nome_programa": "O FGTS e o FAT: trajetórias e perspectivas.",
+  "unidade_descentralizadora": "Secretaria de Proteção ao Trabalhador",
+  "sigla_unidade_descentralizadora": "SPT"
+ },
+ {
+  "id_programa": 2757,
+  "tx_codigo_programa": "03655420240010",
+  "tx_nome_programa": "Suplementação - PD&I para o desenvolvimento integral das Cadeias Produtivas de Minerais Estratégicos",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2811,
+  "tx_codigo_programa": "26717520240030",
+  "tx_nome_programa": "Formulação, Gestão e Manutenção de Políticas e do Sistema Nacional de Ciência, Tecnologia e Inovações",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2827,
+  "tx_codigo_programa": "00031520240003",
+  "tx_nome_programa": "PROGRAMA DE EXCELÊNCIA EM PESQUISA NO INSTITUTO DE TECNOLOGIA EM FÁRMACOS / FIOCRUZ ( PROEP/CNPq-FAR/FIOCRUZ)",
+  "unidade_descentralizadora": "Fundação Oswaldo Cruz",
+  "sigla_unidade_descentralizadora": "FIOCRUZ"
+ },
+ {
+  "id_programa": 2845,
+  "tx_codigo_programa": "04687620240004",
+  "tx_nome_programa": "TED ANA-CNPQ - Bolsas ",
+  "unidade_descentralizadora": "Agência Nacional de Águas e Saneamento Básico",
+  "sigla_unidade_descentralizadora": "ANA"
+ },
+ {
+  "id_programa": 2866,
+  "tx_codigo_programa": "03655420240013",
+  "tx_nome_programa": "Programa Ins􀆟tutos Nacionais de Ciência e Tecnologia – INCT – Chamada 2024",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2927,
+  "tx_codigo_programa": "26717520240043",
+  "tx_nome_programa": "Viabilizar a participação de especialistas no processo de análise e avaliação das políticas relacionadas aos incentivos fiscais de apoio à pesquisa, desenvolvimento e inovação nas empresas e aos instrumentos de fomento à pesquisa científica e tecnológica ",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2939,
+  "tx_codigo_programa": "03655420240016",
+  "tx_nome_programa": "Política com Ciência: redes e infraestrutura de pesquisa para o apoio a políticas públicas - Monitoramento do Esporte Brasileiro: Informações e Indicadores.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2941,
+  "tx_codigo_programa": "03655420240017",
+  "tx_nome_programa": "Política com Ciência: redes e infraestrutura de pesquisa para o apoio a políticas públicas - Rede de Pesquisa para Promoção da Segurança Jurídica em Políticas Públicas.",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2943,
+  "tx_codigo_programa": "03655420240018",
+  "tx_nome_programa": "Política com Ciência: redes e infraestrutura de pesquisa para o apoio a políticas públicas. - Projeto: Rede de Pesquisa “Combustível do Futuro (SAF)”",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2944,
+  "tx_codigo_programa": "26717520240049",
+  "tx_nome_programa": "Apoio ao Projeto \"Olimpíadas de Química como Meio de Popularização da Ciência\"",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 2969,
+  "tx_codigo_programa": "03655420240021",
+  "tx_nome_programa": " Ações Sistêmicas – CENTELHA III e Parques Tecnológicos -  Anexo 11 - SEI/MCTI nº 12020349",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 2976,
+  "tx_codigo_programa": "00001020240001",
+  "tx_nome_programa": "DESENVOLVIMENTO DE INSTRUMENTAÇÃO CIENTÍFICA CRÍTICA/INOVADORA PARA PESQUISA EM ASTROFÍSICA, HELIOFÍSICA, CIÊNCIAS PLANETÁRIAS, AERONOMIA E CLIMA ESPACIAL.",
+  "unidade_descentralizadora": "Instituto Nacional de Pesquisas Espaciais",
+  "sigla_unidade_descentralizadora": "INPE-MCT"
+ },
+ {
+  "id_programa": 2977,
+  "tx_codigo_programa": "00001020240002",
+  "tx_nome_programa": "APOIO AO DESENVOLVIMENTO DE PROJETOS PARA MISSÕES ESPACIAIS UTILIZANDO PLATAFORMAS MULTIMISSÃO, SUAS CARGAS ÚTEIS E TECNOLOGIAS CORRELATAS DESENVOLVIDAS PELO INPE.",
+  "unidade_descentralizadora": "Instituto Nacional de Pesquisas Espaciais",
+  "sigla_unidade_descentralizadora": "INPE-MCT"
+ },
+ {
+  "id_programa": 3017,
+  "tx_codigo_programa": "02475520240003",
+  "tx_nome_programa": "Apoio à implementação do Programa de Iniciação Cientifica do Museu de Astronomia e Ciências Afins – IC / MAST",
+  "unidade_descentralizadora": "Museu de Astronomia e Ciências Afins",
+  "sigla_unidade_descentralizadora": "MAST"
+ },
+ {
+  "id_programa": 3046,
+  "tx_codigo_programa": "30879420240043",
+  "tx_nome_programa": "Fortalecimento e a criação de Núcleos de Estudos em Agroecologia e Produção Orgânica (NEAs) e de Centros Vocacionais de Tecnologia Aplicada em Agroecologia e Produção Orgânica (CVTs)",
+  "unidade_descentralizadora": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+  "sigla_unidade_descentralizadora": "MDA"
+ },
+ {
+  "id_programa": 3076,
+  "tx_codigo_programa": "30879620240029",
+  "tx_nome_programa": "Segurança Alimentar e Nutricional e Combate à Fome",
+  "unidade_descentralizadora": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+  "sigla_unidade_descentralizadora": "MDS"
+ },
+ {
+  "id_programa": 3111,
+  "tx_codigo_programa": "00002620240005",
+  "tx_nome_programa": "Promover a participação social nas políticas públicas pelos colegiados, conselhos e conferências",
+  "unidade_descentralizadora": "Presidência da República",
+  "sigla_unidade_descentralizadora": "PR"
+ },
+ {
+  "id_programa": 3114,
+  "tx_codigo_programa": "30879520240025",
+  "tx_nome_programa": "5801- Pesca e Aquicultura Sustentáveis ",
+  "unidade_descentralizadora": "Ministério da Pesca e Aquicultura",
+  "sigla_unidade_descentralizadora": "MPA"
+ },
+ {
+  "id_programa": 3194,
+  "tx_codigo_programa": "26717520240060",
+  "tx_nome_programa": "Fomento à Pesquisa e ao Desenvolvimento Científico e Tecnológico",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3207,
+  "tx_codigo_programa": "00030420240117",
+  "tx_nome_programa": " SEGURANÇA ALIMENTAR E NUTRICIONAL E COMBATE À FOME - PROGRAMA - SERVIÇO",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 3301,
+  "tx_codigo_programa": "23733920240028",
+  "tx_nome_programa": "Papel das empresas estatais federais no contexto brasileiro, em termos sociais, econômicos e jurídicos.",
+  "unidade_descentralizadora": "Diretoria de Orçamento, Finanças e Contabilidade",
+  "sigla_unidade_descentralizadora": "DFC"
+ },
+ {
+  "id_programa": 3315,
+  "tx_codigo_programa": "04738820240001",
+  "tx_nome_programa": "Concessão de recursos de subvenção econômica para pesquisa, desenvolvimento tecnológico e inovação",
+  "unidade_descentralizadora": "Instituto Nacional de Tecnologia da Informação",
+  "sigla_unidade_descentralizadora": "ITI"
+ },
+ {
+  "id_programa": 3335,
+  "tx_codigo_programa": "00001020240004",
+  "tx_nome_programa": "DESENVOLVIMENTO DE ESTUDOS, PROTOCOLOS, PLANOS PARA O INCREMENTO DO PROGRAMA MONITORAEA",
+  "unidade_descentralizadora": "Instituto Nacional de Pesquisas Espaciais",
+  "sigla_unidade_descentralizadora": "INPE-MCT"
+ },
+ {
+  "id_programa": 3378,
+  "tx_codigo_programa": "03655420240024",
+  "tx_nome_programa": "Projetos de cooperação internacional de pesquisa entre o Brasil e países Pan-amazônicos",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 3387,
+  "tx_codigo_programa": "26717520240062",
+  "tx_nome_programa": "FORTEC BRICS",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3413,
+  "tx_codigo_programa": "00031520240004",
+  "tx_nome_programa": "PROEP INTER COC",
+  "unidade_descentralizadora": "Fundação Oswaldo Cruz",
+  "sigla_unidade_descentralizadora": "FIOCRUZ"
+ },
+ {
+  "id_programa": 3425,
+  "tx_codigo_programa": "11726720240005",
+  "tx_nome_programa": "Programa de Iniciação científica e tecnológica rede EBSERH",
+  "unidade_descentralizadora": "Empresa Brasileira de Serviços Hospitalares",
+  "sigla_unidade_descentralizadora": "EBSERH"
+ },
+ {
+  "id_programa": 3485,
+  "tx_codigo_programa": "00192720240029",
+  "tx_nome_programa": "Escolas sustentáveis e resilientes no enfrentamento às emergências climáticas.",
+  "unidade_descentralizadora": "Ministério do Meio Ambiente",
+  "sigla_unidade_descentralizadora": "MMA"
+ },
+ {
+  "id_programa": 3588,
+  "tx_codigo_programa": "23733920240051",
+  "tx_nome_programa": "Fortalecimento e a criação de Núcleos de Estudos em Agroecologia e Produção Orgânica (NEAs) e de Centros Vocacionais de Tecnologia Aplicada em Agroecologia e Produção Orgânica (CVTs),",
+  "unidade_descentralizadora": "Diretoria de Orçamento, Finanças e Contabilidade",
+  "sigla_unidade_descentralizadora": "DFC"
+ },
+ {
+  "id_programa": 3610,
+  "tx_codigo_programa": "03655420250002",
+  "tx_nome_programa": "Suplementação da Chamada CNPq/MCTI/FNDCT Nº 24/2022 - Apoio ao Sistema Brasileiro de Laboratórios de Hidrogênio - SisH2-MCTI",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 3611,
+  "tx_codigo_programa": "03655420250003",
+  "tx_nome_programa": "Pesquisa para desenvolvimento da Incubadora e Aceleradora de Mídias Negras, Periféricas e Independentes",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 3645,
+  "tx_codigo_programa": "00030420250008",
+  "tx_nome_programa": "5123 - VIGILÂNCIA EM SAÚDE E AMBIENTE",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 3682,
+  "tx_codigo_programa": "00031520250001",
+  "tx_nome_programa": "Programa Institucional de Bolsas de Pós-graduação Stricto sensu, em nível de Mestrado e Doutorado acadêmicos",
+  "unidade_descentralizadora": "Fundação Oswaldo Cruz",
+  "sigla_unidade_descentralizadora": "FIOCRUZ"
+ },
+ {
+  "id_programa": 3686,
+  "tx_codigo_programa": "03655420250005",
+  "tx_nome_programa": "Apoio Emergencial para Reestruturação do Instituto de Física da Universidade de Brasília (IF/UnB)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 3687,
+  "tx_codigo_programa": "03655420250006",
+  "tx_nome_programa": "Viabilidade técnica do aumento da mistura de etanol e gasolina para o programa Combustível do Futuro",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 3691,
+  "tx_codigo_programa": "00030420250017",
+  "tx_nome_programa": "5120: Pesquisa, Desenvolvimento, Inovação, Produção e Avaliação de Tecnologias em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 3695,
+  "tx_codigo_programa": "30879620250011",
+  "tx_nome_programa": "Segurança Alimentar e Nutricional e Combate à Fome",
+  "unidade_descentralizadora": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+  "sigla_unidade_descentralizadora": "MDS"
+ },
+ {
+  "id_programa": 3702,
+  "tx_codigo_programa": "11624920250001",
+  "tx_nome_programa": "PESQUISA APLICADA E ATIVIDADES INTEGRADAS DE PESQUISA-OPERACAO E DE DESENVOLVIMENTO TECNOLÓGICO DO CEMADEN",
+  "unidade_descentralizadora": "Centro Nacional de Monitoramento e Alertas de Desastres Naturais",
+  "sigla_unidade_descentralizadora": "Cemaden"
+ },
+ {
+  "id_programa": 3711,
+  "tx_codigo_programa": "00030420250019",
+  "tx_nome_programa": "5120: Pesquisa, Desenvolvimento, Inovação, Produção e Avaliação de Tecnologias em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 3728,
+  "tx_codigo_programa": "03655420250007",
+  "tx_nome_programa": "Rede de Pesquisa e Extensão em Participação Social (SG/PR)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 3753,
+  "tx_codigo_programa": "21992420250001",
+  "tx_nome_programa": "Extensão em Participação Social nos Territórios",
+  "unidade_descentralizadora": "Secretaria-Geral da Presidência da República",
+  "sigla_unidade_descentralizadora": "SG"
+ },
+ {
+  "id_programa": 3767,
+  "tx_codigo_programa": "26717520250003",
+  "tx_nome_programa": "Apoio à 1ª Chamada para projetos no âmbito da Cooperação Científica e Tecnológica Brasil-Áustria.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3770,
+  "tx_codigo_programa": "26717520250005",
+  "tx_nome_programa": "Emenda Parlamentar -  Deputada Tabata Amaral 41320007/2025 - OBQ.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3772,
+  "tx_codigo_programa": "26717520250006",
+  "tx_nome_programa": "Emenda Parlamentar - Vitor Lippi 37770004 e Tabata 41320007 -  OLIMPÍADA BRASILEIRA DE ASTRONOMIA E ASTRONÁUTICA - OBA.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3812,
+  "tx_codigo_programa": "26717520250009",
+  "tx_nome_programa": "Organização e realização da 77ª Reunião Anual da SBPC- Sociedade Brasileira para o Progresso da Ciência.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3845,
+  "tx_codigo_programa": "26717520250018",
+  "tx_nome_programa": "Emendas Jorge Seif (42730009) e Ivete da Silveira (42510015)",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3877,
+  "tx_codigo_programa": "26717520250020",
+  "tx_nome_programa": "Apoio à Chamada CNPq/FNDCT/MCTI/MEC/CAPES nº 38/2024 Pop Ciência - Olimpíadas Científicas.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3886,
+  "tx_codigo_programa": "00030420250029",
+  "tx_nome_programa": "Pesquisa, Desenvolvimento, Inovação, Produção e Avaliação de Tecnologias em Saúde",
+  "unidade_descentralizadora": "Ministério da Saúde",
+  "sigla_unidade_descentralizadora": "MS"
+ },
+ {
+  "id_programa": 3903,
+  "tx_codigo_programa": "26717520250021",
+  "tx_nome_programa": "Apoio à Chamada CNPq/FNDCT/MCTI/MEC/CAPES Nº 37/2024 - Feiras de Ciências e Mostras Científicas.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 3988,
+  "tx_codigo_programa": "00192720250007",
+  "tx_nome_programa": "VIII Congresso Internacional de Educação Ambiental dos Países e Comunidades de Língua Portuguesa",
+  "unidade_descentralizadora": "Ministério do Meio Ambiente",
+  "sigla_unidade_descentralizadora": "MMA"
+ },
+ {
+  "id_programa": 3998,
+  "tx_codigo_programa": "00192720250008",
+  "tx_nome_programa": "Apoio ao edital de chamamento SinBiose, para projetos de pesquisa em biodiversidade e clima. SEI nº 02000.005326/2025-15. ",
+  "unidade_descentralizadora": "Ministério do Meio Ambiente",
+  "sigla_unidade_descentralizadora": "MMA"
+ },
+ {
+  "id_programa": 4007,
+  "tx_codigo_programa": "00031520250002",
+  "tx_nome_programa": "Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação.",
+  "unidade_descentralizadora": "Fundação Oswaldo Cruz",
+  "sigla_unidade_descentralizadora": "FIOCRUZ"
+ },
+ {
+  "id_programa": 4078,
+  "tx_codigo_programa": "26717520250028",
+  "tx_nome_programa": "Apoio à Chamada Pop Ciência CNPq/MCTI Nº 01/2025 - 22ª Semana Nacional de Ciência e Tecnologia (SNCT 2025)",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 4155,
+  "tx_codigo_programa": "26717520250034",
+  "tx_nome_programa": "Apoio ao 8º Prêmio BRICS Jovem Inovador - Edição 2025.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 4161,
+  "tx_codigo_programa": "03655420250012",
+  "tx_nome_programa": "Programa Institutos Nacionais de Ciência e Tecnologia – INCT – Chamada 2024 – Pesquisa  em Inteligência Artificial",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 4165,
+  "tx_codigo_programa": "03655420250013",
+  "tx_nome_programa": "Chamada RHAE IA CNPq",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 4166,
+  "tx_codigo_programa": "03655420250014",
+  "tx_nome_programa": " MAIS CIÊNCIA NA ESCOLA – LABORATÓRIOS MAKER DE LETRAMENTO DIGITAL - SUPLEMENTAÇÃO",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 4171,
+  "tx_codigo_programa": "30879920250011",
+  "tx_nome_programa": "Execução do projeto de pesquisa científica e tecnológica intitulado ‘Identificação de Nascentes, Avaliação da Susceptibilidade à Inundação e Levantamento de Tecnologias Apropriadas para a Região Semiárida’, ",
+  "unidade_descentralizadora": "Ministério da Integração e do Desenvolvimento Regional",
+  "sigla_unidade_descentralizadora": "MIDR"
+ },
+ {
+  "id_programa": 4174,
+  "tx_codigo_programa": "26717520250037",
+  "tx_nome_programa": "Fomento à Pesquisa e ao Desenvolvimento Científico e Tecnológico",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 4190,
+  "tx_codigo_programa": "04738820250001",
+  "tx_nome_programa": "Concessão de bolsas para iniciativas de Pesquisa, Desenvolvimento e Inovação (PD&I)",
+  "unidade_descentralizadora": "Instituto Nacional de Tecnologia da Informação",
+  "sigla_unidade_descentralizadora": "ITI"
+ },
+ {
+  "id_programa": 4378,
+  "tx_codigo_programa": "00001020250001",
+  "tx_nome_programa": "Concessão de Bolsas a Estudantes e Pesquisadores Visando Apoio Técnico aos Projetos de Pesquisa, Desenvolvimento Tecnológico e Inovação na Coordenação Espacial do Nordeste – COENE do INPE relacionados ao projeto GOLDS",
+  "unidade_descentralizadora": "Instituto Nacional de Pesquisas Espaciais",
+  "sigla_unidade_descentralizadora": "INPE-MCT"
+ },
+ {
+  "id_programa": 4432,
+  "tx_codigo_programa": "30879520250008",
+  "tx_nome_programa": "Jovem Cientista da Pesca Artesanal",
+  "unidade_descentralizadora": "Ministério da Pesca e Aquicultura",
+  "sigla_unidade_descentralizadora": "MPA"
+ },
+ {
+  "id_programa": 4445,
+  "tx_codigo_programa": "30882320250028",
+  "tx_nome_programa": "Programa de Ações Afirmativas do Instituto Rio Branco",
+  "unidade_descentralizadora": "Ministério da Igualdade Racial",
+  "sigla_unidade_descentralizadora": "MIR"
+ },
+ {
+  "id_programa": 4446,
+  "tx_codigo_programa": "00001020250002",
+  "tx_nome_programa": "GeoTec: Inovação em produtos de dados geoespaciais e em metodologias e tecnologias para apoio ao monitoramento ambiental.",
+  "unidade_descentralizadora": "Instituto Nacional de Pesquisas Espaciais",
+  "sigla_unidade_descentralizadora": "INPE-MCT"
+ },
+ {
+  "id_programa": 4497,
+  "tx_codigo_programa": "00001020250003",
+  "tx_nome_programa": "Capacitação e agregação de recursos humanos para atender a demandas de rastreio, controle e recepção de dados de pequenos satélites científicos/tecnológicos/educacionais que operam em órbita baixa por meio do uso de Estações MultiMissão Autônomas (EMMA).",
+  "unidade_descentralizadora": "Instituto Nacional de Pesquisas Espaciais",
+  "sigla_unidade_descentralizadora": "INPE-MCT"
+ },
+ {
+  "id_programa": 4549,
+  "tx_codigo_programa": "03655420250018",
+  "tx_nome_programa": "RENAMA - PD&I para Transição de Modelos Animais de Experimentação para Novas Metodologias de Abordagem (NAMS) e Atendimento aos Normativos  do CONCEA e ANVISA",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 4676,
+  "tx_codigo_programa": "26717520250052",
+  "tx_nome_programa": "Suplementação no âmbito da Chamada Pública CNPq/MCTI/FNDCT Conecta e Capacita N° 13/2024 - Programa Mais Ciência Na Escola",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 4677,
+  "tx_codigo_programa": "26717520250053",
+  "tx_nome_programa": " Suplementação do processo nº 442011/2024-5, aprovado no âmbito da Chamada Pública CNPq/MCTI/FNDCT Conecta e Capacita N° 13/2024 - Programa Mais Ciência Na Escola ",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 4733,
+  "tx_codigo_programa": "33068320250005",
+  "tx_nome_programa": "Programa de Iniciação ao Empreendedorismo - PIEMP Nacional (chamada pública, contratação de projetos, pagamento de bolsas e acompanhamento e avaliação).",
+  "unidade_descentralizadora": "Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte",
+  "sigla_unidade_descentralizadora": "MEMP"
+ },
+ {
+  "id_programa": 4769,
+  "tx_codigo_programa": "00352020250014",
+  "tx_nome_programa": "Apoio ao Desenvolvimento e Controle da Agricultura Orgânica - Pró-Orgânico - Fortalecer os Núcleos de Estudos em Agroecologia e Produção Orgânica (NEAs)",
+  "unidade_descentralizadora": "Secretaria de Inovação, Desenvolvimento Sustentável, Irrigação e Cooperativismo",
+  "sigla_unidade_descentralizadora": "SDI"
+ },
+ {
+  "id_programa": 4771,
+  "tx_codigo_programa": "30882120250036",
+  "tx_nome_programa": "Programa de Incubadoras Brasil Criativo- EscultAqui",
+  "unidade_descentralizadora": "Ministério da Cultura",
+  "sigla_unidade_descentralizadora": "MinC"
+ },
+ {
+  "id_programa": 4775,
+  "tx_codigo_programa": "26717520250060",
+  "tx_nome_programa": "Realização de atividades de pesquisa e ensino na área de Micro e Nanoeletrônica complementares ao INCT NAMITEC",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 4799,
+  "tx_codigo_programa": "03655420250021",
+  "tx_nome_programa": "Fixação de Jovens Doutores no Brasil (PROFIX-CB)",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 4808,
+  "tx_codigo_programa": "03655420250022",
+  "tx_nome_programa": "Projetos de Cooperação Internacional em Ciência, Tecnologia e Inovação no âmbito do agrupamento BRICS",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 4850,
+  "tx_codigo_programa": "26717520250061",
+  "tx_nome_programa": "Garantir a participação de cientistas brasileiros nas pesquisas sobre raios cósmicos, utilizando-se das facilities do Observatório Pierre Auger, dando continuidade à cooperação.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 4946,
+  "tx_codigo_programa": "03655420250024",
+  "tx_nome_programa": "CONHECIMENTO BRASIL - Suplementação de Recursos",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 4960,
+  "tx_codigo_programa": "26717520250066",
+  "tx_nome_programa": "Encontro nacional de alunos participantes no Programa de Iniciação Científica Jr da OBMEP (PIC)",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 4982,
+  "tx_codigo_programa": "11726720250006",
+  "tx_nome_programa": "Programa de Iniciação Científica e Tecnológica da Rede Ebserh",
+  "unidade_descentralizadora": "Empresa Brasileira de Serviços Hospitalares",
+  "sigla_unidade_descentralizadora": "EBSERH"
+ },
+ {
+  "id_programa": 5009,
+  "tx_codigo_programa": "00211420250017",
+  "tx_nome_programa": "CONAB / CNPq - INTERFACES NA FORMAÇÃO EM EDUCAÇÃO DO CAMPO, AGROECOLOGIA E ECONOMIA SOLIDÁRIA NA BAHIA",
+  "unidade_descentralizadora": "Companhia Nacional de Abastecimento",
+  "sigla_unidade_descentralizadora": "CONAB"
+ },
+ {
+  "id_programa": 5034,
+  "tx_codigo_programa": "03655420250025",
+  "tx_nome_programa": "Chamada Programa PEPE MUJICA",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 5093,
+  "tx_codigo_programa": "26717520260001",
+  "tx_nome_programa": "Emenda Parlamentar nº 17750021/2026 da Deputada Jandira Feghali",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5129,
+  "tx_codigo_programa": "26717520260006",
+  "tx_nome_programa": "Emenda Parlamentar nº 25530019​/2026 - Deputado Rodrigo Rollemberg - CNPq/SBPC",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5167,
+  "tx_codigo_programa": "26717520260015",
+  "tx_nome_programa": "Programa Mais Ciência na Escola - implementação, acompanhamento e monitoramento",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5216,
+  "tx_codigo_programa": "30889020260001",
+  "tx_nome_programa": "II Prêmio de Incentivo à Pesquisa em Direitos Humanos - Prêmio Pesquisa-DH",
+  "unidade_descentralizadora": "Secretaria-Executiva",
+  "sigla_unidade_descentralizadora": "SE"
+ },
+ {
+  "id_programa": 5256,
+  "tx_codigo_programa": "00031520260001",
+  "tx_nome_programa": "Programa Institucional de Bolsa de Iniciação  Científica ( PIBIC) e Programa Institucional de Bolsa em Desenvolvimento Tecnológico e Inovação (PIBITI).",
+  "unidade_descentralizadora": "Fundação Oswaldo Cruz",
+  "sigla_unidade_descentralizadora": "FIOCRUZ"
+ },
+ {
+  "id_programa": 5264,
+  "tx_codigo_programa": "26717520260024",
+  "tx_nome_programa": "CHAMADA PÚBLICA - PLANOS DE AÇÃO BIENAIS PARA ECOSSISTEMAS DE FEIRAS E MOSTRAS CIENTÍFICAS",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5352,
+  "tx_codigo_programa": "03655420260004",
+  "tx_nome_programa": "PROGRAMA DE APOIO À POPULARIZAÇÃO DA CIÊNCIA NOS ESTADOS E NO DISTRITO FEDERAL",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 5356,
+  "tx_codigo_programa": "03655420260005",
+  "tx_nome_programa": " Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia (PROAFRICA) ",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 5364,
+  "tx_codigo_programa": "26717520260031",
+  "tx_nome_programa": "Suplementação FEBRACE",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5420,
+  "tx_codigo_programa": "26717520260033",
+  "tx_nome_programa": "Apoio à Chamada Pop Ciência/2026 - 23ª Semana Nacional de Ciência e Tecnologia (SNCT 2026).",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5512,
+  "tx_codigo_programa": "26717520260036",
+  "tx_nome_programa": "Organização e realização da 78ª Reunião Anual da SBPC- Sociedade Brasileira para o Progresso da Ciência.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5513,
+  "tx_codigo_programa": "30902120260003",
+  "tx_nome_programa": "Autonomia Econômica das Mulheres",
+  "unidade_descentralizadora": "Secretaria Nacional de Autonomia Econômica",
+  "sigla_unidade_descentralizadora": "SENAEC"
+ },
+ {
+  "id_programa": 5524,
+  "tx_codigo_programa": "30882120260019",
+  "tx_nome_programa": "Fomento à pesquisa em Economia Criativa no Brasil",
+  "unidade_descentralizadora": "Ministério da Cultura",
+  "sigla_unidade_descentralizadora": "MinC"
+ },
+ {
+  "id_programa": 5525,
+  "tx_codigo_programa": "30882320260021",
+  "tx_nome_programa": "2ª edição da Chamada Atlânticas – Programa Beatriz Nascimento de Mulheres na Ciência.",
+  "unidade_descentralizadora": "Ministério da Igualdade Racial",
+  "sigla_unidade_descentralizadora": "MIR"
+ },
+ {
+  "id_programa": 5600,
+  "tx_codigo_programa": "03655420260006",
+  "tx_nome_programa": "Apoio a Pesquisa, Desenvolvimento e Inovação em Biotecnologia",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 5604,
+  "tx_codigo_programa": "03655420260007",
+  "tx_nome_programa": "MJSP - Combate a Fraudes no Setor de Combustíveis ",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 5606,
+  "tx_codigo_programa": "26717520260041",
+  "tx_nome_programa": "Viabilizar, por meio da cooperação entre as instituições partícipes, a execução, pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, de ações de apoio à participação brasileira no programa Academia-Industry Training (AIT).",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5609,
+  "tx_codigo_programa": "03655420260010",
+  "tx_nome_programa": "Apoio a Projetos Estruturantes de P,D&I em Endometriose e Saúde Menstrual",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 5634,
+  "tx_codigo_programa": "30901820260002",
+  "tx_nome_programa": "2ª edição da \"Chamada Atlânticas - Beatriz Nascimento de Mulheres na Ciência",
+  "unidade_descentralizadora": "Secretaria Nacional de Articulação Institucional, Ações Temáticas e Participação Política",
+  "sigla_unidade_descentralizadora": "SENATP"
+ },
+ {
+  "id_programa": 5670,
+  "tx_codigo_programa": "26717520260046",
+  "tx_nome_programa": "Fomento à Pesquisa e ao Desenvolvimento Científico e Tecnológico",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5698,
+  "tx_codigo_programa": "26717520260047",
+  "tx_nome_programa": "Apoio à realização de Olimpíadas Científicas Nacionais.",
+  "unidade_descentralizadora": "Ministério da Ciência, Tecnologia e Inovações",
+  "sigla_unidade_descentralizadora": "MCTI"
+ },
+ {
+  "id_programa": 5758,
+  "tx_codigo_programa": "03655420260014",
+  "tx_nome_programa": "MIR - Rede de Pesquisa em Igualdade Racial",
+  "unidade_descentralizadora": "Fundo Nacional de Desenvolvimento Científico e Tecnológico",
+  "sigla_unidade_descentralizadora": "FNDCT"
+ },
+ {
+  "id_programa": 5804,
+  "tx_codigo_programa": "04303220260003",
+  "tx_nome_programa": " Arqueologia e Educação Patrimonial - CNPq",
+  "unidade_descentralizadora": "Secretaria Nacional de Segurança Hídrica",
+  "sigla_unidade_descentralizadora": "SNSH-MIDR"
+ }
+]
