@@ -1,0 +1,29 @@
+name: Coleta TED (API TransfereGov)
+
+on:
+  schedule:
+    # 08:30 UTC = 05:30 em Brasília, antes do fluxo do SISTAC (06:00)
+    - cron: '30 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  coleta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Coleta
+        run: python3 scripts/coleta_ted.py
+      - name: Commit se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados
+          if git diff --cached --quiet; then
+            echo "Sem mudanças."
+          else
+            git commit -m "dados: coleta $(date -u +%Y-%m-%d)"
+            git push
+          fi
