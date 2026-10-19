@@ -6,6 +6,7 @@ planos de ação por sigla_unidade_descentralizada=CNPq no servidor e busca os
 programas e termos de execução correspondentes. Só dados públicos da API.
 """
 
+import hashlib
 import json
 import os
 import sys
@@ -73,6 +74,54 @@ def main():
     print('planos:', grava('plano_acao.json', planos, 'id_plano_acao'))
     print('programas:', grava('programa.json', programas, 'id_programa'))
     print('termos:', grava('termo_execucao.json', termos, 'id_plano_acao'))
+    print('ted:', grava('ted.json', une_ted(planos, programas, termos), 'IdPlanoAcao'))
+
+
+def une_ted(planos, programas, termos):
+    """
+    Junta plano + programa + termo num registro por plano de ação, já com os
+    nomes das colunas da lista TED do SharePoint (docs/03-mvp-ted.md §4.4 do
+    sistac-vnext). Assim o fluxo do Power Automate só lê um arquivo e não
+    precisa cruzar as três tabelas. `HashAPI` permite ao fluxo atualizar só
+    os itens que mudaram.
+    """
+    prog_por_id = {p['id_programa']: p for p in programas}
+    termo_por_plano = {t['id_plano_acao']: t for t in termos}  # 1:1 (v0.3)
+    registros = []
+    for p in planos:
+        prog = prog_por_id.get(p.get('id_programa'), {})
+        termo = termo_por_plano.get(p['id_plano_acao'], {})
+        if p.get('sq_instrumento'):
+            rotulo = f"TED {p['sq_instrumento']}/{p.get('aa_instrumento') or ''}".rstrip('/')
+        else:
+            rotulo = f"Plano {p['id_plano_acao']} (sem número)"
+        reg = {
+            'Title': rotulo,
+            'IdPlanoAcao': p['id_plano_acao'],
+            'NumeroTED': p.get('sq_instrumento'),
+            'AnoInstrumento': p.get('aa_instrumento'),
+            'Ano': p.get('aa_ano_plano_acao'),
+            'SituacaoPlano': p.get('tx_situacao_plano_acao'),
+            'Objeto': p.get('tx_objeto_plano_acao'),
+            'UnidadeDescentralizada': p.get('unidade_descentralizada'),
+            'ValorBeneficiarioEspecifico': p.get('vl_beneficiario_especifico'),
+            'ValorChamamentoPublico': p.get('vl_chamamento_publico'),
+            'ValorTotal': p.get('vl_total_plano_acao'),
+            'VigenciaInicio': p.get('dt_inicio_vigencia'),
+            'VigenciaFim': p.get('dt_fim_vigencia'),
+            'IdProgramaTED': p.get('id_programa'),
+            'CodigoProgramaTED': prog.get('tx_codigo_programa'),
+            'NomeProgramaTED': prog.get('tx_nome_programa'),
+            'UnidadeDescentralizadora': prog.get('unidade_descentralizadora'),
+            'SiglaUnidadeDescentralizadora': prog.get('sigla_unidade_descentralizadora'),
+            'SituacaoTermo': termo.get('tx_situacao_termo'),
+            'DataAssinatura': termo.get('dt_assinatura_termo'),
+            'NumeroNSTermo': termo.get('tx_numero_ns_termo'),
+            'ReferenciaExterna': termo.get('tx_num_processo_sei'),
+        }
+        reg['HashAPI'] = hashlib.sha1(json.dumps(reg, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+        registros.append(reg)
+    return registros
 
 
 if __name__ == '__main__':

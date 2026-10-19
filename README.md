@@ -11,6 +11,7 @@ lê estes arquivos com conectores padrão, sem licença Premium.
 | `dados/plano_acao.json` | Planos de ação com `sigla_unidade_descentralizada = CNPq` |
 | `dados/programa.json` | Programas TED desses planos |
 | `dados/termo_execucao.json` | Termos de execução desses planos |
+| `dados/ted.json` | **Lido pelo fluxo do SISTAC.** Os três arquivos acima unidos num registro por plano, com os nomes das colunas da lista `TED` e um `HashAPI` para detectar mudanças |
 
 - **Atualização:** GitHub Actions todo dia às 05:30 (Brasília), em `.github/workflows/coleta.yml`. O commit só acontece quando os dados mudam.
 - **Script:** `scripts/coleta_ted.py`. Usa só a biblioteca padrão do Python e segue a mesma lógica de `cargaTED()` do sistac.
