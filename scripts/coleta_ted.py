@@ -119,6 +119,16 @@ def une_ted(planos, programas, termos):
             'NumeroNSTermo': termo.get('tx_numero_ns_termo'),
             'ReferenciaExterna': termo.get('tx_num_processo_sei'),
         }
+        # A API já trouxe data com ano inválido (DataAssinatura "0232-12-21" no
+        # plano 1876, em 2026-10-18) e o SharePoint recusa datas antes de 1900.
+        # Data fora da faixa vira vazia e o valor original fica em AvisoDados.
+        avisos = []
+        for campo in ('VigenciaInicio', 'VigenciaFim', 'DataAssinatura'):
+            valor = reg[campo]
+            if valor and not ('1900' <= valor[:4] <= '2100'):
+                avisos.append(f'{campo} inválida na API: {valor}')
+                reg[campo] = None
+        reg['AvisoDados'] = '; '.join(avisos) or None
         reg['HashAPI'] = hashlib.sha1(json.dumps(reg, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
         registros.append(reg)
     return registros
