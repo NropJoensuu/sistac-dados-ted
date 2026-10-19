@@ -10,6 +10,8 @@ import hashlib
 import json
 import os
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -33,12 +35,25 @@ CAMPOS_TERMO = ','.join([
 ])
 
 
+TENTATIVAS = 4
+
+
 def consulta(recurso, params):
     url = f'{API_BASE}/{recurso}?{urllib.parse.urlencode(params, safe=",.()")}'
     req = urllib.request.Request(url, headers={'Accept': 'application/json',
                                                'User-Agent': 'sistac-dados-ted'})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.load(resp)
+    # a API do TransfereGov oscila (timeout, 502/503); tenta de novo com espera
+    # crescente antes de desistir, para uma instabilidade curta não custar o dia
+    for tentativa in range(1, TENTATIVAS + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                return json.load(resp)
+        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as erro:
+            if tentativa == TENTATIVAS:
+                raise
+            espera = 30 * tentativa
+            print(f'{recurso}: falha na tentativa {tentativa} ({erro}); nova tentativa em {espera}s')
+            time.sleep(espera)
 
 
 def em_lista(ids):

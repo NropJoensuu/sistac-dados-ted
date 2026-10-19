@@ -2,8 +2,12 @@ name: Coleta TED (API TransfereGov)
 
 on:
   schedule:
-    # 08:30 UTC = 05:30 em Brasília, antes do fluxo do SISTAC (06:00)
-    - cron: '30 8 * * *'
+    # O agendamento do GitHub atrasa ou pula execuções em horários cheios
+    # (a das 08:30 UTC de 2026-10-19 não rodou). Por isso: minutos "quebrados"
+    # e uma segunda execução de reserva. A segunda só gera commit se algo mudou.
+    - cron: '7 8 * * *'    # 05:07 em Brasília
+    - cron: '37 9 * * *'   # 06:37 em Brasília (reserva)
+    # O fluxo do SISTAC no Power Automate deve rodar depois disso (07:30).
   workflow_dispatch:
 
 permissions:
