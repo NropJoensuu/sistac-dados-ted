@@ -22,8 +22,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": "2022NS000574",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 38386430.0,
+  "QtdPF": 39,
+  "FontesRecurso": "0172024307, 1101000000",
+  "DataUltimaPF": "2025-06-05",
   "AvisoDados": null,
-  "HashAPI": "afdd84bcde7d3ab828ab27d35007bfe9aa0f47df"
+  "HashAPI": "d2e2e34005c742b5e69247cf3787085813fadbd0"
  },
  {
   "Title": "TED 927918/2022",
@@ -48,8 +52,12 @@
   "DataAssinatura": "2022-03-30",
   "NumeroNSTermo": "2022NS002063",
   "ReferenciaExterna": "108/2022",
+  "ValorPFRecebido": 307360.0,
+  "QtdPF": 18,
+  "FontesRecurso": "1050000091",
+  "DataUltimaPF": "2025-06-30",
   "AvisoDados": null,
-  "HashAPI": "e2c2de2e90699b4ff11b2224c27ae13a5144853c"
+  "HashAPI": "9bcbaea8889c467af1ab3f888cb413034f7f24ec"
  },
  {
   "Title": "TED 927915/2022",
@@ -74,8 +82,12 @@
   "DataAssinatura": "2022-03-30",
   "NumeroNSTermo": "2022NS002058",
   "ReferenciaExterna": "109/2022",
+  "ValorPFRecebido": 2501000.0,
+  "QtdPF": 28,
+  "FontesRecurso": "0180365009, 1050000091",
+  "DataUltimaPF": "2024-10-02",
   "AvisoDados": null,
-  "HashAPI": "f04eb792863a0578d48c37da8db22e75761eacd7"
+  "HashAPI": "cca8b7cdad9af15fda5abb9bec8c4967ba74cfd2"
  },
  {
   "Title": "TED 927921/2022",
@@ -100,8 +112,12 @@
   "DataAssinatura": "2022-03-30",
   "NumeroNSTermo": "2022NS002012",
   "ReferenciaExterna": "0111/2022",
+  "ValorPFRecebido": 144040.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1050000091",
+  "DataUltimaPF": "2024-05-03",
   "AvisoDados": null,
-  "HashAPI": "38a6ad8928097e90b876a78ed4152b87367c46b1"
+  "HashAPI": "80bed54237d88ffc782af3245ffad2b3191ce777"
  },
  {
   "Title": "TED 927919/2022",
@@ -126,8 +142,12 @@
   "DataAssinatura": "2022-03-30",
   "NumeroNSTermo": "2022NS002011",
   "ReferenciaExterna": "0110/2022",
+  "ValorPFRecebido": 1868000.0,
+  "QtdPF": 30,
+  "FontesRecurso": "0180365009, 1050000091",
+  "DataUltimaPF": "2025-02-03",
   "AvisoDados": null,
-  "HashAPI": "65e34917f3bfb824c2d530843cf46865f4b0dde0"
+  "HashAPI": "90f0624efd27fb21718c53c793f104f32329e47d"
  },
  {
   "Title": "TED 925839/2022",
@@ -152,8 +172,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": "2022NS001183",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 104298605.51,
+  "QtdPF": 46,
+  "FontesRecurso": "0180365009, 0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2025-06-30",
   "AvisoDados": null,
-  "HashAPI": "1d6ec50e262971886c6ed5fd0cdcef9690e2fdb0"
+  "HashAPI": "022e04120d1012d531592810022dd09ccceed5de"
  },
  {
   "Title": "TED 932132/2022",
@@ -178,8 +202,12 @@
   "DataAssinatura": "2022-07-08",
   "NumeroNSTermo": "2022NS004465",
   "ReferenciaExterna": "0120/2022",
+  "ValorPFRecebido": 8499836.0,
+  "QtdPF": 37,
+  "FontesRecurso": "0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2025-07-31",
   "AvisoDados": null,
-  "HashAPI": "d0617f6aade76092051bee9409a13048a8ca74f3"
+  "HashAPI": "752f2fb159823448efd374994bdc6e9e517b4333"
  },
  {
   "Title": "TED 928414/2022",
@@ -204,8 +232,12 @@
   "DataAssinatura": "2022-04-26",
   "NumeroNSTermo": "2022NS002370",
   "ReferenciaExterna": "0133/2022",
+  "ValorPFRecebido": 65714259.17,
+  "QtdPF": 17,
+  "FontesRecurso": "1050000091, 3050000091",
+  "DataUltimaPF": "2024-11-07",
   "AvisoDados": null,
-  "HashAPI": "ff6e2262aa8e756dedee3318359140e5ee84b68a"
+  "HashAPI": "319b427a3608ce555b76c762ef65c4279c796790"
  },
  {
   "Title": "TED 927917/2022",
@@ -230,8 +262,12 @@
   "DataAssinatura": "2022-03-30",
   "NumeroNSTermo": "2022NS002061",
   "ReferenciaExterna": "130/2022",
+  "ValorPFRecebido": 3000000.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1050000091",
+  "DataUltimaPF": "2023-12-19",
   "AvisoDados": null,
-  "HashAPI": "b7f21fd6f98178084c2d64dd8e647adf31fb1c4b"
+  "HashAPI": "970305f8bf10fef38d97aa959d3105a0a758a204"
  },
  {
   "Title": "TED 932138/2022",
@@ -256,8 +292,12 @@
   "DataAssinatura": "2022-07-01",
   "NumeroNSTermo": "2022NS004470",
   "ReferenciaExterna": "0131/2022",
+  "ValorPFRecebido": 62682073.55,
+  "QtdPF": 72,
+  "FontesRecurso": "0142024289, 1050000091, 1107000000, 1108000000, 3050000091",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "47682237d757ad82d6e2d8ee9bd03632f7078475"
+  "HashAPI": "df4f1c1500ee89fb313d7d1aade7a888c9faa328"
  },
  {
   "Title": "TED 929346/2022",
@@ -282,8 +322,12 @@
   "DataAssinatura": "2022-05-16",
   "NumeroNSTermo": "2022NS002958",
   "ReferenciaExterna": "0119/2022",
+  "ValorPFRecebido": 1500000.0,
+  "QtdPF": 26,
+  "FontesRecurso": "0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2024-12-16",
   "AvisoDados": null,
-  "HashAPI": "eae893cf0c204ad6ec0a270a3e9d12c60a9f8dd2"
+  "HashAPI": "5239b7148b0d02cbcf24d0b2a495d266b6841c9f"
  },
  {
   "Title": "TED 927916/2022",
@@ -308,8 +352,12 @@
   "DataAssinatura": "2022-03-30",
   "NumeroNSTermo": "2022NS002060",
   "ReferenciaExterna": "137/2022",
+  "ValorPFRecebido": 34190544.07,
+  "QtdPF": 14,
+  "FontesRecurso": "0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2026-05-18",
   "AvisoDados": null,
-  "HashAPI": "304360b24e37b5163b2fb46a8f14a1fbfcb32d02"
+  "HashAPI": "4247ae490318fa8be2e1924ce5ce997961ca35e0"
  },
  {
   "Title": "TED 929551/2022",
@@ -334,8 +382,12 @@
   "DataAssinatura": "2022-05-20",
   "NumeroNSTermo": "2022NS003156",
   "ReferenciaExterna": "0125/2022",
+  "ValorPFRecebido": 7615717.94,
+  "QtdPF": 14,
+  "FontesRecurso": "0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2025-10-01",
   "AvisoDados": null,
-  "HashAPI": "a8cfc084be1e5fa40289dd2114252c068301b7a1"
+  "HashAPI": "c557c37523db724e3592a119e4444dd5aa9e3214"
  },
  {
   "Title": "TED 929798/2022",
@@ -360,8 +412,12 @@
   "DataAssinatura": "2022-05-20",
   "NumeroNSTermo": "2022NS003244",
   "ReferenciaExterna": "0132/2022",
+  "ValorPFRecebido": 15077993.84,
+  "QtdPF": 40,
+  "FontesRecurso": "1107000000",
+  "DataUltimaPF": "2026-03-03",
   "AvisoDados": null,
-  "HashAPI": "5e345a2d48c75ff5cd48c15baf4828e184d2bf17"
+  "HashAPI": "40dae130fc5fd399ca96f59cf7d44db70dbb22f0"
  },
  {
   "Title": "TED 927922/2022",
@@ -386,8 +442,12 @@
   "DataAssinatura": "2022-04-01",
   "NumeroNSTermo": "2022NS002059",
   "ReferenciaExterna": "139/2022",
+  "ValorPFRecebido": 6650376.56,
+  "QtdPF": 46,
+  "FontesRecurso": "0180365009, 1050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "268802700c3ac81770e700f43096072bfd7753ee"
+  "HashAPI": "ada3beffc19d435ca9349a643485503bbc6b4fb7"
  },
  {
   "Title": "TED 927920/2022",
@@ -412,8 +472,12 @@
   "DataAssinatura": "2022-04-01",
   "NumeroNSTermo": "2022NS002062",
   "ReferenciaExterna": "134/2022",
+  "ValorPFRecebido": 15999860.4,
+  "QtdPF": 10,
+  "FontesRecurso": "0180365009, 1050000091, 1052000091",
+  "DataUltimaPF": "2025-04-04",
   "AvisoDados": null,
-  "HashAPI": "c7e03310bcde7fe3ff0b489c7fa50d6235ee6e27"
+  "HashAPI": "2859da0cb1350af994662221e1529fa7986b2589"
  },
  {
   "Title": "TED 932115/2022",
@@ -438,8 +502,12 @@
   "DataAssinatura": "2022-07-05",
   "NumeroNSTermo": "2022NS004452",
   "ReferenciaExterna": "0135/2022",
+  "ValorPFRecebido": 11526564.31,
+  "QtdPF": 39,
+  "FontesRecurso": "0172024311, 1100000000",
+  "DataUltimaPF": "2026-04-01",
   "AvisoDados": null,
-  "HashAPI": "94e37ebf8b1f3791aa8b77eac9d65793123df9eb"
+  "HashAPI": "527625a8ea3a0ab44ca3c0da52cf76dd588b2430"
  },
  {
   "Title": "TED 929799/2022",
@@ -464,8 +532,12 @@
   "DataAssinatura": "2022-05-20",
   "NumeroNSTermo": "2022NS003245",
   "ReferenciaExterna": "Ref. Finep nº 0138/2022",
+  "ValorPFRecebido": 6178640.0,
+  "QtdPF": 25,
+  "FontesRecurso": "1107000000",
+  "DataUltimaPF": "2026-04-09",
   "AvisoDados": null,
-  "HashAPI": "35b5cb0ce7a8d18ef8997441b3795930dc829b42"
+  "HashAPI": "d22b7718c0e7c9957ea077dc802d6670b34b8247"
  },
  {
   "Title": "TED 929250/2022",
@@ -490,8 +562,12 @@
   "DataAssinatura": "2022-05-09",
   "NumeroNSTermo": "2022NS002678",
   "ReferenciaExterna": "0129/2022",
+  "ValorPFRecebido": 2496838.33,
+  "QtdPF": 33,
+  "FontesRecurso": "0172024304, 1108000000",
+  "DataUltimaPF": "2025-05-06",
   "AvisoDados": null,
-  "HashAPI": "42b63b5d121a70aa6c6ab28f816587416c6219ff"
+  "HashAPI": "3dbc13467378499272cbf3e2051f2f2c7c4a5301"
  },
  {
   "Title": "TED 929296/2022",
@@ -516,8 +592,12 @@
   "DataAssinatura": "2022-05-11",
   "NumeroNSTermo": "2022NS002854",
   "ReferenciaExterna": "0128/2022",
+  "ValorPFRecebido": 392900.0,
+  "QtdPF": 4,
+  "FontesRecurso": "1098000000",
+  "DataUltimaPF": "2023-10-04",
   "AvisoDados": null,
-  "HashAPI": "531cdcf50ef2581cdf2c102a542d73602b32e2bc"
+  "HashAPI": "40d15cb1b013b13e0ffad11ac624ff73270575ac"
  },
  {
   "Title": "TED 932114/2022",
@@ -542,8 +622,12 @@
   "DataAssinatura": "2022-07-05",
   "NumeroNSTermo": "2022NS004451",
   "ReferenciaExterna": "0136/2022",
+  "ValorPFRecebido": 5810000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "0172024311, 1100000000",
+  "DataUltimaPF": "2023-11-27",
   "AvisoDados": null,
-  "HashAPI": "2b7461fce7cadecff0d743464d2b62a052e28f83"
+  "HashAPI": "1b064e4c12b3512df03c7cc67d09469681bb12f5"
  },
  {
   "Title": "Plano 72 (sem número)",
@@ -568,8 +652,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "cfdee4c2ae0973b2e48fdbc5ebbc6c22e01a2b71"
+  "HashAPI": "73e177baf73e63403aea2f393cd9f63b0b6e1e30"
  },
  {
   "Title": "TED 929550/2022",
@@ -594,8 +682,12 @@
   "DataAssinatura": "2022-05-20",
   "NumeroNSTermo": "2022NS003155",
   "ReferenciaExterna": "0115/2022",
+  "ValorPFRecebido": 10500000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "0380365009",
+  "DataUltimaPF": "2022-09-23",
   "AvisoDados": null,
-  "HashAPI": "7bf5df38cf24ab11c63f0b334f4c71f948a415a1"
+  "HashAPI": "1a5617ad6fb5d2b75831389f43f2239aeb305736"
  },
  {
   "Title": "Plano 86 (sem número)",
@@ -620,8 +712,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "cea01ec625ec873474bf831e6eaf6fffb5d1b639"
+  "HashAPI": "3e1a03225682f769af881149f4a115b73a7e1e2c"
  },
  {
   "Title": "TED 929549/2022",
@@ -646,8 +742,12 @@
   "DataAssinatura": "2022-05-23",
   "NumeroNSTermo": "2022NS003153",
   "ReferenciaExterna": "0117/2022",
+  "ValorPFRecebido": 4152760.0,
+  "QtdPF": 47,
+  "FontesRecurso": "0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "91355f363b6ee1ee3bd4661ce6ff6e1a777e16ae"
+  "HashAPI": "45373e77e5b7d85291012e9c6435252a6a4544aa"
  },
  {
   "Title": "Plano 118 (sem número)",
@@ -672,8 +772,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "813606e6e4baca49feb169889c51c50fe753af0a"
+  "HashAPI": "eea1702f4d72307b7ced57dd3a477899ee2e7f1c"
  },
  {
   "Title": "TED 929251/2022",
@@ -698,8 +802,12 @@
   "DataAssinatura": "2022-05-06",
   "NumeroNSTermo": "2022NS000958",
   "ReferenciaExterna": "59000.019913/2021-85",
+  "ValorPFRecebido": 36701542.24,
+  "QtdPF": 13,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2026-05-11",
   "AvisoDados": null,
-  "HashAPI": "f3b60cb7285b1c1754627dcd7511ff39c84c99de"
+  "HashAPI": "647bcd2cf7c44b6472dbbe9aae8426c1016659f7"
  },
  {
   "Title": "TED 932092/2022",
@@ -724,8 +832,12 @@
   "DataAssinatura": "2022-06-27",
   "NumeroNSTermo": "2022NS000230",
   "ReferenciaExterna": "01245.003865/2022-31",
+  "ValorPFRecebido": 500000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "0188000000",
+  "DataUltimaPF": "2022-09-16",
   "AvisoDados": null,
-  "HashAPI": "2e7d2111e237a20b29092c1cb0e81ef1db4a03de"
+  "HashAPI": "d558eacdc871bf186a810b63985ea1426df12ecf"
  },
  {
   "Title": "TED 931559/2022",
@@ -750,8 +862,12 @@
   "DataAssinatura": "2022-04-26",
   "NumeroNSTermo": "2022NS047808",
   "ReferenciaExterna": "25000.056911/2022-36",
+  "ValorPFRecebido": 5982496.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1002A0011F",
+  "DataUltimaPF": "2023-09-08",
   "AvisoDados": null,
-  "HashAPI": "f8cc09ccbbd653aaa71beb0853c90fd11a067e8e"
+  "HashAPI": "68e7332e1194eef0f8736cfeb7290d89a5523fea"
  },
  {
   "Title": "TED 930380/2022",
@@ -776,8 +892,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": "2022NS037546",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 70365408.59,
+  "QtdPF": 5,
+  "FontesRecurso": "1001A0010J, 1002A000K0",
+  "DataUltimaPF": "2026-07-13",
   "AvisoDados": null,
-  "HashAPI": "7b8a2d9ff9e2e4de60733f2a8f9f4a859a0c9f90"
+  "HashAPI": "b5cc37a71f0b20576972d05f74c9d269565328e0"
  },
  {
   "Title": "Plano 143 (sem número)",
@@ -802,8 +922,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "e5b073421bc19263428d93bae062ac624567ef09"
+  "HashAPI": "00a0d6f09af049f922c9b912a754a149932a8827"
  },
  {
   "Title": "TED 930463/2022",
@@ -828,8 +952,12 @@
   "DataAssinatura": "2022-06-03",
   "NumeroNSTermo": "2022NS000149",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 600000.0,
+  "QtdPF": 4,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2023-06-26",
   "AvisoDados": null,
-  "HashAPI": "77f7625267d558924cc5018fcb4c7c0078c73852"
+  "HashAPI": "d21e4e37a4d9661b2fca754daa5613a7a098dd6b"
  },
  {
   "Title": "Plano 146 (sem número)",
@@ -854,8 +982,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "9b21ee54755dfb4401feebe7f36e71c531e9ea8f"
+  "HashAPI": "6947f9b6659c8b1d765d70259635b7be9b77e0d0"
  },
  {
   "Title": "Plano 160 (sem número)",
@@ -880,8 +1012,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "bbbb6085b2ddde2e996931d8e6ee4471592ccc7a"
+  "HashAPI": "79604e803f4b904fe09d88a23fb863b6a6b7e1a0"
  },
  {
   "Title": "Plano 165 (sem número)",
@@ -906,8 +1042,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "b74194a149794faecac19fcd141dbaacca67fd92"
+  "HashAPI": "0d515f5dd68c375b00a811b05524781dbb3abb2b"
  },
  {
   "Title": "TED 932198/2022",
@@ -932,8 +1072,12 @@
   "DataAssinatura": "2022-07-08",
   "NumeroNSTermo": "2022NS004485",
   "ReferenciaExterna": "0116/2022",
+  "ValorPFRecebido": 6919369.0,
+  "QtdPF": 15,
+  "FontesRecurso": "0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "424b931531340a932d73ff62a724cbf88c5da76b"
+  "HashAPI": "2fb77dc8d26e5cdbb847b236d7fa3a953b754225"
  },
  {
   "Title": "TED 930973/2022",
@@ -958,8 +1102,12 @@
   "DataAssinatura": "2022-05-31",
   "NumeroNSTermo": "2022NS000385",
   "ReferenciaExterna": "01245.006858/2022-91",
+  "ValorPFRecebido": 2718100.0,
+  "QtdPF": 43,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "e28ba1eef74c513128e194d7663b64c0895a5334"
+  "HashAPI": "37ad0a203dcb37da5255444a3c181157ac416a66"
  },
  {
   "Title": "TED 932117/2022",
@@ -984,8 +1132,12 @@
   "DataAssinatura": "2022-07-01",
   "NumeroNSTermo": "2022NS004454",
   "ReferenciaExterna": "1411/2022",
+  "ValorPFRecebido": 274925928.72,
+  "QtdPF": 66,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "c928e5ad88b8796be7507b6155f8aaab7b5087c6"
+  "HashAPI": "622423eb5fb5351c57f5d66badd5c3562d56552f"
  },
  {
   "Title": "TED 932116/2022",
@@ -1010,8 +1162,12 @@
   "DataAssinatura": "2022-07-13",
   "NumeroNSTermo": "2022NS004453",
   "ReferenciaExterna": "1414/2022",
+  "ValorPFRecebido": 29980988.67,
+  "QtdPF": 48,
+  "FontesRecurso": "0180365009, 0380365009, 1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-03-02",
   "AvisoDados": null,
-  "HashAPI": "6c03f3d48751dc24253b597e70d04f09568018a5"
+  "HashAPI": "425987701aac015dc74a7436ed947369565140f6"
  },
  {
   "Title": "TED 932134/2022",
@@ -1036,8 +1192,12 @@
   "DataAssinatura": "2022-07-13",
   "NumeroNSTermo": "2022NS004467",
   "ReferenciaExterna": "1419/2022",
+  "ValorPFRecebido": 15257449.31,
+  "QtdPF": 51,
+  "FontesRecurso": "1050000091, 1103000000",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "09b57a21c7a40c02c131ce5cc073e565c3752f7b"
+  "HashAPI": "0be2bac58e26155bdd882464f2f18580709ef531"
  },
  {
   "Title": "TED 932136/2022",
@@ -1062,8 +1222,12 @@
   "DataAssinatura": "2022-07-13",
   "NumeroNSTermo": "2022NS004469",
   "ReferenciaExterna": "1430/2022",
+  "ValorPFRecebido": 6188116.0,
+  "QtdPF": 49,
+  "FontesRecurso": "0178249010, 0180365009, 1050000091, 1106000000",
+  "DataUltimaPF": "2026-03-02",
   "AvisoDados": null,
-  "HashAPI": "b752f144ca715ce7837b908afaa20fa68cc0f49c"
+  "HashAPI": "95e09d74abe5d05a419ce8f64aa4ee8d5239016a"
  },
  {
   "Title": "TED 932122/2022",
@@ -1088,8 +1252,12 @@
   "DataAssinatura": "2022-07-11",
   "NumeroNSTermo": "2022NS004459",
   "ReferenciaExterna": "1438/2022",
+  "ValorPFRecebido": 20000000.0,
+  "QtdPF": 31,
+  "FontesRecurso": "0142024289, 1104000000, 1107000000",
+  "DataUltimaPF": "2025-04-02",
   "AvisoDados": null,
-  "HashAPI": "d5e121754e3340a924e826d72cdf79bb73a998c0"
+  "HashAPI": "31a546fac559415552cff81aef92df4c143b72d4"
  },
  {
   "Title": "TED 932133/2022",
@@ -1114,8 +1282,12 @@
   "DataAssinatura": "2022-07-01",
   "NumeroNSTermo": "2022NS004466",
   "ReferenciaExterna": "1420/2022",
+  "ValorPFRecebido": 14842884.19,
+  "QtdPF": 51,
+  "FontesRecurso": "0178249010, 0180365009, 1050000091, 1106000000, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "a9f135ab9d3b5070cb96c1308231d0385692125e"
+  "HashAPI": "b378814005fe566dd53b1ec5d79fa8705cc1f4b8"
  },
  {
   "Title": "TED 932123/2022",
@@ -1140,8 +1312,12 @@
   "DataAssinatura": "2022-07-13",
   "NumeroNSTermo": "2022NS004460",
   "ReferenciaExterna": "1443/2022",
+  "ValorPFRecebido": 20080510.0,
+  "QtdPF": 44,
+  "FontesRecurso": "0142024289, 1104000000, 1107000000, 1108000000",
+  "DataUltimaPF": "2026-02-02",
   "AvisoDados": null,
-  "HashAPI": "cf5180b990f629362952e48ba1256b1ff3beee8b"
+  "HashAPI": "ee234bcb90b70665c3b938350c4859ce1c2d973b"
  },
  {
   "Title": "TED 932199/2022",
@@ -1166,8 +1342,12 @@
   "DataAssinatura": "2022-07-13",
   "NumeroNSTermo": "2022NS004486",
   "ReferenciaExterna": "1429/2022",
+  "ValorPFRecebido": 33117724.29,
+  "QtdPF": 49,
+  "FontesRecurso": "0172024304, 1108000000, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "18091a28246f5f6db39ffd72cea8364a6a27c60e"
+  "HashAPI": "7fe3a7575427d2e1f3c2766a11bfca2b72dec631"
  },
  {
   "Title": "TED 932119/2022",
@@ -1192,8 +1372,12 @@
   "DataAssinatura": "2022-07-01",
   "NumeroNSTermo": "2022NS004456",
   "ReferenciaExterna": "1410/2022",
+  "ValorPFRecebido": 40000000.0,
+  "QtdPF": 20,
+  "FontesRecurso": "1050000091, 3050000091",
+  "DataUltimaPF": "2024-09-02",
   "AvisoDados": null,
-  "HashAPI": "8ae026a8b00c483622f1c5db11aefff287133c85"
+  "HashAPI": "023cc3ea6c3a1340248b149b99ec333ebd0a7bf6"
  },
  {
   "Title": "TED 932137/2022",
@@ -1218,8 +1402,12 @@
   "DataAssinatura": "2022-07-19",
   "NumeroNSTermo": null,
   "ReferenciaExterna": "1437/2022",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "14b3f2d33351176047b57d6f3e8d6f3c64e36d51"
+  "HashAPI": "b80e9d3cec3098f5da7d5bd9618d3b09618c7fa7"
  },
  {
   "Title": "TED 932433/2022",
@@ -1244,8 +1432,12 @@
   "DataAssinatura": "2022-07-27",
   "NumeroNSTermo": "2022NS004611",
   "ReferenciaExterna": "1427/2022",
+  "ValorPFRecebido": 47067855.67,
+  "QtdPF": 51,
+  "FontesRecurso": "0172024304, 1108000000, 3050000091",
+  "DataUltimaPF": "2026-03-03",
   "AvisoDados": null,
-  "HashAPI": "1cac260b0367e81a56a2a0ab5b8a2327a871703c"
+  "HashAPI": "ba699ef1ed3c4fe030949ac6906782a775eef04e"
  },
  {
   "Title": "TED 932120/2022",
@@ -1270,8 +1462,12 @@
   "DataAssinatura": "2022-07-13",
   "NumeroNSTermo": "2022NS004457",
   "ReferenciaExterna": "1413/2022",
+  "ValorPFRecebido": 36984178.86,
+  "QtdPF": 55,
+  "FontesRecurso": "0141024184, 0172024304, 1105000000, 1108000000, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "50b7a0eecf07c9fa0551c36bc3b99fee63cb8a20"
+  "HashAPI": "64daa59fd44cee99fff9471c62d6a45b3f3efe3d"
  },
  {
   "Title": "TED 932437/2022",
@@ -1296,8 +1492,12 @@
   "DataAssinatura": "2022-07-28",
   "NumeroNSTermo": "2022NS004614",
   "ReferenciaExterna": "1435/2022",
+  "ValorPFRecebido": 59999999.91,
+  "QtdPF": 22,
+  "FontesRecurso": "0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2024-04-03",
   "AvisoDados": null,
-  "HashAPI": "a52d63ba830e14ff0dc701af6926b9af71aabff0"
+  "HashAPI": "dcc8aa890ef8de05e8342f6a314f94842e9657fb"
  },
  {
   "Title": "TED 932261/2022",
@@ -1322,8 +1522,12 @@
   "DataAssinatura": "2022-07-21",
   "NumeroNSTermo": "2022NS004534",
   "ReferenciaExterna": "1446/2022",
+  "ValorPFRecebido": 30145338.53,
+  "QtdPF": 37,
+  "FontesRecurso": "0172024307, 1101000000",
+  "DataUltimaPF": "2025-02-04",
   "AvisoDados": null,
-  "HashAPI": "7156b292c968e5a5d4d5c0b7a318ddd1f17ac07e"
+  "HashAPI": "b928d926b909e4cc59db0b5263c72fb402971903"
  },
  {
   "Title": "TED 932260/2022",
@@ -1348,8 +1552,12 @@
   "DataAssinatura": "2022-07-21",
   "NumeroNSTermo": "2022NS004533",
   "ReferenciaExterna": "1444/2022",
+  "ValorPFRecebido": 8520000.0,
+  "QtdPF": 37,
+  "FontesRecurso": "0141024184, 1105000000",
+  "DataUltimaPF": "2025-07-01",
   "AvisoDados": null,
-  "HashAPI": "e12ac7db8c5c9eb10dde474205cc97bd920a1b26"
+  "HashAPI": "98257f4f9e0c116f6e1188b5a636355d2e3de4b5"
  },
  {
   "Title": "TED 932439/2022",
@@ -1374,8 +1582,12 @@
   "DataAssinatura": "2022-07-28",
   "NumeroNSTermo": "2022NS004616",
   "ReferenciaExterna": "1445/2022",
+  "ValorPFRecebido": 27905668.0,
+  "QtdPF": 45,
+  "FontesRecurso": "0380365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "2e518ca38c7949c40627560fc173a9f469e67366"
+  "HashAPI": "1f4e58d07b618c8ddd99e2a559a81cb01ba5b3f1"
  },
  {
   "Title": "Plano 297 (sem número)",
@@ -1400,8 +1612,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "2e448c36d180de6cfb54d6feb1e0ce63a277dfd5"
+  "HashAPI": "c8d8e681513c22e5a4c186bd858349dbb91c382c"
  },
  {
   "Title": "TED 932258/2022",
@@ -1426,8 +1642,12 @@
   "DataAssinatura": "2022-07-21",
   "NumeroNSTermo": "2022NS004531",
   "ReferenciaExterna": "1423/2022",
+  "ValorPFRecebido": 15074373.0,
+  "QtdPF": 44,
+  "FontesRecurso": "0172024310, 1099000000, 3050000091",
+  "DataUltimaPF": "2026-03-03",
   "AvisoDados": null,
-  "HashAPI": "feae2613a3f0c2f5f9ccd8049dc8dcefdee5089c"
+  "HashAPI": "598caa5b9cef94cadd31bd535c7aac8624ea81a3"
  },
  {
   "Title": "TED 932118/2022",
@@ -1452,8 +1672,12 @@
   "DataAssinatura": "2022-07-06",
   "NumeroNSTermo": "2022NS004455",
   "ReferenciaExterna": "1412/2022",
+  "ValorPFRecebido": 57450491.2,
+  "QtdPF": 45,
+  "FontesRecurso": "0172024307, 1101000000",
+  "DataUltimaPF": "2026-03-03",
   "AvisoDados": null,
-  "HashAPI": "d29fe808188f438d5c1611631d31355b2b402c7a"
+  "HashAPI": "e3e25632afc7d70f5c51059f884689bdda4aca4c"
  },
  {
   "Title": "TED 932435/2022",
@@ -1478,8 +1702,12 @@
   "DataAssinatura": "2022-07-27",
   "NumeroNSTermo": "2022NS004613",
   "ReferenciaExterna": "1422/2022",
+  "ValorPFRecebido": 28518708.06,
+  "QtdPF": 43,
+  "FontesRecurso": "0172024310, 1099000000",
+  "DataUltimaPF": "2026-03-03",
   "AvisoDados": null,
-  "HashAPI": "b3925907ff54f0ddb92d335a906d04d51f0011ca"
+  "HashAPI": "b6550cea69350cb495bc61eac42a53347f82d3ab"
  },
  {
   "Title": "TED 932197/2022",
@@ -1504,8 +1732,12 @@
   "DataAssinatura": "2022-07-11",
   "NumeroNSTermo": "2022NS004484",
   "ReferenciaExterna": "0122/2022",
+  "ValorPFRecebido": 8890984.0,
+  "QtdPF": 44,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "9ebaca9b1551c8c0b92247de2ecfe6afe308cac9"
+  "HashAPI": "a6887bb0104092acde9d6c27d1bddc88257feb36"
  },
  {
   "Title": "TED 932259/2022",
@@ -1530,8 +1762,12 @@
   "DataAssinatura": "2022-07-22",
   "NumeroNSTermo": "2022NS004532",
   "ReferenciaExterna": "1424/2022",
+  "ValorPFRecebido": 23707856.7,
+  "QtdPF": 36,
+  "FontesRecurso": "0172024311, 1050000091, 1100000000",
+  "DataUltimaPF": "2025-06-05",
   "AvisoDados": null,
-  "HashAPI": "c5e34e65e547346449361dbacb7a8608ed1e6e3e"
+  "HashAPI": "b22a6fd6e2fbe912c56a7a7c945dc662911212d7"
  },
  {
   "Title": "TED 932432/2022",
@@ -1556,8 +1792,12 @@
   "DataAssinatura": "2022-07-27",
   "NumeroNSTermo": "2022NS004610",
   "ReferenciaExterna": "1425/2022",
+  "ValorPFRecebido": 37000000.0,
+  "QtdPF": 37,
+  "FontesRecurso": "0172024311, 1100000000",
+  "DataUltimaPF": "2025-02-04",
   "AvisoDados": null,
-  "HashAPI": "40f528d89024ac4fc8ac603d0083f0f4430c7c72"
+  "HashAPI": "2cbc9b8dc81668c1afc04d8d7364b81d76334d9e"
  },
  {
   "Title": "TED 932341/2022",
@@ -1582,8 +1822,12 @@
   "DataAssinatura": "2022-07-25",
   "NumeroNSTermo": "2022NS004573",
   "ReferenciaExterna": "1441/2022",
+  "ValorPFRecebido": 6399204.89,
+  "QtdPF": 29,
+  "FontesRecurso": "0142024289, 1107000000",
+  "DataUltimaPF": "2026-04-01",
   "AvisoDados": null,
-  "HashAPI": "9a56d105e6f7377fb8867223729d2319521e5a46"
+  "HashAPI": "e1258bb0b5a5f46fa562995474b126c5605a6fd6"
  },
  {
   "Title": "Plano 310 (sem número)",
@@ -1608,8 +1852,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "90fad75ffa40bdb630b18aa33ea414a95e96f912"
+  "HashAPI": "240c49c8df96cf7d00afe362282f5178f75fe1eb"
  },
  {
   "Title": "TED 932431/2022",
@@ -1634,8 +1882,12 @@
   "DataAssinatura": "2022-07-28",
   "NumeroNSTermo": "2022NS004609",
   "ReferenciaExterna": "1440/2022",
+  "ValorPFRecebido": 20000000.0,
+  "QtdPF": 36,
+  "FontesRecurso": "0142024289, 1107000000",
+  "DataUltimaPF": "2025-02-04",
   "AvisoDados": null,
-  "HashAPI": "d3728ef37eb783424e5e97cd75b8326b645186f5"
+  "HashAPI": "cb130d27726ad8100034122ec75d844d16357b0b"
  },
  {
   "Title": "TED 932121/2022",
@@ -1660,8 +1912,12 @@
   "DataAssinatura": "2022-07-01",
   "NumeroNSTermo": "2022NS004458",
   "ReferenciaExterna": "1428/2022",
+  "ValorPFRecebido": 15687426.18,
+  "QtdPF": 55,
+  "FontesRecurso": "0172024308, 1097000000",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "c7d27da1aecbdb848d288036ac504c83ac9e723e"
+  "HashAPI": "8fc2c0f243d0ce1de9f4918e35edcb80eaf9ce76"
  },
  {
   "Title": "TED 932430/2022",
@@ -1686,8 +1942,12 @@
   "DataAssinatura": "2022-07-27",
   "NumeroNSTermo": "2022NS004608",
   "ReferenciaExterna": "1421/2022",
+  "ValorPFRecebido": 50021048.19,
+  "QtdPF": 46,
+  "FontesRecurso": "1050000091, 1052000091, 1107000000, 1108000000",
+  "DataUltimaPF": "2026-04-01",
   "AvisoDados": null,
-  "HashAPI": "44eb01ca450e260cfab307fc5d1daffe39d00400"
+  "HashAPI": "0b13f5a562a0559f24f4af8ac249d574710881af"
  },
  {
   "Title": "TED 932262/2022",
@@ -1712,8 +1972,12 @@
   "DataAssinatura": "2022-07-22",
   "NumeroNSTermo": "2022NS004535",
   "ReferenciaExterna": "1431/2022",
+  "ValorPFRecebido": 6000000.0,
+  "QtdPF": 31,
+  "FontesRecurso": "0142024289, 1050000091, 1104000000, 1107000000, 1108000000",
+  "DataUltimaPF": "2025-09-04",
   "AvisoDados": null,
-  "HashAPI": "8433673fe99b83f869e5cf3141ef2065c4306d7c"
+  "HashAPI": "e98256f7a3a75e050362e373b1fea6f019920e0d"
  },
  {
   "Title": "TED 932438/2022",
@@ -1738,8 +2002,12 @@
   "DataAssinatura": "2022-07-27",
   "NumeroNSTermo": "2022NS004615",
   "ReferenciaExterna": "1449/2022",
+  "ValorPFRecebido": 2464726.03,
+  "QtdPF": 12,
+  "FontesRecurso": "0172024305, 1110000000",
+  "DataUltimaPF": "2023-10-04",
   "AvisoDados": null,
-  "HashAPI": "2a260f05f547e70d118fe056d68b3e64daf7edfb"
+  "HashAPI": "88c38035cdc77c8d0a963142fcb1e997778ed793"
  },
  {
   "Title": "TED 932254/2022",
@@ -1764,8 +2032,12 @@
   "DataAssinatura": "2022-07-21",
   "NumeroNSTermo": "2022NS004530",
   "ReferenciaExterna": "1433/2022",
+  "ValorPFRecebido": 27438764.0,
+  "QtdPF": 36,
+  "FontesRecurso": "1050000091, 1107000000",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "236e4ce379bb43c034df38dad5fb151fb1a43d51"
+  "HashAPI": "e2f5ebc26f94c328feb6f5b5bdfafeda313e05fa"
  },
  {
   "Title": "TED 932135/2022",
@@ -1790,8 +2062,12 @@
   "DataAssinatura": "2022-07-18",
   "NumeroNSTermo": "2022NS004468",
   "ReferenciaExterna": "1432/2022",
+  "ValorPFRecebido": 1874630.0,
+  "QtdPF": 5,
+  "FontesRecurso": "0142024289, 1107000000",
+  "DataUltimaPF": "2023-05-04",
   "AvisoDados": null,
-  "HashAPI": "4574c7cbc9de9c893a124f01ca2d6f12f1472ca3"
+  "HashAPI": "1ebb777cd6871f004896328fd7e78b356774ae71"
  },
  {
   "Title": "TED 932245/2022",
@@ -1816,8 +2092,12 @@
   "DataAssinatura": "2022-07-21",
   "NumeroNSTermo": "2022NS004529",
   "ReferenciaExterna": "1434/2022",
+  "ValorPFRecebido": 6033316.46,
+  "QtdPF": 35,
+  "FontesRecurso": "1052000091, 1104000000, 1107000000",
+  "DataUltimaPF": "2026-04-01",
   "AvisoDados": null,
-  "HashAPI": "d4954316100b9f452ac8c5a8dbaa5005b042cff9"
+  "HashAPI": "c0bf5cdd2b97ec110554ee892e016972d50032d9"
  },
  {
   "Title": "TED 934052/2022",
@@ -1842,8 +2122,12 @@
   "DataAssinatura": "2022-08-05",
   "NumeroNSTermo": "2022NS004903",
   "ReferenciaExterna": "1513/2022",
+  "ValorPFRecebido": 56156732.0,
+  "QtdPF": 37,
+  "FontesRecurso": "1050000091, 1107000000, 1108000000",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "bb58c963c403da73c8ef28e391409d6dc8d0f527"
+  "HashAPI": "0c725c981b0d562288d8cc4ef9478d1d6c3aa426"
  },
  {
   "Title": "TED 932411/2022",
@@ -1868,8 +2152,12 @@
   "DataAssinatura": "2022-07-28",
   "NumeroNSTermo": "2022NS004600",
   "ReferenciaExterna": "1439/2022",
+  "ValorPFRecebido": 9998068.0,
+  "QtdPF": 38,
+  "FontesRecurso": "1050000091, 1109000000",
+  "DataUltimaPF": "2026-03-03",
   "AvisoDados": null,
-  "HashAPI": "3d2f62074ccc9df21a4e99354d9e3561f01c4dac"
+  "HashAPI": "270c3f05ca68229dfadb19b2814e5f78e4798e70"
  },
  {
   "Title": "TED 932124/2022",
@@ -1894,8 +2182,12 @@
   "DataAssinatura": "2022-07-01",
   "NumeroNSTermo": "2022NS004461",
   "ReferenciaExterna": "1442/2022",
+  "ValorPFRecebido": 15495021.0,
+  "QtdPF": 39,
+  "FontesRecurso": "0180365009, 1050000091, 3050000091",
+  "DataUltimaPF": "2026-03-17",
   "AvisoDados": null,
-  "HashAPI": "b1c0d322cd51f8821535936e220ae3b6239b1a4b"
+  "HashAPI": "4271f9a18b727c06256b41d993802476da8bac18"
  },
  {
   "Title": "TED 932434/2022",
@@ -1920,8 +2212,12 @@
   "DataAssinatura": "2022-07-27",
   "NumeroNSTermo": "2022NS004612",
   "ReferenciaExterna": "1426/2022",
+  "ValorPFRecebido": 36272934.21,
+  "QtdPF": 48,
+  "FontesRecurso": "1098000000",
+  "DataUltimaPF": "2026-03-03",
   "AvisoDados": null,
-  "HashAPI": "2cb53b751de856b91715271f9ae56c2cd2419372"
+  "HashAPI": "8d1121c556f81a1b7f56616cb59d17c3029d6b58"
  },
  {
   "Title": "Plano 324 (sem número)",
@@ -1946,8 +2242,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "21fd3ad920857d4da0e05c051b8e87456fd6bd1a"
+  "HashAPI": "610ed98c511ee4093145aff5efee115a90a3d98e"
  },
  {
   "Title": "Plano 325 (sem número)",
@@ -1972,8 +2272,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "62a230a69a8de1ca8a1c49921ac30a716317025c"
+  "HashAPI": "313b29ac3119ff0004ccf03abfcd3e1e9ecabe07"
  },
  {
   "Title": "TED 932200/2022",
@@ -1998,8 +2302,12 @@
   "DataAssinatura": "2022-07-08",
   "NumeroNSTermo": "2022NS004487",
   "ReferenciaExterna": "0118/2022",
+  "ValorPFRecebido": 54261333.53,
+  "QtdPF": 48,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-03-02",
   "AvisoDados": null,
-  "HashAPI": "05b2130997a080795117bc837b29d6c2c798243e"
+  "HashAPI": "b77a00c97fcb4ead6a6fe209c273eac0d800f16b"
  },
  {
   "Title": "TED 931308/2022",
@@ -2024,8 +2332,12 @@
   "DataAssinatura": "2022-06-15",
   "NumeroNSTermo": "2022NS000149",
   "ReferenciaExterna": "01245.006067/2022-61",
+  "ValorPFRecebido": 1296988.99,
+  "QtdPF": 39,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "08f25ea0c7677e6cb22635fed95c1b7175d2a3ef"
+  "HashAPI": "daf39f94a76a712be8d316344ebd8f3f768ccd38"
  },
  {
   "Title": "TED 932447/2022",
@@ -2050,8 +2362,12 @@
   "DataAssinatura": "2022-07-27",
   "NumeroNSTermo": "2022NS004628",
   "ReferenciaExterna": "1436/2022",
+  "ValorPFRecebido": 2100000.0,
+  "QtdPF": 5,
+  "FontesRecurso": "0135395240, 1050000091, 1103000000",
+  "DataUltimaPF": "2023-11-23",
   "AvisoDados": null,
-  "HashAPI": "9b4833d545056b66ac6be69e606256dfc4fe9de2"
+  "HashAPI": "37b9c66729a94c83b2596ec2e04c944c2e0d8869"
  },
  {
   "Title": "TED 932091/2022",
@@ -2076,8 +2392,12 @@
   "DataAssinatura": "2022-06-28",
   "NumeroNSTermo": "2022NS000229",
   "ReferenciaExterna": "01245.003862/2022-06",
+  "ValorPFRecebido": 400000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2024-03-11",
   "AvisoDados": null,
-  "HashAPI": "8c62ca714bb507567e622354f38d663e2c00f935"
+  "HashAPI": "7ca17033a24de9050e6ba3ba4131f7a3fa8dffac"
  },
  {
   "Title": "TED 932246/2022",
@@ -2102,8 +2422,12 @@
   "DataAssinatura": "2022-07-01",
   "NumeroNSTermo": "2022NS000480",
   "ReferenciaExterna": "01245.008178/2022-11",
+  "ValorPFRecebido": 395190.0,
+  "QtdPF": 28,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "3ce50128c87ec9513ffa5bf0c15d96e2e48cda3a"
+  "HashAPI": "457666332695b0104b3f79930e68c489d0422775"
  },
  {
   "Title": "TED 932247/2022",
@@ -2128,8 +2452,12 @@
   "DataAssinatura": "2022-06-30",
   "NumeroNSTermo": "2022NS000192",
   "ReferenciaExterna": "01245.004586/2022-95",
+  "ValorPFRecebido": 398407.59,
+  "QtdPF": 5,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2023-05-31",
   "AvisoDados": null,
-  "HashAPI": "7eeab7a7fc4c047215107f133212c33bf56482b5"
+  "HashAPI": "39f9084ce56b19abbb5bf13febe764dc5667c73c"
  },
  {
   "Title": "TED 933882/2022",
@@ -2154,8 +2482,12 @@
   "DataAssinatura": "2022-02-01",
   "NumeroNSTermo": "2022NS000251",
   "ReferenciaExterna": "01245.003668/2022-12",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "cae9d8cfcd94bd07bac44c27f2901c667955e040"
+  "HashAPI": "a3a2f8b881b7811f887be1e364e9709e25e9d9f8"
  },
  {
   "Title": "TED 934044/2022",
@@ -2180,8 +2512,12 @@
   "DataAssinatura": "2022-08-03",
   "NumeroNSTermo": "2022NS004889",
   "ReferenciaExterna": "1512/2022",
+  "ValorPFRecebido": 30000000.0,
+  "QtdPF": 8,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2025-04-04",
   "AvisoDados": null,
-  "HashAPI": "49afccfe85961d5b1b11cd35934a1adb9ae5298c"
+  "HashAPI": "50d0998d35181c5cae81bd16815ac6f656884381"
  },
  {
   "Title": "TED 934051/2022",
@@ -2206,8 +2542,12 @@
   "DataAssinatura": "2022-08-03",
   "NumeroNSTermo": "2022NS004902",
   "ReferenciaExterna": "1511/2022",
+  "ValorPFRecebido": 36747326.14,
+  "QtdPF": 35,
+  "FontesRecurso": "0380365009, 3050000091",
+  "DataUltimaPF": "2025-12-01",
   "AvisoDados": null,
-  "HashAPI": "c41e8d5c26761f424e3e3ef384c458bd823dc803"
+  "HashAPI": "5318c9b89b49ae3e54eccd80aa0188b97f0dbb54"
  },
  {
   "Title": "Plano 445 (sem número)",
@@ -2232,8 +2572,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "6a34a14a2e6fc3657bf3b7f0d2f5534abab47335"
+  "HashAPI": "e4c2f1b0217b1a38034a6ccec36c0c900a994480"
  },
  {
   "Title": "TED 936809/2022",
@@ -2258,8 +2602,12 @@
   "DataAssinatura": "2022-08-26",
   "NumeroNSTermo": "2022NS008004",
   "ReferenciaExterna": "1517/2022",
+  "ValorPFRecebido": 3200000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1108000000",
+  "DataUltimaPF": "2023-06-13",
   "AvisoDados": null,
-  "HashAPI": "f0deab4ba2b9ea30d52d9c33a55ff6158502631c"
+  "HashAPI": "d6261c398e01efae70c82c0edbdc7bca5a407244"
  },
  {
   "Title": "TED 934126/2022",
@@ -2284,8 +2632,12 @@
   "DataAssinatura": "2022-08-03",
   "NumeroNSTermo": "2022NS000223",
   "ReferenciaExterna": "01245.011038/2022-11",
+  "ValorPFRecebido": 2815421.9,
+  "QtdPF": 20,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2024-11-06",
   "AvisoDados": null,
-  "HashAPI": "75f7d61e33d8b998c0f96047c18f0fb23b862e5c"
+  "HashAPI": "45c4191c545d62ea198fa65a7b8c23cbad225e0e"
  },
  {
   "Title": "TED 934127/2022",
@@ -2310,8 +2662,12 @@
   "DataAssinatura": "2022-08-03",
   "NumeroNSTermo": "2022NS000224",
   "ReferenciaExterna": "01245.008937/2022-37",
+  "ValorPFRecebido": 4659796.0,
+  "QtdPF": 31,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2026-03-30",
   "AvisoDados": null,
-  "HashAPI": "9e6bc40e1043b043d92f99c149e6485a28f09d3e"
+  "HashAPI": "e7405f8b092af7a741e4046c70ec4a3488fb281a"
  },
  {
   "Title": "TED 936810/2022",
@@ -2336,8 +2692,12 @@
   "DataAssinatura": "2022-08-26",
   "NumeroNSTermo": "2022NS008005",
   "ReferenciaExterna": "1520/2022",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "3b08ab04c26318efc2ad43b76b9054ff8592eb1a"
+  "HashAPI": "3bc61643cea13cf994afd2b6b2704a02255ea48d"
  },
  {
   "Title": "Plano 482 (sem número)",
@@ -2362,8 +2722,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "7acbad7939447738c784d319fba135cf1de9e75f"
+  "HashAPI": "94bda795ef1225cb981e1a71f1bde2954e1f9c36"
  },
  {
   "Title": "TED 934187/2022",
@@ -2388,8 +2752,12 @@
   "DataAssinatura": "2022-07-19",
   "NumeroNSTermo": "2022NS005034",
   "ReferenciaExterna": "1437/22",
+  "ValorPFRecebido": 10590633.5,
+  "QtdPF": 47,
+  "FontesRecurso": "0142024289, 1050000091, 1107000000",
+  "DataUltimaPF": "2026-06-01",
   "AvisoDados": null,
-  "HashAPI": "e31ae8a483e1929c7267eade861e751bae2a8099"
+  "HashAPI": "7c106686ca97aa30e3b21f68abc847933d02c975"
  },
  {
   "Title": "TED 935840/2022",
@@ -2414,8 +2782,12 @@
   "DataAssinatura": "2022-09-26",
   "NumeroNSTermo": "2022NS001816",
   "ReferenciaExterna": "21000.055177/2022-37",
+  "ValorPFRecebido": 4800000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "0176013065",
+  "DataUltimaPF": "2022-10-10",
   "AvisoDados": null,
-  "HashAPI": "65e5cb9a45d8137db6c1d509a31d6033dc1b2500"
+  "HashAPI": "10d660da45e3bd9fb8bef3544d6f83436c00f4ba"
  },
  {
   "Title": "TED 936485/2022",
@@ -2440,8 +2812,12 @@
   "DataAssinatura": "2022-09-01",
   "NumeroNSTermo": "2022NS000869",
   "ReferenciaExterna": "01245.013792/2022-96",
+  "ValorPFRecebido": 150000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2023-01-06",
   "AvisoDados": null,
-  "HashAPI": "9e47dd0119d7dfc41c8a5c8c22349772aa1a646e"
+  "HashAPI": "b9c977ce79ef96c32caf2a5c8554488a62d45683"
  },
  {
   "Title": "Plano 517 (sem número)",
@@ -2466,8 +2842,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "43cca9d19267c3d195d032d4e7358e69ac20858a"
+  "HashAPI": "c23b0a34c4ca6453a69bd565b93041eafc82df1c"
  },
  {
   "Title": "TED 935984/2022",
@@ -2492,8 +2872,12 @@
   "DataAssinatura": "2022-09-09",
   "NumeroNSTermo": "2022NS000275",
   "ReferenciaExterna": "01245.012852/2022-53",
+  "ValorPFRecebido": 162162.6,
+  "QtdPF": 14,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2024-12-09",
   "AvisoDados": null,
-  "HashAPI": "ea63f058dfd0b25c4dfd37c732feedd52526e3bc"
+  "HashAPI": "7deaf480c358440e520b0350ebc3a85582c8f7e9"
  },
  {
   "Title": "TED 935982/2022",
@@ -2518,8 +2902,12 @@
   "DataAssinatura": "2022-10-01",
   "NumeroNSTermo": "2022NS015880",
   "ReferenciaExterna": "23477.006801/2022-00",
+  "ValorPFRecebido": 252140.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1000A001NO",
+  "DataUltimaPF": "2024-03-28",
   "AvisoDados": null,
-  "HashAPI": "2c25d9c5bf30e5bb0c7ea6c713d6c3b1fbf2e555"
+  "HashAPI": "3bf32ad82dd2b7f71b15397b84824cf50141f9f8"
  },
  {
   "Title": "TED 935983/2022",
@@ -2544,8 +2932,12 @@
   "DataAssinatura": "2022-10-03",
   "NumeroNSTermo": "2022NS000274",
   "ReferenciaExterna": "01245.008730/2022-62",
+  "ValorPFRecebido": 2082772.2,
+  "QtdPF": 30,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "d51e5f7dd77addc3aaec817bb3d24721609f1797"
+  "HashAPI": "7063a0a3d2d3ed8a113e4db97fdc18c93fa448f1"
  },
  {
   "Title": "Plano 628 (sem número)",
@@ -2570,8 +2962,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "18bc122a95020a8f5a7dc8e9c41563b1fa0523d3"
+  "HashAPI": "7f48b2a286fd39eb432868c65645ecb1a98fc041"
  },
  {
   "Title": "TED 936712/2022",
@@ -2596,8 +2992,12 @@
   "DataAssinatura": "2022-11-29",
   "NumeroNSTermo": "2022NS000407",
   "ReferenciaExterna": "01245.003526/2022-55",
+  "ValorPFRecebido": 200000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2023-06-07",
   "AvisoDados": null,
-  "HashAPI": "cf4668e32a34f500808dd2c45c88644b82c2d108"
+  "HashAPI": "75b80c7e7caa7300e4598c7552f172d4c7470090"
  },
  {
   "Title": "TED 940490/2023",
@@ -2622,8 +3022,12 @@
   "DataAssinatura": "2022-12-05",
   "NumeroNSTermo": "2023NS000034",
   "ReferenciaExterna": "09284.000029/2022-41",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "e5556128d30d14b6b2b23d1852aaf849b6e66773"
+  "HashAPI": "4fa7d2ff5cdd640f057ad19d4ecd12eb50b09dce"
  },
  {
   "Title": "Plano 735 (sem número)",
@@ -2648,8 +3052,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "05457186934368d49e8c45420c66663195820176"
+  "HashAPI": "c49d6a36fb6d143c1cd2cdc74f28e55ffca3d204"
  },
  {
   "Title": "Plano 736 (sem número)",
@@ -2674,8 +3082,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "82f1fee6288a8c2a6d4a563aeef62b163b608aa0"
+  "HashAPI": "53c63c1d26039df8d0c07023565c041b2991c53c"
  },
  {
   "Title": "Plano 738 (sem número)",
@@ -2700,8 +3112,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "1b4b7fd2edb0d45ef3220ade99c9ea1732761e87"
+  "HashAPI": "ecbc6d94c8ba4f4c355edf24ac4e5d395f886e00"
  },
  {
   "Title": "TED 936753/2022",
@@ -2726,8 +3142,12 @@
   "DataAssinatura": "2022-12-09",
   "NumeroNSTermo": "2022NS000415",
   "ReferenciaExterna": "01280.001281/2022-03",
+  "ValorPFRecebido": 537520.0,
+  "QtdPF": 21,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-03-27",
   "AvisoDados": null,
-  "HashAPI": "e8b36669271c45282ef0702a956aeece4d50cdf0"
+  "HashAPI": "b1e76490585ab4926581b5f4e8ba0f98f2abb519"
  },
  {
   "Title": "Plano 766 (sem número)",
@@ -2752,8 +3172,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "7d7433c4f60fbd5c2c426cd0d0f5ce838296bfc2"
+  "HashAPI": "aa364ccab00f38eefd2b2b03a57c7c87d726f55c"
  },
  {
   "Title": "Plano 785 (sem número)",
@@ -2778,8 +3202,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "986b2e8643f2f915cb48b16380cb500a3f514b78"
+  "HashAPI": "a166e66bd7f016a74e046beb693f2faa9a7d398f"
  },
  {
   "Title": "Plano 789 (sem número)",
@@ -2804,8 +3232,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "623be763c2081aee6cf9c6bf1cd16cbe46728d01"
+  "HashAPI": "726b3fc7b0ba9d039a3a34b3527f5ce26a6ce0a5"
  },
  {
   "Title": "Plano 794 (sem número)",
@@ -2830,8 +3262,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "3b08a0e53097bdf3fdf0a18a59e7a3b917e3bdb5"
+  "HashAPI": "0fbd124514b98e3ab33ae467b7ff3808438c21aa"
  },
  {
   "Title": "TED 937372/2022",
@@ -2856,8 +3292,12 @@
   "DataAssinatura": "2022-12-15",
   "NumeroNSTermo": "2022NS000463",
   "ReferenciaExterna": "01245.018999/2022-57",
+  "ValorPFRecebido": 2206930.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1444000000",
+  "DataUltimaPF": "2023-12-20",
   "AvisoDados": null,
-  "HashAPI": "d071c4009546908a9dbc8861ca8faba78c5c9e05"
+  "HashAPI": "f4c4390c1eae3255f126356a7bf4a77ffb0cd165"
  },
  {
   "Title": "TED 937371/2022",
@@ -2882,8 +3322,12 @@
   "DataAssinatura": "2022-12-15",
   "NumeroNSTermo": "2022NS000462",
   "ReferenciaExterna": "01245.019197/2022-64",
+  "ValorPFRecebido": 128906.5,
+  "QtdPF": 12,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-07-31",
   "AvisoDados": null,
-  "HashAPI": "b2ce5d15ba4b5d9e8fde38262cbe0c045e3bd082"
+  "HashAPI": "fd7e9c559646ff98d1e04ee888202165afb8b1f1"
  },
  {
   "Title": "TED 937370/2022",
@@ -2908,8 +3352,12 @@
   "DataAssinatura": "2022-12-22",
   "NumeroNSTermo": "2022NS000461",
   "ReferenciaExterna": "01245.022626/2022-81",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "b4b8db938a129633462cbeb052c5b383eefacbfd"
+  "HashAPI": "446482b5e57a76e02f787ccbda9fbe6b9a6465e9"
  },
  {
   "Title": "TED 937373/2022",
@@ -2934,8 +3382,12 @@
   "DataAssinatura": "2022-12-22",
   "NumeroNSTermo": "2022NS000464",
   "ReferenciaExterna": "01245.022681/2022-71",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "c9d38d9dbfc2d2c159424043e4990f2c956e97b2"
+  "HashAPI": "f443cf89273fb12c4bb73ae0b2bb4e9830f21a08"
  },
  {
   "Title": "TED 937155/2022",
@@ -2960,8 +3412,12 @@
   "DataAssinatura": "2022-12-01",
   "NumeroNSTermo": "2022NS003096",
   "ReferenciaExterna": "02070.023930/2021-76",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "0a535325f11a94f13fc0cd0e19757245a48ba614"
+  "HashAPI": "8adcaec3ac7b760bbc8505e1344c58db651c56d6"
  },
  {
   "Title": "TED 938717/2022",
@@ -2986,8 +3442,12 @@
   "DataAssinatura": "2022-12-30",
   "NumeroNSTermo": "2022NS002713",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 10000000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "0100000000, 1000000000",
+  "DataUltimaPF": "2023-06-14",
   "AvisoDados": null,
-  "HashAPI": "41dfc59d5ca1c33d8f54df0997988863b6af93de"
+  "HashAPI": "13b8bd755a54a28c255e582aacbf4d063dd972f1"
  },
  {
   "Title": "TED 939189/2022",
@@ -3012,8 +3472,12 @@
   "DataAssinatura": "2022-12-30",
   "NumeroNSTermo": "2022NS002724",
   "ReferenciaExterna": "21000.127549/2022-34",
+  "ValorPFRecebido": 10000000.0,
+  "QtdPF": 18,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-04-06",
   "AvisoDados": null,
-  "HashAPI": "8136cd453b83d27006dfec992f471e1ad7e6eb57"
+  "HashAPI": "b89741da5c4a7b222ac7fc322cffc11ff45a91b1"
  },
  {
   "Title": "TED 938916/2022",
@@ -3038,8 +3502,12 @@
   "DataAssinatura": "2022-12-30",
   "NumeroNSTermo": "2022NS000570",
   "ReferenciaExterna": "01245.024361/2022-55",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "dabf1c3c238f7bc213345e2b3ba6117b7d13bbc8"
+  "HashAPI": "67f1c99a8ae072901d57329f05d14cdca4ec08e8"
  },
  {
   "Title": "TED 938905/2022",
@@ -3064,8 +3532,12 @@
   "DataAssinatura": "2022-12-30",
   "NumeroNSTermo": "2022NS000569",
   "ReferenciaExterna": "01245.021100/2022-83",
+  "ValorPFRecebido": 493000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-03-07",
   "AvisoDados": null,
-  "HashAPI": "9ece6fefc1cf411583f111cf750b4b76cb87c7cf"
+  "HashAPI": "3126bafe67f0e13950aefecedd23d20e0e276111"
  },
  {
   "Title": "TED 940867/2023",
@@ -3090,8 +3562,12 @@
   "DataAssinatura": "2023-05-01",
   "NumeroNSTermo": "2023NS000231",
   "ReferenciaExterna": "01245.005109/2023-28",
+  "ValorPFRecebido": 2200000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2023-06-22",
   "AvisoDados": null,
-  "HashAPI": "8b2ca539cb4e73597e634f2b0b9c3b8337889c57"
+  "HashAPI": "5bda1a9fa40f4975fd2e56680c8aeb1cd204ff0d"
  },
  {
   "Title": "TED 942232/2023",
@@ -3116,8 +3592,12 @@
   "DataAssinatura": "2023-06-27",
   "NumeroNSTermo": "2023NS001717",
   "ReferenciaExterna": "02501.000641/2023-43",
+  "ValorPFRecebido": 1618890.0,
+  "QtdPF": 17,
+  "FontesRecurso": "1052000007, 1071000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "75418ee2659a721696c08ef466ee41929a19e207"
+  "HashAPI": "e53e50121b576c808e7fa3795ec9cbe9290e986c"
  },
  {
   "Title": "TED 940608/2023",
@@ -3142,8 +3622,12 @@
   "DataAssinatura": "2023-05-01",
   "NumeroNSTermo": "2023NS000221",
   "ReferenciaExterna": "01245.006590/2023-79",
+  "ValorPFRecebido": 15000000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1000000000, 1444000000",
+  "DataUltimaPF": "2023-10-10",
   "AvisoDados": null,
-  "HashAPI": "85ce87268be0748f0bb98c34438c7bb58a0f61c3"
+  "HashAPI": "87f19bf91ea206541222a30f8c2bae895a2ecc39"
  },
  {
   "Title": "TED 942761/2023",
@@ -3168,8 +3652,12 @@
   "DataAssinatura": "2023-07-01",
   "NumeroNSTermo": "2023NS000337",
   "ReferenciaExterna": "01245.006981/2023-93",
+  "ValorPFRecebido": 467340.0,
+  "QtdPF": 24,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "49c2da1e21b7d5368f7f9728b846371a1dd7b6d4"
+  "HashAPI": "f9897d615de0e9c82ec20498b91814dbaa3aadc5"
  },
  {
   "Title": "TED 943008/2023",
@@ -3194,8 +3682,12 @@
   "DataAssinatura": "2023-06-16",
   "NumeroNSTermo": "2023NS050016",
   "ReferenciaExterna": "25000.089054/2023-31",
+  "ValorPFRecebido": 342620156.39,
+  "QtdPF": 28,
+  "FontesRecurso": "1001A002EB, 1002A002EC, 1444A002EA",
+  "DataUltimaPF": "2026-07-13",
   "AvisoDados": null,
-  "HashAPI": "0af9110e40e09bdad68ded87f5a51d06dc068e0c"
+  "HashAPI": "54adf4687a7efdd6b7dc00bc5cdf90ecafc6039d"
  },
  {
   "Title": "TED 944802/2023",
@@ -3220,8 +3712,12 @@
   "DataAssinatura": "2023-07-03",
   "NumeroNSTermo": "2023NS054907",
   "ReferenciaExterna": "25000.102782/2023-46",
+  "ValorPFRecebido": 15048431.78,
+  "QtdPF": 3,
+  "FontesRecurso": "1001A003HY, 1002A002F7, 1444A002F6",
+  "DataUltimaPF": "2025-08-14",
   "AvisoDados": null,
-  "HashAPI": "bba69f01b9408f2686599b446f90e9f24c9ae0cf"
+  "HashAPI": "3b5660cd3a9bef1180b0dd4fdb543efd5cc4aabd"
  },
  {
   "Title": "TED 942203/2023",
@@ -3246,8 +3742,12 @@
   "DataAssinatura": "2023-06-28",
   "NumeroNSTermo": "2023NS002236",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 4281050.0,
+  "QtdPF": 45,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "7a20bb46f46ecbe4a5dd3aea7d4ccda9ca538e37"
+  "HashAPI": "60c2062a120d292e8e8e2e209cebb004c9b3e7e0"
  },
  {
   "Title": "TED 943087/2023",
@@ -3272,8 +3772,12 @@
   "DataAssinatura": "2023-06-28",
   "NumeroNSTermo": "2023NS000346",
   "ReferenciaExterna": "01245.009013/2023-39",
+  "ValorPFRecebido": 995810.0,
+  "QtdPF": 4,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2024-03-08",
   "AvisoDados": null,
-  "HashAPI": "fb9ae765f6053efd7fa93009a9b72eeff51294b4"
+  "HashAPI": "1711eba9c6e318569a5ffa216370d5126f9117f4"
  },
  {
   "Title": "TED 942894/2023",
@@ -3298,8 +3802,12 @@
   "DataAssinatura": "2023-07-04",
   "NumeroNSTermo": "2023NS000343",
   "ReferenciaExterna": "01245.008343/2023-15",
+  "ValorPFRecebido": 5874016.0,
+  "QtdPF": 33,
+  "FontesRecurso": "1000000000, 3129000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "067da6ea2d7de41532ab9817e1779b7079ea69f3"
+  "HashAPI": "e58f2083943ae63ccdfc9b7a846e270aaacc0d94"
  },
  {
   "Title": "TED 943086/2023",
@@ -3324,8 +3832,12 @@
   "DataAssinatura": "2023-07-31",
   "NumeroNSTermo": "2023NS001339",
   "ReferenciaExterna": "00350.001235/2023-43",
+  "ValorPFRecebido": 3246446.0,
+  "QtdPF": 21,
+  "FontesRecurso": "1000A00372, 1052A00375, 1444000000",
+  "DataUltimaPF": "2026-06-03",
   "AvisoDados": null,
-  "HashAPI": "181b9fb651aa130728e443f4cc25e092c6bc6cca"
+  "HashAPI": "9764356bde52dd3070c7feea58c7319e056dbf70"
  },
  {
   "Title": "TED 942893/2023",
@@ -3350,8 +3862,12 @@
   "DataAssinatura": "2023-07-04",
   "NumeroNSTermo": "2023NS000342",
   "ReferenciaExterna": "01245.008743/2023-12",
+  "ValorPFRecebido": 7752925.13,
+  "QtdPF": 38,
+  "FontesRecurso": "1000000000, 3129000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "394362765d1a3be351a5b08523eab919272ec187"
+  "HashAPI": "2e5c193f69f7e81a81faca51ece5557f0a8bb706"
  },
  {
   "Title": "TED 944186/2023",
@@ -3376,8 +3892,12 @@
   "DataAssinatura": "2023-08-08",
   "NumeroNSTermo": "2023NS000210",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 1200000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1034000000",
+  "DataUltimaPF": "2025-04-08",
   "AvisoDados": null,
-  "HashAPI": "524ac84939e4ef65bcbc115a6efd68a9ddea0593"
+  "HashAPI": "fc78b7a18e82e86e9ee60634fd14787ab1a00d14"
  },
  {
   "Title": "TED 944302/2023",
@@ -3402,8 +3922,12 @@
   "DataAssinatura": "2023-08-21",
   "NumeroNSTermo": "2023NS000391",
   "ReferenciaExterna": "01245.013968/2023-91",
+  "ValorPFRecebido": 7283769.99,
+  "QtdPF": 40,
+  "FontesRecurso": "1000000000, 3129000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "f8e3ade8b277bef829687fc1ea48c86675fda270"
+  "HashAPI": "2777c20463e0d962beb0c9416175e275d7943dbf"
  },
  {
   "Title": "TED 944301/2023",
@@ -3428,8 +3952,12 @@
   "DataAssinatura": "2023-08-21",
   "NumeroNSTermo": "2023NS000390",
   "ReferenciaExterna": "01245.011582/2023-44",
+  "ValorPFRecebido": 4963250.0,
+  "QtdPF": 34,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "72db38a457767b16231add1c20d457effbb78bd9"
+  "HashAPI": "ed63ae9ccd95c20a71cbd24bdb5f4670c1bc1aaf"
  },
  {
   "Title": "TED 943208/2023",
@@ -3454,8 +3982,12 @@
   "DataAssinatura": "2023-07-24",
   "NumeroNSTermo": "2023NS000347",
   "ReferenciaExterna": "01245.009106/2023-63",
+  "ValorPFRecebido": 5407000.0,
+  "QtdPF": 34,
+  "FontesRecurso": "1000000000, 3000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "4341e0b32264174f17d1c53fc3a8f62962888f79"
+  "HashAPI": "80a276a04f0f403e9f64b30bb27b812c04a1b5ae"
  },
  {
   "Title": "TED 944303/2023",
@@ -3480,8 +4012,12 @@
   "DataAssinatura": "2023-08-16",
   "NumeroNSTermo": "2023NS000392",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 500000.0,
+  "QtdPF": 4,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2024-03-20",
   "AvisoDados": null,
-  "HashAPI": "2aecb75301f31eace6b2a7d15f7cf8ac422fbea1"
+  "HashAPI": "510aca6b026277b683135515bdd0d8000d201689"
  },
  {
   "Title": "TED 945425/2023",
@@ -3506,8 +4042,12 @@
   "DataAssinatura": "2023-08-16",
   "NumeroNSTermo": "2023NS000435",
   "ReferenciaExterna": "01245.004274/2023-62",
+  "ValorPFRecebido": 500000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2023-12-18",
   "AvisoDados": null,
-  "HashAPI": "6f4c22f027d4d9a50b76cce627f32840841b81c6"
+  "HashAPI": "8a96653bd5178b97ae1b713aaa95f2ac31a681e2"
  },
  {
   "Title": "TED 944187/2023",
@@ -3532,8 +4072,12 @@
   "DataAssinatura": "2023-08-09",
   "NumeroNSTermo": "2023NS000385",
   "ReferenciaExterna": "01245.013204/2023-03",
+  "ValorPFRecebido": 4998579.7,
+  "QtdPF": 9,
+  "FontesRecurso": "1444000000",
+  "DataUltimaPF": "2024-06-24",
   "AvisoDados": null,
-  "HashAPI": "092b4f7ec1a4432d16c95910096fd523cc298f18"
+  "HashAPI": "ab3aedd57c07ae43a83fc16f7e3198c59fdce8d8"
  },
  {
   "Title": "TED 945424/2023",
@@ -3558,8 +4102,12 @@
   "DataAssinatura": "2023-08-22",
   "NumeroNSTermo": "2023NS000434",
   "ReferenciaExterna": "01245.015140/2023-77",
+  "ValorPFRecebido": 7470000.0,
+  "QtdPF": 8,
+  "FontesRecurso": "1444000000",
+  "DataUltimaPF": "2024-04-23",
   "AvisoDados": null,
-  "HashAPI": "71178bfc83b3ff5bafc0c45de3be1eb47b79463d"
+  "HashAPI": "ab3bebe68cc08f1df1c603f9d3dc7b15b647e9e9"
  },
  {
   "Title": "Plano 1371 (sem número)",
@@ -3584,8 +4132,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "3005bd182c88cac198a7dc537dc9e66e0de0e718"
+  "HashAPI": "dd463cfc8c42c815636ee23c036e7a52e019bee6"
  },
  {
   "Title": "TED 946016/2023",
@@ -3610,8 +4162,12 @@
   "DataAssinatura": "2023-09-08",
   "NumeroNSTermo": "2023NS000456",
   "ReferenciaExterna": "01245.006053/2023-29",
+  "ValorPFRecebido": 18471.98,
+  "QtdPF": 3,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-16",
   "AvisoDados": null,
-  "HashAPI": "7434dbcc686c32e17bc3a1ad5bc1e1cc5c61959c"
+  "HashAPI": "ed97110028b09b4747c44400615c6353b61f14b7"
  },
  {
   "Title": "TED 946358/2023",
@@ -3636,8 +4192,12 @@
   "DataAssinatura": "2023-10-02",
   "NumeroNSTermo": "2023NS001441",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 5544812.01,
+  "QtdPF": 23,
+  "FontesRecurso": "1000000000, 1000A0034X, 1000A003OM, 1444000000",
+  "DataUltimaPF": "2025-07-03",
   "AvisoDados": null,
-  "HashAPI": "1c23919dfd504fc3c514f0441fbacefb33a3c961"
+  "HashAPI": "b877674c5ba13ef7db1a3e9910c587414052b1b3"
  },
  {
   "Title": "TED 946357/2023",
@@ -3662,8 +4222,12 @@
   "DataAssinatura": "2023-10-02",
   "NumeroNSTermo": "2023NS001443",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 3808000.0,
+  "QtdPF": 6,
+  "FontesRecurso": "1444000000",
+  "DataUltimaPF": "2024-09-23",
   "AvisoDados": null,
-  "HashAPI": "8f6fc58e78637b373cca9c903075b0701bc232f3"
+  "HashAPI": "88f785f5dd4d3c6297b4da7ce97d44c9b3e8085d"
  },
  {
   "Title": "TED 945930/2023",
@@ -3688,8 +4252,12 @@
   "DataAssinatura": "2023-09-22",
   "NumeroNSTermo": "2023NS000455",
   "ReferenciaExterna": "01245.018269/2023-37",
+  "ValorPFRecebido": 1023950.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2023-12-29",
   "AvisoDados": null,
-  "HashAPI": "36610a009e1512d6b25b8092495ab94b83e42ae8"
+  "HashAPI": "0c5eb33e2a37da2b1b3e3cc5e664a52b3e8a5b02"
  },
  {
   "Title": "TED 950346/2023",
@@ -3714,8 +4282,12 @@
   "DataAssinatura": "2023-11-01",
   "NumeroNSTermo": "2023NS002169",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 2000000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1444000000",
+  "DataUltimaPF": "2023-12-08",
   "AvisoDados": null,
-  "HashAPI": "3b7c68ebb7ed35976da457e01e67083f61eec602"
+  "HashAPI": "65480cb4604874769d2d9fb1b045fc69f9d1a589"
  },
  {
   "Title": "TED 947579/2023",
@@ -3740,8 +4312,12 @@
   "DataAssinatura": "2023-10-20",
   "NumeroNSTermo": "2023NS000499",
   "ReferenciaExterna": "01245.019040/2023-10",
+  "ValorPFRecebido": 2561510.0,
+  "QtdPF": 32,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "2ccb8e0a5516cc6ec2f54b4544c0f7de90251209"
+  "HashAPI": "71b253a27c320f50979b890fb11263bc7c0d9eb1"
  },
  {
   "Title": "TED 948049/2023",
@@ -3766,8 +4342,12 @@
   "DataAssinatura": "2023-09-30",
   "NumeroNSTermo": "2023NS004350",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 12095850.0,
+  "QtdPF": 47,
+  "FontesRecurso": "1000000000, 1001A003CS, 1052000186, 1070000000, 3000000000",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "e21062b3bb51ef46484b0bfed3a3cf1da415edc4"
+  "HashAPI": "258dbff0a5d6605f8f3788731a09a6151c1d4916"
  },
  {
   "Title": "TED 948601/2023",
@@ -3792,8 +4372,12 @@
   "DataAssinatura": "2023-11-06",
   "NumeroNSTermo": "2023NS000514",
   "ReferenciaExterna": "01245.017705/2023-51",
+  "ValorPFRecebido": 300000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2024-01-31",
   "AvisoDados": null,
-  "HashAPI": "283355e5b3ce25637a35a8d88cd8d6fa97cd5390"
+  "HashAPI": "5a383a19122b84bdfb691a0f9f7095254ee71155"
  },
  {
   "Title": "TED 949750/2023",
@@ -3818,8 +4402,12 @@
   "DataAssinatura": "2023-11-09",
   "NumeroNSTermo": "2023NS002183",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 540000.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1000A0037F, 1444000000",
+  "DataUltimaPF": "2024-12-03",
   "AvisoDados": null,
-  "HashAPI": "dae6e6111425bfb1b0ce6f326e97ac487c478cf6"
+  "HashAPI": "244cc2adaaa89343518c807443015298eb3e76e1"
  },
  {
   "Title": "Plano 1628 (sem número)",
@@ -3844,8 +4432,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "d7f6aeaf3c5386531987f2f33c5e50ffc9b3d656"
+  "HashAPI": "adac01308386df13187dc010bf729c10d680200c"
  },
  {
   "Title": "TED 947862/2023",
@@ -3870,8 +4462,12 @@
   "DataAssinatura": "2023-10-23",
   "NumeroNSTermo": "2023NS005979",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 1981751.64,
+  "QtdPF": 13,
+  "FontesRecurso": "1444A002I5, 1444A002i5",
+  "DataUltimaPF": "2025-11-25",
   "AvisoDados": null,
-  "HashAPI": "c40048645845e4cdd9ff9543822e363ae349ecd7"
+  "HashAPI": "a8d619dfa0631954958ee32672bb457bb6e81fdf"
  },
  {
   "Title": "TED 951593/2023",
@@ -3896,8 +4492,12 @@
   "DataAssinatura": "2023-12-07",
   "NumeroNSTermo": "2023NS008559",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 95618581.07,
+  "QtdPF": 8,
+  "FontesRecurso": "1050000091",
+  "DataUltimaPF": "2025-06-17",
   "AvisoDados": null,
-  "HashAPI": "ca1c7fcea0acd897a3d7d494c2841b5634b7808e"
+  "HashAPI": "0c9ef04423b5af1738d1d556da3cd432c930b4be"
  },
  {
   "Title": "TED 951631/2023",
@@ -3922,8 +4522,12 @@
   "DataAssinatura": "2023-12-11",
   "NumeroNSTermo": "2023NS008565",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 53853271.78,
+  "QtdPF": 9,
+  "FontesRecurso": "1050000091, 1052000091",
+  "DataUltimaPF": "2024-12-20",
   "AvisoDados": null,
-  "HashAPI": "e1ff454acc1b92efb76229edc5fb4f44d51d4f41"
+  "HashAPI": "b07555ffb3ada30850d8abc1f31741d9d5e1f181"
  },
  {
   "Title": "TED 948600/2023",
@@ -3948,8 +4552,12 @@
   "DataAssinatura": "2023-11-06",
   "NumeroNSTermo": "2023NS000513",
   "ReferenciaExterna": "01245.013176/2023-16",
+  "ValorPFRecebido": 560000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2023-12-21",
   "AvisoDados": null,
-  "HashAPI": "b9a07513401b3858145db10dddebcce7dfb6c0af"
+  "HashAPI": "b957358e5c1ebfd393ad0003cc58212f547ef8df"
  },
  {
   "Title": "TED 951805/2023",
@@ -3974,8 +4582,12 @@
   "DataAssinatura": "2023-12-08",
   "NumeroNSTermo": "2023NS000217",
   "ReferenciaExterna": "19965200256202340",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "118752335ce34b6bf857cb9fccafb3297dfd0a74"
+  "HashAPI": "7233a3634956ec8bcb7aecd3f0b6868f32740871"
  },
  {
   "Title": "TED 950066/2023",
@@ -4000,8 +4612,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": "2023NS001803",
   "ReferenciaExterna": "47648.001274/2023-79",
+  "ValorPFRecebido": 3162380.01,
+  "QtdPF": 19,
+  "FontesRecurso": "1000000000, 1000A003AM, 1050A00383",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": "DataAssinatura inválida na API: 0232-12-21",
-  "HashAPI": "122c326acd4ee4ce2151ffc16221bd4b1b298dd9"
+  "HashAPI": "1bc6e7de448a805b6a5b2978820ad43264d8f45e"
  },
  {
   "Title": "TED 950065/2023",
@@ -4026,8 +4642,12 @@
   "DataAssinatura": "2023-11-24",
   "NumeroNSTermo": "2023NS000583",
   "ReferenciaExterna": "01245.020378/2023-14",
+  "ValorPFRecebido": 500000.0,
+  "QtdPF": 14,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-03-27",
   "AvisoDados": null,
-  "HashAPI": "eb995eafdfc6332221d33c00f2a9094f48eb1358"
+  "HashAPI": "aa6e2e1a9dfb48b83deaa292335790494c36fa75"
  },
  {
   "Title": "TED 950134/2023",
@@ -4052,8 +4672,12 @@
   "DataAssinatura": "2023-11-22",
   "NumeroNSTermo": "2023NS000584",
   "ReferenciaExterna": "01245.018510/2023-28",
+  "ValorPFRecebido": 260520.0,
+  "QtdPF": 23,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "60b9d51157649beb56f1c6469e2e32fab886cdc8"
+  "HashAPI": "bb73eb42e7416daa932cc403b29db74c00710394"
  },
  {
   "Title": "TED 950916/2023",
@@ -4078,8 +4702,12 @@
   "DataAssinatura": "2023-12-06",
   "NumeroNSTermo": "2023NS031694",
   "ReferenciaExterna": "03607.000216/2023-39",
+  "ValorPFRecebido": 3500000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1444000000",
+  "DataUltimaPF": "2023-12-12",
   "AvisoDados": null,
-  "HashAPI": "d3f331b64e306ae27a69b49808f79579112faaf3"
+  "HashAPI": "a6bf5579e60b642979e15f14d843e6eac4de29d2"
  },
  {
   "Title": "TED 956046/2024",
@@ -4104,8 +4732,12 @@
   "DataAssinatura": "2024-02-22",
   "NumeroNSTermo": "2024NS003801",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 19028300.01,
+  "QtdPF": 11,
+  "FontesRecurso": "1100000000",
+  "DataUltimaPF": "2026-05-29",
   "AvisoDados": null,
-  "HashAPI": "2e3fbc24352deedd288cd328438b4f205e7e3542"
+  "HashAPI": "6e716dfb0d406e4fb70811805eb3fa766a243646"
  },
  {
   "Title": "TED 951392/2023",
@@ -4130,8 +4762,12 @@
   "DataAssinatura": "2023-12-08",
   "NumeroNSTermo": "2023NS003572",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 5934616.0,
+  "QtdPF": 14,
+  "FontesRecurso": "1000A0034V, 1444000000, 3052000406",
+  "DataUltimaPF": "2026-06-12",
   "AvisoDados": null,
-  "HashAPI": "9ad6eeaa9bbd1ea614f8e93a2725a4bd28ac33ae"
+  "HashAPI": "c65018bd60ddee979b315cf555719e978d9851ad"
  },
  {
   "Title": "TED 954473/2023",
@@ -4156,8 +4792,12 @@
   "DataAssinatura": "2023-12-08",
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "8c5cc60a1149adcb1be5ac64c328fb1afcaefb79"
+  "HashAPI": "2f2a7f5a99684439c150b735ef380f490c78c3ee"
  },
  {
   "Title": "Plano 2223 (sem número)",
@@ -4182,8 +4822,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "1fc276efbbfa7129fd2ecd3b14bc9ee52ce243b0"
+  "HashAPI": "a8373f47890ee3823ae959bb0b79a10005901de1"
  },
  {
   "Title": "TED 951763/2023",
@@ -4208,8 +4852,12 @@
   "DataAssinatura": "2023-12-09",
   "NumeroNSTermo": "2023NS031700",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 15000000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1444000000",
+  "DataUltimaPF": "2023-12-13",
   "AvisoDados": null,
-  "HashAPI": "8ec0c1002cac35580a58c2f2002a52cc14e9d4c6"
+  "HashAPI": "9a497c7d96bd52cd3d83265493ddf5d93c978531"
  },
  {
   "Title": "TED 952057/2023",
@@ -4234,8 +4882,12 @@
   "DataAssinatura": "2023-12-12",
   "NumeroNSTermo": "2023NS021224",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 3490480.0,
+  "QtdPF": 16,
+  "FontesRecurso": "1000A002NE",
+  "DataUltimaPF": "2025-10-30",
   "AvisoDados": null,
-  "HashAPI": "8bec1b9fa2a8010d935f8e1ab4ce0c3045e40394"
+  "HashAPI": "4f75e7b1458ae8dd5ee55f09e3f8de4504bc38e8"
  },
  {
   "Title": "TED 952131/2023",
@@ -4260,8 +4912,12 @@
   "DataAssinatura": "2023-12-12",
   "NumeroNSTermo": "2023NS021225",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 2420218.0,
+  "QtdPF": 17,
+  "FontesRecurso": "1000A002NM, 1049A002NK",
+  "DataUltimaPF": "2025-08-25",
   "AvisoDados": null,
-  "HashAPI": "c895339a0d3b8781306d2a9ba566464d80067757"
+  "HashAPI": "f96a9f0c34624f1a3ab16abc567d7dc8f9784eee"
  },
  {
   "Title": "TED 953155/2023",
@@ -4286,8 +4942,12 @@
   "DataAssinatura": "2023-12-11",
   "NumeroNSTermo": "2023NS000643",
   "ReferenciaExterna": "01245.004285/2023-42",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "9a80425e6272c2787ef4d0874b8576bd69b1133f"
+  "HashAPI": "6c695a92280c922dc03ae5b6d96303043e6207bd"
  },
  {
   "Title": "TED 953998/2023",
@@ -4312,8 +4972,12 @@
   "DataAssinatura": "2023-12-11",
   "NumeroNSTermo": "2023NS000664",
   "ReferenciaExterna": "01245.017076/2023-69",
+  "ValorPFRecebido": 400000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2024-07-02",
   "AvisoDados": null,
-  "HashAPI": "289d05accd346f50938bc08f5c2c7be882c96670"
+  "HashAPI": "d581965448b955156fc23c802e08a60b700ae5d1"
  },
  {
   "Title": "TED 956797/2024",
@@ -4338,8 +5002,12 @@
   "DataAssinatura": "2024-04-09",
   "NumeroNSTermo": "2024NS013791",
   "ReferenciaExterna": "25030.000232/2024-17",
+  "ValorPFRecebido": 6000000.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1001A0030W, 1002A003TC",
+  "DataUltimaPF": "2025-10-06",
   "AvisoDados": null,
-  "HashAPI": "af7975671749a042e9aa078005eb0cc4c6ab99ff"
+  "HashAPI": "c36f05410c5197592ac74476c7d74790c6dd3410"
  },
  {
   "Title": "TED 955739/2024",
@@ -4364,8 +5032,12 @@
   "DataAssinatura": "2024-03-26",
   "NumeroNSTermo": "2024NS000135",
   "ReferenciaExterna": "01245.003126/2024-10",
+  "ValorPFRecebido": 5128590.79,
+  "QtdPF": 25,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-05-13",
   "AvisoDados": null,
-  "HashAPI": "6a8df52d44fd9a81bdf1e2ae0152d6d63824b71e"
+  "HashAPI": "51f3da1e2855fd1f96150c8074bc1cec309860a3"
  },
  {
   "Title": "TED 956243/2024",
@@ -4390,8 +5062,12 @@
   "DataAssinatura": "2024-04-11",
   "NumeroNSTermo": "2024NS001116",
   "ReferenciaExterna": "01420.100743/2024-86",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "c64d6e6124e2ef4dee4b7b6409b359a9707233ad"
+  "HashAPI": "bad2d38440062a8512d3cbdd35c9b4795375d2c1"
  },
  {
   "Title": "TED 956865/2024",
@@ -4416,8 +5092,12 @@
   "DataAssinatura": "2024-04-23",
   "NumeroNSTermo": "2024NS000576",
   "ReferenciaExterna": "21290.201128/2024-26",
+  "ValorPFRecebido": 5938000.0,
+  "QtdPF": 20,
+  "FontesRecurso": "1000000000, 1000A003OM",
+  "DataUltimaPF": "2026-07-07",
   "AvisoDados": null,
-  "HashAPI": "8c5ca0f25acd9c6feaa398f237e6e39d48679964"
+  "HashAPI": "5a6d8534f1447d30f2c48db43f8cd6b0081f5c28"
  },
  {
   "Title": "TED 965107/2024",
@@ -4442,8 +5122,12 @@
   "DataAssinatura": "2024-06-26",
   "NumeroNSTermo": "2024NS000312",
   "ReferenciaExterna": "01245.000391/2024-38",
+  "ValorPFRecebido": 250000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-03-28",
   "AvisoDados": null,
-  "HashAPI": "2fe795ce4a025c8f6927826f0d53be5fffbb0529"
+  "HashAPI": "8639605d334468fceff1af4b2e9eff1107b49d51"
  },
  {
   "Title": "TED 961796/2024",
@@ -4468,8 +5152,12 @@
   "DataAssinatura": "2024-05-31",
   "NumeroNSTermo": "2024NS005241",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 93799822.86,
+  "QtdPF": 24,
+  "FontesRecurso": "1050000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "bf22295cdb39ca5b1c9e9b6964e3637911a7fcc2"
+  "HashAPI": "87b11a2a38db1a2ae0799cdee98e3d1e7ab71405"
  },
  {
   "Title": "TED 962272/2024",
@@ -4494,8 +5182,12 @@
   "DataAssinatura": "2024-04-19",
   "NumeroNSTermo": "2024NS083571",
   "ReferenciaExterna": "25000.047081/2024-18",
+  "ValorPFRecebido": 44109817.0,
+  "QtdPF": 10,
+  "FontesRecurso": "1001A0035A, 1002A003S5",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "1081d5e7c26a702cc910c25fad2ba9b7d85b2f47"
+  "HashAPI": "fbd2f9574cb834d5e7aa8a177131fcfe6f229a3b"
  },
  {
   "Title": "TED 959223/2024",
@@ -4520,8 +5212,12 @@
   "DataAssinatura": "2024-04-30",
   "NumeroNSTermo": "2024NS000240",
   "ReferenciaExterna": "01245.002255/2024-82",
+  "ValorPFRecebido": 14973290.72,
+  "QtdPF": 3,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2024-12-23",
   "AvisoDados": null,
-  "HashAPI": "03b33e13823b1c4d6d9af4bb0653b2a81e47a8a6"
+  "HashAPI": "5264b1ea42006b5e50bf0c5d1bf58d6438b33ead"
  },
  {
   "Title": "TED 958214/2024",
@@ -4546,8 +5242,12 @@
   "DataAssinatura": "2024-04-30",
   "NumeroNSTermo": "2024NS000615",
   "ReferenciaExterna": "21290.200530/2024-93",
+  "ValorPFRecebido": 5010151.2,
+  "QtdPF": 26,
+  "FontesRecurso": "1000000000, 1000A003FG, 1000A003OP",
+  "DataUltimaPF": "2026-07-07",
   "AvisoDados": null,
-  "HashAPI": "f462ab9b3944630ca3569ac458db3b6f2fc32c41"
+  "HashAPI": "f4ea69cc3da6a75d222c92784975a3e7e9bd8e70"
  },
  {
   "Title": "TED 965955/2024",
@@ -4572,8 +5272,12 @@
   "DataAssinatura": "2024-04-22",
   "NumeroNSTermo": "2024NS096802",
   "ReferenciaExterna": "25000.081133/2024-85",
+  "ValorPFRecebido": 7846731.7,
+  "QtdPF": 4,
+  "FontesRecurso": "1001A0037V, 1002A003RH",
+  "DataUltimaPF": "2026-05-25",
   "AvisoDados": null,
-  "HashAPI": "dd0a0453983018a13c6043a1e2ec5946d80f5741"
+  "HashAPI": "5104675952c91d1b230b474b4d5e72626c0a64e4"
  },
  {
   "Title": "TED 958496/2024",
@@ -4598,8 +5302,12 @@
   "DataAssinatura": "2024-04-29",
   "NumeroNSTermo": "2024NS000189",
   "ReferenciaExterna": "01245.004552/2024-62",
+  "ValorPFRecebido": 1094250.0,
+  "QtdPF": 15,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "362928daf000d602a39377f5657aeb6f7d7bb028"
+  "HashAPI": "e92ba94fc24e76560cf3ee96d15d053a1bfd3802"
  },
  {
   "Title": "TED 965108/2024",
@@ -4624,8 +5332,12 @@
   "DataAssinatura": "2024-07-03",
   "NumeroNSTermo": "2024NS005805",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 148141967.17,
+  "QtdPF": 30,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "09d3434e61bfbee798e702e0ac2249f2f372e4fe"
+  "HashAPI": "628e7d39bb39249297d00cc07eb92a7aaa2034d2"
  },
  {
   "Title": "TED 965106/2024",
@@ -4650,8 +5362,12 @@
   "DataAssinatura": "2024-07-03",
   "NumeroNSTermo": "2024NS005804",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 364940693.17,
+  "QtdPF": 21,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-06-18",
   "AvisoDados": null,
-  "HashAPI": "c5ea076c6bea23371cff6f7e309c68dfe25a306d"
+  "HashAPI": "09125461c6b4b5cfd32e12b2c0fccae059184a56"
  },
  {
   "Title": "TED 958668/2024",
@@ -4676,8 +5392,12 @@
   "DataAssinatura": "2024-05-10",
   "NumeroNSTermo": "2024NS001347",
   "ReferenciaExterna": "59000.015113/2023-57",
+  "ValorPFRecebido": 18909255.36,
+  "QtdPF": 6,
+  "FontesRecurso": "1000000000, 1000A0037P, 3129A004GK",
+  "DataUltimaPF": "2026-07-23",
   "AvisoDados": null,
-  "HashAPI": "92c0077d6db686d6beff847142015613d09392b7"
+  "HashAPI": "a37a7997cba49f3bd17e71f56ce8a907d0471d31"
  },
  {
   "Title": "TED 966104/2024",
@@ -4702,8 +5422,12 @@
   "DataAssinatura": "2024-07-01",
   "NumeroNSTermo": "2024NS006056",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 207100.0,
+  "QtdPF": 5,
+  "FontesRecurso": "1098000000",
+  "DataUltimaPF": "2025-02-04",
   "AvisoDados": null,
-  "HashAPI": "f570a45e2188dbebab19b98aa3ac9392d75e26c9"
+  "HashAPI": "cd98c00c1b73587e66e52bbff58a83ae8ffea01f"
  },
  {
   "Title": "TED 959629/2024",
@@ -4728,8 +5452,12 @@
   "DataAssinatura": "2024-05-07",
   "NumeroNSTermo": "2024NS000245",
   "ReferenciaExterna": "01245.002183/2024-73",
+  "ValorPFRecebido": 1883800.5,
+  "QtdPF": 8,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-06-29",
   "AvisoDados": null,
-  "HashAPI": "cf73b1cc7bfaca5e4b9d2b779f3baaf31c197a5a"
+  "HashAPI": "b0919f18c9205912a13e9f8aa5ddf9641ae5b1cd"
  },
  {
   "Title": "TED 973878/2025",
@@ -4754,8 +5482,12 @@
   "DataAssinatura": "2025-03-17",
   "NumeroNSTermo": "2025NS002844",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 1117800.0,
+  "QtdPF": 9,
+  "FontesRecurso": "1050000091",
+  "DataUltimaPF": "2026-07-07",
   "AvisoDados": null,
-  "HashAPI": "15c17bd25a78148226d2a7744a334f6bd8b72be8"
+  "HashAPI": "fbe44c3f1567f02ec3d6009f3c7134292282727e"
  },
  {
   "Title": "TED 966128/2024",
@@ -4780,8 +5512,12 @@
   "DataAssinatura": "2024-07-01",
   "NumeroNSTermo": "2024NS006068",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 1466127.7,
+  "QtdPF": 13,
+  "FontesRecurso": "1110000000",
+  "DataUltimaPF": "2025-07-01",
   "AvisoDados": null,
-  "HashAPI": "f9469b9585c7720efce8e90a0d07b5dfa1623bc5"
+  "HashAPI": "a50e156e7e196e809cea9e2d26321147d3d47201"
  },
  {
   "Title": "TED 965954/2024",
@@ -4806,8 +5542,12 @@
   "DataAssinatura": "2024-06-10",
   "NumeroNSTermo": "2024NS096801",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 155184221.28,
+  "QtdPF": 19,
+  "FontesRecurso": "1001A0037U, 1002A004AF",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "d6c27beae19b6ce8b1d82492004eb35fd52b215b"
+  "HashAPI": "1734945581da9963d19b2b581342bac529979b8b"
  },
  {
   "Title": "TED 967039/2024",
@@ -4832,8 +5572,12 @@
   "DataAssinatura": "2024-07-08",
   "NumeroNSTermo": "2024NS018219",
   "ReferenciaExterna": "25383.000135/2024-24",
+  "ValorPFRecebido": 4227044.61,
+  "QtdPF": 5,
+  "FontesRecurso": "1001A003CN, 1001A0047N, 1002A003U7",
+  "DataUltimaPF": "2026-02-25",
   "AvisoDados": null,
-  "HashAPI": "fe9e7336087dca11d89254ee7623114533c926fa"
+  "HashAPI": "d48a25592c913c84f64c1f1784e9626103c90c40"
  },
  {
   "Title": "TED 964033/2024",
@@ -4858,8 +5602,12 @@
   "DataAssinatura": "2024-06-19",
   "NumeroNSTermo": "2024NS000279",
   "ReferenciaExterna": "01245.008372/2024-50",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "c6c9d4f1b60bb63265add57dbb86d0619368ed30"
+  "HashAPI": "d6eb870f54114083ef08709d8fa5286feb762a1f"
  },
  {
   "Title": "TED 966361/2024",
@@ -4884,8 +5632,12 @@
   "DataAssinatura": "2024-07-16",
   "NumeroNSTermo": "2024NS006139",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 225994150.37,
+  "QtdPF": 23,
+  "FontesRecurso": "1050000091, 1052000091, 1099000000, 3050000091",
+  "DataUltimaPF": "2026-02-05",
   "AvisoDados": null,
-  "HashAPI": "c3fea53851bcd15987e737581640a1487177fc9e"
+  "HashAPI": "3e531ae0b33179cf6119d1c8f1fcd1edde36706c"
  },
  {
   "Title": "TED 966909/2024",
@@ -4910,8 +5662,12 @@
   "DataAssinatura": "2024-08-01",
   "NumeroNSTermo": "2024NS006355",
   "ReferenciaExterna": "Referência 1740/24",
+  "ValorPFRecebido": 4527650.37,
+  "QtdPF": 3,
+  "FontesRecurso": "1105000000",
+  "DataUltimaPF": "2024-12-04",
   "AvisoDados": null,
-  "HashAPI": "1f6933ca08553c01bd94820ecdbee13634c43733"
+  "HashAPI": "5a83b3f523c368335ff844bd41fbdfbe59e547fa"
  },
  {
   "Title": "TED 967198/2024",
@@ -4936,8 +5692,12 @@
   "DataAssinatura": "2024-08-13",
   "NumeroNSTermo": "2024NS000383",
   "ReferenciaExterna": "01245.003549/2024-21",
+  "ValorPFRecebido": 732252.93,
+  "QtdPF": 4,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-07-16",
   "AvisoDados": null,
-  "HashAPI": "2bb33f1bd1deca6d4d05e83b8614237c12693e84"
+  "HashAPI": "e15bd109a111dbea64a3e57e6a2e7f1683e9de74"
  },
  {
   "Title": "TED 966978/2024",
@@ -4962,8 +5722,12 @@
   "DataAssinatura": "2024-08-09",
   "NumeroNSTermo": "2024NS018133",
   "ReferenciaExterna": "25387.000496/2024-31",
+  "ValorPFRecebido": 2434798.8,
+  "QtdPF": 4,
+  "FontesRecurso": "1001A003A1, 1002A0041Y",
+  "DataUltimaPF": "2025-09-25",
   "AvisoDados": null,
-  "HashAPI": "6b74769ea5263a8dfdde6dc7e3435ae8fa638b08"
+  "HashAPI": "da189993d56d00215f0e19c4742565e2444c20ab"
  },
  {
   "Title": "TED 965182/2024",
@@ -4988,8 +5752,12 @@
   "DataAssinatura": "2024-04-02",
   "NumeroNSTermo": "2024NS000325",
   "ReferenciaExterna": "01245.000471/2024-93",
+  "ValorPFRecebido": 200000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2024-12-12",
   "AvisoDados": null,
-  "HashAPI": "f3957785135128b4988872c3eb3d7c95c41b3818"
+  "HashAPI": "1cc863e564fd84b60b8975c427866c6e6c93450f"
  },
  {
   "Title": "TED 969109/2024",
@@ -5014,8 +5782,12 @@
   "DataAssinatura": "2024-10-04",
   "NumeroNSTermo": "2024NS007459",
   "ReferenciaExterna": "02501.003436/2024-11",
+  "ValorPFRecebido": 1250860.0,
+  "QtdPF": 7,
+  "FontesRecurso": "3071000000",
+  "DataUltimaPF": "2026-06-09",
   "AvisoDados": null,
-  "HashAPI": "f1a1e93328a34e30a867984da3e0049ea4ffa11b"
+  "HashAPI": "802d2f4b739e1da638e55813c31e9244628e5dde"
  },
  {
   "Title": "TED 969108/2024",
@@ -5040,8 +5812,12 @@
   "DataAssinatura": "2024-10-11",
   "NumeroNSTermo": "2024NS008519",
   "ReferenciaExterna": "1784/24",
+  "ValorPFRecebido": 306254951.76,
+  "QtdPF": 34,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "01c59516988992864b3837411f5cf48245828869"
+  "HashAPI": "59f1a187ae9bd5515d719c24b6c3f05c95195678"
  },
  {
   "Title": "Plano 3049 (sem número)",
@@ -5066,8 +5842,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "b4baca6e670e4ba14570736761918e55cd26dfac"
+  "HashAPI": "a0ac3402c9da42580780e68500134b554983fa78"
  },
  {
   "Title": "TED 966746/2024",
@@ -5092,8 +5872,12 @@
   "DataAssinatura": "2024-07-30",
   "NumeroNSTermo": "2024NS000348",
   "ReferenciaExterna": "01245.010119/2024-66",
+  "ValorPFRecebido": 17625.0,
+  "QtdPF": 5,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-04-17",
   "AvisoDados": null,
-  "HashAPI": "4c1ed947c3df4e5393148463f306244a97cc4115"
+  "HashAPI": "2b1d27323a7554f1e5c2ea596bee5ad941c5c742"
  },
  {
   "Title": "TED 968963/2024",
@@ -5118,8 +5902,12 @@
   "DataAssinatura": "2024-10-09",
   "NumeroNSTermo": "2024NS008449",
   "ReferenciaExterna": "Ref. Finep 2325/24",
+  "ValorPFRecebido": 9478456.0,
+  "QtdPF": 16,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "be1f12347f01c442c2c95a7d433d65f40c54a4db"
+  "HashAPI": "cb204c04e27eb71ae3c50db45993d0d7bb63c4e4"
  },
  {
   "Title": "TED 966968/2024",
@@ -5144,8 +5932,12 @@
   "DataAssinatura": "2024-08-07",
   "NumeroNSTermo": "2024NS000377",
   "ReferenciaExterna": "01245.000495/2024-42",
+  "ValorPFRecebido": 2700000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1000000000, 3000000000",
+  "DataUltimaPF": "2025-02-13",
   "AvisoDados": null,
-  "HashAPI": "27bd6981d0d02d55d3d1808e0ef178aa77405a04"
+  "HashAPI": "08dd7b058ba328b287b8d9311e6fcdc45dc5b13f"
  },
  {
   "Title": "TED 969106/2024",
@@ -5170,8 +5962,12 @@
   "DataAssinatura": "2024-10-15",
   "NumeroNSTermo": "2024NS008518",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "7beef244915959985f60b389ad805cac7c7b098f"
+  "HashAPI": "a11922de9673253a69f15899881053837a4c376a"
  },
  {
   "Title": "TED 967515/2024",
@@ -5196,8 +5992,12 @@
   "DataAssinatura": "2024-08-19",
   "NumeroNSTermo": "2024NS003651",
   "ReferenciaExterna": "01340.007174/2023-18",
+  "ValorPFRecebido": 714350.0,
+  "QtdPF": 30,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "2a27650a0c2fac4e9a90256886deffdecc316c65"
+  "HashAPI": "64beb1ba1ec2ca7d0a34da68c753a201e83ec126"
  },
  {
   "Title": "TED 967516/2024",
@@ -5222,8 +6022,12 @@
   "DataAssinatura": "2024-09-02",
   "NumeroNSTermo": "2024NS003650",
   "ReferenciaExterna": "01340.004197/2024-43",
+  "ValorPFRecebido": 8362250.0,
+  "QtdPF": 29,
+  "FontesRecurso": "1000000000, 3000000000",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "6d7222081f0dfc0a6783e314a329706fa1de5c88"
+  "HashAPI": "e2f0deeddc571d15d1f5b09161b021b25ef2236e"
  },
  {
   "Title": "TED 967721/2024",
@@ -5248,8 +6052,12 @@
   "DataAssinatura": "2024-08-30",
   "NumeroNSTermo": "2024NS000652",
   "ReferenciaExterna": "01208.000167/2024-92",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "ab516e0a2bc2f62228d03a9199bde0afb686333c"
+  "HashAPI": "a0c2b96363b5cf5a328dea4a19c3268a25702dd3"
  },
  {
   "Title": "TED 968507/2024",
@@ -5274,8 +6082,12 @@
   "DataAssinatura": "2024-09-20",
   "NumeroNSTermo": "2024NS008108",
   "ReferenciaExterna": "Referência Finep 2614/24",
+  "ValorPFRecebido": 10943496.0,
+  "QtdPF": 21,
+  "FontesRecurso": "1050000091, 1107000000",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "25a4bc6b28d7d05503edcd19cd3463fea66d37b0"
+  "HashAPI": "b73c6b709bdc5363746aadfd8a44dc9c9fc69f77"
  },
  {
   "Title": "TED 970696/2024",
@@ -5300,8 +6112,12 @@
   "DataAssinatura": "2024-12-06",
   "NumeroNSTermo": "2024NS002361",
   "ReferenciaExterna": "55000.012533/2024-10",
+  "ValorPFRecebido": 4812590.0,
+  "QtdPF": 5,
+  "FontesRecurso": "1000A0029P, 3129A0043C",
+  "DataUltimaPF": "2026-07-13",
   "AvisoDados": null,
-  "HashAPI": "78364f6d7aa891f2bf2ae83209dfc10694617034"
+  "HashAPI": "3a391f6a7c3116661eed80214a291d66ab73e369"
  },
  {
   "Title": "Plano 3278 (sem número)",
@@ -5326,8 +6142,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "8aebf6a663ae2933a14554e5a68d0297ebe20779"
+  "HashAPI": "78842f20c210da06d5a4062aeb83f2256eb50b46"
  },
  {
   "Title": "TED 968708/2024",
@@ -5352,8 +6172,12 @@
   "DataAssinatura": "2024-09-30",
   "NumeroNSTermo": "2024NS008219",
   "ReferenciaExterna": "Referência Finep nº 3132/24",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "c1b4ad07b1f02f2ffce59e7825aff43209cff3ed"
+  "HashAPI": "bd3e6bcc2677a8c468eabe27cbf368ebe8da8e0d"
  },
  {
   "Title": "TED 970202/2024",
@@ -5378,8 +6202,12 @@
   "DataAssinatura": "2024-12-05",
   "NumeroNSTermo": "2024NS002523",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "c044e97f077dc6058e9b75756a0bef683a65fa20"
+  "HashAPI": "78aea01d84905292912881c2a1a0e903d281b241"
  },
  {
   "Title": "Plano 3377 (sem número)",
@@ -5404,8 +6232,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "57752e9dae5d3775943dccdb36dcf91461f108f4"
+  "HashAPI": "44fe40325f7a2a03ca1662258fbea89d00e1cc58"
  },
  {
   "Title": "TED 972579/2024",
@@ -5430,8 +6262,12 @@
   "DataAssinatura": "2024-11-01",
   "NumeroNSTermo": "2024NS156549",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 1000000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1001A003M3",
+  "DataUltimaPF": "2025-12-16",
   "AvisoDados": null,
-  "HashAPI": "b667a63901ac2a73b3b89f128635c49b9034f0ec"
+  "HashAPI": "5bbb1e6a55413bf94cbb1536abed95de317ec12f"
  },
  {
   "Title": "TED 970676/2024",
@@ -5456,8 +6292,12 @@
   "DataAssinatura": "2024-12-05",
   "NumeroNSTermo": "2024NS000492",
   "ReferenciaExterna": "01245.006858/2024-53",
+  "ValorPFRecebido": 320000.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-03-16",
   "AvisoDados": null,
-  "HashAPI": "b341b4548e98ed01b7b85e8b3c4b9d7ca45eef72"
+  "HashAPI": "9285afb0996c4cb0f3a181b62ad57867817f3404"
  },
  {
   "Title": "TED 969166/2024",
@@ -5482,8 +6322,12 @@
   "DataAssinatura": "2024-11-11",
   "NumeroNSTermo": "2024NS006081",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 1289460.0,
+  "QtdPF": 13,
+  "FontesRecurso": "1000A003F8",
+  "DataUltimaPF": "2026-01-29",
   "AvisoDados": null,
-  "HashAPI": "b33013a1898510f6f7aee06eb29828f44c201c5d"
+  "HashAPI": "b9c1f8a2b13e802fa3a7869805640513cf5872a4"
  },
  {
   "Title": "Plano 3650 (sem número)",
@@ -5508,8 +6352,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "6159278262aab8ce496042fa2e0eb26b66196df7"
+  "HashAPI": "075f8bd4fe15f5cb45b0a9432c54f1a234a731ff"
  },
  {
   "Title": "TED 970042/2024",
@@ -5534,8 +6382,12 @@
   "DataAssinatura": "2024-11-29",
   "NumeroNSTermo": "2024NS005460",
   "ReferenciaExterna": "01340.007202/2024-70",
+  "ValorPFRecebido": 335400.0,
+  "QtdPF": 15,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-03",
   "AvisoDados": null,
-  "HashAPI": "5ce43015cad9c52387b63b9f477fceba61ea3b3a"
+  "HashAPI": "f716ee6e51c6c9b6abf7ec6e7cc35f1c77319dce"
  },
  {
   "Title": "TED 972488/2024",
@@ -5560,8 +6412,12 @@
   "DataAssinatura": "2024-12-02",
   "NumeroNSTermo": "2024NS009870",
   "ReferenciaExterna": "Referência: 3523/24",
+  "ValorPFRecebido": 67313410.94,
+  "QtdPF": 14,
+  "FontesRecurso": "1050000091, 1052000091, 1099000000",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "b3a8dd076471f38bae77660f20f31f89cf9a5307"
+  "HashAPI": "968f3af816c44e24f2132b74ccdd91d45401f125"
  },
  {
   "Title": "TED 970204/2024",
@@ -5586,8 +6442,12 @@
   "DataAssinatura": "2024-11-20",
   "NumeroNSTermo": "2024NS000489",
   "ReferenciaExterna": "01245.011393/2023-71",
+  "ValorPFRecebido": 158520.0,
+  "QtdPF": 12,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-08",
   "AvisoDados": null,
-  "HashAPI": "8048bd1c4e19e00d09daa59b38cac9c502924926"
+  "HashAPI": "066fac31b67b5e904ff67b8b06c05e55d7d20553"
  },
  {
   "Title": "TED 972171/2024",
@@ -5612,8 +6472,12 @@
   "DataAssinatura": "2024-10-16",
   "NumeroNSTermo": "2024NS000528",
   "ReferenciaExterna": "01245.002265/2024-18",
+  "ValorPFRecebido": 300000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-02-13",
   "AvisoDados": null,
-  "HashAPI": "0f72a93d9efb894384fbdd37b776bc4f6e92d933"
+  "HashAPI": "ead5f5e0a80ae4b0cce2ae2cdbc319b5677938ee"
  },
  {
   "Title": "TED 973508/2024",
@@ -5638,8 +6502,12 @@
   "DataAssinatura": "2024-12-30",
   "NumeroNSTermo": "2024NS000362",
   "ReferenciaExterna": "02000.013502/2024-10",
+  "ValorPFRecebido": 500000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000A003MU",
+  "DataUltimaPF": "2025-01-24",
   "AvisoDados": null,
-  "HashAPI": "d771de4fbd244735411b0e19f4433e1b544d9f7c"
+  "HashAPI": "ab3b5ef887f53618becc36d4b4862508c2b026af"
  },
  {
   "Title": "TED 972051/2024",
@@ -5664,8 +6532,12 @@
   "DataAssinatura": "2024-12-09",
   "NumeroNSTermo": "2024NS017962",
   "ReferenciaExterna": "23477.030076/2024-44",
+  "ValorPFRecebido": 5533359.58,
+  "QtdPF": 14,
+  "FontesRecurso": "1000A003HJ",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "d8853e9b15f7595d0610065656c9c2201b6ced3a"
+  "HashAPI": "211a41eff0bc27f0d4ecb533a5f53902c99d7e8e"
  },
  {
   "Title": "Plano 3835 (sem número)",
@@ -5690,8 +6562,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "95a7ca00ab3e8218bef491e8623b2f9a83995e68"
+  "HashAPI": "354ede019a7328131a50fe7d06fd82af3ee41955"
  },
  {
   "Title": "TED 973092/2024",
@@ -5716,8 +6592,12 @@
   "DataAssinatura": "2024-12-27",
   "NumeroNSTermo": "2024NS000085",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 1887893.98,
+  "QtdPF": 1,
+  "FontesRecurso": "1000A003DU",
+  "DataUltimaPF": "2026-04-22",
   "AvisoDados": null,
-  "HashAPI": "f7dbbd66fb5bfe2334b7f2bf9dcfc0b7dc61e260"
+  "HashAPI": "d1e3cdc7019de386039fc1121c9e87420857aa8a"
  },
  {
   "Title": "TED 973152/2024",
@@ -5742,8 +6622,12 @@
   "DataAssinatura": "2024-12-27",
   "NumeroNSTermo": "2024NS004697",
   "ReferenciaExterna": "00350.081050/2024-95",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "6572eb10d2ebc92b3e7c8f4f98a460f1f169701c"
+  "HashAPI": "c11469d436e2546a2f54fe2fb71737d1b1ba09d3"
  },
  {
   "Title": "TED 973830/2025",
@@ -5768,8 +6652,12 @@
   "DataAssinatura": "2025-02-01",
   "NumeroNSTermo": "2025NS001192",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 16141832.0,
+  "QtdPF": 13,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "b28c6759a847edac8d66dc2c7f310727a4cc2d1f"
+  "HashAPI": "32710015ecb725daa745a63a163e949cb4e31e60"
  },
  {
   "Title": "TED 973874/2025",
@@ -5794,8 +6682,12 @@
   "DataAssinatura": "2025-02-17",
   "NumeroNSTermo": "2025NS002730",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 4871600.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1108000000",
+  "DataUltimaPF": "2026-04-17",
   "AvisoDados": null,
-  "HashAPI": "e23fd4d9d5589de6a695cdf4a3fdbba24380c9b7"
+  "HashAPI": "cdbf56a4627738976e6cd977391b7295e8f91199"
  },
  {
   "Title": "TED 973831/2025",
@@ -5820,8 +6712,12 @@
   "DataAssinatura": "2025-02-12",
   "NumeroNSTermo": "2025NS001280",
   "ReferenciaExterna": "25067.000423/2024-61",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "b7a70abb36ee11c70754bd375edb380ea705d6cd"
+  "HashAPI": "72771809debb3e9de8f5cc1d44d876bb431eac38"
  },
  {
   "Title": "Plano 4036 (sem número)",
@@ -5846,8 +6742,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "92a4218eeadad17632f7d6339201516dc7c657a0"
+  "HashAPI": "4caac33ccfcbdf5a654f813b2f29a8a170b629b8"
  },
  {
   "Title": "Plano 4071 (sem número)",
@@ -5872,8 +6772,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "96078060e7ee063d05d760350f6c6f92df963b8d"
+  "HashAPI": "f8d63aae083c04367791325352db8bd7c1209df1"
  },
  {
   "Title": "TED 973914/2025",
@@ -5898,8 +6802,12 @@
   "DataAssinatura": "2025-04-08",
   "NumeroNSTermo": "2025NS000227",
   "ReferenciaExterna": "71000.030427/2025-47",
+  "ValorPFRecebido": 1000000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1001A003UW",
+  "DataUltimaPF": "2025-12-16",
   "AvisoDados": null,
-  "HashAPI": "078dd863ad427fa64e1b8896e509b079faeaa930"
+  "HashAPI": "7e573b9ae55e19fcb22c166abcf62c2bf70d8201"
  },
  {
   "Title": "TED 975214/2025",
@@ -5924,8 +6832,12 @@
   "DataAssinatura": "2025-05-19",
   "NumeroNSTermo": "2025NS004593",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 3120000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "3118000000",
+  "DataUltimaPF": "2025-10-02",
   "AvisoDados": null,
-  "HashAPI": "93aa360ef215ecc12c28c2d58635be45fdee3987"
+  "HashAPI": "29deb7126054a48c9a919ed09259c2cb2b9f6ac8"
  },
  {
   "Title": "TED 974917/2025",
@@ -5950,8 +6862,12 @@
   "DataAssinatura": "2025-04-29",
   "NumeroNSTermo": "2025NS008761",
   "ReferenciaExterna": "25380.001111/2025-01",
+  "ValorPFRecebido": 1310416.8,
+  "QtdPF": 2,
+  "FontesRecurso": "1002A003V4",
+  "DataUltimaPF": "2025-10-22",
   "AvisoDados": null,
-  "HashAPI": "13e5c8b2dff99811e12a971690368013a850d612"
+  "HashAPI": "52b6073dc43681dd72cfe9e1929282724dd0c736"
  },
  {
   "Title": "TED 983149/2025",
@@ -5976,8 +6892,12 @@
   "DataAssinatura": "2025-09-30",
   "NumeroNSTermo": "2025NS132713",
   "ReferenciaExterna": "25000.044393/2025-51 ",
+  "ValorPFRecebido": 6208046.0,
+  "QtdPF": 4,
+  "FontesRecurso": "1002A004CY, 3129A004D9",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "f513fa930d35909003bafb406dfddab34c731e5f"
+  "HashAPI": "010fa781b60d0310c115ebdb29e1ac799d3ce346"
  },
  {
   "Title": "TED 975292/2025",
@@ -6002,8 +6922,12 @@
   "DataAssinatura": "2025-05-05",
   "NumeroNSTermo": "2025NS000584",
   "ReferenciaExterna": "01242.000102/2025-10",
+  "ValorPFRecebido": 587993.05,
+  "QtdPF": 7,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "f3cb6d77686b8ec75b2fa28faa8264b6e1c0c18b"
+  "HashAPI": "5874e3b47c42ad9bf5cb46ccbf76837c8d649357"
  },
  {
   "Title": "TED 975215/2025",
@@ -6028,8 +6952,12 @@
   "DataAssinatura": "2025-05-27",
   "NumeroNSTermo": "2025NS004594",
   "ReferenciaExterna": "Ref. Finep 1130/25",
+  "ValorPFRecebido": 10000000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1050000091",
+  "DataUltimaPF": "2026-04-16",
   "AvisoDados": null,
-  "HashAPI": "5af182565d11a7385e946e164d646f70c652af38"
+  "HashAPI": "396c8cbf0589f61b9f7810a4412402b207db54cf"
  },
  {
   "Title": "TED 974927/2025",
@@ -6054,8 +6982,12 @@
   "DataAssinatura": "2025-05-10",
   "NumeroNSTermo": "2025NS000345",
   "ReferenciaExterna": "01245.000159/2025-81",
+  "ValorPFRecebido": 990547.66,
+  "QtdPF": 2,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-03-19",
   "AvisoDados": null,
-  "HashAPI": "181f25b121a252da82563388511a89271bf314d1"
+  "HashAPI": "2162b662a25e78abfa1b4bc2da862c6d7f1bfd9a"
  },
  {
   "Title": "TED 976019/2025",
@@ -6080,8 +7012,12 @@
   "DataAssinatura": "2025-06-02",
   "NumeroNSTermo": "2025NS005602",
   "ReferenciaExterna": "Ref. Finep 1146/25",
+  "ValorPFRecebido": 2147090.0,
+  "QtdPF": 8,
+  "FontesRecurso": "1050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "c70c1af8bd2f8330d6d61ac98218cb50483fa239"
+  "HashAPI": "580d92629732e3ab84cfa130ccdc291f5aabb34f"
  },
  {
   "Title": "TED 977394/2025",
@@ -6106,8 +7042,12 @@
   "DataAssinatura": "2025-07-18",
   "NumeroNSTermo": "2025NS002640",
   "ReferenciaExterna": "SEI PR 00133.000771/2025-58",
+  "ValorPFRecebido": 4820000.0,
+  "QtdPF": 6,
+  "FontesRecurso": "1000A004AT",
+  "DataUltimaPF": "2026-06-02",
   "AvisoDados": null,
-  "HashAPI": "c0452e0caee8305b6331a432f2ddcd620fc02f9a"
+  "HashAPI": "02dafbacf4eac54e22521f58f8d8beca953d2200"
  },
  {
   "Title": "TED 984955/2025",
@@ -6132,8 +7072,12 @@
   "DataAssinatura": "2025-09-15",
   "NumeroNSTermo": "2025NS155228",
   "ReferenciaExterna": "25000.101458/2025-72",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "bcf9c7036ce29443b3febe1a792624011eadbb69"
+  "HashAPI": "d08daffb6453e48fcf5a527ac69f776e9c095cae"
  },
  {
   "Title": "TED 975224/2025",
@@ -6158,8 +7102,12 @@
   "DataAssinatura": "2025-05-29",
   "NumeroNSTermo": "2025NS000365",
   "ReferenciaExterna": "01245.007243/2025-25",
+  "ValorPFRecebido": 3700000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-07-02",
   "AvisoDados": null,
-  "HashAPI": "a5f1fb62cb7fc612a98543b4f683e7f536c94101"
+  "HashAPI": "c3fd6b24f44daaad97052c6089045157a22a14b6"
  },
  {
   "Title": "TED 975313/2025",
@@ -6184,8 +7132,12 @@
   "DataAssinatura": "2025-06-04",
   "NumeroNSTermo": "2025NS000376",
   "ReferenciaExterna": "01245.005997/2025-41",
+  "ValorPFRecebido": 9300000.0,
+  "QtdPF": 5,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-12-18",
   "AvisoDados": null,
-  "HashAPI": "ca48f9698e734c023afb0ad64fec325fdbce85bf"
+  "HashAPI": "197a1fd36297d2d45336ec1db3eca98e50665c69"
  },
  {
   "Title": "TED 975414/2025",
@@ -6210,8 +7162,12 @@
   "DataAssinatura": "2025-06-09",
   "NumeroNSTermo": "2025NS000396",
   "ReferenciaExterna": "01245.004777/2025-08",
+  "ValorPFRecebido": 2968329.0,
+  "QtdPF": 10,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-10-08",
   "AvisoDados": null,
-  "HashAPI": "5efc6db8a6563850402139bf4bfc5b257423439a"
+  "HashAPI": "f17c946c46bfbf975cead0b974074835434c6547"
  },
  {
   "Title": "TED 982500/2025",
@@ -6236,8 +7192,12 @@
   "DataAssinatura": "2025-09-15",
   "NumeroNSTermo": "2025NS128168",
   "ReferenciaExterna": "25000.092949/2025-15",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "ad1c00b1d5ae9b2d2d34fcff77cef41b57e73cd5"
+  "HashAPI": "112872152ee54ff4f3f6f0057b178966bbce0e0f"
  },
  {
   "Title": "TED 977845/2025",
@@ -6262,8 +7222,12 @@
   "DataAssinatura": "2025-08-01",
   "NumeroNSTermo": "2025NS007348",
   "ReferenciaExterna": null,
+  "ValorPFRecebido": 11132764.65,
+  "QtdPF": 7,
+  "FontesRecurso": "1118000000, 3118000000",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "faa8987bffa157961abcd7d12dd97f93af7e5c86"
+  "HashAPI": "20bf27ad72d12bb521bff0d27b3ae01cc7e64eb2"
  },
  {
   "Title": "TED 976352/2025",
@@ -6288,8 +7252,12 @@
   "DataAssinatura": "2025-07-02",
   "NumeroNSTermo": "2025NS000095",
   "ReferenciaExterna": "02000.007559/2025-52",
+  "ValorPFRecebido": 2400000.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1000000000, 1000A0043L",
+  "DataUltimaPF": "2025-07-14",
   "AvisoDados": null,
-  "HashAPI": "b68b26ca87f0042394cf75a833d7b689d7448f8c"
+  "HashAPI": "8ff307fb824d48d1422432cbb29d7a43420c9072"
  },
  {
   "Title": "TED 978324/2025",
@@ -6314,8 +7282,12 @@
   "DataAssinatura": "2025-09-01",
   "NumeroNSTermo": "2025NS013830",
   "ReferenciaExterna": "25380.004590/2024-29",
+  "ValorPFRecebido": 462000.5,
+  "QtdPF": 1,
+  "FontesRecurso": "1002A0048J",
+  "DataUltimaPF": "2025-09-25",
   "AvisoDados": null,
-  "HashAPI": "fcaca76a53e62ad7e38559ccb28ad88125f005b4"
+  "HashAPI": "db93a19e136903dc1f6b1368259ab936712be96b"
  },
  {
   "Title": "TED 977399/2025",
@@ -6340,8 +7312,12 @@
   "DataAssinatura": "2025-08-01",
   "NumeroNSTermo": "2025NS000150",
   "ReferenciaExterna": "02000.005326/2025-15",
+  "ValorPFRecebido": 200000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000A00462",
+  "DataUltimaPF": "2026-06-09",
   "AvisoDados": null,
-  "HashAPI": "4f5c38cd4ff960a340b3afd1241a3628c87411b3"
+  "HashAPI": "f7eb876bce0d18d38e01ca345e28c808c8dbd829"
  },
  {
   "Title": "TED 982499/2025",
@@ -6366,8 +7342,12 @@
   "DataAssinatura": "2025-10-06",
   "NumeroNSTermo": "2025NS000662",
   "ReferenciaExterna": "01245.008561/2025-11",
+  "ValorPFRecebido": 2000000.0,
+  "QtdPF": 4,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-12-15",
   "AvisoDados": null,
-  "HashAPI": "a5bb4c83c6e6730d9fe402a7170957a8192d43c7"
+  "HashAPI": "c6a8176c25228c501687f12ff69c0447dcf12c23"
  },
  {
   "Title": "TED 976888/2025",
@@ -6392,8 +7372,12 @@
   "DataAssinatura": "2025-06-09",
   "NumeroNSTermo": "2025NS000503",
   "ReferenciaExterna": "01245.006583/2025-39",
+  "ValorPFRecebido": 7887640.6,
+  "QtdPF": 26,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-06-01",
   "AvisoDados": null,
-  "HashAPI": "a84940f98bff26df1e29e62a8a782244b9384ac2"
+  "HashAPI": "1fab7f6556fd2b70ad2f2772728f9f290214eeb2"
  },
  {
   "Title": "TED 977783/2025",
@@ -6418,8 +7402,12 @@
   "DataAssinatura": "2025-07-28",
   "NumeroNSTermo": "2025NS000536",
   "ReferenciaExterna": "01245.017508/2024-12",
+  "ValorPFRecebido": 382500.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-09-17",
   "AvisoDados": null,
-  "HashAPI": "46f1c46f3295f4fb5ca660da49b9131505afec3f"
+  "HashAPI": "fa36a166c2af247b93aeaabba7189cf519d2132a"
  },
  {
   "Title": "TED 979461/2025",
@@ -6444,8 +7432,12 @@
   "DataAssinatura": "2025-08-22",
   "NumeroNSTermo": "2025NS007954",
   "ReferenciaExterna": "Ref. Finep 2251/25",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "8e7be61cad2fb66f279e82806db95ae0772f4e3e"
+  "HashAPI": "c6d12a56b465b6f91617a270a4ac6311854b275a"
  },
  {
   "Title": "TED 978693/2025",
@@ -6470,8 +7462,12 @@
   "DataAssinatura": "2025-08-22",
   "NumeroNSTermo": "2025NS007814",
   "ReferenciaExterna": "Ref. Finep 2250/25",
+  "ValorPFRecebido": 41877708.4,
+  "QtdPF": 16,
+  "FontesRecurso": "1050000091, 1052000091, 3050000091",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "89e3fc2466b6eb79916442fb0d7670c4ea1183c8"
+  "HashAPI": "60bc1141f35ff7777c6845d5f92de136ec5d4cad"
  },
  {
   "Title": "TED 979109/2025",
@@ -6496,8 +7492,12 @@
   "DataAssinatura": "2025-09-01",
   "NumeroNSTermo": "2025NS007930",
   "ReferenciaExterna": "Ref. Finep 2263/25",
+  "ValorPFRecebido": 54000000.0,
+  "QtdPF": 4,
+  "FontesRecurso": "1050000091, 3050000091",
+  "DataUltimaPF": "2026-06-18",
   "AvisoDados": null,
-  "HashAPI": "755def51aaa3a0565dca04f94ae017e0baa70dd0"
+  "HashAPI": "051a437137fe772cba2bbca506f58596674edf68"
  },
  {
   "Title": "TED 978942/2025",
@@ -6522,8 +7522,12 @@
   "DataAssinatura": "2025-09-01",
   "NumeroNSTermo": "2025NS001861",
   "ReferenciaExterna": "00100.001789/2024-73",
+  "ValorPFRecebido": 531514.27,
+  "QtdPF": 1,
+  "FontesRecurso": "1002A0046R",
+  "DataUltimaPF": "2025-11-27",
   "AvisoDados": null,
-  "HashAPI": "f942b3a88ac06c07a5cf573925fc1d84d69a8f9e"
+  "HashAPI": "de40e5232790db5f5e2faf6a3a7ebee3d34e2295"
  },
  {
   "Title": "TED 986271/2025",
@@ -6548,8 +7552,12 @@
   "DataAssinatura": "2025-10-02",
   "NumeroNSTermo": "2025NS162134",
   "ReferenciaExterna": "25000.175173/2025-78",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "66330be28aa5a028fe510c4ed07eca5a92932b47"
+  "HashAPI": "a885ba53c01bff80c8fd6a10e9303456bcf0b522"
  },
  {
   "Title": "TED 983150/2025",
@@ -6574,8 +7582,12 @@
   "DataAssinatura": "2025-10-01",
   "NumeroNSTermo": "2025NS003605",
   "ReferenciaExterna": "01340.005425/2025-83",
+  "ValorPFRecebido": 135200.0,
+  "QtdPF": 6,
+  "FontesRecurso": "1000000000, 3000000000",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "92e89a481dfc271f3baefe40699263856245b51e"
+  "HashAPI": "eb2dbc521b2a2b84f600210db83c9a45a7cb23c3"
  },
  {
   "Title": "TED 991381/2025",
@@ -6600,8 +7612,12 @@
   "DataAssinatura": "2025-12-23",
   "NumeroNSTermo": "2025NS005318",
   "ReferenciaExterna": "00350.010798/2025-94",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "28427ff4e57558641ecdda0901f43bfadd15ab11"
+  "HashAPI": "bd3dd9258ddf76a02d0013c4313d7e27ee62ca09"
  },
  {
   "Title": "TED 984954/2025",
@@ -6626,8 +7642,12 @@
   "DataAssinatura": "2025-11-01",
   "NumeroNSTermo": "2025NS004016",
   "ReferenciaExterna": "01340.006442/2025-38",
+  "ValorPFRecebido": 976300.0,
+  "QtdPF": 8,
+  "FontesRecurso": "1000000000, 1000A002SE",
+  "DataUltimaPF": "2026-07-01",
   "AvisoDados": null,
-  "HashAPI": "c075a2766d780956895cadc191884e961f8fcb4a"
+  "HashAPI": "ab6fa0f094206a66d38335bc517cdd2b9b6a2421"
  },
  {
   "Title": "TED 986270/2025",
@@ -6652,8 +7672,12 @@
   "DataAssinatura": "2025-11-19",
   "NumeroNSTermo": "2025NS000763",
   "ReferenciaExterna": "01245.021436/2025-99",
+  "ValorPFRecebido": 498000.0,
+  "QtdPF": 3,
+  "FontesRecurso": "1000000000, 3000000000",
+  "DataUltimaPF": "2026-06-29",
   "AvisoDados": null,
-  "HashAPI": "97d09d2d8e143c908b9db2d74eee4568c6470c4f"
+  "HashAPI": "c4c9a66c80c22ef31a1122e4c52e16879c914042"
  },
  {
   "Title": "TED 984450/2025",
@@ -6678,8 +7702,12 @@
   "DataAssinatura": "2025-10-10",
   "NumeroNSTermo": "2025NS000563",
   "ReferenciaExterna": "21290.001482/2025-33",
+  "ValorPFRecebido": 480000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000A003OM",
+  "DataUltimaPF": "2026-03-23",
   "AvisoDados": null,
-  "HashAPI": "089a896721b09fbbf47f5bdb05b4ed8743bd4ce5"
+  "HashAPI": "ccb953b122010c796daf85a126ab8d95477b3367"
  },
  {
   "Title": "Plano 4933 (sem número)",
@@ -6704,8 +7732,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "da03e2e5c6d424da40d0749a5ec934ee538eb834"
+  "HashAPI": "3881adc70a8a04638ca0a94a13f69f0f608299b6"
  },
  {
   "Title": "TED 984449/2025",
@@ -6730,8 +7762,12 @@
   "DataAssinatura": "2025-10-29",
   "NumeroNSTermo": "2025NS000734",
   "ReferenciaExterna": "01245.004768/2025-17",
+  "ValorPFRecebido": 1250000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-04-10",
   "AvisoDados": null,
-  "HashAPI": "3b067f899a17de3f593f7b14e965912888c6f6ab"
+  "HashAPI": "dc5a798ccc7721303fbe9991c95e2105a1e583fe"
  },
  {
   "Title": "TED 985320/2025",
@@ -6756,8 +7792,12 @@
   "DataAssinatura": "2025-11-01",
   "NumeroNSTermo": "2025NS004261",
   "ReferenciaExterna": "01340.006457/2025-04",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "9782cca295b73cbab7c69f295337fb3f48e6abeb"
+  "HashAPI": "a38ef6c2bb9b57f828a73d77eec7902e56c943e6"
  },
  {
   "Title": "TED 992216/2026",
@@ -6782,8 +7822,12 @@
   "DataAssinatura": "2025-12-09",
   "NumeroNSTermo": "2026NS000810",
   "ReferenciaExterna": "Ref. Finep 2702/25",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "c7b2f60e098b6e1762625f66af53ba22a642efbb"
+  "HashAPI": "6829b333a595a91f48f7f87a110d2f2457ee1f4e"
  },
  {
   "Title": "TED 986748/2025",
@@ -6808,8 +7852,12 @@
   "DataAssinatura": "2025-12-01",
   "NumeroNSTermo": "2025NS000168",
   "ReferenciaExterna": "16100.004391/2025-18",
+  "ValorPFRecebido": 840000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1000000000, 1000A003UV",
+  "DataUltimaPF": "2025-12-02",
   "AvisoDados": null,
-  "HashAPI": "982b977fbcfb1a5603f12122592342899566070a"
+  "HashAPI": "688e56af2f6056ca3e6e730547bd5ac67ee0dd9e"
  },
  {
   "Title": "TED 986269/2025",
@@ -6834,8 +7882,12 @@
   "DataAssinatura": "2025-11-26",
   "NumeroNSTermo": "2025NS000762",
   "ReferenciaExterna": "01245.007090/2025-16",
+  "ValorPFRecebido": 171720.0,
+  "QtdPF": 5,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-06-22",
   "AvisoDados": null,
-  "HashAPI": "5ffaba9d5d884f5d89bf913c344041ecfe344e73"
+  "HashAPI": "dd85459c381895f9b74c8dc88294cbeff5c74ad5"
  },
  {
   "Title": "TED 986268/2025",
@@ -6860,8 +7912,12 @@
   "DataAssinatura": "2025-11-26",
   "NumeroNSTermo": "2025NS000761",
   "ReferenciaExterna": "01245.008795/2025-51",
+  "ValorPFRecebido": 701790.0,
+  "QtdPF": 5,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-06-22",
   "AvisoDados": null,
-  "HashAPI": "9b41e35905ddc7940a0081e3c48361b452d793bd"
+  "HashAPI": "8d72cc9dacb604e5e75bacf3c5cedaa73c71efe7"
  },
  {
   "Title": "TED 986992/2025",
@@ -6886,8 +7942,12 @@
   "DataAssinatura": "2025-12-02",
   "NumeroNSTermo": "2025NS000756",
   "ReferenciaExterna": "04035.000017/2025-87",
+  "ValorPFRecebido": 500000.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1000000000, 1052000246",
+  "DataUltimaPF": "2026-03-05",
   "AvisoDados": null,
-  "HashAPI": "aea772c7c959ae5125a70c2ba2cf21cef7906847"
+  "HashAPI": "d6ccd5d684f57a1a041c24a3df4783c0ee32f458"
  },
  {
   "Title": "TED 987553/2025",
@@ -6912,8 +7972,12 @@
   "DataAssinatura": "2025-12-01",
   "NumeroNSTermo": "2025NS001018",
   "ReferenciaExterna": "01400.034445/2025-18",
+  "ValorPFRecebido": 500000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-01-26",
   "AvisoDados": null,
-  "HashAPI": "7be1ec87f976d14a512f84d5aebd70cb96d8f575"
+  "HashAPI": "59d141f611a67ea6427ec5cad7edefd6a7e90d71"
  },
  {
   "Title": "TED 986470/2025",
@@ -6938,8 +8002,12 @@
   "DataAssinatura": "2025-11-27",
   "NumeroNSTermo": "2025NS000768",
   "ReferenciaExterna": "01245.021828/2025-58",
+  "ValorPFRecebido": 116940.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2025-12-10",
   "AvisoDados": null,
-  "HashAPI": "3ba6790180e91e82de1797a6befdcbd31add8e73"
+  "HashAPI": "da1109c8bfd9669c34eb84d6d92bc0479c31533b"
  },
  {
   "Title": "TED 987579/2025",
@@ -6964,8 +8032,12 @@
   "DataAssinatura": "2025-12-02",
   "NumeroNSTermo": "2025NS000775",
   "ReferenciaExterna": "01245.026237/2025-77",
+  "ValorPFRecebido": 360000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-03-11",
   "AvisoDados": null,
-  "HashAPI": "2a3b82dba7dd4ac120bcc6388ca71fed2647a037"
+  "HashAPI": "8b9ea68938d39ec67f93f3b210924989a620d353"
  },
  {
   "Title": "TED 992215/2026",
@@ -6990,8 +8062,12 @@
   "DataAssinatura": "2026-01-01",
   "NumeroNSTermo": "2026NS000809",
   "ReferenciaExterna": "Ref, Finep 2755/25",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "f72e2c8b8b015ffa001ea117bdaaa42482b52366"
+  "HashAPI": "9a99451ae0b92e04ae7d935e86f94e325aae9d32"
  },
  {
   "Title": "TED 990101/2025",
@@ -7016,8 +8092,12 @@
   "DataAssinatura": "2025-12-15",
   "NumeroNSTermo": "2025NS000846",
   "ReferenciaExterna": "01245.007248/2025-58",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "02d4969e370522e1dd4980aa0b278f8864b2d326"
+  "HashAPI": "a537d02ecbdd2817af10ed687e532ea3f4a2fcca"
  },
  {
   "Title": "TED 990359/2025",
@@ -7042,8 +8122,12 @@
   "DataAssinatura": "2025-12-22",
   "NumeroNSTermo": "2025NS019829",
   "ReferenciaExterna": "23477.029182/2025-66",
+  "ValorPFRecebido": 356579.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1000A004N1",
+  "DataUltimaPF": "2026-02-25",
   "AvisoDados": null,
-  "HashAPI": "87145b04abe197059fc17a80f56ee5dd54930d29"
+  "HashAPI": "37de69392a279eb7ca6b2a2e501faffa20401aad"
  },
  {
   "Title": "TED 991351/2025",
@@ -7068,8 +8152,12 @@
   "DataAssinatura": "2025-12-23",
   "NumeroNSTermo": "2025NS000874",
   "ReferenciaExterna": "01245.007256/2025-02",
+  "ValorPFRecebido": 500000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000000000",
+  "DataUltimaPF": "2026-06-01",
   "AvisoDados": null,
-  "HashAPI": "6466b5f0532d8a671f758b2382458f00bab5de20"
+  "HashAPI": "8fa40b61ac2ed532ac99d82d12123ccaa6459cd4"
  },
  {
   "Title": "TED 990756/2025",
@@ -7094,8 +8182,12 @@
   "DataAssinatura": "2025-12-18",
   "NumeroNSTermo": "2025NS024620",
   "ReferenciaExterna": "21200.008618/2025-06",
+  "ValorPFRecebido": 100000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000A002SE",
+  "DataUltimaPF": "2026-07-02",
   "AvisoDados": null,
-  "HashAPI": "1348e3d95e53f5926ad98e213aca826291058118"
+  "HashAPI": "3e3e7fb8be2f3a2ae4c6f18908516b34815c3b0f"
  },
  {
   "Title": "TED 992217/2026",
@@ -7120,8 +8212,12 @@
   "DataAssinatura": "2026-01-26",
   "NumeroNSTermo": "2026NS000811",
   "ReferenciaExterna": "Ref. Finep 0070/26",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "711bcacd09a0e76cc42817727a48b7dde0181b71"
+  "HashAPI": "7f1e2a5569291f630380ad0d839254e10fe16f5b"
  },
  {
   "Title": "Plano 5623 (sem número)",
@@ -7146,8 +8242,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "b4f09c2606ab6eb916d0a6822d1e62f16633ab96"
+  "HashAPI": "fedad0f0cf17ab289556f57690e7d6288faafd59"
  },
  {
   "Title": "TED 992735/2026",
@@ -7172,8 +8272,12 @@
   "DataAssinatura": "2026-01-26",
   "NumeroNSTermo": "2026NS003065",
   "ReferenciaExterna": "Ref. Finep 0097/26",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "e710feaf6ba75119175bb95e16b3c0fc73ccf809"
+  "HashAPI": "fa717cde70e6952c84ae92fd1e8f9cb852f57395"
  },
  {
   "Title": "TED 7AABMJ/2026",
@@ -7198,8 +8302,12 @@
   "DataAssinatura": "2026-06-12",
   "NumeroNSTermo": "2026NS000319",
   "ReferenciaExterna": "01245.002578/2026-38",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "70feab904e4a1424a7ced99490356191e9ec01a2"
+  "HashAPI": "c76adf102bee7f5a3870892d416dba3ce16365f8"
  },
  {
   "Title": "TED 7AABMK/2026",
@@ -7224,8 +8332,12 @@
   "DataAssinatura": "2026-05-01",
   "NumeroNSTermo": "2026NS000001",
   "ReferenciaExterna": "00135.205339/2026-12",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "83172e417fae3461eae413fc471393ab31005b7a"
+  "HashAPI": "11dc0c65156d66ab8df623c012642f97ba4c1fea"
  },
  {
   "Title": "TED 994946/2026",
@@ -7250,8 +8362,12 @@
   "DataAssinatura": "2026-04-02",
   "NumeroNSTermo": "2026NS000187",
   "ReferenciaExterna": "01245.020944/2025-50",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "666001f8d651f8ae68cd1a01fb67ec766f1a7935"
+  "HashAPI": "02d5ca970a585e012b53e385876a7e584f64518c"
  },
  {
   "Title": "TED 997626/2026",
@@ -7276,8 +8392,12 @@
   "DataAssinatura": "2026-04-22",
   "NumeroNSTermo": "2026NS005091",
   "ReferenciaExterna": "Ref. Finep 1716/26",
+  "ValorPFRecebido": 26000000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1050000091",
+  "DataUltimaPF": "2026-07-09",
   "AvisoDados": null,
-  "HashAPI": "f2d513c647e997893beb828181615e1594b4c335"
+  "HashAPI": "d469b50059e1617235ddd291933fe990c940c9a5"
  },
  {
   "Title": "TED 7AADHF/2026",
@@ -7302,8 +8422,12 @@
   "DataAssinatura": "2026-06-01",
   "NumeroNSTermo": "2026NS006747",
   "ReferenciaExterna": "Ref, Finep 2589/26",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "984f282b3f963f3d891470c934ea7f932006a318"
+  "HashAPI": "845fd15f0b87d7f78153f833feefc3e08d2f21f1"
  },
  {
   "Title": "TED 995860/2026",
@@ -7328,8 +8452,12 @@
   "DataAssinatura": "2026-04-14",
   "NumeroNSTermo": "2026NS000190",
   "ReferenciaExterna": "01245.002965/2026-74",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "206d076f6c8ec3e1e1ab67aff08146c06b7f77a6"
+  "HashAPI": "527a92c88a4951a7340465afd58e2849659988c4"
  },
  {
   "Title": "TED 997628/2026",
@@ -7354,8 +8482,12 @@
   "DataAssinatura": "2026-05-06",
   "NumeroNSTermo": "2026NS000209",
   "ReferenciaExterna": "01245.002185/2026-24",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "b1c6357c5391d66ba5c14ab5e03b59dd2d4c489a"
+  "HashAPI": "e7e238c574d91a7f9d8d40d9485199c4b28be0f2"
  },
  {
   "Title": "TED 7AACIZ/2026",
@@ -7380,8 +8512,12 @@
   "DataAssinatura": "2026-05-26",
   "NumeroNSTermo": "2026NS006452",
   "ReferenciaExterna": "Ref. Finep 1862/26",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "92fe7e672f46a9a85df8cd2093ef7864c85ffc30"
+  "HashAPI": "37cd3385befe4b0d9e5bae8bb2d4f9902eda7893"
  },
  {
   "Title": "TED 996761/2026",
@@ -7406,8 +8542,12 @@
   "DataAssinatura": "2026-04-29",
   "NumeroNSTermo": "2026NS000206",
   "ReferenciaExterna": "01245.002986/2026-90",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "c4b22fcf367d750b5aa935bedd5803e4a9d6a90a"
+  "HashAPI": "e63df002ff8c9a148f5fe455c445c6817f49d579"
  },
  {
   "Title": "TED 997627/2026",
@@ -7432,8 +8572,12 @@
   "DataAssinatura": "2026-03-24",
   "NumeroNSTermo": "2026NS000208",
   "ReferenciaExterna": "01245.002977/2026-07",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "ed941cb3481c736cc363d62c8390be4fca7dba73"
+  "HashAPI": "0d1f2132e7eab99d9c1eadc65fda21f466666793"
  },
  {
   "Title": "TED 7AAAQW/2026",
@@ -7458,8 +8602,12 @@
   "DataAssinatura": "2026-06-08",
   "NumeroNSTermo": "2026NS000303",
   "ReferenciaExterna": "01245.002749/2026-29",
+  "ValorPFRecebido": 2899480.0,
+  "QtdPF": 2,
+  "FontesRecurso": "1000A0054I",
+  "DataUltimaPF": "2026-07-09",
   "AvisoDados": null,
-  "HashAPI": "8a62f20becc1c0ca44fd6d88210912d33edfb9d7"
+  "HashAPI": "11d14dfd41983c82ec99295b28f0385e086a5700"
  },
  {
   "Title": "TED 7AADWI/2026",
@@ -7484,8 +8632,12 @@
   "DataAssinatura": "2026-05-27",
   "NumeroNSTermo": "2026NS001148",
   "ReferenciaExterna": "21260.002041/2026-97",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "03730e0b8351d125090d49416394f3396d8bffad"
+  "HashAPI": "b1bfd273f62fdc23d269d9e86d68c2929d58ad9f"
  },
  {
   "Title": "TED 999789/2026",
@@ -7510,8 +8662,12 @@
   "DataAssinatura": "2026-06-01",
   "NumeroNSTermo": "2026NS000302",
   "ReferenciaExterna": "01400.009026/2026-11",
+  "ValorPFRecebido": 700000.0,
+  "QtdPF": 1,
+  "FontesRecurso": "1000A0055F",
+  "DataUltimaPF": "2026-07-03",
   "AvisoDados": null,
-  "HashAPI": "621b4b626360d668dc7ddeef2242ef39e7f2a6a3"
+  "HashAPI": "fbcfc58b8416fb48d476ba1bc8c8fb43f138dbb2"
  },
  {
   "Title": "TED 7AADHE/2026",
@@ -7536,8 +8692,12 @@
   "DataAssinatura": "2026-06-15",
   "NumeroNSTermo": "2026NS006801",
   "ReferenciaExterna": "Ref. Finep 3022/26",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "d55a6f8fe096f1a5f74081b6c9a64c1952206242"
+  "HashAPI": "fb069fc227858fc94a96bb850ce51bf1268c1c6e"
  },
  {
   "Title": "TED 999952/2026",
@@ -7562,8 +8722,12 @@
   "DataAssinatura": "2026-06-03",
   "NumeroNSTermo": "2026NS000293",
   "ReferenciaExterna": "01245.002645/2026-14",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "666be59b1d48a52452870407e18698cb17f6bac9"
+  "HashAPI": "33ad135c3ac2bfc52d4d0788bdc91a5216a9336d"
  },
  {
   "Title": "TED 7AADWJ/2026",
@@ -7588,8 +8752,12 @@
   "DataAssinatura": "2026-06-19",
   "NumeroNSTermo": "2026NS006845",
   "ReferenciaExterna": "Ref. Finep 3156/26",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "f2d89615cd66289d5c7565ec23b9745ab0ca88a9"
+  "HashAPI": "6d7bd464bacb2f5c85bf140cb92d67e3666926c8"
  },
  {
   "Title": "TED 7AAECH/2026",
@@ -7614,8 +8782,12 @@
   "DataAssinatura": "2026-07-01",
   "NumeroNSTermo": "2026NS007066",
   "ReferenciaExterna": "Ref. Finep 3128/26",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "d307c7dfa6e1ec2ddd01d00531591aa68e04c4df"
+  "HashAPI": "e7d7186db862e15225276cfffc14e93f630ad7ca"
  },
  {
   "Title": "TED 7AACCY/2026",
@@ -7640,8 +8812,12 @@
   "DataAssinatura": "2026-06-24",
   "NumeroNSTermo": "2026NS001003",
   "ReferenciaExterna": "21260.001130/2026-16",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "07a38b8296dfd6e468cfec4139cc5e86911a5389"
+  "HashAPI": "8869a6e495f3a3056a8766ff0307406762059880"
  },
  {
   "Title": "Plano 6150 (sem número)",
@@ -7666,8 +8842,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "e1b0d734189570ce7cc86b0f3c479b31a3fe4f8b"
+  "HashAPI": "677374eca1bca180b9075341492098c9e83f09f8"
  },
  {
   "Title": "TED 7AADHD/2026",
@@ -7692,8 +8872,12 @@
   "DataAssinatura": "2026-07-01",
   "NumeroNSTermo": "2026NS006744",
   "ReferenciaExterna": "Ref. Finep 3130/26",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "f20d0b81b33b47a68d6be46436f779c62e5efceb"
+  "HashAPI": "9c3d4c5932094ddd3a9918390d8e7d1b04f5647a"
  },
  {
   "Title": "TED 7AADBN/2026",
@@ -7718,8 +8902,12 @@
   "DataAssinatura": "2026-06-22",
   "NumeroNSTermo": "2026NS000339",
   "ReferenciaExterna": "01245.007275/2026-10",
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "ac7c76dedd0dd2f8f483b964b2802bc16b0a433d"
+  "HashAPI": "d1e032d45265142c2fdf0d977fb3e4f8b80badec"
  },
  {
   "Title": "Plano 6305 (sem número)",
@@ -7744,8 +8932,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "977e855b650b5cfc0f4c9835d03980f47b340b4b"
+  "HashAPI": "bd3e4b51e60c3bcf374cbea5061ab2ead5346428"
  },
  {
   "Title": "Plano 6308 (sem número)",
@@ -7770,8 +8962,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "24f08358555d9bc6edd15d30da3662a1a7d06614"
+  "HashAPI": "f83bfe383d711c6a3552f8af3983334e83412a55"
  },
  {
   "Title": "Plano 6388 (sem número)",
@@ -7796,8 +8992,12 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "40dd8d96274d35587c8d5ddfbfd00b7d4205675e"
+  "HashAPI": "00154392f57dfdab0224c3a9dae3b314904ab1c4"
  },
  {
   "Title": "Plano 6396 (sem número)",
@@ -7822,7 +9022,11 @@
   "DataAssinatura": null,
   "NumeroNSTermo": null,
   "ReferenciaExterna": null,
+  "ValorPFRecebido": null,
+  "QtdPF": 0,
+  "FontesRecurso": null,
+  "DataUltimaPF": null,
   "AvisoDados": null,
-  "HashAPI": "a6e494f11e6cecc9ab0c366c60b25e7d93202d9b"
+  "HashAPI": "093efe299c334357907f1f1ea58c99a9dea6103f"
  }
 ]
