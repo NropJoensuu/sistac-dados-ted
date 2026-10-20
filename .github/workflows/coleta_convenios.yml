@@ -2,11 +2,11 @@ name: Coleta Convênios (SICONV / Transferegov)
 
 on:
   schedule:
-    # 15 minutos depois da coleta do TED (coleta.yml), com a mesma reserva.
-    # A fonte é atualizada uma vez por dia (data em dados/convenios_data_carga.txt).
-    - cron: '22 8 * * *'   # 05:22 em Brasília
-    - cron: '52 9 * * *'   # 06:52 em Brasília (reserva)
-    # O fluxo do SISTAC no Power Automate deve rodar depois disso (07:45).
+    # A fonte (Transferegov) é atualizada por volta de 08:14 em Brasília.
+    # Coleta às 09:07; o fluxo F2 do SISTAC roda às 09:22. Reserva às 09:47:
+    # se a das 09:07 atrasar ou falhar, os dados entram no fluxo do dia seguinte.
+    - cron: '7 12 * * *'   # 09:07 em Brasília
+    - cron: '47 12 * * *'  # 09:47 em Brasília (reserva)
   workflow_dispatch:
 
 permissions:
