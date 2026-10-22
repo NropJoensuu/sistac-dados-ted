@@ -10542,7 +10542,7 @@
   "CNPJProponente": "02776669000103",
   "Objeto": "O convênio tem por objeto estabelecer as normativas e viabilizar o repasse de recursos para a execução do Programa de Pesquisa para o Sistema Único de Saúde - PPSUS 8a edição - no estado de Mato Grosso do Sul.",
   "Situacao": "Em execução",
-  "Subsituacao": null,
+  "Subsituacao": "Em ajuste do Plano de Trabalho",
   "InstrumentoAtivo": true,
   "NrProcesso": "01300006115202471",
   "DataAssinatura": "2024-12-02",
@@ -10557,7 +10557,7 @@
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "98ac9aa436904b48918570792e5861adf848a091"
+  "HashAPI": "9b577dd639d3bc6cfecd7d87a60ffb654441f6b3"
  },
  {
   "Title": "968033",
