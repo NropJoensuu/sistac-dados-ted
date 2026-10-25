@@ -10452,7 +10452,7 @@
   "CNPJProponente": "15449024000108",
   "Objeto": "Implementar a oitava edição do Programa de Pesquisa para Sistema Único de Saúde – SUS/Acre: Gestão compartilhada em Saúde, visando apoiar pesquisas em saúde e avaliação de novas tecnologia para o SUS no Estado do Acre.",
   "Situacao": "Em execução",
-  "Subsituacao": "Em ajuste do Plano de Trabalho",
+  "Subsituacao": null,
   "InstrumentoAtivo": true,
   "NrProcesso": "01300006095202439",
   "DataAssinatura": "2025-01-24",
@@ -10467,7 +10467,7 @@
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "56b775475db332ec46d5b7b6cad8691eef4457d9"
+  "HashAPI": "b7153c7029d54c235e6b60ca4e7ed89627cf2f13"
  },
  {
   "Title": "968000",
@@ -10542,7 +10542,7 @@
   "CNPJProponente": "02776669000103",
   "Objeto": "O convênio tem por objeto estabelecer as normativas e viabilizar o repasse de recursos para a execução do Programa de Pesquisa para o Sistema Único de Saúde - PPSUS 8a edição - no estado de Mato Grosso do Sul.",
   "Situacao": "Em execução",
-  "Subsituacao": "Em ajuste do Plano de Trabalho",
+  "Subsituacao": null,
   "InstrumentoAtivo": true,
   "NrProcesso": "01300006115202471",
   "DataAssinatura": "2024-12-02",
@@ -10557,7 +10557,7 @@
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9b577dd639d3bc6cfecd7d87a60ffb654441f6b3"
+  "HashAPI": "98ac9aa436904b48918570792e5861adf848a091"
  },
  {
   "Title": "968033",
@@ -10578,16 +10578,16 @@
   "DataAssinatura": "2024-12-02",
   "DataPublicacao": "2024-12-20",
   "VigenciaInicio": "2024-12-02",
-  "VigenciaFim": "2027-12-01",
+  "VigenciaFim": "2028-08-30",
   "ValorGlobal": 7500000.0,
   "ValorRepasse": 5000000.0,
   "ValorContrapartida": 2500000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 2500000.0,
   "QtdTA": null,
-  "QtdProrroga": null,
+  "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "9683f45466f39e1311ac91fc3a3c500da2264242"
+  "HashAPI": "2f34f04db9a27916f3f97b30a4767994aecd0096"
  },
  {
   "Title": "968079",
@@ -10608,16 +10608,16 @@
   "DataAssinatura": "2025-03-07",
   "DataPublicacao": "2025-03-10",
   "VigenciaInicio": "2025-03-07",
-  "VigenciaFim": "2028-03-06",
+  "VigenciaFim": "2029-08-24",
   "ValorGlobal": 6000000.0,
   "ValorRepasse": 4500000.0,
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 2908000.0,
   "QtdTA": null,
-  "QtdProrroga": null,
+  "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "856f5f0399406931c7372adb5ab6dca6795827dd"
+  "HashAPI": "dd5c02a222d07b77978c3b184d006c17e9268cc8"
  },
  {
   "Title": "968082",
