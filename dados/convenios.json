@@ -7823,11 +7823,11 @@
   "ValorRepasse": 800000.0,
   "ValorContrapartida": 8000.0,
   "ValorEmpenhado": 600000.0,
-  "ValorDesembolsado": null,
+  "ValorDesembolsado": 600000.0,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "31a79b273cd4f7e5b7077de9b0eb7ef652ad15af"
+  "HashAPI": "92a7b904aff597c7c3cdfb22412cdb58e46bdcfc"
  },
  {
   "Title": "802122",
@@ -10422,7 +10422,7 @@
   "CNPJProponente": "01682869000126",
   "Objeto": "Implementar a oitava edição do PPSUS no Estado de Santa Catarina.",
   "Situacao": "Em execução",
-  "Subsituacao": null,
+  "Subsituacao": "Em ajuste do Plano de Trabalho",
   "InstrumentoAtivo": true,
   "NrProcesso": "01300006118202413",
   "DataAssinatura": "2024-12-19",
@@ -10437,7 +10437,7 @@
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "217749a575175e26d3465de9cced788bf5f4d168"
+  "HashAPI": "03d027c3154997ac0a1e98130f31feb5483810af"
  },
  {
   "Title": "967827",
