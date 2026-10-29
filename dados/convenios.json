@@ -10422,7 +10422,7 @@
   "CNPJProponente": "01682869000126",
   "Objeto": "Implementar a oitava edição do PPSUS no Estado de Santa Catarina.",
   "Situacao": "Em execução",
-  "Subsituacao": "Em ajuste do Plano de Trabalho",
+  "Subsituacao": null,
   "InstrumentoAtivo": true,
   "NrProcesso": "01300006118202413",
   "DataAssinatura": "2024-12-19",
@@ -10437,7 +10437,7 @@
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "03d027c3154997ac0a1e98130f31feb5483810af"
+  "HashAPI": "217749a575175e26d3465de9cced788bf5f4d168"
  },
  {
   "Title": "967827",
