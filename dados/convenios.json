@@ -9919,7 +9919,7 @@
   "DataPublicacao": "2024-07-23",
   "VigenciaInicio": "2024-07-23",
   "VigenciaFim": "2027-07-22",
-  "ValorGlobal": 18828064.61,
+  "ValorGlobal": 18941564.79,
   "ValorRepasse": 18809255.36,
   "ValorContrapartida": 18809.25,
   "ValorEmpenhado": 18809255.36,
@@ -9927,7 +9927,7 @@
   "QtdTA": 5,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "63ffcd69ee227f618e71004fd48ad14eb62ef242"
+  "HashAPI": "c856fd4df7a16fe2ae148b3a2b49b40a8834b2db"
  },
  {
   "Title": "964658",
