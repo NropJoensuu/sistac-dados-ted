@@ -1,6 +1,7 @@
 """
 Coleta os convênios do CNPq nos arquivos abertos do Transferegov (SICONV) e
-grava dados/convenios.json.
+grava dados/convenios.json e, desde a ADR 0009 (passo b), os desembolsos (com a OB),
+os empenhos e o cronograma de desembolso desses convênios.
 
 Mesma lógica de cargaSICONV() do sistac (project/core/services.py):
 programas cujo COD_PROGRAMA começa com 20501 (CNPq) -> programa_proposta ->
@@ -22,11 +23,14 @@ import tempfile
 import time
 import urllib.request
 import zipfile
+from calendar import monthrange
 
 URL_BASE = 'https://api-publica.transferegov.gestao.gov.br/downloads/dadosgov/'
 COD_INST = '20501'  # prefixo dos programas do CNPq no SICONV
 ARQUIVOS = ['siconv_programa', 'siconv_programa_proposta', 'siconv_proposta',
-            'siconv_convenio', 'data_carga_siconv']
+            'siconv_convenio', 'siconv_desembolso', 'siconv_empenho',
+            'siconv_empenho_desembolso', 'siconv_cronograma_desembolso',
+            'data_carga_siconv']
 PASTA = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'dados')
 
 
@@ -69,6 +73,134 @@ def data_iso(valor, campo, avisos):
 
 def numero(valor):
     return float(valor.replace(',', '.')) if valor else None
+
+
+def com_hash(reg, avisos):
+    reg['AvisoDados'] = '; '.join(avisos) or None
+    reg['HashAPI'] = hashlib.sha1(json.dumps(reg, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+    return reg
+
+
+def grava(nome, dados):
+    with open(os.path.join(PASTA, nome), 'w', encoding='utf-8') as f:
+        json.dump(dados, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+
+
+def financeiro(pasta, registros):
+    """Desembolsos (com a OB), empenhos e cronograma dos convênios do CNPq (ADR 0009, passo b)."""
+    desembolsos = {}
+    for d in linhas(pasta, 'siconv_desembolso'):
+        if d['NR_CONVENIO'] in registros and d['ID_DESEMBOLSO'] not in desembolsos:
+            desembolsos[d['ID_DESEMBOLSO']] = d
+
+    empenhos, repetidos = {}, set()
+    for e in linhas(pasta, 'siconv_empenho'):
+        if e['NR_CONVENIO'] not in registros:
+            continue
+        if e['ID_EMPENHO'] in empenhos:  # o SICONV traz IDs repetidos (models.py, classe Empenho)
+            repetidos.add(e['ID_EMPENHO'])
+            continue
+        empenhos[e['ID_EMPENHO']] = e
+
+    ne_do_desembolso = {}
+    for v in linhas(pasta, 'siconv_empenho_desembolso'):
+        if v['ID_DESEMBOLSO'] in desembolsos and v['ID_EMPENHO'] in empenhos:
+            ne_do_desembolso.setdefault(v['ID_DESEMBOLSO'], set()).add(empenhos[v['ID_EMPENHO']]['NR_EMPENHO'])
+
+    lista_desemb = []
+    for id_d, d in desembolsos.items():
+        avisos = []
+        lista_desemb.append(com_hash({
+            'Title': id_d,
+            'NumeroConvenio': d['NR_CONVENIO'],
+            'DataDesembolso': data_iso(d['DATA_DESEMBOLSO'], 'DataDesembolso', avisos),
+            'NumeroOB': d['NR_SIAFI'] or None,
+            'UGEmitente': d['UG_EMITENTE_DH'] or None,
+            'Observacao': d['OBSERVACAO_DH'] or None,
+            'Valor': numero(d['VL_DESEMBOLSADO']),
+            'NumerosEmpenho': ', '.join(sorted(ne_do_desembolso.get(id_d, ()))) or None,
+        }, avisos))
+
+    lista_emp = []
+    for id_e, e in empenhos.items():
+        avisos = ['ID_EMPENHO repetido na fonte; mantida a primeira linha'] if id_e in repetidos else []
+        lista_emp.append(com_hash({
+            'Title': id_e,
+            'NumeroConvenio': e['NR_CONVENIO'],
+            'NumeroEmpenho': e['NR_EMPENHO'] or None,
+            'TipoNota': e['DESC_TIPO_NOTA'] or None,
+            'DataEmissao': data_iso(e['DATA_EMISSAO'], 'DataEmissao', avisos),
+            'Situacao': e['DESC_SITUACAO_EMPENHO'] or None,
+            'NaturezaDespesa': e['NATUREZA_DESPESA'] or None,
+            'FonteRecurso': e['FONTE_RECURSO'] or None,
+            'PlanoInterno': e['PLANO_INTERNO'] or None,
+            'PTRES': e['PTRES'] or None,
+            'Valor': numero(e['VALOR_EMPENHO']),
+            'Observacao': e['OBSERVACAO_EMPENHO'] or None,
+        }, avisos))
+
+    # desembolsos agrupados por data e OB, em ordem de data, como em detalhes_convenio()
+    agrupado = {}
+    for r in lista_desemb:
+        chave = (r['NumeroConvenio'], r['DataDesembolso'] or '', r['NumeroOB'] or '')
+        agrupado[chave] = agrupado.get(chave, 0) + (r['Valor'] or 0)
+    desemb_conv = {}
+    for (conv, data, _ob), valor in sorted(agrupado.items()):
+        desemb_conv.setdefault(conv, []).append((data, valor))
+
+    parcelas = {}
+    for c in linhas(pasta, 'siconv_cronograma_desembolso'):
+        if c['NR_CONVENIO'] in registros:
+            parcelas.setdefault(c['NR_CONVENIO'], []).append(c)
+
+    lista_crono, chaves = [], set()
+    for conv, ps in parcelas.items():
+        desembolsado = registros[conv]['ValorDesembolsado'] or 0
+        # Concedente primeiro; dentro do tipo, ordem cronológica numérica (o legado ordenava
+        # ano e mês como texto, o que punha outubro antes de fevereiro)
+        ps.sort(key=lambda p: (p['TIPO_RESP_CRONO_DESEMBOLSO'], int(p['ANO_CRONO_DESEMBOLSO']),
+                               int(p['MES_CRONO_DESEMBOLSO']), int(p['NR_PARCELA_CRONO_DESEMBOLSO'] or 0)))
+        acumulado = 0
+        for p in ps:
+            avisos = []
+            ano, mes = int(p['ANO_CRONO_DESEMBOLSO']), int(p['MES_CRONO_DESEMBOLSO'])
+            valor = numero(p['VALOR_PARCELA_CRONO_DESEMBOLSO']) or 0
+            situacao = data_quit = None
+            if p['TIPO_RESP_CRONO_DESEMBOLSO'] == 'Concedente':
+                acumulado += valor
+                situacao = 'Quitada' if acumulado <= desembolsado + 0.005 else 'Em aberto'
+                if situacao == 'Quitada':
+                    soma = 0
+                    for data, v in desemb_conv.get(conv, []):
+                        soma += v
+                        if acumulado <= soma + 0.005:
+                            data_quit = data or None
+                            break
+            chave = f"{conv}-{p['TIPO_RESP_CRONO_DESEMBOLSO']}-{p['NR_PARCELA_CRONO_DESEMBOLSO']}"
+            if chave in chaves:
+                avisos.append('parcela repetida na fonte')
+                n = 2
+                while f'{chave}-{n}' in chaves:
+                    n += 1
+                chave = f'{chave}-{n}'
+            chaves.add(chave)
+            lista_crono.append(com_hash({
+                'Title': chave,
+                'NumeroConvenio': conv,
+                'Parcela': int(p['NR_PARCELA_CRONO_DESEMBOLSO']) if p['NR_PARCELA_CRONO_DESEMBOLSO'] else None,
+                'Responsavel': p['TIPO_RESP_CRONO_DESEMBOLSO'] or None,
+                'DataPrevista': f'{ano:04d}-{mes:02d}-{monthrange(ano, mes)[1]:02d}',
+                'Valor': valor,
+                'Situacao': situacao,
+                'DataQuitacao': data_quit,
+            }, avisos))
+
+    ultimo = {}
+    for r in lista_desemb:
+        if r['DataDesembolso']:
+            ultimo[r['NumeroConvenio']] = max(ultimo.get(r['NumeroConvenio'], ''), r['DataDesembolso'])
+    return lista_desemb, lista_emp, lista_crono, ultimo
 
 
 def main():
@@ -133,24 +265,31 @@ def main():
             'QtdTA': int(c['QTD_TA']) if c['QTD_TA'] else None,
             'QtdProrroga': int(c['QTD_PRORROGA']) if c['QTD_PRORROGA'] else None,
         }
-        reg['AvisoDados'] = '; '.join(avisos) or None
-        reg['HashAPI'] = hashlib.sha1(json.dumps(reg, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+        reg['_avisos'] = avisos
         registros[c['NR_CONVENIO']] = reg
 
     if not registros:
         # fonte fora do ar ou formato mudou: não sobrescreve o arquivo do dia anterior
         sys.exit('Nenhum convênio do CNPq encontrado; arquivo mantido.')
 
+    desemb, emp, crono, ultimo = financeiro(pasta, registros)
+    for nr, reg in registros.items():
+        reg['DataUltimoDesembolso'] = ultimo.get(nr)
+        com_hash(reg, reg.pop('_avisos'))
+
     data_carga = next(linhas(pasta, 'data_carga_siconv'))['data_carga']
     os.makedirs(PASTA, exist_ok=True)
-    dados = sorted(registros.values(), key=lambda r: r['Title'].zfill(12))  # há números com letras
-    with open(os.path.join(PASTA, 'convenios.json'), 'w', encoding='utf-8') as f:
-        json.dump(dados, f, ensure_ascii=False, indent=1)
-        f.write('\n')
+    por_titulo = lambda r: r['Title'].zfill(20)  # há números de convênio com letras
+    dados = sorted(registros.values(), key=por_titulo)
+    grava('convenios.json', dados)
+    grava('convenio_desembolsos.json', sorted(desemb, key=por_titulo))
+    grava('convenio_empenhos.json', sorted(emp, key=por_titulo))
+    grava('convenio_cronograma.json', sorted(crono, key=lambda r: r['Title']))
     with open(os.path.join(PASTA, 'convenios_data_carga.txt'), 'w', encoding='utf-8') as f:
         f.write(data_carga + '\n')
     print('programas CNPq:', len(programas), '| propostas:', len(propostas),
-          '| convênios:', len(dados), '| data da carga na fonte:', data_carga)
+          '| convênios:', len(dados), '| desembolsos:', len(desemb), '| empenhos:', len(emp),
+          '| parcelas:', len(crono), '| data da carga na fonte:', data_carga)
 
 
 if __name__ == '__main__':
