@@ -124,6 +124,12 @@ def main():
             'ValorContrapartida': numero(c['VL_CONTRAPARTIDA_CONV']),
             'ValorEmpenhado': numero(c['VL_EMPENHADO_CONV']),
             'ValorDesembolsado': numero(c['VL_DESEMBOLSADO_CONV']),
+            'ValorIngressoContrapartida': numero(c['VL_INGRESSO_CONTRAPARTIDA']),
+            'ValorRendimentoAplicacao': numero(c['VL_RENDIMENTO_APLICACAO']),
+            'ValorSaldoRemanTesouro': numero(c['VL_SALDO_REMAN_TESOURO']),
+            'ValorSaldoRemanConvenente': numero(c['VL_SALDO_REMAN_CONVENENTE']),
+            'ValorSaldoConta': numero(c['VL_SALDO_CONTA']),
+            'OperaOBTV': c['IND_OPERA_OBTV'] == 'SIM',
             'QtdTA': int(c['QTD_TA']) if c['QTD_TA'] else None,
             'QtdProrroga': int(c['QTD_PRORROGA']) if c['QTD_PRORROGA'] else None,
         }
