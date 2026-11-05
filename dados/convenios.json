@@ -24,10 +24,16 @@
   "ValorContrapartida": 5000000.0,
   "ValorEmpenhado": 10000000.0,
   "ValorDesembolsado": 10000000.0,
+  "ValorIngressoContrapartida": 4612108.69,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 324459.56,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "f1dc6efd8b1fb5980b67796c85d35e563a8b826a"
+  "HashAPI": "8f3e4e9d0befa9d11d7c274bc6400a5acc5bf7e4"
  },
  {
   "Title": "700135",
@@ -54,10 +60,16 @@
   "ValorContrapartida": 284600.0,
   "ValorEmpenhado": 3600000.0,
   "ValorDesembolsado": 3600000.0,
+  "ValorIngressoContrapartida": 284600.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1244755.13,
+  "ValorSaldoRemanConvenente": 87525.75,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9fcc70f67d089bc6b0f2e301ddf37d64c080c59e"
+  "HashAPI": "b376617cc65c89342f745038dd658337d17919ca"
  },
  {
   "Title": "700253",
@@ -84,10 +96,16 @@
   "ValorContrapartida": 12458000.0,
   "ValorEmpenhado": 18687000.0,
   "ValorDesembolsado": 18687000.0,
+  "ValorIngressoContrapartida": 12056996.72,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1699942.09,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c807b2d6bbd7b3f9020cd7e3fa498e75a7fb292d"
+  "HashAPI": "e0f8a24135989de37a37ac8517da82900a1f8fb9"
  },
  {
   "Title": "700296",
@@ -114,10 +132,16 @@
   "ValorContrapartida": 800000.0,
   "ValorEmpenhado": 1600000.0,
   "ValorDesembolsado": 1600000.0,
+  "ValorIngressoContrapartida": 786538.19,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 54000.0,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "124ccb46bd2abd3d54f670c8f7d39d2dc88e6bc2"
+  "HashAPI": "08fca582bf2a87be6bf4b0525f6d4c471fbcef26"
  },
  {
   "Title": "700322",
@@ -144,10 +168,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1351473.38,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5aaab3a49d8c6381e26598f64c68fcba05a14b93"
+  "HashAPI": "b052bb1b6a651834df74420b6690c7a6426ce31e"
  },
  {
   "Title": "700323",
@@ -174,10 +204,16 @@
   "ValorContrapartida": 800000.0,
   "ValorEmpenhado": 2400000.0,
   "ValorDesembolsado": 2400000.0,
+  "ValorIngressoContrapartida": 145000.0,
+  "ValorRendimentoAplicacao": 77750.15,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "25b0d1dc76dbf82231967efa739161bc4824060a"
+  "HashAPI": "d8e6fc3266ba317c0f6f51b56fb8744f3d71ff24"
  },
  {
   "Title": "700324",
@@ -204,10 +240,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1305772.75,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "680f3897e1d47abb7201fb1f70f00d5ebaeff7c6"
+  "HashAPI": "48b91aa3c914c0cd15d17fd45da4f74145062a2a"
  },
  {
   "Title": "700325",
@@ -234,10 +276,16 @@
   "ValorContrapartida": 5000000.0,
   "ValorEmpenhado": 7500000.0,
   "ValorDesembolsado": 7500000.0,
+  "ValorIngressoContrapartida": 5000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c19440ac47908dcf1ed9bdce64d476c872cd892f"
+  "HashAPI": "365ee8619c45b16981acf9d4fb95953d35e4de21"
  },
  {
   "Title": "700326",
@@ -264,10 +312,16 @@
   "ValorContrapartida": 4563000.0,
   "ValorEmpenhado": 9128000.0,
   "ValorDesembolsado": 9128000.0,
+  "ValorIngressoContrapartida": 3980968.17,
+  "ValorRendimentoAplicacao": 1731497.88,
+  "ValorSaldoRemanTesouro": 395020.9,
+  "ValorSaldoRemanConvenente": 197467.17,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9873cbf2aba1eb1e730959a15a82b2fae5895c74"
+  "HashAPI": "73bb93617612d9056e7f5ac1bb687e7e4279cf36"
  },
  {
   "Title": "700328",
@@ -294,10 +348,16 @@
   "ValorContrapartida": 5000000.0,
   "ValorEmpenhado": 10000000.0,
   "ValorDesembolsado": 10000000.0,
+  "ValorIngressoContrapartida": 5000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 2201448.25,
+  "ValorSaldoRemanConvenente": 748420.51,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "024c97c8562eefb99987c9ea8a4a72243022dc17"
+  "HashAPI": "7075f546d36428e35c4d7519414615aebd43e039"
  },
  {
   "Title": "700329",
@@ -324,10 +384,16 @@
   "ValorContrapartida": 883000.0,
   "ValorEmpenhado": 2649000.0,
   "ValorDesembolsado": 2649000.0,
+  "ValorIngressoContrapartida": 720000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1225457.25,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "ec21b73262caaa9373b1aef79a47b15937aa07cd"
+  "HashAPI": "50eb264b8787416210952977038e3d71cbc50af0"
  },
  {
   "Title": "700330",
@@ -354,10 +420,16 @@
   "ValorContrapartida": 4082500.0,
   "ValorEmpenhado": 7528500.0,
   "ValorDesembolsado": 7528500.0,
+  "ValorIngressoContrapartida": 2355000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 4325641.5,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "a277b40acddbd2c209719cb5ae63d7f62743aec7"
+  "HashAPI": "8cc18558a81b764ffac1c857c116128ccb82cd1a"
  },
  {
   "Title": "700331",
@@ -384,10 +456,16 @@
   "ValorContrapartida": 12633313.0,
   "ValorEmpenhado": 20000000.0,
   "ValorDesembolsado": 20000000.0,
+  "ValorIngressoContrapartida": 12633313.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 4231626.0,
+  "ValorSaldoRemanConvenente": 2765722.1,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 5,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "32aa683b862dbbc27c80f7335f4eb4cc583642a3"
+  "HashAPI": "78912f1804fa4867221da273add030016fe52d63"
  },
  {
   "Title": "700332",
@@ -414,10 +492,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": 492170.59,
+  "ValorSaldoRemanTesouro": 148129.13,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "e7be6073ab9a73e6f5ad1ec669424b95e18448b1"
+  "HashAPI": "6e966387ef6ad628d1476ad57a34e4618f5c9e91"
  },
  {
   "Title": "700334",
@@ -444,10 +528,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 2250000.0,
   "ValorDesembolsado": 2250000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 313228.04,
+  "ValorSaldoRemanConvenente": 200471.64,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "760ee59afe01ecb1e294a78a2f18aeb2a8c86b8f"
+  "HashAPI": "00febe8bd87c892ce7b830cddf86d121c724aaa1"
  },
  {
   "Title": "700335",
@@ -474,10 +564,16 @@
   "ValorContrapartida": 700000.0,
   "ValorEmpenhado": 1400000.0,
   "ValorDesembolsado": 1400000.0,
+  "ValorIngressoContrapartida": 700000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 429441.52,
+  "ValorSaldoRemanConvenente": 197192.48,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "aef75adfedef9abb1564d8d95cde79bcfcdabd0e"
+  "HashAPI": "6dc4df24a9bd67072c93c769a6683064bd92d213"
  },
  {
   "Title": "700336",
@@ -504,10 +600,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 617561.94,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "13f9ec372e0a68248680d82f4182de1005250142"
+  "HashAPI": "ac70f42946f5ba8c639373f367d189d63e8aa2a9"
  },
  {
   "Title": "700337",
@@ -534,10 +636,16 @@
   "ValorContrapartida": 900000.0,
   "ValorEmpenhado": 1800000.0,
   "ValorDesembolsado": 1611000.0,
+  "ValorIngressoContrapartida": 893355.2,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 191388.61,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "a5295fe32f17e885d1a26366c9a9aa3453008daa"
+  "HashAPI": "8f9913207a951840f2b3b1e6da655ceeb896a27c"
  },
  {
   "Title": "700338",
@@ -564,10 +672,16 @@
   "ValorContrapartida": 80000.0,
   "ValorEmpenhado": 240000.0,
   "ValorDesembolsado": 240000.0,
+  "ValorIngressoContrapartida": 80000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 76092.55,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "1534f3d09e9d2a467d2aa70e3c205b8deffa2a8a"
+  "HashAPI": "3de6581413b6230e49ee91955e05509747d1dc7f"
  },
  {
   "Title": "700340",
@@ -594,10 +708,16 @@
   "ValorContrapartida": 608785.0,
   "ValorEmpenhado": 700000.0,
   "ValorDesembolsado": 700000.0,
+  "ValorIngressoContrapartida": 608785.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 162149.23,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "abdb4e432da20b701ac8b3f5371a2d0f0d6e07b2"
+  "HashAPI": "03c2bbf8b0e8bf425b16d7cc3359c08240b9e60c"
  },
  {
   "Title": "700342",
@@ -624,10 +744,16 @@
   "ValorContrapartida": 700000.0,
   "ValorEmpenhado": 1400000.0,
   "ValorDesembolsado": 1400000.0,
+  "ValorIngressoContrapartida": 700000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 341969.81,
+  "ValorSaldoRemanConvenente": 170984.91,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "ae6fec030fbab5fce1995d9b40743682a69ffa3b"
+  "HashAPI": "5944bbe47c496ed33448d238156c7dd44566135c"
  },
  {
   "Title": "700343",
@@ -654,10 +780,16 @@
   "ValorContrapartida": 2250000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "d55d2a3581cfc3e51438cc1ec9399464df78a421"
+  "HashAPI": "42fc3cfc93032d832f7b0932168415919752280a"
  },
  {
   "Title": "700344",
@@ -684,10 +816,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "2337ea06b9c945dea1daee568253072942846f33"
+  "HashAPI": "2937d2bde9248e789d85280043f374cea339a61d"
  },
  {
   "Title": "700345",
@@ -714,10 +852,16 @@
   "ValorContrapartida": 800000.0,
   "ValorEmpenhado": 1600000.0,
   "ValorDesembolsado": 1600000.0,
+  "ValorIngressoContrapartida": 800000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 488855.31,
+  "ValorSaldoRemanConvenente": 39303.8,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "24048b30d882ab9c720ae3daab99f469470ac599"
+  "HashAPI": "053c1389e13b4bfa0f6d8fea8768389d9f9a1250"
  },
  {
   "Title": "700346",
@@ -744,10 +888,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 900000.0,
   "ValorDesembolsado": 900000.0,
+  "ValorIngressoContrapartida": 300000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 181215.31,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "a623877777a8ffef95882ebf758add4087f7772c"
+  "HashAPI": "8fd2e829b062fd012819abfc99e129105b3a61b5"
  },
  {
   "Title": "700348",
@@ -774,10 +924,16 @@
   "ValorContrapartida": 120000.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 120000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 69679.28,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "6e678ffdc2d81c4ab9b415f92b7eeca988ead601"
+  "HashAPI": "867cd8d4f0d3d0cc198f8459db7ef26c28ab7aeb"
  },
  {
   "Title": "700349",
@@ -804,10 +960,16 @@
   "ValorContrapartida": 100000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 100000.0,
+  "ValorRendimentoAplicacao": 8982.27,
+  "ValorSaldoRemanTesouro": 119210.57,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "156bf5642da8acea056485d1fca3b0047907c017"
+  "HashAPI": "a71104f32c3873d341658ec46944aad0fcf5037c"
  },
  {
   "Title": "700350",
@@ -834,10 +996,16 @@
   "ValorContrapartida": 473307.83,
   "ValorEmpenhado": 700000.0,
   "ValorDesembolsado": 700000.0,
+  "ValorIngressoContrapartida": 473307.83,
+  "ValorRendimentoAplicacao": 60501.82,
+  "ValorSaldoRemanTesouro": 111105.24,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "44ac1247c4fa4e765a7dbc2afc913b9d5a081593"
+  "HashAPI": "ca7433f8453e1fe94a4dd0840d10b61704f68fd4"
  },
  {
   "Title": "700351",
@@ -864,10 +1032,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1160001.06,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "e9a92a1b41fb5726b3864a19f15fd9c45c2a0fda"
+  "HashAPI": "442019f57d63dd3c0dc7c1f7b507b4cf41d226db"
  },
  {
   "Title": "700352",
@@ -894,10 +1068,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 500000.0,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": 20000.0,
+  "ValorSaldoRemanTesouro": 228431.53,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9b26e11ebdced6dbf37168397a784522404e256b"
+  "HashAPI": "73691d5b3b0c6514497ae63c9cfe3ec8ed4a2c9f"
  },
  {
   "Title": "700353",
@@ -924,10 +1104,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 546320.94,
+  "ValorSaldoRemanConvenente": 273419.5,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "0624f0802df9a721b77d9809a0c4a7bbedef9761"
+  "HashAPI": "0cd62dd19040d319edbc013a69b10caa4b1d9374"
  },
  {
   "Title": "700354",
@@ -954,10 +1140,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 58014.51,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "e5b499c227b711d3575756f555b7c9ec955cad6c"
+  "HashAPI": "267df4a99f549a34530ad57a797bf7c82117dbfe"
  },
  {
   "Title": "700412",
@@ -984,10 +1176,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 450000.0,
   "ValorDesembolsado": 450000.0,
+  "ValorIngressoContrapartida": 150000.0,
+  "ValorRendimentoAplicacao": 20419.14,
+  "ValorSaldoRemanTesouro": 50785.27,
+  "ValorSaldoRemanConvenente": 41989.38,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "b7b43f1ff4db1152ee2dcaa724b16827400033e8"
+  "HashAPI": "b8cab99c9073b5e14e3ed240d8721dc923d76714"
  },
  {
   "Title": "700413",
@@ -1014,10 +1212,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 223002.92,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "4983edf29f3dc4672c18dbf5857ee647f068ca54"
+  "HashAPI": "feacc3319ff4869120a6f326da08429ffc9ad25b"
  },
  {
   "Title": "700414",
@@ -1044,10 +1248,16 @@
   "ValorContrapartida": 700000.0,
   "ValorEmpenhado": 1400000.0,
   "ValorDesembolsado": 1400000.0,
+  "ValorIngressoContrapartida": 700000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "38c9448723a34c5941cc42015e943566e735ba57"
+  "HashAPI": "04325f7bf5f1448e0f932268128614003f6b77c8"
  },
  {
   "Title": "700415",
@@ -1074,10 +1284,16 @@
   "ValorContrapartida": 4423775.0,
   "ValorEmpenhado": 5500000.0,
   "ValorDesembolsado": 5500000.0,
+  "ValorIngressoContrapartida": 4423775.0,
+  "ValorRendimentoAplicacao": 1210057.62,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 5,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "30cd5485d70424f387b46b00864564321a97a519"
+  "HashAPI": "0747bd8b2b9a3ce877c370b0c2285bab316eef3d"
  },
  {
   "Title": "700416",
@@ -1104,10 +1320,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 150000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 81275.89,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "755c4871dc822454ba6b5fd30aebc99a2fe32acb"
+  "HashAPI": "e71c63016d74a4ff44ff56a3f48cf9f431d2dc14"
  },
  {
   "Title": "700417",
@@ -1134,10 +1356,16 @@
   "ValorContrapartida": 875750.0,
   "ValorEmpenhado": 2627250.0,
   "ValorDesembolsado": 2627250.0,
+  "ValorIngressoContrapartida": 875749.97,
+  "ValorRendimentoAplicacao": 145328.8,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "8d6f348e7656879f07f5ae61a3387d7ec708e2f0"
+  "HashAPI": "d9f41d9c93a3870e01339fc37fe056d958fa2f41"
  },
  {
   "Title": "700430",
@@ -1164,10 +1392,16 @@
   "ValorContrapartida": 70000.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 67602.21,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 74167.86,
+  "ValorSaldoRemanConvenente": 20327.11,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "eeca7654585b28288dc55a44cf20fe0e7181b06b"
+  "HashAPI": "4bd6cbe50627b52b6f7dc6abd15df2dbb46687ea"
  },
  {
   "Title": "700459",
@@ -1194,10 +1428,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 300000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 191186.06,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "edb272544381df0d0062cbe5359671093612b6e8"
+  "HashAPI": "cd0c091ef67d9d29de8661f8e8ade2249d7540f2"
  },
  {
   "Title": "700460",
@@ -1224,10 +1464,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3500000.0,
   "ValorDesembolsado": 3500000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 825373.5,
+  "ValorSaldoRemanConvenente": 357516.09,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "da0bd8eed59ce8b683fcee743d0e8eb33c0528d3"
+  "HashAPI": "fdaaf228d2a792562025ef46b8c3e95f9ce26746"
  },
  {
   "Title": "700461",
@@ -1254,10 +1500,16 @@
   "ValorContrapartida": 250000.0,
   "ValorEmpenhado": 750000.0,
   "ValorDesembolsado": 750000.0,
+  "ValorIngressoContrapartida": 250000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 102632.31,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "2feaea9fb5c4911e36006dfd4b217f0b358734a9"
+  "HashAPI": "2e3191e74553e483c94890bf7ae8def3fdaae672"
  },
  {
   "Title": "700492",
@@ -1284,10 +1536,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "0f2f867ac67f0c22af1045419ec3695afe0e5a77"
+  "HashAPI": "0c777138781410ca2d5377f7aa22bef2480a2ab9"
  },
  {
   "Title": "700538",
@@ -1314,10 +1572,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 3000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1110957.11,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "086e8d0c11625ef830ed51c579449afab55e9589"
+  "HashAPI": "919f919e87cffbda49334e59c246d27513b68722"
  },
  {
   "Title": "700540",
@@ -1344,10 +1608,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1853261.88,
+  "ValorSaldoRemanConvenente": 547576.94,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5a1f9b676baf0d47b14c02494f9ef7e91a027bb0"
+  "HashAPI": "e115cf300e08544d32eaabbda424f6f9ed713548"
  },
  {
   "Title": "700541",
@@ -1374,10 +1644,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 252000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 417315.56,
+  "ValorSaldoRemanConvenente": 173442.27,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "bb6cda3f3cc8be4b2a45d53a2a1fa1512bd3dab3"
+  "HashAPI": "36017d14337554ab60a683cb36348a7326c58840"
  },
  {
   "Title": "700543",
@@ -1404,10 +1680,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1497452.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "caceb1b4f5204a0ef18964609145a7ebf479edf4"
+  "HashAPI": "c6bbdd7e4bc80277aaf13df3f343bae936d379eb"
  },
  {
   "Title": "700544",
@@ -1434,10 +1716,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 6000000.0,
   "ValorDesembolsado": 6000000.0,
+  "ValorIngressoContrapartida": 2566914.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 2762138.38,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "53d7e2f2e7424b42f1b3cc2ec11b20ab2cf08d4c"
+  "HashAPI": "28bf6da22bb31543ba55c5bad902e4acc1a692e5"
  },
  {
   "Title": "700545",
@@ -1464,10 +1752,16 @@
   "ValorContrapartida": 12000000.0,
   "ValorEmpenhado": 18000000.0,
   "ValorDesembolsado": 18000000.0,
+  "ValorIngressoContrapartida": 12000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 2109750.34,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "68843fee6d7f77aee911f759f198df27c6088d49"
+  "HashAPI": "f89fb2e34348239d9bd86f2230d9ca095ef5ab00"
  },
  {
   "Title": "700550",
@@ -1494,10 +1788,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 1999947.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "ba0650824469261c875817b40c4165dce373a6ab"
+  "HashAPI": "6bd5774d0643dd88e8a90d4def52ff46453cb0d8"
  },
  {
   "Title": "700556",
@@ -1524,10 +1824,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 150000.0,
+  "ValorRendimentoAplicacao": 20362.64,
+  "ValorSaldoRemanTesouro": 362.33,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c1126d86c1aaedd5ac4ee6dd02eada494dd94082"
+  "HashAPI": "8fcc7f4f12eb77494866437fc4b0130058881670"
  },
  {
   "Title": "700557",
@@ -1554,10 +1860,16 @@
   "ValorContrapartida": 12000000.0,
   "ValorEmpenhado": 6000000.0,
   "ValorDesembolsado": 6000000.0,
+  "ValorIngressoContrapartida": 6000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 3266473.79,
+  "ValorSaldoRemanConvenente": 2973858.72,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "824c5c763995e9b7ac8a4a5a68015a57bab6a794"
+  "HashAPI": "56e23ebbe9b229785a389701b124ccc18148200c"
  },
  {
   "Title": "700570",
@@ -1584,10 +1896,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": 2500.0,
+  "ValorSaldoRemanTesouro": 577302.43,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "789117124b887804fb8576d88d6b07de65c234a5"
+  "HashAPI": "70f2d0d9406663e85c6cae1aed98512eec597513"
  },
  {
   "Title": "700571",
@@ -1614,10 +1932,16 @@
   "ValorContrapartida": 441000.0,
   "ValorEmpenhado": 1323000.0,
   "ValorDesembolsado": 1005750.0,
+  "ValorIngressoContrapartida": 441000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 89520.58,
+  "ValorSaldoRemanConvenente": 38365.97,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "167ad97a0cf626681c68c85919e4add41748fa3a"
+  "HashAPI": "b74e0d69a57d6f75a134320b777d2193804ad175"
  },
  {
   "Title": "700610",
@@ -1644,10 +1968,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 400000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 163390.38,
+  "ValorSaldoRemanConvenente": 81695.19,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "1d4a23ed4abfe61a45480bb2ccf5ec988f9fdc68"
+  "HashAPI": "5ac68c1bc17da47c4d9032d1eae6bbbf3b5ba014"
  },
  {
   "Title": "700611",
@@ -1674,10 +2004,16 @@
   "ValorContrapartida": 224218.07,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 224218.07,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 6100.54,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "7810571f4fff8e2e38fa6ec94760d74d57f2caca"
+  "HashAPI": "215be65ee10fdb0b16ff99329e41f5cd364d299a"
  },
  {
   "Title": "700612",
@@ -1704,10 +2040,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 150000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 112143.3,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "6a26526f6a75c27ac36f7d6517cb5224ddf7d8cb"
+  "HashAPI": "3bd4e51a937145a40e565704c0af0f3d29100209"
  },
  {
   "Title": "700628",
@@ -1734,10 +2076,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 671975.19,
+  "ValorSaldoRemanConvenente": 336088.31,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c47dfcd34c21a90b45b1e66ad7fdc2ae9d4c2c69"
+  "HashAPI": "0d54612d4368391992cb2cc20089ad9f19ca0947"
  },
  {
   "Title": "700650",
@@ -1764,10 +2112,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 150000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 58288.62,
+  "ValorSaldoRemanConvenente": 23968.55,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "b129692058559d20007522a2b6d7cfc19677e30c"
+  "HashAPI": "d1fca93e761f3ccfa379111e333db0d110dc5642"
  },
  {
   "Title": "700652",
@@ -1794,10 +2148,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "ed840cd1ab86e9244fa8db4b12a0efa562f861cc"
+  "HashAPI": "9a05242bcef44f37e3b134b6997e1f3e29af7ffe"
  },
  {
   "Title": "700654",
@@ -1824,10 +2184,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 398693.2,
+  "ValorRendimentoAplicacao": 28717.62,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "2734a367300b99705fc0b716220a8aa7fb1d18e6"
+  "HashAPI": "11cf0ead1ebbb125e4c3c6e70ee2344b8c4580b1"
  },
  {
   "Title": "700655",
@@ -1854,10 +2220,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 707464.06,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "b3fdbc83497527d8fa3a81f3378cef056c09e45a"
+  "HashAPI": "2bbbb0f834b5f26651a1eea19f2db25efb2768dc"
  },
  {
   "Title": "700656",
@@ -1884,10 +2256,16 @@
   "ValorContrapartida": 6000000.0,
   "ValorEmpenhado": 9000000.0,
   "ValorDesembolsado": 9000000.0,
+  "ValorIngressoContrapartida": 5398667.24,
+  "ValorRendimentoAplicacao": 163293.53,
+  "ValorSaldoRemanTesouro": 2144026.16,
+  "ValorSaldoRemanConvenente": 144000.0,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "2c696efc10ff113ea8fa76b97b01b6bafbc85b21"
+  "HashAPI": "1da270ea4359883272b134b6910f132e24f8a4dc"
  },
  {
   "Title": "700665",
@@ -1914,10 +2292,16 @@
   "ValorContrapartida": 900000.0,
   "ValorEmpenhado": 4195015.12,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 42380.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 193088.06,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "adbdb60a2bf2daa87d963cd49665d30c0bbd4d63"
+  "HashAPI": "a0d0a2f4389b26baaf0bd2776ca805312a5c3e61"
  },
  {
   "Title": "700675",
@@ -1944,10 +2328,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 295718.33,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "e55035e691b80290264df5d71f123954b7f9829b"
+  "HashAPI": "64d4f4e22ab164f9422921b5cfe747bf2f21a50d"
  },
  {
   "Title": "700685",
@@ -1974,10 +2364,16 @@
   "ValorContrapartida": 80000.0,
   "ValorEmpenhado": 270000.0,
   "ValorDesembolsado": 270000.0,
+  "ValorIngressoContrapartida": 80000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 29798.39,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "543e746d1cd72b6cfd819aaf6127aac0837e63b4"
+  "HashAPI": "9f09f578e42ecd24f086fe901241bd81dc79c786"
  },
  {
   "Title": "700863",
@@ -2004,10 +2400,16 @@
   "ValorContrapartida": 40000.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 40000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 91121.89,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c8f13f9c3f91b6e017f2bde82ebefd3e6978de19"
+  "HashAPI": "064e8807f7178a74137bacdf3b919caf0adc19e6"
  },
  {
   "Title": "700924",
@@ -2034,10 +2436,16 @@
   "ValorContrapartida": 70000.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 35000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 21955.89,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "fceec6e084413fc375ef5c6ed5f2a91af5a7ee31"
+  "HashAPI": "68fe1e4f5887887135ac521b7ac529d5da9e1ebf"
  },
  {
   "Title": "700932",
@@ -2064,10 +2472,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1468482.03,
+  "ValorSaldoRemanConvenente": 689444.69,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "4b08fa94fe384861841057f6a9263cf20ed5bb13"
+  "HashAPI": "3f30d08cca10e6112195c86883ef013a1c62a0b1"
  },
  {
   "Title": "700934",
@@ -2094,10 +2508,16 @@
   "ValorContrapartida": 40000.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 40000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 251299.69,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "75cd29bd7f051ac69a05f7394244577074e64a16"
+  "HashAPI": "866049337683634b835303806dccb67d195dd2f1"
  },
  {
   "Title": "701782",
@@ -2124,10 +2544,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "fe0abb30d009a2632911058bdb9ff4e91ebfda82"
+  "HashAPI": "1abd21ee188525a72bd412535c21f2e9b78af3b9"
  },
  {
   "Title": "701783",
@@ -2154,10 +2580,16 @@
   "ValorContrapartida": 100000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 100000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 19251.35,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9a3acdef56cf600b68bfdadff219bff55bed3f01"
+  "HashAPI": "db4001aedfdf1ef617230b98e0f07a4d252eb818"
  },
  {
   "Title": "701785",
@@ -2184,10 +2616,16 @@
   "ValorContrapartida": 100000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 195000.0,
+  "ValorIngressoContrapartida": 100000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 79023.34,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "3cb395168557101b71f8e41af37292dfc05eaf91"
+  "HashAPI": "ba7afa96a06025e404af1fdb91238fc151fba60c"
  },
  {
   "Title": "703589",
@@ -2214,10 +2652,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 200000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 164014.96,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "127a8017dafb04104166ed8e7fb9a2b4593eaa86"
+  "HashAPI": "2ca42336b05b7b92f2526ac897e44ee867bc28d8"
  },
  {
   "Title": "703590",
@@ -2244,10 +2688,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 200000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 42187.02,
+  "ValorSaldoRemanConvenente": 32463.07,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "7fb5131f8579c6f2ab3314200693dad269868447"
+  "HashAPI": "dc2fc9f329bdb2720a963ada123fc1b8e79cdf39"
  },
  {
   "Title": "703591",
@@ -2274,10 +2724,16 @@
   "ValorContrapartida": 250000.0,
   "ValorEmpenhado": 250000.0,
   "ValorDesembolsado": 250000.0,
+  "ValorIngressoContrapartida": 250000.0,
+  "ValorRendimentoAplicacao": 18646.34,
+  "ValorSaldoRemanTesouro": 48365.14,
+  "ValorSaldoRemanConvenente": 38604.73,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "176a3004e48cf054a261a07fa487a985e727ab55"
+  "HashAPI": "26fec619bbd18941aa57d40d4360431ef6cdd7aa"
  },
  {
   "Title": "703733",
@@ -2304,10 +2760,16 @@
   "ValorContrapartida": 13750.0,
   "ValorEmpenhado": 957013.65,
   "ValorDesembolsado": 957013.65,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 70757.34,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 4356.74,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "4c07873175eca26a07f3080cd25f21e1b4aab99f"
+  "HashAPI": "bd3b0081e25d0d341d3372bbf95a0dd1414bff82"
  },
  {
   "Title": "703817",
@@ -2334,10 +2796,16 @@
   "ValorContrapartida": 0.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "4d9f52b853289c17a3db048e174cf2e98f2948e7"
+  "HashAPI": "29552fbe29a96a5d0784826d6cad0911b9ad4e3a"
  },
  {
   "Title": "703884",
@@ -2364,10 +2832,16 @@
   "ValorContrapartida": 114848.64,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9727ebf12f33a7a565875dd50c12e03d0e17e7b5"
+  "HashAPI": "0dc12c4fdfb16c330b75fb7d375b1a454dbcb9a8"
  },
  {
   "Title": "703897",
@@ -2394,10 +2868,16 @@
   "ValorContrapartida": 67164.0,
   "ValorEmpenhado": 6416400.0,
   "ValorDesembolsado": 6416400.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 755611.19,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 48061.12,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 4,
   "AvisoDados": null,
-  "HashAPI": "ddbf993287981eda83f4bce666dc4ad27aff19fe"
+  "HashAPI": "33aacc90bf1024e8292cf032dbfc211fe23b145b"
  },
  {
   "Title": "703905",
@@ -2424,10 +2904,16 @@
   "ValorContrapartida": 531548.76,
   "ValorEmpenhado": 1839725.28,
   "ValorDesembolsado": 1839725.28,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 106270.67,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 10,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "254ef55f2381075471d32eb31bd73623ec3cfbe1"
+  "HashAPI": "da0f3ff2dbd1b0d68b2188d83f3119a046a85da5"
  },
  {
   "Title": "703945",
@@ -2454,10 +2940,16 @@
   "ValorContrapartida": 250000.0,
   "ValorEmpenhado": 250000.0,
   "ValorDesembolsado": 250000.0,
+  "ValorIngressoContrapartida": 250000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 48531.08,
+  "ValorSaldoRemanConvenente": 48531.08,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "2e56100822c1f82b1f2467e1b168b1e51ae3b150"
+  "HashAPI": "cb5bebaab60840db2906e7ee360d1c1bcd2a0c4e"
  },
  {
   "Title": "703946",
@@ -2484,10 +2976,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "383ccf79d23103ad54d078be06a7b24a20b12dd6"
+  "HashAPI": "253b8ff0ff022cfdb82acbcd80b008d3ee2fec15"
  },
  {
   "Title": "704126",
@@ -2514,10 +3012,16 @@
   "ValorContrapartida": 20800.0,
   "ValorEmpenhado": 1501951.32,
   "ValorDesembolsado": 1501951.32,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 153757.09,
+  "ValorSaldoRemanTesouro": 33666.97,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 5,
   "QtdProrroga": 4,
   "AvisoDados": null,
-  "HashAPI": "4c8b7e0c74a4c05670a1650a95cdf5752ee52ad2"
+  "HashAPI": "e246eed83e3f2d2f652144f2d6340de60ab52107"
  },
  {
   "Title": "704134",
@@ -2544,10 +3048,16 @@
   "ValorContrapartida": 457178.35,
   "ValorEmpenhado": 2648795.9,
   "ValorDesembolsado": 3570534.91,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 173359.41,
+  "ValorSaldoRemanTesouro": 232564.03,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "7bd428e94ef14b645cbdb9c1ea1e098289695c66"
+  "HashAPI": "95d2451ad918943e9ac0df6144305fb7c3ab999f"
  },
  {
   "Title": "704139",
@@ -2574,10 +3084,16 @@
   "ValorContrapartida": 33000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "50b86f8f98665d15b604fb15ea2b44dfdfaeb641"
+  "HashAPI": "6117905c014349f60b796e2d9baddb128b81dd13"
  },
  {
   "Title": "704171",
@@ -2604,10 +3120,16 @@
   "ValorContrapartida": 29412.62,
   "ValorEmpenhado": 2407796.44,
   "ValorDesembolsado": 2407796.44,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 226451.54,
+  "ValorSaldoRemanTesouro": 5991.94,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "8f8917b8dfa21c53e54dba8b2ae0512704a18a11"
+  "HashAPI": "e428e3ded79feb03bfad08f40593ab89bad6487f"
  },
  {
   "Title": "704222",
@@ -2634,10 +3156,16 @@
   "ValorContrapartida": 231726.33,
   "ValorEmpenhado": 7224464.05,
   "ValorDesembolsado": 7224464.05,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 657017.6,
+  "ValorSaldoRemanTesouro": 122606.63,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 5,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "82df7d72fa84803758dcdd100c47b79f61da9dd3"
+  "HashAPI": "ab36efe64462fa543461f1bb89448e3f019fb676"
  },
  {
   "Title": "704272",
@@ -2664,10 +3192,16 @@
   "ValorContrapartida": 144714.0,
   "ValorEmpenhado": 4594833.78,
   "ValorDesembolsado": 4594833.78,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 329926.82,
+  "ValorSaldoRemanTesouro": 43833.89,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 7,
   "QtdProrroga": 4,
   "AvisoDados": null,
-  "HashAPI": "07c03e18398e685d2f6785af8a547888d8fbc5d7"
+  "HashAPI": "fd389d400b28663b72339af2fabe433f0807e5f5"
  },
  {
   "Title": "704320",
@@ -2694,10 +3228,16 @@
   "ValorContrapartida": 57709.79,
   "ValorEmpenhado": 5296581.03,
   "ValorDesembolsado": 5296581.03,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 289013.84,
+  "ValorSaldoRemanTesouro": 168.86,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 7,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "8296271c77e68575c76fe6767f68d4d709db509b"
+  "HashAPI": "d58f07d279887dc2f81af8b59262fd0d405aec86"
  },
  {
   "Title": "704322",
@@ -2724,10 +3264,16 @@
   "ValorContrapartida": 23168.7,
   "ValorEmpenhado": 1729870.76,
   "ValorDesembolsado": 1729870.76,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 184216.47,
+  "ValorSaldoRemanTesouro": 55174.74,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "bc2cff23eb63ab45cd4f35b20d1c065bd081899a"
+  "HashAPI": "6961dbd93bbeec4f5a78322293975ddfbbf3adeb"
  },
  {
   "Title": "704475",
@@ -2754,10 +3300,16 @@
   "ValorContrapartida": 52000.0,
   "ValorEmpenhado": 3933016.82,
   "ValorDesembolsado": 3933016.82,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 427701.42,
+  "ValorSaldoRemanTesouro": 2392.54,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "571a118949e3bfb0ed53a6b89ac493dffdf7138d"
+  "HashAPI": "2e1520d18464356906d28cbc08ddde6b016e32b5"
  },
  {
   "Title": "704621",
@@ -2784,10 +3336,16 @@
   "ValorContrapartida": 64800.0,
   "ValorEmpenhado": 955946.92,
   "ValorDesembolsado": 955946.92,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 142818.04,
+  "ValorSaldoRemanTesouro": 50041.31,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 5,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "c8e2343bd268fb928265b9c6eba8ee1d60d85adc"
+  "HashAPI": "1f48412c319a5d73e21c0330e601224922f59e91"
  },
  {
   "Title": "704622",
@@ -2814,10 +3372,16 @@
   "ValorContrapartida": 31874.71,
   "ValorEmpenhado": 1786426.88,
   "ValorDesembolsado": 1786426.88,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 217886.47,
+  "ValorSaldoRemanTesouro": 4056.89,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 5,
   "AvisoDados": null,
-  "HashAPI": "832e6a90a9c1922c120c9e04a78c3c17c42a1639"
+  "HashAPI": "12f627529b86ad3bb8bdc4fdfbaef67a8f163c34"
  },
  {
   "Title": "704623",
@@ -2844,10 +3408,16 @@
   "ValorContrapartida": 24043.72,
   "ValorEmpenhado": 1662737.76,
   "ValorDesembolsado": 1535093.12,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 191676.59,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 17969.08,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "5cc9bd6b82683d7560cc47957599aec071053a06"
+  "HashAPI": "206912123647c821783092715b9ac35ba11535df"
  },
  {
   "Title": "704745",
@@ -2874,10 +3444,16 @@
   "ValorContrapartida": 7975.67,
   "ValorEmpenhado": 797567.32,
   "ValorDesembolsado": 797567.32,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 116197.0,
+  "ValorSaldoRemanTesouro": 5521.21,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "3efcbec1f23fc1f9f6dab966f505cb3480583234"
+  "HashAPI": "580da33cdd869f87071f437822e6b7f6b0623f12"
  },
  {
   "Title": "704792",
@@ -2904,10 +3480,16 @@
   "ValorContrapartida": 75876.8,
   "ValorEmpenhado": 6323798.0,
   "ValorDesembolsado": 6323798.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 715028.55,
+  "ValorSaldoRemanTesouro": 38016.21,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "dfb6c264c7ee530fd8561704e29645137331137a"
+  "HashAPI": "3cb867fbeec4ae52c2e21fea90a9cf9bd5e569e2"
  },
  {
   "Title": "704867",
@@ -2934,10 +3516,16 @@
   "ValorContrapartida": 69708.94,
   "ValorEmpenhado": 3189394.68,
   "ValorDesembolsado": 1844089.38,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 154000.0,
+  "ValorSaldoRemanTesouro": 39911.92,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 11,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "212ceb996a1afe6114fbcbc787b5e9263098462c"
+  "HashAPI": "d66d11c2af49e6655cfa5640dd15c0694fb7d83f"
  },
  {
   "Title": "704985",
@@ -2964,10 +3552,16 @@
   "ValorContrapartida": 0.0,
   "ValorEmpenhado": 110000.0,
   "ValorDesembolsado": 110000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 30914.7,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9561b63407b8c73f02f6af7abac6fd80b74f6927"
+  "HashAPI": "4e6606955a3a00ee197738ad527454770c8988c0"
  },
  {
   "Title": "705018",
@@ -2994,10 +3588,16 @@
   "ValorContrapartida": 116725.19,
   "ValorEmpenhado": 3317413.83,
   "ValorDesembolsado": 3317413.83,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 359119.72,
+  "ValorSaldoRemanTesouro": 23434.74,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "16f3e808483c17f52a7e26a4c63d33ee6e44f9e8"
+  "HashAPI": "9d56d6a5a2c157257a9aacef78f40412dfa2ec34"
  },
  {
   "Title": "705019",
@@ -3024,10 +3624,16 @@
   "ValorContrapartida": 166583.6,
   "ValorEmpenhado": 2711989.99,
   "ValorDesembolsado": 2711989.99,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 404680.54,
+  "ValorSaldoRemanTesouro": 964268.44,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 7,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "ffa4e4a96bcd83fa46caf4e058e91ab9366d5d3e"
+  "HashAPI": "61752495a23fd31b8f0f5a847d64d291de2f5344"
  },
  {
   "Title": "705118",
@@ -3054,10 +3660,16 @@
   "ValorContrapartida": 52046.44,
   "ValorEmpenhado": 4828284.8,
   "ValorDesembolsado": 4828284.8,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 540075.68,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 4,
   "AvisoDados": null,
-  "HashAPI": "b27852d3a5ddeeaf891b37ae968412a6610e8105"
+  "HashAPI": "08d8bef204455e2a1dcfe8a895965e1b23f0ec83"
  },
  {
   "Title": "706758",
@@ -3084,10 +3696,16 @@
   "ValorContrapartida": 101855.75,
   "ValorEmpenhado": 694294.96,
   "ValorDesembolsado": 548211.98,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 5000.0,
+  "ValorSaldoRemanTesouro": 33044.04,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 5,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "3fcac962b919c5635480652af21011f150dff4b4"
+  "HashAPI": "7c9959f029fd8b9fb52b5fd033317d735a711aef"
  },
  {
   "Title": "708565",
@@ -3114,10 +3732,16 @@
   "ValorContrapartida": 29251.07,
   "ValorEmpenhado": 2098023.76,
   "ValorDesembolsado": 1249011.88,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 159551.51,
+  "ValorSaldoRemanTesouro": 89959.92,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 7,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "bbee32df02a3c68e9983d7bfc54a031c6a1f4b81"
+  "HashAPI": "ebea19896df03770a28796739e0a2ef90bf3a008"
  },
  {
   "Title": "710593",
@@ -3144,10 +3768,16 @@
   "ValorContrapartida": 129713.27,
   "ValorEmpenhado": 4907257.29,
   "ValorDesembolsado": 4108824.22,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 629354.69,
+  "ValorSaldoRemanTesouro": 7484.11,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "fb3c3907840f277ddfa3477cd989b46d7c4bedc4"
+  "HashAPI": "585d58781202cc6a3cb2b416868f9eff52d88abd"
  },
  {
   "Title": "722069",
@@ -3174,10 +3804,16 @@
   "ValorContrapartida": 50971.27,
   "ValorEmpenhado": 4558422.96,
   "ValorDesembolsado": 4136173.13,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 427321.04,
+  "ValorSaldoRemanTesouro": 222511.88,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "e8549d6035f1fdbf804413c7b47584b3d2b722b7"
+  "HashAPI": "56ea6fb474efee82eae1666d927e39d055879a15"
  },
  {
   "Title": "737392",
@@ -3204,10 +3840,16 @@
   "ValorContrapartida": 450000.0,
   "ValorEmpenhado": 1345000.0,
   "ValorDesembolsado": 1345000.0,
+  "ValorIngressoContrapartida": 450000.0,
+  "ValorRendimentoAplicacao": 59161.67,
+  "ValorSaldoRemanTesouro": 289360.66,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c092731830e4c3b7f2915e2fa36066ff298f7f78"
+  "HashAPI": "87101514e00ad35a74a1251d99c1aebfc36959e3"
  },
  {
   "Title": "737394",
@@ -3234,10 +3876,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 4250642.56,
   "ValorDesembolsado": 4328144.75,
+  "ValorIngressoContrapartida": 3000000.0,
+  "ValorRendimentoAplicacao": 667079.0,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "953b8ae8012f5331134360a4a44799b97a63c1d5"
+  "HashAPI": "afa8b717d67d1678042c0ee0d9ebe421f9bf1f29"
  },
  {
   "Title": "737395",
@@ -3264,10 +3912,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 2240000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": 172419.98,
+  "ValorSaldoRemanTesouro": 114014.64,
+  "ValorSaldoRemanConvenente": 796991.25,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "8dee872e7e9f6abc02418cdf091d80920bce2fd5"
+  "HashAPI": "ac2cfb118ba0f6c068e0741d6154b11b8dd058db"
  },
  {
   "Title": "737437",
@@ -3294,10 +3948,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 225000.0,
+  "ValorIngressoContrapartida": 200000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "742313999ce30f60b025081105a950f00775f23c"
+  "HashAPI": "3a134114db59059f664267ede0a6fd868a146e2c"
  },
  {
   "Title": "737440",
@@ -3324,10 +3984,16 @@
   "ValorContrapartida": 2500000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 5000000.0,
+  "ValorIngressoContrapartida": 2277734.43,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 464957.59,
+  "ValorSaldoRemanConvenente": 464957.59,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "50dbe52a3764dfd9f99cf39f1958873d12b50e3f"
+  "HashAPI": "4ce00f6292c6d767e8b6bdc94fe649d56746b758"
  },
  {
   "Title": "737478",
@@ -3354,10 +4020,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "cafdb00c3f890c4abb281881971ffe0f6485412a"
+  "HashAPI": "4db19311f20dd03bf1648f64412193b123ee5723"
  },
  {
   "Title": "737479",
@@ -3384,10 +4056,16 @@
   "ValorContrapartida": 700000.0,
   "ValorEmpenhado": 1134054.26,
   "ValorDesembolsado": 1134054.26,
+  "ValorIngressoContrapartida": 700000.0,
+  "ValorRendimentoAplicacao": 94672.2,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 9,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "b5c22b4a63c8989fcf03a6e9da16f182a5ca14ff"
+  "HashAPI": "935e4edb3a7ac64b3adb59374e2345d14ba447b4"
  },
  {
   "Title": "739177",
@@ -3414,10 +4092,16 @@
   "ValorContrapartida": 700000.0,
   "ValorEmpenhado": 490000.0,
   "ValorDesembolsado": 490000.0,
+  "ValorIngressoContrapartida": 700000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 349441.78,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "d1e680dd54878fd1ef91f21eb17a6da7e7820dc0"
+  "HashAPI": "04e809d20dd72e45cf5cec8a9e379216d7f5e1a1"
  },
  {
   "Title": "739181",
@@ -3444,10 +4128,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 200000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 114655.86,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "b3c0b16d639975c1f6fcb35978838283c6fcce9a"
+  "HashAPI": "9383e1fd10e21182b548155368b4639b4418f42e"
  },
  {
   "Title": "739182",
@@ -3474,10 +4164,16 @@
   "ValorContrapartida": 442033.33,
   "ValorEmpenhado": 1326100.0,
   "ValorDesembolsado": 1326100.0,
+  "ValorIngressoContrapartida": 442033.33,
+  "ValorRendimentoAplicacao": 77723.71,
+  "ValorSaldoRemanTesouro": 127437.24,
+  "ValorSaldoRemanConvenente": 42479.09,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 7,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "6908b206a7ed82986ed04862dbf49fc5f1d6e4b6"
+  "HashAPI": "dcbce0f23f3208910096e51b517bf23772a8130c"
  },
  {
   "Title": "739185",
@@ -3504,10 +4200,16 @@
   "ValorContrapartida": 4000000.0,
   "ValorEmpenhado": 6000000.0,
   "ValorDesembolsado": 6000000.0,
+  "ValorIngressoContrapartida": 4000000.0,
+  "ValorRendimentoAplicacao": 122340.53,
+  "ValorSaldoRemanTesouro": 1257030.94,
+  "ValorSaldoRemanConvenente": 841339.08,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "a45c5042457cb4d3baeab4c605ca753407082d7b"
+  "HashAPI": "47b11d2ac895deb7bd6812230e8dacb56f88e181"
  },
  {
   "Title": "739517",
@@ -3534,10 +4236,16 @@
   "ValorContrapartida": 1200000.0,
   "ValorEmpenhado": 2400000.0,
   "ValorDesembolsado": 2400000.0,
+  "ValorIngressoContrapartida": 1074703.92,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 247072.11,
+  "ValorSaldoRemanConvenente": 15277.72,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "0f42343b122aba0d5e224796f19be0ae99468945"
+  "HashAPI": "a35a24735181dad1852ca429a7470db9a2e63f23"
  },
  {
   "Title": "740486",
@@ -3564,10 +4272,16 @@
   "ValorContrapartida": 600000.0,
   "ValorEmpenhado": 1200000.0,
   "ValorDesembolsado": 1200000.0,
+  "ValorIngressoContrapartida": 600000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 279128.09,
+  "ValorSaldoRemanConvenente": 588124.05,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "c05e4a72b86fca8552571f11f425654210dc8f07"
+  "HashAPI": "a7abae9035bdf58c5f5ab4fca8436d3ea122252c"
  },
  {
   "Title": "743262",
@@ -3594,10 +4308,16 @@
   "ValorContrapartida": 2273500.0,
   "ValorEmpenhado": 4471000.0,
   "ValorDesembolsado": 4471000.0,
+  "ValorIngressoContrapartida": 2273500.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 741743.56,
+  "ValorSaldoRemanConvenente": 377193.78,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "be6583209a68175d62d0977c81869a117cc97cd6"
+  "HashAPI": "34fa3d4407d18eb5aff1e96d0015c833cde799d1"
  },
  {
   "Title": "743280",
@@ -3624,10 +4344,16 @@
   "ValorContrapartida": 1251000.0,
   "ValorEmpenhado": 2482077.29,
   "ValorDesembolsado": 1634795.49,
+  "ValorIngressoContrapartida": 405000.0,
+  "ValorRendimentoAplicacao": 113456.13,
+  "ValorSaldoRemanTesouro": 229610.2,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "3aa2040d279a6921571d80d2e09348c3525c3c4b"
+  "HashAPI": "1ae3ac6580e03b398152a02dcaf116b8c661b70c"
  },
  {
   "Title": "745733",
@@ -3654,10 +4380,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 1818500.0,
   "ValorDesembolsado": 1490000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": 143579.09,
+  "ValorSaldoRemanTesouro": 244685.16,
+  "ValorSaldoRemanConvenente": 115550.84,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "c5a5f00b3575ca7eff67dc2076bb93d787d8f7a5"
+  "HashAPI": "975d91fb6fe8b48615f42873990b26e9ed5b8c94"
  },
  {
   "Title": "745768",
@@ -3684,10 +4416,16 @@
   "ValorContrapartida": 601191.0,
   "ValorEmpenhado": 800000.0,
   "ValorDesembolsado": 800000.0,
+  "ValorIngressoContrapartida": 601191.0,
+  "ValorRendimentoAplicacao": 58236.0,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 159351.47,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "7c005a3ee2c060c2c8175086cd6f65c187ad9bdc"
+  "HashAPI": "ca4e4ba5df44e316b519677c840e3d58ecf4f8d7"
  },
  {
   "Title": "745847",
@@ -3714,10 +4452,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": 510577.06,
+  "ValorSaldoRemanTesouro": 413381.61,
+  "ValorSaldoRemanConvenente": 159859.95,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "41d733fa47e64478e03ba6ce268507ed35085afe"
+  "HashAPI": "0b426aa9146028e9cd27cecf72b88f850207688f"
  },
  {
   "Title": "746398",
@@ -3744,10 +4488,16 @@
   "ValorContrapartida": 416562.5,
   "ValorEmpenhado": 1249687.5,
   "ValorDesembolsado": 1249687.5,
+  "ValorIngressoContrapartida": 416562.5,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 66965.83,
+  "ValorSaldoRemanConvenente": 8973.29,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 5,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "15005e7a1d7dcb3d664959bc250b3bbc8e61035d"
+  "HashAPI": "5c96f6f46d12593e2d1337d3f7000b0e06d9248e"
  },
  {
   "Title": "746407",
@@ -3774,10 +4524,16 @@
   "ValorContrapartida": 1045000.0,
   "ValorEmpenhado": 1284084.94,
   "ValorDesembolsado": 920692.77,
+  "ValorIngressoContrapartida": 1045000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 489835.94,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "39f62efb7968459e70f8f2ce739dc713f2b69ec4"
+  "HashAPI": "b82861940b2885d426173bfb96140da025ea65ab"
  },
  {
   "Title": "746415",
@@ -3804,10 +4560,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 1058877.65,
   "ValorDesembolsado": 1058877.65,
+  "ValorIngressoContrapartida": 400000.0,
+  "ValorRendimentoAplicacao": 110000.0,
+  "ValorSaldoRemanTesouro": 169239.63,
+  "ValorSaldoRemanConvenente": 63872.81,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "73ef712a1fa04f7435ac64cb278cdc3b72398119"
+  "HashAPI": "ab447dc779864ee80ad5d4311eef8c8b52d52b69"
  },
  {
   "Title": "746419",
@@ -3834,10 +4596,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 745221.5,
+  "ValorSaldoRemanConvenente": 376858.09,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "45cdf0792b0369dbb0c7a8497da831e298c7af1c"
+  "HashAPI": "20bb4229b6ee588d0cddf18377be9ab2cbf727c3"
  },
  {
   "Title": "746421",
@@ -3864,10 +4632,16 @@
   "ValorContrapartida": 1192000.0,
   "ValorEmpenhado": 2384000.0,
   "ValorDesembolsado": 2384000.0,
+  "ValorIngressoContrapartida": 1192000.0,
+  "ValorRendimentoAplicacao": 119550.0,
+  "ValorSaldoRemanTesouro": 591650.56,
+  "ValorSaldoRemanConvenente": 295564.69,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "380d0f82739f1222cb144c5335b14e5acc4ef497"
+  "HashAPI": "d6221c47c609458508f90463659171018a452913"
  },
  {
   "Title": "746454",
@@ -3894,10 +4668,16 @@
   "ValorContrapartida": 6215809.48,
   "ValorEmpenhado": 9125660.58,
   "ValorDesembolsado": 9125660.58,
+  "ValorIngressoContrapartida": 6215809.48,
+  "ValorRendimentoAplicacao": 206594.18,
+  "ValorSaldoRemanTesouro": 771186.11,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "9dc37c4cc0b8882ecf758d791cd190b5c7654ad3"
+  "HashAPI": "e2bb15a832526206938655b816c4ae6933460a64"
  },
  {
   "Title": "746564",
@@ -3924,10 +4704,16 @@
   "ValorContrapartida": 5000000.0,
   "ValorEmpenhado": 7500000.0,
   "ValorDesembolsado": 7500000.0,
+  "ValorIngressoContrapartida": 4999999.4,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 881543.0,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "6d18bf3a13c8e3c5740d756ef69e2098e00c0876"
+  "HashAPI": "d65ead2ca4124890c86400c3807ddf5f95a03091"
  },
  {
   "Title": "746586",
@@ -3954,10 +4740,16 @@
   "ValorContrapartida": 2500000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 5000000.0,
+  "ValorIngressoContrapartida": 2270033.58,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 526921.01,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "7f0930b2a0b933a6aa25b49056ab1a9fadbaa532"
+  "HashAPI": "ca6a730e82a8cb10233cc861423902f6da415e80"
  },
  {
   "Title": "746623",
@@ -3984,10 +4776,16 @@
   "ValorContrapartida": 1628000.0,
   "ValorEmpenhado": 3256000.0,
   "ValorDesembolsado": 1582959.45,
+  "ValorIngressoContrapartida": 1400000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 496958.41,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "72371b5a8dfe5d41728ef24017a8bc3f3f1732ff"
+  "HashAPI": "0db5072ec23dec2cb91beee3d159e35e3403c44c"
  },
  {
   "Title": "746687",
@@ -4014,10 +4812,16 @@
   "ValorContrapartida": 4000000.0,
   "ValorEmpenhado": 6000000.0,
   "ValorDesembolsado": 6000000.0,
+  "ValorIngressoContrapartida": 4000000.0,
+  "ValorRendimentoAplicacao": 73135.04,
+  "ValorSaldoRemanTesouro": 1605456.31,
+  "ValorSaldoRemanConvenente": 1070304.25,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "928124bfbaeec5286e10bb60b6f090977d6f2d87"
+  "HashAPI": "c6d6b5c9246a43bba1342eba3977e814083ede10"
  },
  {
   "Title": "746740",
@@ -4044,10 +4848,16 @@
   "ValorContrapartida": 331162.46,
   "ValorEmpenhado": 993487.37,
   "ValorDesembolsado": 993487.37,
+  "ValorIngressoContrapartida": 331162.46,
+  "ValorRendimentoAplicacao": 52054.22,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "788a5bf0e62672f8444b6c61e378a475e757ab5b"
+  "HashAPI": "3044bda89a4be981f19069e2bb3e20e0c9f68143"
  },
  {
   "Title": "746751",
@@ -4074,10 +4884,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 281706.44,
+  "ValorSaldoRemanConvenente": 140853.2,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "52a735d185178cb02d309ea2f14d19199321e031"
+  "HashAPI": "94e8df62e70372168b3bb354188cfcf1277e615d"
  },
  {
   "Title": "746760",
@@ -4104,10 +4920,16 @@
   "ValorContrapartida": 625000.0,
   "ValorEmpenhado": 1138024.92,
   "ValorDesembolsado": 1138024.92,
+  "ValorIngressoContrapartida": 625000.0,
+  "ValorRendimentoAplicacao": 111975.08,
+  "ValorSaldoRemanTesouro": 357674.34,
+  "ValorSaldoRemanConvenente": 184256.48,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 7,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "caac5c5dbac67247a8232ea82e627d760a8771e0"
+  "HashAPI": "14133c30dd2e80c969cf0c723d508ec1e2ceea60"
  },
  {
   "Title": "746768",
@@ -4134,10 +4956,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 2721800.0,
   "ValorDesembolsado": 2721800.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": 255973.61,
+  "ValorSaldoRemanTesouro": 95305.87,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "75760df3921a81ba506a91a63e50f9daad1b8474"
+  "HashAPI": "ec7db244a2ffb4fa5be1a23360acd76a8c79362b"
  },
  {
   "Title": "746794",
@@ -4164,10 +4992,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": 110000.0,
+  "ValorSaldoRemanTesouro": 188876.74,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "680edea3ef00953afa419a9a683277cc22b98b1a"
+  "HashAPI": "bf1744605803923c2070a24cc6dd48d8746f1527"
  },
  {
   "Title": "746824",
@@ -4194,10 +5028,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 200000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 38234.29,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c86553df3698be36a05285a0e512398b5d64354a"
+  "HashAPI": "66ed289f8f7d1dc5854031bb3912602aaefc5d17"
  },
  {
   "Title": "746974",
@@ -4224,10 +5064,16 @@
   "ValorContrapartida": 2918369.26,
   "ValorEmpenhado": 2918369.26,
   "ValorDesembolsado": 2918369.26,
+  "ValorIngressoContrapartida": 2918369.26,
+  "ValorRendimentoAplicacao": 2257490.39,
+  "ValorSaldoRemanTesouro": 1736192.75,
+  "ValorSaldoRemanConvenente": 1736192.75,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 7,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "625635e80d14c48a6701835b19675d774775879d"
+  "HashAPI": "71554b95f00579c5003b0afec5e9e7d3b04f691a"
  },
  {
   "Title": "747078",
@@ -4254,10 +5100,16 @@
   "ValorContrapartida": 750000.0,
   "ValorEmpenhado": 1490000.0,
   "ValorDesembolsado": 1490000.0,
+  "ValorIngressoContrapartida": 750000.0,
+  "ValorRendimentoAplicacao": 287096.18,
+  "ValorSaldoRemanTesouro": 780083.5,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "72c4bd18b9736394c2cf63d7a0a6b1bb4c803eaf"
+  "HashAPI": "269566a332e4f62fbb0899c43334b0eaf560846e"
  },
  {
   "Title": "747096",
@@ -4284,10 +5136,16 @@
   "ValorContrapartida": 398738.54,
   "ValorEmpenhado": 745000.0,
   "ValorDesembolsado": 745000.0,
+  "ValorIngressoContrapartida": 398738.54,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 292146.63,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "e5e058e6a2a7fb65cee50e41363dc3f811de81af"
+  "HashAPI": "609141fe001b579478f2e85ba35b8e6eb2ee37ac"
  },
  {
   "Title": "748556",
@@ -4314,10 +5172,16 @@
   "ValorContrapartida": 466250.0,
   "ValorEmpenhado": 1398750.0,
   "ValorDesembolsado": 1398750.0,
+  "ValorIngressoContrapartida": 466250.0,
+  "ValorRendimentoAplicacao": 264964.17,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 305999.99,
+  "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "2dd1123e0618b4043b98072ff52036d7fdd10b04"
+  "HashAPI": "e00b00040ac65a5af9f99a765ef394e2a86ac09d"
  },
  {
   "Title": "748762",
@@ -4344,10 +5208,16 @@
   "ValorContrapartida": 1247806.6,
   "ValorEmpenhado": 961810.46,
   "ValorDesembolsado": 961810.46,
+  "ValorIngressoContrapartida": 1247806.4,
+  "ValorRendimentoAplicacao": 105000.0,
+  "ValorSaldoRemanTesouro": 115402.01,
+  "ValorSaldoRemanConvenente": 135393.09,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 4,
   "AvisoDados": null,
-  "HashAPI": "99f411b72008c8c3146b2b13c72052ab8cf4a591"
+  "HashAPI": "acf36644be335dca6fea6329b456be95bec18c0a"
  },
  {
   "Title": "749307",
@@ -4374,10 +5244,16 @@
   "ValorContrapartida": 1554.82,
   "ValorEmpenhado": 1.862645149231e-09,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "eed2e0dd32d41755e76a83eb44f647dfdd3b1399"
+  "HashAPI": "eab60f8b76d4f5e2ac03081d0886d45fa5df62c0"
  },
  {
   "Title": "751122",
@@ -4404,10 +5280,16 @@
   "ValorContrapartida": 8305000.0,
   "ValorEmpenhado": 8305000.0,
   "ValorDesembolsado": 8305000.0,
+  "ValorIngressoContrapartida": 8305000.0,
+  "ValorRendimentoAplicacao": 1125546.88,
+  "ValorSaldoRemanTesouro": 48345.9,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 5,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "cf3351d49296e1fca0198267ac64b72f7a6e1011"
+  "HashAPI": "de216a4876fd02019896cfde989e33c994d392e4"
  },
  {
   "Title": "751182",
@@ -4434,10 +5316,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": 66934.79,
+  "ValorSaldoRemanTesouro": 155365.83,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9b965c7d3ced6001f0309cc1298e5a859ade3852"
+  "HashAPI": "cb542ba3a717b79570c2de9be7a4e5a53cac7e0a"
  },
  {
   "Title": "751401",
@@ -4464,10 +5352,16 @@
   "ValorContrapartida": 13272.73,
   "ValorEmpenhado": 120077002.85,
   "ValorDesembolsado": 120077002.85,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 1919693.09,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": 17,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "a558f29b3bdce30d2a75b97cc81c5cfc9803d536"
+  "HashAPI": "5719ecaf92fa3baa5cae2d30f94650122fd5cc36"
  },
  {
   "Title": "755792",
@@ -4494,10 +5388,16 @@
   "ValorContrapartida": 13473.5,
   "ValorEmpenhado": 1347350.0,
   "ValorDesembolsado": 1347350.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": 128.35,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "1e22ebe5e85d5e7755eca380a30d50f11de897bd"
+  "HashAPI": "e492b463b0c67d0d807938e4dc31ed65ce7e935b"
  },
  {
   "Title": "759538",
@@ -4524,10 +5424,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3620000.0,
   "ValorDesembolsado": 3620000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": 152600.0,
+  "ValorSaldoRemanTesouro": 875725.18,
+  "ValorSaldoRemanConvenente": 362869.56,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "300edf701b23dac0f5c34b6cb803142c67e037cc"
+  "HashAPI": "3fdca3c968aac4670c65656d74cdfb8223305d5a"
  },
  {
   "Title": "759543",
@@ -4554,10 +5460,16 @@
   "ValorContrapartida": 4120000.0,
   "ValorEmpenhado": 4120000.0,
   "ValorDesembolsado": 4120000.0,
+  "ValorIngressoContrapartida": 4120000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1313205.63,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "3a4726df0da347ef4d2167e0691cb6770426f969"
+  "HashAPI": "4d5744ac924bfd049be8ac9c876544ec04bf5875"
  },
  {
   "Title": "759545",
@@ -4584,10 +5496,16 @@
   "ValorContrapartida": 423000.0,
   "ValorEmpenhado": 820000.0,
   "ValorDesembolsado": 820000.0,
+  "ValorIngressoContrapartida": 423000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 227919.59,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "53bc33aab9ad7934c0cc060c6e93612e798e9580"
+  "HashAPI": "ed5881651cd7d30fb12428b56c9234d0f2469270"
  },
  {
   "Title": "759546",
@@ -4614,10 +5532,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2120000.0,
   "ValorDesembolsado": 2120000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1215246.97,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "73618e2a852ea0c374fb9e505f1cebb64be77bca"
+  "HashAPI": "1e86001970c9f4ed82a93a86e6dec038863c5dfe"
  },
  {
   "Title": "759548",
@@ -4644,10 +5568,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 2120000.0,
   "ValorDesembolsado": 2120000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1447162.19,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "796b4ae0c4ef299d1f581afb935ebfd9d95556dd"
+  "HashAPI": "0b45bb6b60b62972dea366f7f2557a30097fea9d"
  },
  {
   "Title": "759554",
@@ -4674,10 +5604,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2120000.0,
   "ValorDesembolsado": 2120000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 842917.41,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "9d9a2e86f5cba595488e98dff80591f57743cdc8"
+  "HashAPI": "8c821bde7fdf5c75b1712a3717df48ea92a83277"
  },
  {
   "Title": "759557",
@@ -4704,10 +5640,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 4120000.0,
   "ValorDesembolsado": 4120000.0,
+  "ValorIngressoContrapartida": 3000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1813507.88,
+  "ValorSaldoRemanConvenente": 633912.31,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "7d93d3618c341557623d7888f7120a6dc58dae76"
+  "HashAPI": "d28c18564534f9227953735e9674da0e34287c60"
  },
  {
   "Title": "759646",
@@ -4734,10 +5676,16 @@
   "ValorContrapartida": 1860000.0,
   "ValorEmpenhado": 3720000.0,
   "ValorDesembolsado": 3720000.0,
+  "ValorIngressoContrapartida": 1199146.74,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 728753.75,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "a5f977a7f11280be57de7db52426284a5da0aa30"
+  "HashAPI": "21d2144b97ef03420563e6dd67c4785421ad6ba5"
  },
  {
   "Title": "759649",
@@ -4764,10 +5712,16 @@
   "ValorContrapartida": 4000000.0,
   "ValorEmpenhado": 4120000.0,
   "ValorDesembolsado": 4120000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 2078999.93,
+  "ValorSaldoRemanConvenente": 990665.0,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "f235004d50b2e91c61d06fa198267d580d203a4e"
+  "HashAPI": "957eb209eca66e31e0dc137c5b48dae5573f238a"
  },
  {
   "Title": "759672",
@@ -4794,10 +5748,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 3120000.0,
   "ValorDesembolsado": 3120000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "e6ded7e889e0908526bd76313247b91c98f71cc7"
+  "HashAPI": "bae309023238b09403429f3cbd42b7aefcbe865f"
  },
  {
   "Title": "762010",
@@ -4824,10 +5784,16 @@
   "ValorContrapartida": 73156.0,
   "ValorEmpenhado": 7315600.0,
   "ValorDesembolsado": 7315600.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 5000.0,
+  "ValorSaldoRemanTesouro": 3173512.0,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 11,
   "QtdProrroga": 5,
   "AvisoDados": null,
-  "HashAPI": "4b5f67c1151c5e5627a3cc22e53dad9753f6f475"
+  "HashAPI": "131c9d663bcfa147767e0cd1af04284812376fa4"
  },
  {
   "Title": "762013",
@@ -4854,10 +5820,16 @@
   "ValorContrapartida": 82191.0,
   "ValorEmpenhado": 2896492.08,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "07ce1ca7e34514c77be28398c20cf3bb47b26cc3"
+  "HashAPI": "287ba23e5e7eb86f1fa117ca63022e52739f875f"
  },
  {
   "Title": "762092",
@@ -4884,10 +5856,16 @@
   "ValorContrapartida": 316965.89,
   "ValorEmpenhado": 4796124.0,
   "ValorDesembolsado": 4796124.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 142199.37,
+  "ValorSaldoRemanTesouro": 94767.82,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 7,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "160c9dda89e41ea7ac00f3f5748854ae64339dd3"
+  "HashAPI": "4eddc0fbb0034a835d3e36bbdf33295dde2f726b"
  },
  {
   "Title": "762228",
@@ -4914,10 +5892,16 @@
   "ValorContrapartida": 89869.29,
   "ValorEmpenhado": 8897060.0,
   "ValorDesembolsado": 8897060.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 376822.97,
+  "ValorSaldoRemanTesouro": 5030386.0,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 3,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "1187d846c8af71ff1d01c31c011be6cec5dc0fd2"
+  "HashAPI": "155962b0f38fad73182cf76dcc4b07eb337f85fb"
  },
  {
   "Title": "769318",
@@ -4944,10 +5928,16 @@
   "ValorContrapartida": 350.04,
   "ValorEmpenhado": 3500000.0,
   "ValorDesembolsado": 3500000.0,
+  "ValorIngressoContrapartida": 350.04,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 6363.07,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "c6e3181bee5c5f6e1eec41d35aafda75464b0dc3"
+  "HashAPI": "9f2b4070e146adf1fdc2498735e90df18ffb2222"
  },
  {
   "Title": "769327",
@@ -4974,10 +5964,16 @@
   "ValorContrapartida": 167.02,
   "ValorEmpenhado": 1670000.0,
   "ValorDesembolsado": 1670000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 58946.22,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "a0f2ddc20e903d34df49b06284b046a78ef51a9f"
+  "HashAPI": "b5bc2188d755c4acce77a40c6070d0e242c4aca0"
  },
  {
   "Title": "773945",
@@ -5004,10 +6000,16 @@
   "ValorContrapartida": 0.0,
   "ValorEmpenhado": 160000.0,
   "ValorDesembolsado": 160000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 46997.55,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "637e735338e947c7c2a8fade09cb9e2cd0338c4c"
+  "HashAPI": "f5febd99fdf67843f70188252c754e46d05be224"
  },
  {
   "Title": "774215",
@@ -5034,10 +6036,16 @@
   "ValorContrapartida": 4618.18,
   "ValorEmpenhado": 457200.0,
   "ValorDesembolsado": 457200.0,
+  "ValorIngressoContrapartida": 4648.18,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 101299.83,
+  "ValorSaldoRemanConvenente": 1023.23,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "8dfeaa8a19d33bd5c5a6e50d1b520431b5c4d290"
+  "HashAPI": "b5044cb75e767dd31908bf8d1be7e296a044e343"
  },
  {
   "Title": "774370",
@@ -5064,10 +6072,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 1007771.61,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 407366.99,
+  "ValorSaldoRemanConvenente": 279349.61,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5afbce255369142daa55c4ba912ab3b1f5449099"
+  "HashAPI": "d33670a63f68ec9193afda5fb2d6843449d34875"
  },
  {
   "Title": "774375",
@@ -5094,10 +6108,16 @@
   "ValorContrapartida": 2500000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 4500000.0,
+  "ValorIngressoContrapartida": 2503621.45,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1287462.33,
+  "ValorSaldoRemanConvenente": 715256.85,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "90ee725c53c1791eb805e1a2bfa258578fe9d168"
+  "HashAPI": "7e8294f901beffbe07f5af5eeec681226ea98e9c"
  },
  {
   "Title": "774376",
@@ -5124,10 +6144,16 @@
   "ValorContrapartida": 250000.0,
   "ValorEmpenhado": 500000.0,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 323000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 106530.78,
+  "ValorSaldoRemanConvenente": 53265.4,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "d79ef802d689a6fb9d1fd6c3ebd8269a06395676"
+  "HashAPI": "a178168155d09a70672896701da216b2c9e58dbb"
  },
  {
   "Title": "774377",
@@ -5154,10 +6180,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 500287.55,
+  "ValorRendimentoAplicacao": 36068.3,
+  "ValorSaldoRemanTesouro": 192708.51,
+  "ValorSaldoRemanConvenente": 65168.63,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "90d0fa1733103bcc6601ef0f104e6523473c0cf6"
+  "HashAPI": "060a99abf665c7bcf88c50c426ea6e2c32c811b4"
  },
  {
   "Title": "774378",
@@ -5184,10 +6216,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 380197.92,
+  "ValorSaldoRemanConvenente": 190098.96,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "e9b174d31c8e2ed666526eaae5ea5a97fdc18319"
+  "HashAPI": "9ec0f3ea221202924f67dbfb2f0ac7e2a8024ace"
  },
  {
   "Title": "774379",
@@ -5214,10 +6252,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 800000.0,
   "ValorDesembolsado": 800000.0,
+  "ValorIngressoContrapartida": 400000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 321976.03,
+  "ValorSaldoRemanConvenente": 160988.02,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "ae4307f29f25ed48bc44fe1f40e2d47a6a370358"
+  "HashAPI": "57f0c0d656ad64d5ced36092997a5c079c3e8507"
  },
  {
   "Title": "774380",
@@ -5244,10 +6288,16 @@
   "ValorContrapartida": 4000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 4000000.0,
+  "ValorRendimentoAplicacao": 713149.94,
+  "ValorSaldoRemanTesouro": 753913.14,
+  "ValorSaldoRemanConvenente": 753913.14,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "29e3f09942b190f95fdbdadedf39ebe1aa420962"
+  "HashAPI": "e5542cf75d1258599e184238db9e3440960b569d"
  },
  {
   "Title": "774381",
@@ -5274,10 +6324,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 4500000.0,
+  "ValorIngressoContrapartida": 3011557.17,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 860656.6,
+  "ValorSaldoRemanConvenente": 573771.06,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "320a642a70db8651c5b667a03c308fd26796f956"
+  "HashAPI": "37981f89936be15750199ab65a2eb89362b2ccfe"
  },
  {
   "Title": "774382",
@@ -5304,10 +6360,16 @@
   "ValorContrapartida": 800000.0,
   "ValorEmpenhado": 1600000.0,
   "ValorDesembolsado": 1600000.0,
+  "ValorIngressoContrapartida": 761417.7,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 140011.42,
+  "ValorSaldoRemanConvenente": 72550.67,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "82b6a5ca45c7cb8e9b80ff70a026b87ffd00e90d"
+  "HashAPI": "bf5bf8ed43479ada0fc892939b6b558c0580d11e"
  },
  {
   "Title": "774383",
@@ -5334,10 +6396,16 @@
   "ValorContrapartida": 3334000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 5000000.0,
+  "ValorIngressoContrapartida": 3399948.15,
+  "ValorRendimentoAplicacao": 51006.25,
+  "ValorSaldoRemanTesouro": 1552287.95,
+  "ValorSaldoRemanConvenente": 1034045.98,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "bebbc603fe5e21e2724d6bd02ba565efbc7841f1"
+  "HashAPI": "fda28fedf2d3fc2d5e08cb071f560985c5b82e8c"
  },
  {
   "Title": "774384",
@@ -5364,10 +6432,16 @@
   "ValorContrapartida": 3340000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 5000000.0,
+  "ValorIngressoContrapartida": 3340000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 666299.04,
+  "ValorSaldoRemanConvenente": 444961.35,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "d8cd6bb87833c7f245c50222047230ef94e6bf8b"
+  "HashAPI": "9fac6bac28dbe47bba5d507e4a042faa22104956"
  },
  {
   "Title": "774385",
@@ -5394,10 +6468,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 200000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 734687.47,
+  "ValorSaldoRemanConvenente": 244895.83,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "f6b3a4a80f9c8b8d5bd0263e3faa99ddd7cf9ea9"
+  "HashAPI": "5e8fc0627f5f428106b270a3d6ff1d138055f8d0"
  },
  {
   "Title": "774386",
@@ -5424,10 +6504,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 450000.0,
   "ValorDesembolsado": 450000.0,
+  "ValorIngressoContrapartida": 150000.6,
+  "ValorRendimentoAplicacao": 8505.58,
+  "ValorSaldoRemanTesouro": 129991.69,
+  "ValorSaldoRemanConvenente": 43330.56,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "46532a648233288e10e7b064cbe844e77d7412da"
+  "HashAPI": "2405d77406f864b673c9b4cdb2c6870eba170234"
  },
  {
   "Title": "774387",
@@ -5454,10 +6540,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 1320000.0,
   "ValorDesembolsado": 1320000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 295310.39,
+  "ValorSaldoRemanConvenente": 223719.99,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "f34ad54eada43edd4273ea718c58fac4e228df94"
+  "HashAPI": "f13045d4d742a8a561e1552e5be739d6473139a2"
  },
  {
   "Title": "774397",
@@ -5484,10 +6576,16 @@
   "ValorContrapartida": 180000.0,
   "ValorEmpenhado": 900000.0,
   "ValorDesembolsado": 900000.0,
+  "ValorIngressoContrapartida": 180000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 152404.02,
+  "ValorSaldoRemanConvenente": 30480.82,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c90cde3c54e32dfaf415bc1a4ac9fdf4b9efabc0"
+  "HashAPI": "993ddce1c29c09f62a9d5766728691ae6c31b9cf"
  },
  {
   "Title": "774398",
@@ -5514,10 +6612,16 @@
   "ValorContrapartida": 750000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 750000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 305045.05,
+  "ValorSaldoRemanConvenente": 152522.52,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "6fb5a01650196f6d5965602bf3af771199f95785"
+  "HashAPI": "c5e216c6e668394f433d4a6b3848968ebf44aa14"
  },
  {
   "Title": "774440",
@@ -5544,10 +6648,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 832205.52,
+  "ValorSaldoRemanConvenente": 416102.75,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "08906b48e85ae19c00d4f09d0105287f7c7b50d8"
+  "HashAPI": "73b802b1559bc6b6e258d8dc422e3288ab482d4e"
  },
  {
   "Title": "774441",
@@ -5574,10 +6684,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 900000.0,
   "ValorDesembolsado": 900000.0,
+  "ValorIngressoContrapartida": 301531.69,
+  "ValorRendimentoAplicacao": 50161.84,
+  "ValorSaldoRemanTesouro": 186750.17,
+  "ValorSaldoRemanConvenente": 62250.05,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "03206384911ea4dfe8d782fd2d4173db3e21d42e"
+  "HashAPI": "f48c594e1e2565849562d21890664fb6a097f4ba"
  },
  {
   "Title": "774443",
@@ -5604,10 +6720,16 @@
   "ValorContrapartida": 30000.0,
   "ValorEmpenhado": 170000.0,
   "ValorDesembolsado": 85000.0,
+  "ValorIngressoContrapartida": 31187.5,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 61930.24,
+  "ValorSaldoRemanConvenente": 9330.03,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "841f16a726609934ea3bb29b2ba476c512bcfec3"
+  "HashAPI": "5f53fade50664ba9f9ab2cf6ccdd2ae008b92464"
  },
  {
   "Title": "774444",
@@ -5634,10 +6756,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 2013200.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 690556.14,
+  "ValorSaldoRemanConvenente": 460370.71,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "85be52e9004802de25714b5fa2f8c356a3f4a907"
+  "HashAPI": "b1bb0a63e0a81c6a9765db949eecb546fa962a92"
  },
  {
   "Title": "774445",
@@ -5664,10 +6792,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 200000.0,
+  "ValorRendimentoAplicacao": 73591.03,
+  "ValorSaldoRemanTesouro": 96246.26,
+  "ValorSaldoRemanConvenente": 30084.76,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "3c69b879117e3e31ba41f80373e1c49a42d66d89"
+  "HashAPI": "eef732d9e7d525af4c0d5c9de5135f7c14ef5f89"
  },
  {
   "Title": "774446",
@@ -5694,10 +6828,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 210167.52,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 190792.54,
+  "ValorSaldoRemanConvenente": 63597.52,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "06532c87c91824ac6fa110b777fa12c5284da0aa"
+  "HashAPI": "a78dd6a64fe22244c0c2c0933e173be2695e2d63"
  },
  {
   "Title": "774447",
@@ -5724,10 +6864,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 724952.21,
+  "ValorSaldoRemanConvenente": 362476.11,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "e9fa2b8782b8d4c0f4698a226e992b78e734ccbe"
+  "HashAPI": "15c23288fbba80586391435e1c1a852a52718312"
  },
  {
   "Title": "774555",
@@ -5754,10 +6900,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 800000.0,
   "ValorDesembolsado": 800000.0,
+  "ValorIngressoContrapartida": 400000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 332112.63,
+  "ValorSaldoRemanConvenente": 166056.05,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "7c45cc8f2c9e7c64552d2748540791875126fd08"
+  "HashAPI": "271cc0a82bdbde2e1cc54d59148f7ed7c7b76c67"
  },
  {
   "Title": "774612",
@@ -5784,10 +6936,16 @@
   "ValorContrapartida": 96600.0,
   "ValorEmpenhado": 290000.0,
   "ValorDesembolsado": 290000.0,
+  "ValorIngressoContrapartida": 144900.0,
+  "ValorRendimentoAplicacao": 12000.0,
+  "ValorSaldoRemanTesouro": 39523.92,
+  "ValorSaldoRemanConvenente": 13165.55,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "37624b01a6949cf74ffba8d6f3bd443887d2f860"
+  "HashAPI": "838f640e18ef4d4cb16da4193743c92d085ed0a5"
  },
  {
   "Title": "776041",
@@ -5814,10 +6972,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 500000.0,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": 152655.5,
+  "ValorSaldoRemanTesouro": 270108.59,
+  "ValorSaldoRemanConvenente": 270108.6,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "7ee74253af7ddb1c412eaeb8f8b9aeffd4a4eb8e"
+  "HashAPI": "22f9260463866d3b318e508b31d93713b05c398e"
  },
  {
   "Title": "782653",
@@ -5844,10 +7008,16 @@
   "ValorContrapartida": 58332.11,
   "ValorEmpenhado": 5766422.14,
   "ValorDesembolsado": 5766422.14,
+  "ValorIngressoContrapartida": 29166.06,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 26333.51,
+  "ValorSaldoRemanConvenente": 133.19,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "e8149e9c335947494213026aa589ddcc6bd017ee"
+  "HashAPI": "60543312a06d5b40250499c6b1f20fc22f9c525a"
  },
  {
   "Title": "788045",
@@ -5874,10 +7044,16 @@
   "ValorContrapartida": 24210.53,
   "ValorEmpenhado": 2300000.0,
   "ValorDesembolsado": 2300000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 15000.0,
+  "ValorSaldoRemanTesouro": 218370.1,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "b21b5759028187f6df16af401d182858e302d70f"
+  "HashAPI": "f9b9d9262319dab26e0bd348dd2810d88054cade"
  },
  {
   "Title": "792900",
@@ -5904,10 +7080,16 @@
   "ValorContrapartida": 101.0,
   "ValorEmpenhado": 100000.0,
   "ValorDesembolsado": 100000.0,
+  "ValorIngressoContrapartida": 101.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 29452.15,
+  "ValorSaldoRemanConvenente": 29.75,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "7565fd454f89feafc09911f268e53bc5f3d7a04c"
+  "HashAPI": "75b79d1f3c76c9f237e424c9ebc87909c9d28df0"
  },
  {
   "Title": "793942",
@@ -5934,10 +7116,16 @@
   "ValorContrapartida": 1800000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1808284.82,
+  "ValorRendimentoAplicacao": 675917.13,
+  "ValorSaldoRemanTesouro": 310464.0,
+  "ValorSaldoRemanConvenente": 186278.4,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "aa6287d430252aa8b6073a3f68a423f5aca1d523"
+  "HashAPI": "3ae36b809f1f16932fbe9b52b48c29150b6beb1d"
  },
  {
   "Title": "793987",
@@ -5964,10 +7152,16 @@
   "ValorContrapartida": 12000000.0,
   "ValorEmpenhado": 12000000.0,
   "ValorDesembolsado": 12976040.0,
+  "ValorIngressoContrapartida": 11180773.63,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 2035704.23,
+  "ValorSaldoRemanConvenente": 1896493.65,
+  "ValorSaldoConta": 33.4,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "33e6e80f21746c0059dad58235eb243c72ce5706"
+  "HashAPI": "b3f23619fced16f1faed6f490e8254a7dae5bf4a"
  },
  {
   "Title": "793988",
@@ -5994,10 +7188,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 3047809.98,
+  "ValorRendimentoAplicacao": 83277.8,
+  "ValorSaldoRemanTesouro": 1073204.31,
+  "ValorSaldoRemanConvenente": 795648.15,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "60f703000c5bc058183765fbf305d58af24d4019"
+  "HashAPI": "74d2b22f351369cecbd48f7b239259a08e404b61"
  },
  {
   "Title": "794009",
@@ -6024,10 +7224,16 @@
   "ValorContrapartida": 2400000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 2400000.0,
+  "ValorRendimentoAplicacao": 637724.3,
+  "ValorSaldoRemanTesouro": 542961.17,
+  "ValorSaldoRemanConvenente": 325776.69,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "4b8ec1d60e1b945b15c9c33c2fc7888efb368f02"
+  "HashAPI": "c1e26d08568cfc2b558a562ecb3856d0440f0692"
  },
  {
   "Title": "794011",
@@ -6054,10 +7260,16 @@
   "ValorContrapartida": 900000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 1100000.0,
+  "ValorRendimentoAplicacao": 165175.35,
+  "ValorSaldoRemanTesouro": 490028.01,
+  "ValorSaldoRemanConvenente": 294016.81,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "3d31b56a2d88419dcd805f263c4e5841c2e8c6ac"
+  "HashAPI": "91df03e71695b02e44f4e1cea99c5621111904ba"
  },
  {
   "Title": "794013",
@@ -6084,10 +7296,16 @@
   "ValorContrapartida": 762613.9,
   "ValorEmpenhado": 1260000.0,
   "ValorDesembolsado": 1260000.0,
+  "ValorIngressoContrapartida": 763366.78,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1019682.92,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "2788d37fe2821d1a115472561e0480c42c5b29c3"
+  "HashAPI": "01770e078a6fb42d8a1f361c15e4cad31b0c9993"
  },
  {
   "Title": "794014",
@@ -6114,10 +7332,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 6000000.0,
   "ValorDesembolsado": 6000000.0,
+  "ValorIngressoContrapartida": 3000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 3982500.25,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "e87bd2b231a09caa3a90e8229b5786539b384959"
+  "HashAPI": "76d306d11efa551a0c03e7fbf673b8a3712cab6e"
  },
  {
   "Title": "794017",
@@ -6144,10 +7368,16 @@
   "ValorContrapartida": 270850.0,
   "ValorEmpenhado": 812550.0,
   "ValorDesembolsado": 812550.0,
+  "ValorIngressoContrapartida": 270850.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 802223.15,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "6c1bd9d49e8e7196c60bb04169001aae4ad880b9"
+  "HashAPI": "7dd3dccaed120a7db24a8e005daf3e0dc3ac0f0f"
  },
  {
   "Title": "794021",
@@ -6174,10 +7404,16 @@
   "ValorContrapartida": 1195000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "3d248c256975cdd53a36f91c34325b1d5c701a63"
+  "HashAPI": "21e25714204c5e143a0866c739b1257666da7785"
  },
  {
   "Title": "794027",
@@ -6204,10 +7440,16 @@
   "ValorContrapartida": 876000.0,
   "ValorEmpenhado": 1600000.0,
   "ValorDesembolsado": 1600000.0,
+  "ValorIngressoContrapartida": 876222.21,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 522639.06,
+  "ValorSaldoRemanConvenente": 286367.56,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "89a5086170bbdb3b2315f29581b3b4031f879e08"
+  "HashAPI": "1a479794dde8132355569a1c19c94b1ca40f984a"
  },
  {
   "Title": "794028",
@@ -6234,10 +7476,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1580947.95,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 518156.78,
+  "ValorSaldoRemanConvenente": 259078.39,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "896cf80bda6280cbf4dd277f25883cda0e7257e7"
+  "HashAPI": "4062a4c19444b9f6ad4d2a3ef567f6cf44edd47c"
  },
  {
   "Title": "794029",
@@ -6264,10 +7512,16 @@
   "ValorContrapartida": 1400000.0,
   "ValorEmpenhado": 2800000.0,
   "ValorDesembolsado": 2800000.0,
+  "ValorIngressoContrapartida": 2383000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1712729.39,
+  "ValorSaldoRemanConvenente": 1839364.7,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "53e43f1c84826fe9e6cdcac8eeddc0cb567e8c4a"
+  "HashAPI": "47762692600e2c497c956f601a086039a4a956fe"
  },
  {
   "Title": "794030",
@@ -6294,10 +7548,16 @@
   "ValorContrapartida": 4000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 4000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 2178609.14,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "366b189641c4787d4169b68ab29d3ff0ec148594"
+  "HashAPI": "067cacf6ffa21c033e9e15131284a71422a50316"
  },
  {
   "Title": "794032",
@@ -6324,10 +7584,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 1200000.0,
   "ValorDesembolsado": 1200000.0,
+  "ValorIngressoContrapartida": 400000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 405576.24,
+  "ValorSaldoRemanConvenente": 133418.52,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "9a188f86a07468afeb02c831acbc538f509fb1ac"
+  "HashAPI": "401073f7f0a5de392ead81035a0a9ffec9ddc149"
  },
  {
   "Title": "794033",
@@ -6354,10 +7620,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": 182957.54,
+  "ValorSaldoRemanTesouro": 135565.76,
+  "ValorSaldoRemanConvenente": 67782.88,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "9bb9f1bc8a77bb17dd12602b4f29c017d67a1b1d"
+  "HashAPI": "d330898bd2fb172817a6d61d09e59a6abd106d96"
  },
  {
   "Title": "794034",
@@ -6384,10 +7656,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 5000000.0,
+  "ValorIngressoContrapartida": 3002059.42,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1516826.66,
+  "ValorSaldoRemanConvenente": 908860.34,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "8d55be9702509904f911e10db9a337ca4a7240e1"
+  "HashAPI": "0f6b54e89541700b824f034c8c0a390982ecba68"
  },
  {
   "Title": "794039",
@@ -6414,10 +7692,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1083400.0,
   "ValorDesembolsado": 1083400.0,
+  "ValorIngressoContrapartida": 502666.76,
+  "ValorRendimentoAplicacao": 183856.97,
+  "ValorSaldoRemanTesouro": 730800.41,
+  "ValorSaldoRemanConvenente": 337454.06,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "a194b75eadc96ec12cb7095a4912264cd5c799b8"
+  "HashAPI": "b77a407245974e80d55da50182f779a8fd34d7ca"
  },
  {
   "Title": "794043",
@@ -6444,10 +7728,16 @@
   "ValorContrapartida": 450000.0,
   "ValorEmpenhado": 704210.0,
   "ValorDesembolsado": 704210.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 843633.88,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "38e38a40f23a24e9a3e4617fcabb57a2530bd1d3"
+  "HashAPI": "b5a534420393912ee48f3fdf05a286c1ee978704"
  },
  {
   "Title": "794051",
@@ -6474,10 +7764,16 @@
   "ValorContrapartida": 781998.42,
   "ValorEmpenhado": 1264347.0,
   "ValorDesembolsado": 1525342.0,
+  "ValorIngressoContrapartida": 781998.42,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 765948.26,
+  "ValorSaldoRemanConvenente": 392679.37,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "bdba6ba7a7076e1f4b283c44921124b961f93522"
+  "HashAPI": "857ffacce06f89eda59ceab29625f6efdf4f4726"
  },
  {
   "Title": "794073",
@@ -6504,10 +7800,16 @@
   "ValorContrapartida": 800000.0,
   "ValorEmpenhado": 1600000.0,
   "ValorDesembolsado": 1600000.0,
+  "ValorIngressoContrapartida": 800000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 556844.27,
+  "ValorSaldoRemanConvenente": 278422.14,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "99ceddedd9240eae095f59c59154e2340bcaf5ef"
+  "HashAPI": "eb677907c2e5bec298c2b27a0bb36594811621f4"
  },
  {
   "Title": "794075",
@@ -6534,10 +7836,16 @@
   "ValorContrapartida": 10000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 11022264.91,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 9139505.1,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "20d84e02a1c4847bad04c9d95010d83a58777927"
+  "HashAPI": "299d129db2b2ad055d49cc27cb29dc52948e952a"
  },
  {
   "Title": "794076",
@@ -6564,10 +7872,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 1200000.0,
   "ValorDesembolsado": 1200000.0,
+  "ValorIngressoContrapartida": 400000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 480403.99,
+  "ValorSaldoRemanConvenente": 160134.66,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 6,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "6bad815eb44296adb11a3fa42d59d45eb3a4d371"
+  "HashAPI": "9ab4a2025edf16aaec7256f2acb16da7abc85cd6"
  },
  {
   "Title": "794078",
@@ -6594,10 +7908,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 2131786.51,
+  "ValorRendimentoAplicacao": 533783.03,
+  "ValorSaldoRemanTesouro": 1729608.88,
+  "ValorSaldoRemanConvenente": 1139756.08,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 6,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "13f086b48c3e123390fb2434415bc61813f310f1"
+  "HashAPI": "dcbd1ac68a370e4748ce6c0347da18ccc34ff8f9"
  },
  {
   "Title": "794080",
@@ -6624,10 +7944,16 @@
   "ValorContrapartida": 740000.0,
   "ValorEmpenhado": 1260000.0,
   "ValorDesembolsado": 812550.0,
+  "ValorIngressoContrapartida": 740000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1155516.74,
+  "ValorSaldoRemanConvenente": 1052344.33,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "79183b507b14c7a5dc07c5541ff5f7e926bfa11b"
+  "HashAPI": "160a6bebfbb9172858846e973713845d8e4a7a71"
  },
  {
   "Title": "794103",
@@ -6654,10 +7980,16 @@
   "ValorContrapartida": 1445000.0,
   "ValorEmpenhado": 2533598.77,
   "ValorDesembolsado": 2533598.77,
+  "ValorIngressoContrapartida": 1373344.32,
+  "ValorRendimentoAplicacao": 243833.19,
+  "ValorSaldoRemanTesouro": 402964.64,
+  "ValorSaldoRemanConvenente": 201482.33,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "16bcedeab0dce1ee5b28b46e43047f5655e5b49c"
+  "HashAPI": "0f20ba4b63ecfa715e837f7baa0bd1495dfc2821"
  },
  {
   "Title": "794135",
@@ -6684,10 +8016,16 @@
   "ValorContrapartida": 700000.0,
   "ValorEmpenhado": 1400000.0,
   "ValorDesembolsado": 1400000.0,
+  "ValorIngressoContrapartida": 940333.13,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 378943.21,
+  "ValorSaldoRemanConvenente": 189471.59,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "9714ddc8435dad677e9772c4e1fda1b7c5e9ae7b"
+  "HashAPI": "2d7ac20d2042a08d21932d4f6fb247449c67e81e"
  },
  {
   "Title": "794150",
@@ -6714,10 +8052,16 @@
   "ValorContrapartida": 3562518.64,
   "ValorEmpenhado": 4800000.0,
   "ValorDesembolsado": 4800000.0,
+  "ValorIngressoContrapartida": 3658480.15,
+  "ValorRendimentoAplicacao": 107441.36,
+  "ValorSaldoRemanTesouro": 232361.23,
+  "ValorSaldoRemanConvenente": 166560.17,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "58dd0ce8d5d280eeadbdcf100581f731ea161b24"
+  "HashAPI": "0f5509efc274eb813f3f09e3bc2664bdb902fdc5"
  },
  {
   "Title": "794274",
@@ -6744,10 +8088,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 557634.81,
+  "ValorSaldoRemanConvenente": 371756.54,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "01263760b8fe8e8efb3ab62e7d939fd01e30f431"
+  "HashAPI": "74ccb2205c6ea43990f366239f2984a0f9e8e004"
  },
  {
   "Title": "794276",
@@ -6774,10 +8124,16 @@
   "ValorContrapartida": 1110400.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1110400.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1505949.81,
+  "ValorSaldoRemanConvenente": 836103.39,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "2f144929a78dd5d4affcbfc8251a44de5048c65b"
+  "HashAPI": "20ff18c7a4193630ccc638dd12468a1586189b1c"
  },
  {
   "Title": "794451",
@@ -6804,10 +8160,16 @@
   "ValorContrapartida": 1243000.0,
   "ValorEmpenhado": 2400000.0,
   "ValorDesembolsado": 2400000.0,
+  "ValorIngressoContrapartida": 1205555.64,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 547569.37,
+  "ValorSaldoRemanConvenente": 283595.32,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "591fb7f637c4b99c4f88a30bd183a0dd430a5fbb"
+  "HashAPI": "1bfb5052c7116f907c12cf5814276e04bc554885"
  },
  {
   "Title": "794457",
@@ -6834,10 +8196,16 @@
   "ValorContrapartida": 1193857.0,
   "ValorEmpenhado": 2387713.0,
   "ValorDesembolsado": 2387713.0,
+  "ValorIngressoContrapartida": 1193857.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 535443.96,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "579a143fa3780115917027efd6bd1bb3f5af8bd0"
+  "HashAPI": "829b00313183159de68e0167ad78d61eec508b0f"
  },
  {
   "Title": "794470",
@@ -6864,10 +8232,16 @@
   "ValorContrapartida": 6000000.0,
   "ValorEmpenhado": 9000000.0,
   "ValorDesembolsado": 9000000.0,
+  "ValorIngressoContrapartida": 6000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 759582.7,
+  "ValorSaldoRemanConvenente": 506388.46,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 6,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "b9f078e1b82e5f5f724374a232ff4abd61e0fbff"
+  "HashAPI": "a6982107b738998903fd29fea15d0c2ec44d6968"
  },
  {
   "Title": "794478",
@@ -6894,10 +8268,16 @@
   "ValorContrapartida": 721100.0,
   "ValorEmpenhado": 1400000.0,
   "ValorDesembolsado": 1400000.0,
+  "ValorIngressoContrapartida": 721100.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 323585.65,
+  "ValorSaldoRemanConvenente": 166669.74,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 7,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "b98fb8064496335a57772c81dbfad2a943f9cf98"
+  "HashAPI": "2bc5a03caf875c798be66df21a2cbf7768eea86b"
  },
  {
   "Title": "794486",
@@ -6924,10 +8304,16 @@
   "ValorContrapartida": 10050000.0,
   "ValorEmpenhado": 6000000.0,
   "ValorDesembolsado": 6000000.0,
+  "ValorIngressoContrapartida": 10050000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 2828305.96,
+  "ValorSaldoRemanConvenente": 4737412.49,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "24ccd651e651086d0d654506e4292f79bf232be5"
+  "HashAPI": "6e3c51370c9de77bbd9df9fdd5d631728ccd7414"
  },
  {
   "Title": "794685",
@@ -6954,10 +8340,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": 379589.83,
+  "ValorSaldoRemanTesouro": 494330.87,
+  "ValorSaldoRemanConvenente": 247165.44,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "4d515ba078ae3e2101dc8519f9510a9284a9dacc"
+  "HashAPI": "4f5314fb190bd2644b22cfa69de7e65ed1c85ab2"
  },
  {
   "Title": "794758",
@@ -6984,10 +8376,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 263123.99,
+  "ValorSaldoRemanConvenente": 175416.0,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "05f6a310e0401ccb0c620da25cc937091e6af5d4"
+  "HashAPI": "64b8d3bf4af3321860e380fb2f369c4ce90d58b0"
  },
  {
   "Title": "794770",
@@ -7014,10 +8412,16 @@
   "ValorContrapartida": 2400000.0,
   "ValorEmpenhado": 4800000.0,
   "ValorDesembolsado": 4800000.0,
+  "ValorIngressoContrapartida": 2398445.95,
+  "ValorRendimentoAplicacao": 153106.31,
+  "ValorSaldoRemanTesouro": 431829.79,
+  "ValorSaldoRemanConvenente": 215914.91,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "0eec1d43b4ecd6725564fc1bb1b85325509d8097"
+  "HashAPI": "a4245b595a64f0cf59c72650e827e1ba112e3dd7"
  },
  {
   "Title": "794773",
@@ -7044,10 +8448,16 @@
   "ValorContrapartida": 1700000.0,
   "ValorEmpenhado": 3400000.0,
   "ValorDesembolsado": 3400000.0,
+  "ValorIngressoContrapartida": 1700000.0,
+  "ValorRendimentoAplicacao": 284000.0,
+  "ValorSaldoRemanTesouro": 502528.43,
+  "ValorSaldoRemanConvenente": 251264.2,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "f1e4ac44aa6b285455db0fc8763fbeb56e9e106d"
+  "HashAPI": "ca66250cb4751232dda36f595cb8741dcbaa6cb5"
  },
  {
   "Title": "794796",
@@ -7074,10 +8484,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": 62877.25,
+  "ValorSaldoRemanTesouro": 5948.86,
+  "ValorSaldoRemanConvenente": 2974.44,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "3f89a4322a003c8bf8befa0a84694da613867041"
+  "HashAPI": "5c540bcf8df0cdbf3fc360328f60c1703a9ef277"
  },
  {
   "Title": "794798",
@@ -7104,10 +8520,16 @@
   "ValorContrapartida": 14000000.0,
   "ValorEmpenhado": 14000000.0,
   "ValorDesembolsado": 7550280.0,
+  "ValorIngressoContrapartida": 7550280.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 20932852.06,
+  "OperaOBTV": true,
   "QtdTA": 7,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "b1edf825eec1e23e75ee625b43e5c0ac88a16cb7"
+  "HashAPI": "5e760c90e6f292ff7eb51dbe51ea23dae33c3a16"
  },
  {
   "Title": "794801",
@@ -7134,10 +8556,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 487530.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "33561be95e44ef2e949e45529797e9ce96fd8fc9"
+  "HashAPI": "a1842d8e96a81ced91c2583108197307b1ed6f85"
  },
  {
   "Title": "794804",
@@ -7164,10 +8592,16 @@
   "ValorContrapartida": 5000000.0,
   "ValorEmpenhado": 5100000.0,
   "ValorDesembolsado": 5100000.0,
+  "ValorIngressoContrapartida": 5000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1161709.64,
+  "ValorSaldoRemanConvenente": 1138930.97,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 7,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "6c9c496ffc768c04d9f555ec9324b7e2561b9afe"
+  "HashAPI": "c237dc0ee17d84d21d43d9249aba95daa1605b6f"
  },
  {
   "Title": "795045",
@@ -7194,10 +8628,16 @@
   "ValorContrapartida": 167000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": false,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "0575f954cb872f692a692481d7f14a70f009b22f"
+  "HashAPI": "3d5a16420e4cd026e0b52935613a16341ee56712"
  },
  {
   "Title": "795188",
@@ -7224,10 +8664,16 @@
   "ValorContrapartida": 266666.67,
   "ValorEmpenhado": 543352.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "354d40eb59d1de7301d420947dfedda422fd78bf"
+  "HashAPI": "0752896458658d9f58b69be4052122a92abd7330"
  },
  {
   "Title": "795197",
@@ -7254,10 +8700,16 @@
   "ValorContrapartida": 800000.0,
   "ValorEmpenhado": 1600000.0,
   "ValorDesembolsado": 1600000.0,
+  "ValorIngressoContrapartida": 807748.43,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 368295.54,
+  "ValorSaldoRemanConvenente": 184147.69,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "cd0103cca1d3732fad2d030adc74b08dd60587c6"
+  "HashAPI": "a0bb1222be4e554271a08c1d77ab14d84f502745"
  },
  {
   "Title": "795201",
@@ -7284,10 +8736,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 1200000.0,
   "ValorDesembolsado": 1200000.0,
+  "ValorIngressoContrapartida": 415174.33,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 628305.41,
+  "ValorSaldoRemanConvenente": 209435.13,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "3b6f45da215bdc1103c13987aac43f2e41da731a"
+  "HashAPI": "bdaaa6e308474bfcace14fc65814b9c05cc5084d"
  },
  {
   "Title": "795204",
@@ -7314,10 +8772,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 900000.0,
   "ValorDesembolsado": 900000.0,
+  "ValorIngressoContrapartida": 300992.31,
+  "ValorRendimentoAplicacao": 23820.0,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1062249.25,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "0c736af33b9336c93446c9203bb62e6481153986"
+  "HashAPI": "0ba701aa4154227d44a41c0ab75013e124be469f"
  },
  {
   "Title": "795206",
@@ -7344,10 +8808,16 @@
   "ValorContrapartida": 411493.4,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "7752e0483699a249119c8db601de3c8ceb2bc765"
+  "HashAPI": "2bdb176ce97d773c5d84f185eeabf29f08eddaaa"
  },
  {
   "Title": "795209",
@@ -7374,10 +8844,16 @@
   "ValorContrapartida": 256000.0,
   "ValorEmpenhado": 402878.03,
   "ValorDesembolsado": 466000.0,
+  "ValorIngressoContrapartida": 256000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 298452.93,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "be25c032bf4ac523075d511935130b41f54f8640"
+  "HashAPI": "b7d65c89e7864c5ec3d3a0e515f9120b7f8eb5aa"
  },
  {
   "Title": "795214",
@@ -7404,10 +8880,16 @@
   "ValorContrapartida": 184000.0,
   "ValorEmpenhado": 550000.0,
   "ValorDesembolsado": 550000.0,
+  "ValorIngressoContrapartida": 232472.08,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 220916.82,
+  "ValorSaldoRemanConvenente": 101657.22,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "8e84c94dc121af08555a0ba7eb466899c4c2b854"
+  "HashAPI": "7b6c6ce0355f8531e0eff35029ebbf3516b4dff6"
  },
  {
   "Title": "795219",
@@ -7434,10 +8916,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": 348700.0,
+  "ValorSaldoRemanTesouro": 508881.27,
+  "ValorSaldoRemanConvenente": 254440.62,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "97eff72e82c2915eec53d65983ec2e40ca292965"
+  "HashAPI": "297f2ffb12d32f5227387bf830a54263336deea8"
  },
  {
   "Title": "795222",
@@ -7464,10 +8952,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9207df86859197f6e57132755529d20f7e5b26ce"
+  "HashAPI": "1f53f703bb10b60fb8ea122e8838f67f9d901502"
  },
  {
   "Title": "795235",
@@ -7494,10 +8988,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 145771.65,
   "ValorDesembolsado": 145771.65,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 161885.4,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "ec1b893e7af0ea9216131207e6fa688820269d1f"
+  "HashAPI": "6ed7be46efcbeccd5dbff74c76ad959045f76055"
  },
  {
   "Title": "795240",
@@ -7524,10 +9024,16 @@
   "ValorContrapartida": 170000.0,
   "ValorEmpenhado": 500000.0,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 170000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 607587.9,
+  "ValorSaldoRemanConvenente": 206579.89,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "bcdf0f7fd16c61e124ba9bc48584b839e1a0889c"
+  "HashAPI": "bdef4743c80d21aec2d0330c45df52774007b6bc"
  },
  {
   "Title": "795243",
@@ -7554,10 +9060,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 900000.0,
   "ValorDesembolsado": 900000.0,
+  "ValorIngressoContrapartida": 300000.0,
+  "ValorRendimentoAplicacao": 41461.79,
+  "ValorSaldoRemanTesouro": 214753.34,
+  "ValorSaldoRemanConvenente": 71584.45,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "afd67d112d9fb5d08b247e3fdc3b2d51f91e0735"
+  "HashAPI": "20ff5c6deddef3862dcf0baa26f0e26b69dc4dad"
  },
  {
   "Title": "795248",
@@ -7584,10 +9096,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 450000.0,
   "ValorDesembolsado": 450000.0,
+  "ValorIngressoContrapartida": 150000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 292446.82,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 4,
   "AvisoDados": null,
-  "HashAPI": "b108c9ff43932f2124024635b5038512d474b819"
+  "HashAPI": "5252c341090ccd3df639925d48f931a7464028a8"
  },
  {
   "Title": "795257",
@@ -7614,10 +9132,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1198674.35,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "2ca100ee6b022759857f31239e55b8ec8eba3a0b"
+  "HashAPI": "8ad7c9a22461c1c25942c02072231acbf7682dcd"
  },
  {
   "Title": "795736",
@@ -7644,10 +9168,16 @@
   "ValorContrapartida": 266666.67,
   "ValorEmpenhado": 480000.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "708bff4977b4d84e091d5bb83194725d4c442f30"
+  "HashAPI": "8b0a210c13079431e0f493ede9f7f79e32a604a7"
  },
  {
   "Title": "795738",
@@ -7674,10 +9204,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 2578555.11,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 784622.76,
+  "ValorSaldoRemanConvenente": 392311.37,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "2457903ad6998d43e2ab0aa07a7be0f14f04b216"
+  "HashAPI": "e52b9dbc685af736d266c84175481c95c7eb8305"
  },
  {
   "Title": "795744",
@@ -7704,10 +9240,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 534230.89,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 473932.82,
+  "ValorSaldoRemanConvenente": 157977.61,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "4bf6d733510587d8be66852c4cc9053c148c2968"
+  "HashAPI": "c4671b60dbd6446b2fabf2357ba34fca0f016b6d"
  },
  {
   "Title": "796666",
@@ -7734,10 +9276,16 @@
   "ValorContrapartida": 201.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 201.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 261589.48,
+  "ValorSaldoRemanConvenente": 262.9,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "91e78ccb8cccaceb2ad5a03bca70f4f225330d71"
+  "HashAPI": "9dd49e0160f8488e517ef4cc2bf5e7a5991d97db"
  },
  {
   "Title": "7AABKC",
@@ -7764,10 +9312,16 @@
   "ValorContrapartida": 38500.0,
   "ValorEmpenhado": 3850000.0,
   "ValorDesembolsado": 3850000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 773428.46,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "ffc181fe7a38c40072d4f963fbac214d86cacf51"
+  "HashAPI": "7aea07dcd1f17a7e9ebcd39f64c7bd1cdfc41342"
  },
  {
   "Title": "7AAHEN",
@@ -7794,10 +9348,16 @@
   "ValorContrapartida": 8000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "a432c0570c649bc7ed02462547291ba26fc02589"
+  "HashAPI": "26702f4069b5fa6904b340575566069861be3046"
  },
  {
   "Title": "7AAHQS",
@@ -7824,10 +9384,16 @@
   "ValorContrapartida": 8000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 600461.32,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "92a7b904aff597c7c3cdfb22412cdb58e46bdcfc"
+  "HashAPI": "86c987025f34b9128bbe9d91742c0378fae2d6f3"
  },
  {
   "Title": "802122",
@@ -7854,10 +9420,16 @@
   "ValorContrapartida": 201.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 47125.75,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 215606.22,
+  "ValorSaldoRemanConvenente": 47332.15,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "d93606a0c051a69d013a0552485977ae35aa0bf7"
+  "HashAPI": "dfe57e788b1a901194f578c48187ff1a0d4efac4"
  },
  {
   "Title": "802136",
@@ -7884,10 +9456,16 @@
   "ValorContrapartida": 251762.0,
   "ValorEmpenhado": 10070480.0,
   "ValorDesembolsado": 10070480.0,
+  "ValorIngressoContrapartida": 125881.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 702497.81,
+  "ValorSaldoRemanConvenente": 8781.22,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c45d0b9aca95a4ef677f935646a8149b721c48da"
+  "HashAPI": "45392c228070863e688b9f4c28d8886c4b27dc82"
  },
  {
   "Title": "802176",
@@ -7914,10 +9492,16 @@
   "ValorContrapartida": 201.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": 201.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 126483.72,
+  "ValorSaldoRemanConvenente": 127.11,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "472a8bf03c6e593cc38171a5456a2e7c45ddcb9b"
+  "HashAPI": "e98a37d87bb94cbc2eb16b6200f864e182732469"
  },
  {
   "Title": "804018",
@@ -7944,10 +9528,16 @@
   "ValorContrapartida": 120000.0,
   "ValorEmpenhado": null,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "91091fa87ee5895e9aeb240f3ef2915b96aabd3d"
+  "HashAPI": "82cf53802a9805888004cad319175626b2f011cc"
  },
  {
   "Title": "804066",
@@ -7974,10 +9564,16 @@
   "ValorContrapartida": 80000.0,
   "ValorEmpenhado": null,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "42320f13295567f29582c0873cc973f6edcb6d98"
+  "HashAPI": "772250c8c992368942c61b0ac5ae1944fa918090"
  },
  {
   "Title": "816998",
@@ -8004,10 +9600,16 @@
   "ValorContrapartida": 175722.89,
   "ValorEmpenhado": 8610422.0,
   "ValorDesembolsado": 8610422.0,
+  "ValorIngressoContrapartida": 87861.44,
+  "ValorRendimentoAplicacao": 200000.0,
+  "ValorSaldoRemanTesouro": 581008.01,
+  "ValorSaldoRemanConvenente": 5928.65,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "c228b4b5e4086850bb85308475ab866584295f74"
+  "HashAPI": "200a710e0bb3428126fec0b85650d50ed05c6c05"
  },
  {
   "Title": "820944",
@@ -8034,10 +9636,16 @@
   "ValorContrapartida": 250000.0,
   "ValorEmpenhado": 500000.0,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 269833.12,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 125460.08,
+  "ValorSaldoRemanConvenente": 60462.04,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "edab116171c7a5f436c206a6f269e629e421e31e"
+  "HashAPI": "36bf409cc0ea0688c4ee8f1d968c76e00a44d583"
  },
  {
   "Title": "820961",
@@ -8064,10 +9672,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 400000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 187587.08,
+  "ValorSaldoRemanConvenente": 75034.83,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "57be7447d437bcad51cc33d02a170a64d464ed49"
+  "HashAPI": "ae9e0c640d651b33c0cc53545d607fabe71e287d"
  },
  {
   "Title": "820963",
@@ -8094,10 +9708,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1312500.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 446979.34,
+  "ValorSaldoRemanConvenente": 297935.12,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5e04a478664516e84614a076a3d44d4b057b7a93"
+  "HashAPI": "70eec69461cb2c6f9036d6913c48d3a8bd785040"
  },
  {
   "Title": "820965",
@@ -8124,10 +9744,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 800000.0,
   "ValorDesembolsado": 800000.0,
+  "ValorIngressoContrapartida": 400509.67,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 228474.8,
+  "ValorSaldoRemanConvenente": 114220.27,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "a3fe557a065903b38b852be9107b33022d7b6cdf"
+  "HashAPI": "a18412d40ad11ebe27b1635ec16cd128d5e113c6"
  },
  {
   "Title": "820966",
@@ -8154,10 +9780,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": 422667.56,
+  "ValorSaldoRemanTesouro": 173252.3,
+  "ValorSaldoRemanConvenente": 173252.28,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "fbaba7988fab2f893cb3c7a40a8e9ec192e03b84"
+  "HashAPI": "7e9ab44bb584819bf2b28cdf24d6d3af8ca866d2"
  },
  {
   "Title": "820967",
@@ -8184,10 +9816,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 900000.0,
   "ValorDesembolsado": 900000.0,
+  "ValorIngressoContrapartida": 300000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 156359.95,
+  "ValorSaldoRemanConvenente": 52119.98,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "6d8ef3230c165f256798da5b3f07780dbd5f28f8"
+  "HashAPI": "4fc40adc869c1ae2b668875a306602ccadc67e57"
  },
  {
   "Title": "820968",
@@ -8214,10 +9852,16 @@
   "ValorContrapartida": 1770000.0,
   "ValorEmpenhado": 1350000.0,
   "ValorDesembolsado": 1350000.0,
+  "ValorIngressoContrapartida": 1770000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 466398.09,
+  "ValorSaldoRemanConvenente": 611499.71,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "e892afb530192a65035fa0b7eb54e8947718ff85"
+  "HashAPI": "f0febad0fe91f9c954293f2164d5519eb3da0601"
  },
  {
   "Title": "820969",
@@ -8244,10 +9888,16 @@
   "ValorContrapartida": 650000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 650349.53,
+  "ValorRendimentoAplicacao": 106531.05,
+  "ValorSaldoRemanTesouro": 60283.58,
+  "ValorSaldoRemanConvenente": 19918.22,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "97b52ba60714daf999fcc7f0926b3529e0ec08db"
+  "HashAPI": "1b78bb97cc88bd6e9f65000a1bb9d5911d9b6a79"
  },
  {
   "Title": "820970",
@@ -8274,10 +9924,16 @@
   "ValorContrapartida": 196600.0,
   "ValorEmpenhado": 490000.0,
   "ValorDesembolsado": 490000.0,
+  "ValorIngressoContrapartida": 208377.77,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 83849.69,
+  "ValorSaldoRemanConvenente": 38694.17,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 6,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9e0349f843afbe5260faa66024299f3e9deab29c"
+  "HashAPI": "5685db732a45e7c81f8df0ea13aeadc52dee0b49"
  },
  {
   "Title": "821529",
@@ -8304,10 +9960,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 3365000.0,
   "ValorDesembolsado": 3365000.0,
+  "ValorIngressoContrapartida": 2000246.5,
+  "ValorRendimentoAplicacao": 291839.91,
+  "ValorSaldoRemanTesouro": 949960.19,
+  "ValorSaldoRemanConvenente": 562139.59,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "80b26c2d515fcfe462225522c2efab3fdd0c47ab"
+  "HashAPI": "fc2f4d32c4f50f5759bee10649ea655eeb18edc2"
  },
  {
   "Title": "831775",
@@ -8334,10 +9996,16 @@
   "ValorContrapartida": 160013.42,
   "ValorEmpenhado": 7850658.0,
   "ValorDesembolsado": 7850658.0,
+  "ValorIngressoContrapartida": 1000.0,
+  "ValorRendimentoAplicacao": 84091.45,
+  "ValorSaldoRemanTesouro": 75533.64,
+  "ValorSaldoRemanConvenente": 9.62,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "fe96305bbdaaa1e012ede68afe9b0eb5a9ed98df"
+  "HashAPI": "30634be164255aceb4230cd2a8f5c4defcf62104"
  },
  {
   "Title": "834151",
@@ -8364,10 +10032,16 @@
   "ValorContrapartida": 1516.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "28fa8df8e9c3c46113aa71dae4ed99efa1023e56"
+  "HashAPI": "24fe316a60c22fcecaf10a42a789231c98b8c2b4"
  },
  {
   "Title": "834366",
@@ -8394,10 +10068,16 @@
   "ValorContrapartida": 70000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "92fa74ec33a5faf94e6d6b6b605d4c079f851083"
+  "HashAPI": "dce1a0d960d15bde86f26fc6bcc9999d79e2a097"
  },
  {
   "Title": "837567",
@@ -8424,10 +10104,16 @@
   "ValorContrapartida": 100000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 100000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 108514.62,
+  "ValorSaldoRemanConvenente": 36171.56,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "09e8aad8635e00b52edc75684f435938a7ad50d3"
+  "HashAPI": "30d4feaba4897b7a87f707992fb96935175e5118"
  },
  {
   "Title": "837570",
@@ -8454,10 +10140,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 1000233.05,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 992538.01,
+  "ValorSaldoRemanConvenente": 496502.05,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "a63eec079465b6b16d9f696e7573d7d72b42f725"
+  "HashAPI": "c6927ef647d4adbc02c04879134be5f8a97cd626"
  },
  {
   "Title": "837574",
@@ -8484,10 +10176,16 @@
   "ValorContrapartida": 2500000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 4500000.0,
+  "ValorIngressoContrapartida": 2500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1510338.49,
+  "ValorSaldoRemanConvenente": 839051.16,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "fedb0d1482151d87c721abd62494be1e9cb1a19f"
+  "HashAPI": "706eaebc4a0a16f32281f7de26c1d68e4ee0205a"
  },
  {
   "Title": "837577",
@@ -8514,10 +10212,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 611407.79,
+  "ValorSaldoRemanConvenente": 305703.9,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "e20f6d5c04812106fe3efeb7cdc99cb45707cca9"
+  "HashAPI": "8b006f9c748f197bb5d9316325c1e0f93c54f684"
  },
  {
   "Title": "837581",
@@ -8544,10 +10248,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 1320000.0,
   "ValorDesembolsado": 1320000.0,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": 56715.0,
+  "ValorSaldoRemanTesouro": 125049.06,
+  "ValorSaldoRemanConvenente": 189468.26,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "900f9ae305247334e4f005516359854ff3165200"
+  "HashAPI": "a933512e49932557225c7c0bad312236615445db"
  },
  {
   "Title": "837584",
@@ -8574,10 +10284,16 @@
   "ValorContrapartida": 3334000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 5000000.0,
+  "ValorIngressoContrapartida": 3366631.71,
+  "ValorRendimentoAplicacao": 194000.0,
+  "ValorSaldoRemanTesouro": 1115967.44,
+  "ValorSaldoRemanConvenente": 743468.19,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "9bab0447443ce95840520e2fd58acb32dc6098a8"
+  "HashAPI": "3206f95288c07a55f78853e4672b055d97012d9e"
  },
  {
   "Title": "837587",
@@ -8604,10 +10320,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 516644.81,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 309240.12,
+  "ValorSaldoRemanConvenente": 154620.05,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "bb76559c5ed7cb3336a8a5de5827b7d06d2d038b"
+  "HashAPI": "ffcf107a52477e116923b40ad9b562cd3e792f7d"
  },
  {
   "Title": "837590",
@@ -8634,10 +10356,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "9badaa5715770ec6672517e7cd399d627fde2612"
+  "HashAPI": "1fcad5dfeac6ca96ab9d766971033c7c56f3dfde"
  },
  {
   "Title": "837592",
@@ -8664,10 +10392,16 @@
   "ValorContrapartida": 600000.0,
   "ValorEmpenhado": 1200000.0,
   "ValorDesembolsado": 1200000.0,
+  "ValorIngressoContrapartida": 604448.81,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 163800.89,
+  "ValorSaldoRemanConvenente": 82289.25,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "6cc75981738ff4db636b56b59c54e387ef138574"
+  "HashAPI": "1171fcd6ad4b5c15a66335274f44b6da4f187aef"
  },
  {
   "Title": "837595",
@@ -8694,10 +10428,16 @@
   "ValorContrapartida": 3340000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5c699c7264e39f6536708bf15373056b89641f93"
+  "HashAPI": "c9899b1f92b953ef6fe935b6d8e7f4edd1185fdc"
  },
  {
   "Title": "837596",
@@ -8724,10 +10464,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 4500000.0,
+  "ValorIngressoContrapartida": 3000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 782116.55,
+  "ValorSaldoRemanConvenente": 521411.04,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 2,
   "AvisoDados": null,
-  "HashAPI": "aa03145b2165354be8c9c71c7ab1bc0700657a7f"
+  "HashAPI": "a4d3536b612c2e1801d038ba442bedf2322031c2"
  },
  {
   "Title": "837597",
@@ -8754,10 +10500,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "1697d6145c3aec7a0380dbe4a49961dc73ed606a"
+  "HashAPI": "3216221f7c9baf59ac8070801afe9fb9c1350f8c"
  },
  {
   "Title": "837598",
@@ -8784,10 +10536,16 @@
   "ValorContrapartida": 150000.0,
   "ValorEmpenhado": 450000.0,
   "ValorDesembolsado": 450000.0,
+  "ValorIngressoContrapartida": 150000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 51048.43,
+  "ValorSaldoRemanConvenente": 16369.48,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c3d88917fdb94bbbc2a4f21ca3c82d9dacf6f0a8"
+  "HashAPI": "e34a53335da56f3892ce2291bfcb0b377fd178cb"
  },
  {
   "Title": "838029",
@@ -8814,10 +10572,16 @@
   "ValorContrapartida": 14000.0,
   "ValorEmpenhado": 200000.0,
   "ValorDesembolsado": 200000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 71839.7,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "7768c4688b71da8ed6ab5cef9173ee63a9cad962"
+  "HashAPI": "f3578fe3ad2c6038a90def5810e8c466c1ca6f45"
  },
  {
   "Title": "844014",
@@ -8844,10 +10608,16 @@
   "ValorContrapartida": 153131.65,
   "ValorEmpenhado": 7580000.0,
   "ValorDesembolsado": 7580000.0,
+  "ValorIngressoContrapartida": 76565.65,
+  "ValorRendimentoAplicacao": 27252.97,
+  "ValorSaldoRemanTesouro": 11895.33,
+  "ValorSaldoRemanConvenente": 120.16,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "db7aee5aa5db2b2597f88caf79e98c4606c733c8"
+  "HashAPI": "3ca8a22251966818d44bd11d57d79f76103a2de4"
  },
  {
   "Title": "850226",
@@ -8874,10 +10644,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 900000.0,
   "ValorDesembolsado": 900000.0,
+  "ValorIngressoContrapartida": 300000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 220183.49,
+  "ValorSaldoRemanConvenente": 73394.49,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "1c8097c2f22581a757cdfdb389d955a8e963d792"
+  "HashAPI": "d6db4438205a2e14785af7764429897744e1732f"
  },
  {
   "Title": "851672",
@@ -8904,10 +10680,16 @@
   "ValorContrapartida": 950000.0,
   "ValorEmpenhado": 1400000.0,
   "ValorDesembolsado": 1400000.0,
+  "ValorIngressoContrapartida": 1030995.97,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 197008.55,
+  "ValorSaldoRemanConvenente": 214680.36,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "dc2e0ee562f34c950491b79ea0ac113e90e52ae5"
+  "HashAPI": "2f7ad608ca581b86f7566baaa4ba146cbdcb2fe1"
  },
  {
   "Title": "865143",
@@ -8934,10 +10716,16 @@
   "ValorContrapartida": 112000.0,
   "ValorEmpenhado": 260000.0,
   "ValorDesembolsado": 260000.0,
+  "ValorIngressoContrapartida": 40.37,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 240243.99,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5a21522c3c53782a56da2bb29f99af4509f6ccba"
+  "HashAPI": "f7d98c1be39c7a78c457338782553e577c4feda0"
  },
  {
   "Title": "873477",
@@ -8964,10 +10752,16 @@
   "ValorContrapartida": 38383.84,
   "ValorEmpenhado": 3800000.0,
   "ValorDesembolsado": 3800000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 11480.0,
+  "ValorSaldoRemanTesouro": 565.4,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "53af72a582dfca250c65e91759511f1695a36c5b"
+  "HashAPI": "237f99340966c5c96691c1176d51f715bb32fb4c"
  },
  {
   "Title": "876177",
@@ -8994,10 +10788,16 @@
   "ValorContrapartida": 36814.66,
   "ValorEmpenhado": 38983734.78,
   "ValorDesembolsado": 38983734.78,
+  "ValorIngressoContrapartida": 620.0,
+  "ValorRendimentoAplicacao": 162465.65,
+  "ValorSaldoRemanTesouro": 242.18,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 15,
   "QtdProrroga": 3,
   "AvisoDados": null,
-  "HashAPI": "4f7c6379877c87853b2a70e548323373a660f88a"
+  "HashAPI": "15f3a3557e542adc634c98110561d057d8a3372d"
  },
  {
   "Title": "881031",
@@ -9024,10 +10824,16 @@
   "ValorContrapartida": 25252.53,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "c6b48f5ba222363a9c4e3c472d6e30703f47806b"
+  "HashAPI": "80a1e20dc3ae6fc60967e8b07078ee67fc9d24e6"
  },
  {
   "Title": "883365",
@@ -9054,10 +10860,16 @@
   "ValorContrapartida": 14747.47,
   "ValorEmpenhado": 1460000.0,
   "ValorDesembolsado": 1460000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 4997.0,
+  "ValorSaldoRemanTesouro": 37129.9,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "8c1a505d43718a2ef8629a39e34d2968403d21ab"
+  "HashAPI": "bfa3beb1a3874c11fb2c759d2ac2a490826f84c0"
  },
  {
   "Title": "898283",
@@ -9084,10 +10896,16 @@
   "ValorContrapartida": 2279825.25,
   "ValorEmpenhado": 2050000.0,
   "ValorDesembolsado": 2050000.0,
+  "ValorIngressoContrapartida": 2279852.2,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 404903.98,
+  "ValorSaldoRemanConvenente": 450297.7,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "51417d19c0e2acf46e125f045d6c2596ae3e2700"
+  "HashAPI": "140b424c95c9d668b07b8c0e28366cce17d9ad28"
  },
  {
   "Title": "900388",
@@ -9114,10 +10932,16 @@
   "ValorContrapartida": 2625000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": 3500000.0,
+  "ValorIngressoContrapartida": 2625188.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 2014211.58,
+  "ValorSaldoRemanConvenente": 1510658.65,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "1b071cdb6cef838736ba208999e8afd73b61d98d"
+  "HashAPI": "a8fee2b684dd6cfad33a73d956c9fa3421467317"
  },
  {
   "Title": "900389",
@@ -9144,10 +10968,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 572466.68,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 522953.6,
+  "ValorSaldoRemanConvenente": 261476.81,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "bc17736e628d4014d16e838b0731d65992c36a9b"
+  "HashAPI": "21778785c85069e70957f2c6cd6f5a0e40db8603"
  },
  {
   "Title": "900390",
@@ -9174,10 +11004,16 @@
   "ValorContrapartida": 700000.0,
   "ValorEmpenhado": 1400000.0,
   "ValorDesembolsado": 1400000.0,
+  "ValorIngressoContrapartida": 700000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 375348.27,
+  "ValorSaldoRemanConvenente": 187674.13,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "a8770623545acfe65e86860dc303169b87e594a6"
+  "HashAPI": "3687583a227a1f4327f854868f10fccb5cdf1190"
  },
  {
   "Title": "900391",
@@ -9204,10 +11040,16 @@
   "ValorContrapartida": 337575.84,
   "ValorEmpenhado": 500000.0,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 337658.26,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 7939.98,
+  "ValorSaldoRemanConvenente": 5360.68,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5b4c310241f6269882fa9f707cc77a2f7dc8ab55"
+  "HashAPI": "f3e44de47622865efdb1afb31f2d7de4a572a8fa"
  },
  {
   "Title": "900392",
@@ -9234,10 +11076,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 176817.97,
+  "ValorSaldoRemanConvenente": 255634.07,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "39cd1319eff9cfc117ce3bb9c10fa871f2493459"
+  "HashAPI": "217bad7488e6491d8e02be3795758d80d1bbf24e"
  },
  {
   "Title": "900393",
@@ -9264,10 +11112,16 @@
   "ValorContrapartida": 750000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 750000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 237779.45,
+  "ValorSaldoRemanConvenente": 118889.73,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "89b29c56cf833c15d834273ac5ed7de55c2f4e29"
+  "HashAPI": "fe69f50f6383fa64a8e459370d7069cf1a6397eb"
  },
  {
   "Title": "900394",
@@ -9294,10 +11148,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1534200.87,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 421386.53,
+  "ValorSaldoRemanConvenente": 210693.27,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "b7f60ba8937269e3d77e45b46b61e7c6f6a1516c"
+  "HashAPI": "ff1dd99aeb38724f6d22f19870cb6b631b7dda8a"
  },
  {
   "Title": "900395",
@@ -9324,10 +11184,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": 200009.45,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 145340.81,
+  "ValorSaldoRemanConvenente": 48443.79,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "11ce844633f177fea736454ff36a2da175eee205"
+  "HashAPI": "9ceb815525af114e142c000e7952b60eb582ec65"
  },
  {
   "Title": "900396",
@@ -9354,10 +11220,16 @@
   "ValorContrapartida": 400000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 400000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 193019.15,
+  "ValorSaldoRemanConvenente": 77207.19,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "b27c1c8e4073b1bfa2e9d8498e25b2c13840057c"
+  "HashAPI": "94db62907ca9edfba568b37b54f8d54f14df53b1"
  },
  {
   "Title": "900397",
@@ -9384,10 +11256,16 @@
   "ValorContrapartida": 334000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 334000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "679ac922d0c2d28a532e8426128dd175a1af9705"
+  "HashAPI": "6db80a8633130ab154d5e980b51197c86dc5e8df"
  },
  {
   "Title": "900398",
@@ -9414,10 +11292,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 4500000.0,
+  "ValorIngressoContrapartida": 3000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 941437.48,
+  "ValorSaldoRemanConvenente": 627625.0,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "86575a5058d57fee353d2b73bb9723faddac705d"
+  "HashAPI": "6b659b66029509f1e67f41836fb286f668947a60"
  },
  {
   "Title": "900399",
@@ -9444,10 +11328,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 2000000.0,
+  "ValorIngressoContrapartida": 999237.69,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 276573.47,
+  "ValorSaldoRemanConvenente": 138286.74,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "74299b81ba3da740bcfa9557c43ac35e3d2d4184"
+  "HashAPI": "0c4328a5afd168704fe5808f4337968036cd743b"
  },
  {
   "Title": "900400",
@@ -9474,10 +11364,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 1028125.98,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 452223.67,
+  "ValorSaldoRemanConvenente": 177113.11,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "399389683731b0e80b61f9c549c246a3ced983fe"
+  "HashAPI": "52febd50e61c68d7d8e9ee8b1d94a0eeb33efae2"
  },
  {
   "Title": "900401",
@@ -9504,10 +11400,16 @@
   "ValorContrapartida": 1750000.0,
   "ValorEmpenhado": 3500000.0,
   "ValorDesembolsado": 3500000.0,
+  "ValorIngressoContrapartida": 1750000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 1129569.96,
+  "ValorSaldoRemanConvenente": 564784.24,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "3fb34e17af06424309d0439859090ff7a0b7a33a"
+  "HashAPI": "3720908ead98f7cf94da184fda6dfaa84e3f114f"
  },
  {
   "Title": "900402",
@@ -9534,10 +11436,16 @@
   "ValorContrapartida": 334000.0,
   "ValorEmpenhado": 0.0,
   "ValorDesembolsado": 575000.0,
+  "ValorIngressoContrapartida": 334000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 260900.38,
+  "ValorSaldoRemanConvenente": 151590.34,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "29eebbde4ba254fbbb1afa19f46fda57aaab6509"
+  "HashAPI": "d83cdfb36b6ff7a04906723a49d06c4fc880d093"
  },
  {
   "Title": "900404",
@@ -9564,10 +11472,16 @@
   "ValorContrapartida": 2243463.61,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 3000000.0,
+  "ValorIngressoContrapartida": 3350463.75,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 714553.82,
+  "ValorSaldoRemanConvenente": 534358.5,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "2021b6a5ee34855708f31c863e875efdb3c14a9a"
+  "HashAPI": "7ec3be5268b0ac145c42979682881aeb18b6eb07"
  },
  {
   "Title": "901002",
@@ -9594,10 +11508,16 @@
   "ValorContrapartida": 5500.0,
   "ValorEmpenhado": 550000.0,
   "ValorDesembolsado": 550000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 42729.74,
+  "ValorSaldoRemanTesouro": 116977.94,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "e14ada78807fbcc326671105566bf00d84e60ec5"
+  "HashAPI": "555ec3eb95cb0b3dd691cf88e0521b8607131d3e"
  },
  {
   "Title": "911372",
@@ -9624,10 +11544,16 @@
   "ValorContrapartida": 50000.0,
   "ValorEmpenhado": 500000.0,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 50000.0,
+  "ValorRendimentoAplicacao": 108763.5,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 346614.81,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "cb3445f25d7b90052baab3820e7fe832e3564ca6"
+  "HashAPI": "5c339e8e65f7d0ad74ecbc2fc6896dc4811e4c98"
  },
  {
   "Title": "911386",
@@ -9654,10 +11580,16 @@
   "ValorContrapartida": 417062.5,
   "ValorEmpenhado": 500000.0,
   "ValorDesembolsado": 500000.0,
+  "ValorIngressoContrapartida": 417062.5,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 127483.97,
+  "ValorSaldoRemanConvenente": 106337.57,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5ec71e9889dd1191068a53e7f3eee50864c3fb67"
+  "HashAPI": "f10642c8fecb23463dd964bf67ee099a7bd33428"
  },
  {
   "Title": "926679",
@@ -9684,10 +11616,16 @@
   "ValorContrapartida": 333396.0,
   "ValorEmpenhado": 350000.0,
   "ValorDesembolsado": 350000.0,
+  "ValorIngressoContrapartida": 333396.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 215850.23,
+  "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "643b1b80cc944f70017d0758226daed86c2cfd08"
+  "HashAPI": "61c21eecc63f3cd83eedfde56cbd5c89aeed049a"
  },
  {
   "Title": "928394",
@@ -9714,10 +11652,16 @@
   "ValorContrapartida": 0.0,
   "ValorEmpenhado": 600000.0,
   "ValorDesembolsado": 600000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 29067.35,
+  "ValorSaldoRemanTesouro": 420843.49,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "21796e952a1efde19604a7f59133db035ba888dc"
+  "HashAPI": "e24fc4e3832d653067c100db22c9460bac9a9880"
  },
  {
   "Title": "931531",
@@ -9744,10 +11688,16 @@
   "ValorContrapartida": 36521.54,
   "ValorEmpenhado": 36521542.24,
   "ValorDesembolsado": 36521542.24,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 393692.9,
+  "ValorSaldoRemanTesouro": 30.22,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 8,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "a389e6d186578fd2391525095b8d5534bb7123d2"
+  "HashAPI": "1416f751c8d06f5d1e797db3fc295a2fb14272f8"
  },
  {
   "Title": "940724",
@@ -9774,10 +11724,16 @@
   "ValorContrapartida": 22000.0,
   "ValorEmpenhado": 2200000.0,
   "ValorDesembolsado": 2200000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 9987.24,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "20f724d5c580090fb3944683c64f4a45117b0b7b"
+  "HashAPI": "e6b0f8a0db27e960c86b4448d6e683546bea8f66"
  },
  {
   "Title": "940835",
@@ -9804,10 +11760,16 @@
   "ValorContrapartida": 13325.44,
   "ValorEmpenhado": 1332544.75,
   "ValorDesembolsado": 1332544.75,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 67500.0,
+  "ValorSaldoRemanTesouro": 104478.34,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "5e01e90bb80a33829f5525b41e0d88a61215c27e"
+  "HashAPI": "70f95295bdd4b5e5a19d05d3ff68b4ede61ad476"
  },
  {
   "Title": "941231",
@@ -9834,10 +11796,16 @@
   "ValorContrapartida": 450000.0,
   "ValorEmpenhado": 450000.0,
   "ValorDesembolsado": 450000.0,
+  "ValorIngressoContrapartida": 450000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 26770.72,
+  "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "1b2453ee51674fef07f19a346ffda035e324648e"
+  "HashAPI": "9f15d5a15fc27e85967968b794ae489687d1c692"
  },
  {
   "Title": "955804",
@@ -9864,10 +11832,16 @@
   "ValorContrapartida": 7000.0,
   "ValorEmpenhado": 700000.0,
   "ValorDesembolsado": 700000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 24508.77,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "c57a07af24c8982da1e0cdc6c1b6ebc47ffd58e2"
+  "HashAPI": "5558987afd918779ab6b241b7161f4582a15ed16"
  },
  {
   "Title": "959321",
@@ -9894,10 +11868,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 313451.14,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 23861.8,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "156f8d17ace78a0a1ef9a6ed7284ce815b1fa4b4"
+  "HashAPI": "d3b5ce772d34514d6419ec739ada8d2b5be2ac75"
  },
  {
   "Title": "959796",
@@ -9924,10 +11904,16 @@
   "ValorContrapartida": 18809.25,
   "ValorEmpenhado": 18809255.36,
   "ValorDesembolsado": 18809255.36,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": 113500.18,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 116785.06,
+  "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "c856fd4df7a16fe2ae148b3a2b49b40a8834b2db"
+  "HashAPI": "9d3e3de7eae210a3ea88fc781acb3c814af619dd"
  },
  {
   "Title": "964658",
@@ -9954,10 +11940,16 @@
   "ValorContrapartida": 600000.0,
   "ValorEmpenhado": 300000.0,
   "ValorDesembolsado": 300000.0,
+  "ValorIngressoContrapartida": 600000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 49107.12,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "168dc6b4c0fd224d51fec5cd65a4b874d134b5d2"
+  "HashAPI": "ca4e1643e66633977ec90e1b68a916d1ae2c2d31"
  },
  {
   "Title": "965445",
@@ -9984,10 +11976,16 @@
   "ValorContrapartida": 2000000.0,
   "ValorEmpenhado": 4000000.0,
   "ValorDesembolsado": 1771653.54,
+  "ValorIngressoContrapartida": 2000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 3518192.73,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "715f43aaf2c90242a3e19cefd7451e6e5ce911a2"
+  "HashAPI": "02322cea482a30b4084ed5b27c38a809db8effce"
  },
  {
   "Title": "967649",
@@ -10014,10 +12012,16 @@
   "ValorContrapartida": 4000000.0,
   "ValorEmpenhado": 8000000.0,
   "ValorDesembolsado": 4000000.0,
+  "ValorIngressoContrapartida": 4000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 2402322.57,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "f7dd88ea00f74fe9b36770d5a9f30ee3d4ce2fc7"
+  "HashAPI": "5e1e14ff39025920fc7e7ad1a2e5163b08989427"
  },
  {
   "Title": "967650",
@@ -10044,10 +12048,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 281876.61,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "ecb2abec26adb51e7ff3884a3f36cb95c7aa47f0"
+  "HashAPI": "551f625262e611a6c62b9cb049fb366ca9619d06"
  },
  {
   "Title": "967651",
@@ -10074,10 +12084,16 @@
   "ValorContrapartida": 1750000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 2532440.94,
+  "ValorIngressoContrapartida": 1050000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 530482.21,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "becc0f1b328cb24d3046d363d2bb70e9fbfa9d79"
+  "HashAPI": "c024fa71a40a201dcb6101570e50319b759ae2ca"
  },
  {
   "Title": "967652",
@@ -10104,10 +12120,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 3257370.0,
+  "ValorIngressoContrapartida": 764582.5,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1400664.49,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "26836537aad5560fad987d4d89502ec3bc18b2ef"
+  "HashAPI": "14f0dd104a4f734acdc4fdd7e6bd9e720fcd0ba1"
  },
  {
   "Title": "967653",
@@ -10134,10 +12156,16 @@
   "ValorContrapartida": 600000.0,
   "ValorEmpenhado": 2200000.0,
   "ValorDesembolsado": 1123170.0,
+  "ValorIngressoContrapartida": 300000.0,
+  "ValorRendimentoAplicacao": 56697.57,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 217811.31,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "2e9279b0004f68d12a5b5c390d59eb07208224f9"
+  "HashAPI": "a7c9ecd80134da7e5738fcd1bf993de622cef179"
  },
  {
   "Title": "967654",
@@ -10164,10 +12192,16 @@
   "ValorContrapartida": 500000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 1447720.0,
+  "ValorIngressoContrapartida": 500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1014300.73,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "4a9b567b4ec7cdeaa325702219f8e1829d5700c6"
+  "HashAPI": "395e5bad1a5abf3e223fb50aba7a6285a7d2d857"
  },
  {
   "Title": "967655",
@@ -10194,10 +12228,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "0b57c0f3f0b59c46febb70dc26bd662002f3eab7"
+  "HashAPI": "93da6f1e82beac6bc99c23210b55b6bd68f73db1"
  },
  {
   "Title": "967694",
@@ -10224,10 +12264,16 @@
   "ValorContrapartida": 375000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 860000.0,
+  "ValorIngressoContrapartida": 375000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 446547.42,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "421946d4fcc072d9f6f9ec43e38a603d5bb566db"
+  "HashAPI": "0001f00428cb8d364ec1dd89333f30e85f978ddd"
  },
  {
   "Title": "967711",
@@ -10254,10 +12300,16 @@
   "ValorContrapartida": 7000000.0,
   "ValorEmpenhado": 7000000.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": 975000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1064374.1,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "55118e8a6a1665fb9b5399def6f823582518c9e1"
+  "HashAPI": "06f0c8d1c3d066a6ddebe5c3e6b079435123b8af"
  },
  {
   "Title": "967713",
@@ -10284,10 +12336,16 @@
   "ValorContrapartida": 7000000.0,
   "ValorEmpenhado": 7000000.0,
   "ValorDesembolsado": 3792000.0,
+  "ValorIngressoContrapartida": 7000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 2968001.98,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "788239064c9d0ac518712aed6fff325978ebed73"
+  "HashAPI": "85b060a50a9d565c196f90ebc217a04de205ef6a"
  },
  {
   "Title": "967715",
@@ -10314,10 +12372,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 1950000.0,
+  "ValorIngressoContrapartida": 1012000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 2376602.51,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "4379febcbd2f9fc1c0302b5708b37cad70872d68"
+  "HashAPI": "831196271d25d1fc6f600c0f90aa3426c8d853b9"
  },
  {
   "Title": "967717",
@@ -10344,10 +12408,16 @@
   "ValorContrapartida": 250000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 253516.67,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1467988.12,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "8ef882438dd7f032acb687ab5b8d280ec038d757"
+  "HashAPI": "bd05e4c0855a2ae92f0b033635d0897ea266303d"
  },
  {
   "Title": "967718",
@@ -10374,10 +12444,16 @@
   "ValorContrapartida": 7000000.0,
   "ValorEmpenhado": 7000000.0,
   "ValorDesembolsado": 2050000.0,
+  "ValorIngressoContrapartida": 7000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 9347475.64,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "8aca773a270cafbd1ac2475169b4e49b69c3f532"
+  "HashAPI": "dae93fa5e123517805f0c5fd4501da1a1ef38314"
  },
  {
   "Title": "967825",
@@ -10404,10 +12480,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 2000000.0,
   "ValorDesembolsado": 1448911.9,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1288548.32,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "c4412b950a74f5b8b5612eda88c7333872dd85cc"
+  "HashAPI": "c05102254cab0855cbf949a53fb6854494cf0507"
  },
  {
   "Title": "967826",
@@ -10434,10 +12516,16 @@
   "ValorContrapartida": 4000000.0,
   "ValorEmpenhado": 8000000.0,
   "ValorDesembolsado": 5790880.0,
+  "ValorIngressoContrapartida": 1597192.51,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 6393697.12,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "217749a575175e26d3465de9cced788bf5f4d168"
+  "HashAPI": "34d09bfcfd4cedc8a70688d441aa0e6d76a3fef6"
  },
  {
   "Title": "967827",
@@ -10464,10 +12552,16 @@
   "ValorContrapartida": 250000.0,
   "ValorEmpenhado": 1000000.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "b7153c7029d54c235e6b60ca4e7ed89627cf2f13"
+  "HashAPI": "e1161c783fbb62c4955e5268f3f78d578736fe54"
  },
  {
   "Title": "968000",
@@ -10494,10 +12588,16 @@
   "ValorContrapartida": 3330000.0,
   "ValorEmpenhado": 6670000.0,
   "ValorDesembolsado": 1000000.0,
+  "ValorIngressoContrapartida": 3330000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 4799692.88,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "d0c9706f610a9ab5c54673e0a922ed173d967f70"
+  "HashAPI": "a7b5a969f750c11d095b28fc26438471917d58d3"
  },
  {
   "Title": "968031",
@@ -10524,10 +12624,16 @@
   "ValorContrapartida": 200000.0,
   "ValorEmpenhado": 800000.0,
   "ValorDesembolsado": 800000.0,
+  "ValorIngressoContrapartida": 200000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 69663.58,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "fdfcd6628a8771973c69918b566add4f1af2fbe9"
+  "HashAPI": "68a90f10d33735a30a4c3ba222b93ef7eee3efcc"
  },
  {
   "Title": "968032",
@@ -10554,10 +12660,16 @@
   "ValorContrapartida": 3000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 3000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 4746541.42,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "98ac9aa436904b48918570792e5861adf848a091"
+  "HashAPI": "f1dedbedf8048b3e6fe8b6abb50ca210589c8125"
  },
  {
   "Title": "968033",
@@ -10584,10 +12696,16 @@
   "ValorContrapartida": 2500000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 2500000.0,
+  "ValorIngressoContrapartida": 2500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 5570190.69,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "2f34f04db9a27916f3f97b30a4767994aecd0096"
+  "HashAPI": "e8bc6c4861feb2d4fa76d046c301c071ee92aec3"
  },
  {
   "Title": "968079",
@@ -10614,10 +12732,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 2908000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 2215809.81,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "AvisoDados": null,
-  "HashAPI": "dd5c02a222d07b77978c3b184d006c17e9268cc8"
+  "HashAPI": "d1b738704f01681f8a7bf6f609723d779158405f"
  },
  {
   "Title": "968082",
@@ -10644,10 +12768,16 @@
   "ValorContrapartida": 1500000.0,
   "ValorEmpenhado": 4500000.0,
   "ValorDesembolsado": 2830000.0,
+  "ValorIngressoContrapartida": 1500000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 1723102.68,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "d5385b4698f6394b8d20291252542953713b1808"
+  "HashAPI": "2868c9910046e2a146d2647472abe170def0eb20"
  },
  {
   "Title": "968101",
@@ -10674,10 +12804,16 @@
   "ValorContrapartida": 2500000.0,
   "ValorEmpenhado": 5000000.0,
   "ValorDesembolsado": 2943700.79,
+  "ValorIngressoContrapartida": 1355000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 2577575.77,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "47e0fcb78c88bc95e779400767e7076c550dc9fe"
+  "HashAPI": "4616676144b648b0db212d3b7f04c3a6dcf092ee"
  },
  {
   "Title": "968170",
@@ -10704,10 +12840,16 @@
   "ValorContrapartida": 1000000.0,
   "ValorEmpenhado": 3000000.0,
   "ValorDesembolsado": 1417322.83,
+  "ValorIngressoContrapartida": 1000000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 145906.18,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "26039e85a1f5286a9d21a44f3436a0aa95ab5613"
+  "HashAPI": "98814e4459b6d61fd0a35018e3eea3c796073323"
  },
  {
   "Title": "968328",
@@ -10734,10 +12876,16 @@
   "ValorContrapartida": 375000.0,
   "ValorEmpenhado": 1500000.0,
   "ValorDesembolsado": 1500000.0,
+  "ValorIngressoContrapartida": 375000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 406793.64,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "de5d21466d96c3e4cc0c820b35deab2ca07dd118"
+  "HashAPI": "437d04d7e795b8dd598b0723cf3e75255c0235b4"
  },
  {
   "Title": "969850",
@@ -10764,10 +12912,16 @@
   "ValorContrapartida": 4000000.0,
   "ValorEmpenhado": 8000000.0,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": 3949100.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 4050490.3,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "6bc5dace07fc7d3ac0de07a5ad97e0e4e050a0e5"
+  "HashAPI": "7a4ea454d010ec2db7d8dc8b485a311a77011ba8"
  },
  {
   "Title": "974869",
@@ -10794,10 +12948,16 @@
   "ValorContrapartida": 7500.0,
   "ValorEmpenhado": 750000.0,
   "ValorDesembolsado": 750000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 19259.27,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "b4cbc0b1e6d4dc9b514778339ee6397b96dbde1f"
+  "HashAPI": "af597021e80105a17050fec028f654180dbfda62"
  },
  {
   "Title": "975453",
@@ -10824,10 +12984,16 @@
   "ValorContrapartida": 37000.0,
   "ValorEmpenhado": 3700000.0,
   "ValorDesembolsado": 3700000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": 10269.42,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 0.0,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "b4e4917d4013e314f04f2978b25c41bfe1217778"
+  "HashAPI": "7fb0900108c1404ce4174a202ec0657ae90a44b0"
  },
  {
   "Title": "978273",
@@ -10854,10 +13020,16 @@
   "ValorContrapartida": 300000.0,
   "ValorEmpenhado": 10000000.0,
   "ValorDesembolsado": 10000000.0,
+  "ValorIngressoContrapartida": 150000.0,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 11043110.57,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "d44ed7fc22e893f10997ce19456c969294661ea7"
+  "HashAPI": "e51d25325704fef4110ca340d720cbf29b8d2ab4"
  },
  {
   "Title": "995151",
@@ -10884,10 +13056,16 @@
   "ValorContrapartida": 7000.0,
   "ValorEmpenhado": 700000.0,
   "ValorDesembolsado": 700000.0,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": 207998.77,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "1a634f2e7c9fa89f2be669c5c531a53edfdb963e"
+  "HashAPI": "0f9cd88d5db67a689c325b79cb739b2fa40f8ac5"
  },
  {
   "Title": "995324",
@@ -10914,9 +13092,15 @@
   "ValorContrapartida": 2400.0,
   "ValorEmpenhado": null,
   "ValorDesembolsado": null,
+  "ValorIngressoContrapartida": null,
+  "ValorRendimentoAplicacao": null,
+  "ValorSaldoRemanTesouro": null,
+  "ValorSaldoRemanConvenente": null,
+  "ValorSaldoConta": null,
+  "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "AvisoDados": null,
-  "HashAPI": "f39ef9c20a38e2c3d1283d0ea156b8a53a114acd"
+  "HashAPI": "b388f71499cf5bdb2032b48b7993dc88e60a8987"
  }
 ]
