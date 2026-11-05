@@ -1369,11 +1369,11 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 189000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE, REF. AO PROGRAMA PRIMEIRO PROJETO, CONF. E-MAIL DE 04/12/2008 ASNAC,CONF. PROC. 610033/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "4e02bdf31da3aae6a58420a8d3a0dacc34198d3e"
+  "HashAPI": "bc9b1c31596e28bd8221af8a2dd88ac2acbc30ee"
  },
  {
   "Title": "2028",
@@ -1385,11 +1385,11 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 441000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE, REF. AO PROGRAMA PRIMEIRO PROJETO, CONF. E-MAIL DE 04/12/2008 ASNAC,CONF. PROC. 610033/2008-5",
   "AvisoDados": null,
-  "HashAPI": "f8975a11d0f6171334f00a10b58e1a27a1368059"
+  "HashAPI": "8d9395e14ca0a8a2d215eb5cc4cc2e18581d7352"
  },
  {
   "Title": "2029",
@@ -1449,11 +1449,11 @@
   "NaturezaDespesa": "33302023",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 236250.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMIG, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610019/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "4448d993da8dd8e72fdd921de1a23cfa37ce4074"
+  "HashAPI": "02c4764f9493c979b84b0cb80d62ea2d25d4cf66"
  },
  {
   "Title": "2207",
@@ -1465,11 +1465,11 @@
   "NaturezaDespesa": "44302023",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 551250.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMIG, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610019/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "fcbf1b865a51772a428f12cdaa45de1f920ffe92"
+  "HashAPI": "a6b37257fc794812a31479b8dd7359cc285d8484"
  },
  {
   "Title": "2213",
@@ -1481,11 +1481,11 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 156000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERJ, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610030/2008-6.",
   "AvisoDados": null,
-  "HashAPI": "4772427a4e9cee783411dbbf65c7f40c80ab3851"
+  "HashAPI": "a02ddb48d39a1cced15f0dff044d651e2017d86a"
  },
  {
   "Title": "2214",
@@ -1497,11 +1497,11 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 364000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERJ, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610030/2008-6.",
   "AvisoDados": null,
-  "HashAPI": "557359a872bd6bda0c39ed381d2575748005521b"
+  "HashAPI": "ec9a995cf1831f7c745688dbd27343ae226bf2a6"
  },
  {
   "Title": "2216",
@@ -1513,11 +1513,11 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 111000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESB, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610016/2008-3.",
   "AvisoDados": null,
-  "HashAPI": "03c4123d43cd0f09071cbafe71b9c87f07553235"
+  "HashAPI": "2debc3b300324c3dd03213f16cdfc5ba87a4d41c"
  },
  {
   "Title": "2218",
@@ -1529,11 +1529,11 @@
   "NaturezaDespesa": "44302007",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 259000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESB, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610016/2008-3.",
   "AvisoDados": null,
-  "HashAPI": "5236ec5a65cd1c3a2649c4073ab412e19c8ea7bc"
+  "HashAPI": "d914eb05c229d09bbf10d154d765e287ea23fc29"
  },
  {
   "Title": "2221",
@@ -1545,11 +1545,11 @@
   "NaturezaDespesa": "33302009",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 96000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNCAP, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610014/2008-0.",
   "AvisoDados": null,
-  "HashAPI": "66c84c5562624047b917598bbca473c4499a6b9f"
+  "HashAPI": "c1f0135d7e632b6c63d6ef4834d526da844687ec"
  },
  {
   "Title": "2222",
@@ -1561,11 +1561,11 @@
   "NaturezaDespesa": "44302009",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 224000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNCAP, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610014/2008-0.",
   "AvisoDados": null,
-  "HashAPI": "f3c482766741509a85683ffa7caf313589567f73"
+  "HashAPI": "0415d9c05982727826b9cd9e1253c0f76f904078"
  },
  {
   "Title": "2223",
@@ -1577,11 +1577,11 @@
   "NaturezaDespesa": "33302029",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 96000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAADCT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610031/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "30256e3a7efad026a759eb46c7bde867d2daab6f"
+  "HashAPI": "4d7525f4438e61220b7cecca059f11cb7f272874"
  },
  {
   "Title": "2224",
@@ -1593,11 +1593,11 @@
   "NaturezaDespesa": "44302029",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 224000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAADCT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610031/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "a8d2823cc97dd22eaba9577331c343a66ae76c10"
+  "HashAPI": "8bd965efbffcdf667bb1ea5055bf340a3f7b432f"
  },
  {
   "Title": "2225",
@@ -1609,11 +1609,11 @@
   "NaturezaDespesa": "33302043",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 96000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESC, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610027/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "1f877d0310a8f5f980d510ce605884ab066df9ba"
+  "HashAPI": "d57b0c09ca08f265378b85a3aeb91ea14d96d3c7"
  },
  {
   "Title": "2227",
@@ -1625,11 +1625,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 224000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESC, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 612719/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "5e67e09f023222584450a2e606d3049bf57f092c"
+  "HashAPI": "7657774e1298e8ba5e51aa420c1f875c5807e76a"
  },
  {
   "Title": "2229",
@@ -1641,11 +1641,11 @@
   "NaturezaDespesa": "33302019",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 69000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMAT,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610021/2008-7.",
   "AvisoDados": null,
-  "HashAPI": "c2b8707a5fcec515733dfd8434acfc5132332043"
+  "HashAPI": "b6b393e182cb1049458fd630170635b180957cba"
  },
  {
   "Title": "2231",
@@ -1657,11 +1657,11 @@
   "NaturezaDespesa": "44302019",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 161000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMAT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610021/2008-7.",
   "AvisoDados": null,
-  "HashAPI": "017151d711036c65c8e5405e26e3cdd83b7391c9"
+  "HashAPI": "aed060a90526b212c5fd59465b45a63d06e62bb7"
  },
  {
   "Title": "2237",
@@ -1673,11 +1673,11 @@
   "NaturezaDespesa": "33302005",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 69000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEAM, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610013/2008-4.",
   "AvisoDados": null,
-  "HashAPI": "148bcc1ac69ecbcf7f75c159dbe69976d006d08c"
+  "HashAPI": "11fc7d1a2fd124143af84b21b1614bf91473d4d1"
  },
  {
   "Title": "2239",
@@ -1689,11 +1689,11 @@
   "NaturezaDespesa": "44302005",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 161000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEAM, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610013/2008-4.",
   "AvisoDados": null,
-  "HashAPI": "43b1adf67602d58e4f26f52e37104cfbc45bdb8c"
+  "HashAPI": "a05273327fabced2a52d548d25a2bc8b122d83d3"
  },
  {
   "Title": "2242",
@@ -1705,11 +1705,11 @@
   "NaturezaDespesa": "33302037",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 63000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERN, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610029/2008-8.",
   "AvisoDados": null,
-  "HashAPI": "263e7a42dd4aca997184b4ccde473603252be406"
+  "HashAPI": "5e887211491236548a3b316a485adedbade7017c"
  },
  {
   "Title": "2245",
@@ -1721,11 +1721,11 @@
   "NaturezaDespesa": "44302037",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 147000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERN, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610029/2008-8.",
   "AvisoDados": null,
-  "HashAPI": "220028b4a6484803554fcd2f502ab0d61c94308a"
+  "HashAPI": "66ddb8ec1569ca44f0839ef424b242beb4ca24ac"
  },
  {
   "Title": "2247",
@@ -1737,11 +1737,11 @@
   "NaturezaDespesa": "33302021",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 48000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNDECT,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610020/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "559d8a93215c4000dac60b916cf4a13e9f35e55e"
+  "HashAPI": "dfe829e5a5eb23c8498d27530c06ecc6e30c3c73"
  },
  {
   "Title": "2248",
@@ -1753,11 +1753,11 @@
   "NaturezaDespesa": "44302021",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 112000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNDECT,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610020/2008-0.",
   "AvisoDados": null,
-  "HashAPI": "6e2a9559148f3e7e2ff6cd5ee884581f19d77ad2"
+  "HashAPI": "244f5b3adfbd1af52c42d250d7fcb49153518fe3"
  },
  {
   "Title": "2250",
@@ -1769,11 +1769,11 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 48000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESPA,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610010/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "d7927ae9ac67aefa88334ca0f5fa1081300a5589"
+  "HashAPI": "5b3e828e2d806dea9f8c79c371dfc650f69b5981"
  },
  {
   "Title": "2254",
@@ -1785,11 +1785,11 @@
   "NaturezaDespesa": "44302025",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 112000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESPA,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610010/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "37f2d52ad7b728b7fc7417df573f718bf641b246"
+  "HashAPI": "8761fd59f7fbdc9947d37af98825b4ddaa88c89d"
  },
  {
   "Title": "2256",
@@ -1801,11 +1801,11 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 30900.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPITEC,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610026/2008-9.",
   "AvisoDados": null,
-  "HashAPI": "c0f8b01bd48ed2e1e1ac0045569c3eb91fa72516"
+  "HashAPI": "60594af0bc2e0f3bcb9580dc8edbd0ef47615189"
  },
  {
   "Title": "2257",
@@ -1817,11 +1817,11 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 72100.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPITEC,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610026/2008-9.",
   "AvisoDados": null,
-  "HashAPI": "5d5f715148feeb3e5e5721e898380ac53c218340"
+  "HashAPI": "8bbe4c92f8e341e9bdff642ea20f517dc536089b"
  },
  {
   "Title": "2265",
@@ -1833,11 +1833,11 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 27600.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPES , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610015/2008-7.",
   "AvisoDados": null,
-  "HashAPI": "b389b17751580edcb1e9ea47cc2948296cea387a"
+  "HashAPI": "c6aed060b23f5233974bbbf5ee5a9780e46b2f1f"
  },
  {
   "Title": "2270",
@@ -1849,11 +1849,11 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 64400.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPES , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610015/2008-7.",
   "AvisoDados": null,
-  "HashAPI": "a72f27497fd3c39f941647434bced29973842e87"
+  "HashAPI": "d462c4bb33ea2f4c97471ff4fac14b310cc7e33e"
  },
  {
   "Title": "2274",
@@ -1865,11 +1865,11 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 21000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEG , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610009/2008-7.",
   "AvisoDados": null,
-  "HashAPI": "655d3ef0cec7744b71e012cab6e1829f856287e5"
+  "HashAPI": "d958eb4354cc74723cb9ede87dfaf0f754c058ef"
  },
  {
   "Title": "2275",
@@ -1881,11 +1881,11 @@
   "NaturezaDespesa": "44302015",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 49000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEG , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610009/2008-7.",
   "AvisoDados": null,
-  "HashAPI": "e65ac65e80b90a0bf3c94175e9391ebb2b822d06"
+  "HashAPI": "ed3acb5ebd5806d4a07a1f51969ff9af63caa805"
  },
  {
   "Title": "2277",
@@ -1897,11 +1897,11 @@
   "NaturezaDespesa": "33302048",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 21000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A SEC/TO, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610025/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "612a964af3de3218f2f9210c2ea0c0f2a3ac9bad"
+  "HashAPI": "418ddd25f835835081ac00c113793623b5c8f2dc"
  },
  {
   "Title": "2282",
@@ -1913,11 +1913,11 @@
   "NaturezaDespesa": "44302048",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 49000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A SECT/TO, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610025/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "e95d91a7fab9a4561566fef4500fbcb85e5bbbc4"
+  "HashAPI": "48b7158d9c4f936d89734897d77dbd33feb3df9f"
  },
  {
   "Title": "2287",
@@ -1929,11 +1929,11 @@
   "NaturezaDespesa": "33302042",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 16800.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FEMACT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610028/2008-1.",
   "AvisoDados": null,
-  "HashAPI": "5a18c74c22a8e6dca4f2dfa692bd899dfad17ee1"
+  "HashAPI": "8a7009050317cbac6099eb6d88f58ea364a0edff"
  },
  {
   "Title": "2290",
@@ -1945,11 +1945,11 @@
   "NaturezaDespesa": "44302042",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 39200.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FEMACT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610028/2008-1.",
   "AvisoDados": null,
-  "HashAPI": "2ab89c66bc285c29437593bbfab8ed80efe2b4d7"
+  "HashAPI": "3cf7f0f7ca6d27691512c0c2cc42390ce72b9004"
  },
  {
   "Title": "2294",
@@ -1961,11 +1961,11 @@
   "NaturezaDespesa": "33302017",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 15000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMA, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610012/2008-8.",
   "AvisoDados": null,
-  "HashAPI": "7f24b2a5c91427587c7ddde685f0afc29771d23c"
+  "HashAPI": "9bbc583864c7ede471401a473dbe21ff14dc056f"
  },
  {
   "Title": "2300",
@@ -1977,11 +1977,11 @@
   "NaturezaDespesa": "44302017",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 35000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMA, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610012/2008-8.",
   "AvisoDados": null,
-  "HashAPI": "3633349357cf7dd223c4d61655873b0beca3236f"
+  "HashAPI": "2617ee6a889c2bf8eaaa25e4de6358ced414d6a7"
  },
  {
   "Title": "2305",
@@ -1993,11 +1993,11 @@
   "NaturezaDespesa": "33302001",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 6450.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNTAC , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610022/2008-3.",
   "AvisoDados": null,
-  "HashAPI": "a81945b89105a775b482a2765bf8471ab52cd371"
+  "HashAPI": "144a26e3d29a12cda9c630c7878ccbcc3e0e355a"
  },
  {
   "Title": "2306",
@@ -2009,11 +2009,11 @@
   "NaturezaDespesa": "44302001",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 15050.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNTAC , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.COPES 055/2008, PROCESSO 610022/2008-3.",
   "AvisoDados": null,
-  "HashAPI": "28f9e719fb5596f12e33ca993e0a496be2838fcd"
+  "HashAPI": "10a76c39736a3a330290d2f25305c467854155bb"
  },
  {
   "Title": "2312",
@@ -2233,11 +2233,11 @@
   "NaturezaDespesa": "44302001",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 5500.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNTAC, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONF. MEMO. ASNAC 029/2008, PROC. 610022/2008-3 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "45313a25dc6bcc4b777c52936b91985137e40383"
+  "HashAPI": "9d7ac17f65f781c4c8c1006ea8e5fa6cf3ee202f"
  },
  {
   "Title": "3171",
@@ -2249,11 +2249,11 @@
   "NaturezaDespesa": "33302001",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 4500.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNTAC, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC. 610022/2008-3 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "69f35ff87da206b017d79180094434a4d30ae12b"
+  "HashAPI": "812574e8029f419ffc03b71a28f8096408c341d5"
  },
  {
   "Title": "3279",
@@ -2265,11 +2265,11 @@
   "NaturezaDespesa": "44302005",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 66000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEAM, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610013/2008-4 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "b56e1a2b5cf320bd1073acfbfa85f2f60febcfff"
+  "HashAPI": "2800048c5324a6ef5bdf364fa088a571938ca349"
  },
  {
   "Title": "3280",
@@ -2281,11 +2281,11 @@
   "NaturezaDespesa": "33302005",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 54000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEAM, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610013/2008-4 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "9616d5af0d1099dd5b178b480914f04c964732f7"
+  "HashAPI": "66c71ac511199df71825dc121b51542e9d565e24"
  },
  {
   "Title": "3281",
@@ -2297,11 +2297,11 @@
   "NaturezaDespesa": "44302007",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 100000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESB, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610016/2008-3 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "b1ef2432d372a224c500bc07b243904aab9a8118"
+  "HashAPI": "0f39be02c4557e1c1416778485f14c2cf62349ce"
  },
  {
   "Title": "3294",
@@ -2313,11 +2313,11 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 90000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESB, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610016/2008-3 (COMPLEMENTACAO DA 08NE901635).",
   "AvisoDados": null,
-  "HashAPI": "2b6f936986fef81dc0959541164293409727877c"
+  "HashAPI": "136d83d935924cd2be67023a2fcf282ab9469a2d"
  },
  {
   "Title": "3300",
@@ -2329,11 +2329,11 @@
   "NaturezaDespesa": "44302009",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 94000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUCAP, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610014/2008-0 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "11622ea8cc63b81bd7b8fd9cc20e573eedfc1eb6"
+  "HashAPI": "3aa267d8bb182a236bf1d586fc5df18e2232e275"
  },
  {
   "Title": "3304",
@@ -2345,11 +2345,11 @@
   "NaturezaDespesa": "44302009",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 76000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNCAP, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610014/2008-0 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "cf323bd732fdfb1ea79861b348c1b68568e7227f"
+  "HashAPI": "14679278bf99ba564cbbfa1236cdb928dc5cdf85"
  },
  {
   "Title": "3307",
@@ -2361,11 +2361,11 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 27000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPES , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610015/2008-7 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "1d8262b8d7cec93222504a87cec49cf4f851a757"
+  "HashAPI": "4312e4344470e27ccd7b49447344b25eb235218c"
  },
  {
   "Title": "3310",
@@ -2377,11 +2377,11 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 21000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPES , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610015/2008-7 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "85efa3949a845527c297d61f93f6e47a18e78aa1"
+  "HashAPI": "941a1e4f872bbf8ad8fbba32bae3836e7c365e67"
  },
  {
   "Title": "3312",
@@ -2393,11 +2393,11 @@
   "NaturezaDespesa": "44302015",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 19000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEG , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610009/2008-7 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "a7bad4eba06d634d7fa42259a6f3dd41f0ca31e7"
+  "HashAPI": "81429eedfa48c9c8bb858273e0d0ec25d972a251"
  },
  {
   "Title": "3314",
@@ -2409,11 +2409,11 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 16000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEG , REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610009/2008-7 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "d9a76e7aff10ad7b18b930f7fff3f0a4970005e5"
+  "HashAPI": "18c1341fcef14a6e25556a0870416746b0c3ac9e"
  },
  {
   "Title": "3316",
@@ -2425,11 +2425,11 @@
   "NaturezaDespesa": "44302017",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 11000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMA, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610012/2008-8 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "1e3ef791586d653cbdff4cf8260d38853d96e96f"
+  "HashAPI": "4f83eb9514861ae6192d5469c81cf76ee7e42de4"
  },
  {
   "Title": "3319",
@@ -2441,11 +2441,11 @@
   "NaturezaDespesa": "33302017",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 9000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMA, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610012/2008-8 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "436c202285930a2d87173e7a89ba605a10cafd72"
+  "HashAPI": "41124718c768ebf7d942657dbb9f6220a6a67a6c"
  },
  {
   "Title": "3320",
@@ -2457,11 +2457,11 @@
   "NaturezaDespesa": "44302021",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 47000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNDECT,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610020/2008-0 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "a7ab30194be6401a1e27d1546ca553bce099c363"
+  "HashAPI": "a43d7a36c5bff7681fe5783d0c3b78c090bed5c7"
  },
  {
   "Title": "3323",
@@ -2473,11 +2473,11 @@
   "NaturezaDespesa": "33302021",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 38000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FUNDECT,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610020/2008-0 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "50668b8dec41b7d088d8e19939258256fb298f68"
+  "HashAPI": "04f8aa0d102d6dcf3ef74d0c2bcc31c508b72ed6"
  },
  {
   "Title": "3339",
@@ -2489,11 +2489,11 @@
   "NaturezaDespesa": "44302019",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 66000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMAT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610021/2008-7 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "385286aba366c8e435919ae07cf86210b2b33e90"
+  "HashAPI": "680a021f0362a8160405f29b505c55bc3d97c55c"
  },
  {
   "Title": "3341",
@@ -2505,11 +2505,11 @@
   "NaturezaDespesa": "33302019",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 54000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMAT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610021/2008-7 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "08d5a0aff44d64d7268e688dfc21c3dbe15d36dc"
+  "HashAPI": "6e400268aad9c3dc6571733bc4f222d4728ea7f3"
  },
  {
   "Title": "3343",
@@ -2521,11 +2521,11 @@
   "NaturezaDespesa": "44302025",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 47000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESPA,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610010/2008-5 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "7675da958787c3c40c81f247c27813b68c03739f"
+  "HashAPI": "02d3d749f0e5bf9d8e0dc4f3c52dd6db8ab26d6e"
  },
  {
   "Title": "3351",
@@ -2537,11 +2537,11 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 38000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESPA, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610010/2008-5 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "4fafc0afee6196a615908403f13e1204dc630355"
+  "HashAPI": "f3e08972521ea99baacf3e44796d1571893db3eb"
  },
  {
   "Title": "3352",
@@ -2553,11 +2553,11 @@
   "NaturezaDespesa": "44302029",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 94000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAADCT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610031/2008-2 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "51e68589e8267b6c92452f58015191c97b40d3f7"
+  "HashAPI": "35e5ca75ed081ca9596ac302728ff188f5aa0d63"
  },
  {
   "Title": "3355",
@@ -2569,11 +2569,11 @@
   "NaturezaDespesa": "33302029",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 76000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAADCT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610031/2008-2 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "88d385af76dd8c5679cedceca8576354ec8a36fb"
+  "HashAPI": "e93b573e6f3c0d4c556b629752d02b4b5d426c13"
  },
  {
   "Title": "3356",
@@ -2585,11 +2585,11 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 148000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERJ, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610030/2008-6 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "ee40065209e58e5f6602e5b402943c16038be664"
+  "HashAPI": "e8761e2b303eb207af6ae7223987c126c809a8f6"
  },
  {
   "Title": "3358",
@@ -2601,11 +2601,11 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 119500.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERJ, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610030/2008-6 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "857024cb6a88d743f33f0eea3e1da122c2885385"
+  "HashAPI": "dd7c72e8f79471b32b0485188f88f6a8e3402127"
  },
  {
   "Title": "3362",
@@ -2617,11 +2617,11 @@
   "NaturezaDespesa": "44302037",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 58000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERN, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610029/2008-8 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "1de9e79e15f17ee4c90e39f115d6a78bccf0909d"
+  "HashAPI": "03fe71d345498aaaa4e00ebf1c575c13e5856e63"
  },
  {
   "Title": "3364",
@@ -2633,11 +2633,11 @@
   "NaturezaDespesa": "33302037",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 47000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERN, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610029/2008-8 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "7e29a11946a7ecc8296bba275563d4d420a4cb2f"
+  "HashAPI": "c784428819520f811808d796b3204fa24d8d58e8"
  },
  {
   "Title": "3366",
@@ -2649,11 +2649,11 @@
   "NaturezaDespesa": "44302042",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 15000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FEMACT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610028/2008-1 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "191482996b1f27ee324e9ccdfac61868520faf9d"
+  "HashAPI": "956fc35bf747eac342213d48e33f9425c894a7af"
  },
  {
   "Title": "3368",
@@ -2665,11 +2665,11 @@
   "NaturezaDespesa": "33302042",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 13000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FEMACT, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610028/2008-1 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "1a38796260731b377f8baef2a1cd811cea7aea23"
+  "HashAPI": "5345822c1d1f8324505d15e6d60665b4fb7d6dc7"
  },
  {
   "Title": "3390",
@@ -2681,11 +2681,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 94000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESC, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610027/2008-5 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "ce38831e1b98a38f091686f1281870d4c17025c1"
+  "HashAPI": "d665d5fb34ddfd26c9c54a107c71fdf34b045b38"
  },
  {
   "Title": "3393",
@@ -2697,11 +2697,11 @@
   "NaturezaDespesa": "33302043",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 76000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESC, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610027/2008-5 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "ed32a66d0e1e2e013fb1e9325d4a2ab608a8cedf"
+  "HashAPI": "05e3ef00c4bdbe286bd9f75f36f4c37cad850c54"
  },
  {
   "Title": "3396",
@@ -2713,11 +2713,11 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 30000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPITEC, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610026/2008-9 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "ea4858559d04443b7c0b44dba5403b9646fd7b61"
+  "HashAPI": "3d8a2fc7f76009097d5fb0a7f16227750ae1c0dd"
  },
  {
   "Title": "3398",
@@ -2729,11 +2729,11 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 24500.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPITEC, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610026/2008-9 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "b1687814186faf6b937038b7a587de6964bebb05"
+  "HashAPI": "15651a17911a7812b2064ee1d44e457bb79800fb"
  },
  {
   "Title": "3402",
@@ -2745,11 +2745,11 @@
   "NaturezaDespesa": "44302048",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 19000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A SEC/TO, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610025/2008-2 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "a3438a51320786e8f64c10f00c9db886eb0be015"
+  "HashAPI": "7b08f18574aa11d31b3c4b100f606618eab9f3fb"
  },
  {
   "Title": "3404",
@@ -2761,11 +2761,11 @@
   "NaturezaDespesa": "33302048",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 16000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A SECT/TO, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 029/08, PROC.610025/2008-2 (COMPLEMENTACAO).",
   "AvisoDados": null,
-  "HashAPI": "a6390efa6284fe8d2ce3b3de306ccb2b7296e0c8"
+  "HashAPI": "2bdb61c2c4f6df56735cb5edec40323fe44d081c"
  },
  {
   "Title": "3538",
@@ -2777,11 +2777,11 @@
   "NaturezaDespesa": "44302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 131396.2,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESQ, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 030/2008, PROCESSO 610023/2008-0.",
   "AvisoDados": null,
-  "HashAPI": "201a0b5c8abb6b287233f66a6905d8c013c04c67"
+  "HashAPI": "cd6e764f22f2560844fbdd956400fd3661f6d295"
  },
  {
   "Title": "3545",
@@ -2793,11 +2793,11 @@
   "NaturezaDespesa": "33302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 78603.8,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESQ, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 030/2008, PROCESSO 610023/2008-0.",
   "AvisoDados": null,
-  "HashAPI": "af7fb0ac8f5457264e02c17046399a0fe0ef8f9e"
+  "HashAPI": "2f41173be69de39a679eba7f1e820409edf6d7e6"
  },
  {
   "Title": "3546",
@@ -2809,11 +2809,11 @@
   "NaturezaDespesa": "44302033",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 65698.1,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEPI, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 030/2008, PROCESSO 610032/2008-0.",
   "AvisoDados": null,
-  "HashAPI": "488627ac3fae04ab6ac22fa9897ce66b3b7f0d07"
+  "HashAPI": "a3b75abea5eea31a3c3954d2e7a13a4b8667ddf8"
  },
  {
   "Title": "3548",
@@ -2825,11 +2825,11 @@
   "NaturezaDespesa": "33302033",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 39301.9,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEPI, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 030/2008, PROCESSO 610032/2008-9.",
   "AvisoDados": null,
-  "HashAPI": "68301e78cd0acd45b382ad64653a78604bd6d9d9"
+  "HashAPI": "32fb27a64cfa0fa6723b036330bb4dc65527c0f5"
  },
  {
   "Title": "3551",
@@ -2841,11 +2841,11 @@
   "NaturezaDespesa": "44302041",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 65698.1,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A SEPLAN, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 030/2008, PROCESSO 610024/2008-6.",
   "AvisoDados": null,
-  "HashAPI": "27db86699dccb08ea75ac28cc96b240908296b38"
+  "HashAPI": "04a60f5447329bf9f567549727d0bad4bb7594d9"
  },
  {
   "Title": "3552",
@@ -2857,11 +2857,11 @@
   "NaturezaDespesa": "33302041",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 39301.9,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A SEPLAN, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO.ASNAC 030/2008, PROCESSO 610024/2008-6.",
   "AvisoDados": null,
-  "HashAPI": "c1a94862c76f55114cb971108518668774cdda9e"
+  "HashAPI": "187528f088b89f78efb3dfe26e4f5c49a1438def"
  },
  {
   "Title": "3981",
@@ -2873,11 +2873,11 @@
   "NaturezaDespesa": "33302023",
   "FonteRecurso": "0135395240",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 106934.18,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMIG,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO. ASNAC 034/2008 - PROCESSO 610019/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "04151e1d13d3b06e18ad70d3ed7a73c1624410da"
+  "HashAPI": "0824b68e193d358bd56fb8ede54b6a2a4ffcb6c7"
  },
  {
   "Title": "3992",
@@ -2889,11 +2889,11 @@
   "NaturezaDespesa": "44302023",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 51649.8,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMIG,REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO. ASNAC 034/2008 - PROCESSO 610019/2008-2.",
   "AvisoDados": null,
-  "HashAPI": "85d3ee374b20a990236a04b02aaa5e2c3a9a90ce"
+  "HashAPI": "7b6be125439f1be34abe733be0a7dd7bb6c705c1"
  },
  {
   "Title": "4007",
@@ -2905,11 +2905,11 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 52836.08,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO. ASNAC 034/2008, PROCESSO 610033/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "462b2d95f145fe373951a59e685a6d7c9106bee5"
+  "HashAPI": "ecc00ef85c0c04f0c98c86ef59544786552697b5"
  },
  {
   "Title": "4016",
@@ -2921,11 +2921,11 @@
   "NaturezaDespesa": "33302021",
   "FonteRecurso": "0135395240",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 14656.53,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO. ASNAC 034/2008 - PROCESSO 610033/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "ed296734600ed26ef6998791363e9b3815821516"
+  "HashAPI": "cbc506beb90caa897ecff4c106839941df4d27e3"
  },
  {
   "Title": "4017",
@@ -2937,11 +2937,11 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 9500.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO. ASNAC 034/2008 - PROCESSO 610033/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "773360d15aad1ac380f418613895ecbf6453bbc1"
+  "HashAPI": "32c9bb1afb018497659caa69ed3074d742527904"
  },
  {
   "Title": "4022",
@@ -2953,11 +2953,11 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 12129.9,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO. ASNAC 034/2008 - PROCESSO 610033/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "7242ada4e9e6197d6f8ad3003677eb4a2adbd535"
+  "HashAPI": "41eb7a6138d7bbf772c5d788a2bea2487e329a48"
  },
  {
   "Title": "4023",
@@ -2969,11 +2969,11 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0135395240",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 19557.96,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO. ASNAC 034/2008 - PROCESSO 610033/2008-5.",
   "AvisoDados": null,
-  "HashAPI": "c34038559d9f183a83606b94187919dab7068268"
+  "HashAPI": "8bc1a1a62962ae53316243ced380326f71a34e08"
  },
  {
   "Title": "4024",
@@ -2985,11 +2985,11 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 5500.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE, REFERENTE AO PROGRAMA PRIMEIROS PROJETOS - PPP, CONFORME MEMO. ASNAC 034/2008 - PROCESSO 610033/2008-5",
   "AvisoDados": null,
-  "HashAPI": "4bf7d0414fea558fe1cb8d920d259d4370cc8735"
+  "HashAPI": "70faffae3a659930f04e74d7d3520e4658eeee2b"
  },
  {
   "Title": "5316",
@@ -3145,11 +3145,11 @@
   "NaturezaDespesa": "44302039",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 1000000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERGS, REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA - PRONEX, CONF. E-MAIL/CGEFO DE 29/06/2009 (PROC.670019/2008-9).",
   "AvisoDados": null,
-  "HashAPI": "b8cb4efdc4a734c707beb3f464df1f85a211fdb4"
+  "HashAPI": "7b435462f0a4406edffb9ef3c41628f7ef6582bd"
  },
  {
   "Title": "7307",
@@ -3161,11 +3161,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 1729771.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESC , REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA - PRONEX, CONF. E-MAIL/CGEFO DE 29/06/2009 (PROC.670006/2008-4).",
   "AvisoDados": null,
-  "HashAPI": "edeee3b0213425e018f42ffb269a74f04bcd975d"
+  "HashAPI": "a8021735a56e7880d97cc84959b19eefd4f29efa"
  },
  {
   "Title": "7312",
@@ -3177,11 +3177,11 @@
   "NaturezaDespesa": "44302039",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -1000000.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, CONF. ORIENTACAO DA CONFIN.",
   "AvisoDados": null,
-  "HashAPI": "ad74da8d4395ac179a7f6540c0076bd6380bee6d"
+  "HashAPI": "7b5c8c50e76a5bc00bee6fb2982a7a0ef22f0ed4"
  },
  {
   "Title": "7313",
@@ -3193,11 +3193,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -1729771.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, CONF. ORIENTACAO DA CONFIN.",
   "AvisoDados": null,
-  "HashAPI": "828927017c40075968c1c022ba24905f5e34ef0b"
+  "HashAPI": "5c138b33db94ad635362396cb267eec9fb724cf1"
  },
  {
   "Title": "7318",
@@ -3257,11 +3257,11 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 60721.09,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-REDES/INCT/UFRJ, CONFORME MEM. ASNAC 067/2009 (PROC. 57.3807/2008-6).",
   "AvisoDados": null,
-  "HashAPI": "bbb0f94075cece21cae3b7f7a6ae1f930c961602"
+  "HashAPI": "3648e7454ac4be7a326d353f918e93a55b53152c"
  },
  {
   "Title": "7338",
@@ -3273,11 +3273,11 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 13227.84,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-REDES/INCT/UFRJ, CONFORME MEM. ASNAC 067/2009 (PROC. 57.3807/2008-6).",
   "AvisoDados": null,
-  "HashAPI": "a1a35a64087500c8f0f7a06cb4613d020ba7c221"
+  "HashAPI": "f56729628886b8b3c1d78a11bf677126fbf41d5a"
  },
  {
   "Title": "7339",
@@ -3289,11 +3289,11 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 98547.43,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-REDES/INCT/UFRJ, CONFORME MEM. ASNAC 067/2009 (PROC. 57.3807/2008-6).",
   "AvisoDados": null,
-  "HashAPI": "f08d334bcefb3bc1e8b7b80c33ceff3cecde7fb8"
+  "HashAPI": "9097401be84ece5b7e82ff1a565f778238d5c61d"
  },
  {
   "Title": "7340",
@@ -3305,11 +3305,11 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 61814.4,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-REDES/INCT/UFRJ, CONFORME MEM. ASNAC 067/2009 (PROC. 57.3807/2008-6).",
   "AvisoDados": null,
-  "HashAPI": "b3c1914eda3838fce1ee8646cbf4a6a998a0f85b"
+  "HashAPI": "f9ebb263ddee219605b2d4efe96b9da8289f7911"
  },
  {
   "Title": "7341",
@@ -3321,11 +3321,11 @@
   "NaturezaDespesa": "33503904",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 139220.38,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-REDES/INCT/UFRJ, CONFORME MEM. ASNAC 067/2009 (PROC. 57.3807/2008-6).",
   "AvisoDados": null,
-  "HashAPI": "d4c0ac8a9e16a38f38725f71d4a0b14d294168ae"
+  "HashAPI": "beb7de86ce4e7e95377e76a1c2f4838a2e34ce7e"
  },
  {
   "Title": "7342",
@@ -3337,11 +3337,11 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 151338.0,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-REDES/INCT/UFRJ, CONFORME MEM. ASNAC 067/2009 (PROC. 57.3807/2008-6).",
   "AvisoDados": null,
-  "HashAPI": "6a2b10dd98a4003a77d49d4530b61e565341d82c"
+  "HashAPI": "090c716834de23736de516b869fd5c31cbea3a64"
  },
  {
   "Title": "7343",
@@ -3737,11 +3737,11 @@
   "NaturezaDespesa": "44302039",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 1000000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPERGS,  REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. E-MAIL/CGEFO DE 29/06/09 (PROC.670019/2008-9).",
   "AvisoDados": null,
-  "HashAPI": "16d5bfbc994b00195d5df0acb472f8fa2c889110"
+  "HashAPI": "43a87920fb1884694228d4169fab3670b852ae91"
  },
  {
   "Title": "7383",
@@ -3753,11 +3753,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 1729771.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESC,  REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. E-MAIL/CGEFO DE 29/06/09 (PROC.670006/2008-4).",
   "AvisoDados": null,
-  "HashAPI": "a2dae2cf27ba43b5bb53ef3a84fa5cf3b6b1753a"
+  "HashAPI": "8966df217728596d407fe01b4b6e0b46cf846184"
  },
  {
   "Title": "7384",
@@ -3769,11 +3769,11 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 249856.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPITEC,  REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. E-MAIL/CGEFO DE 29/06/09 (PROC.670000/2008-6).",
   "AvisoDados": null,
-  "HashAPI": "8f9bbe81c685ff761953090194347e06daa5dca0"
+  "HashAPI": "f64d0f6605503c42a2ac671b5b9f47e9a1c343b9"
  },
  {
   "Title": "7400",
@@ -3785,11 +3785,11 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 149057.17,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/FUNCAMP, CONFORME MEMO.COAP/ASNAC 060/2009 (PROC.61.0021/2009-5).",
   "AvisoDados": null,
-  "HashAPI": "90a606524c5003e4c0ea0a7facf928ba5c4c5f3e"
+  "HashAPI": "000a1fbaa4193c0d9abde915e55d8236d917f84a"
  },
  {
   "Title": "7401",
@@ -3801,11 +3801,11 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 4471.59,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/FUNCAMP,CONFORME MEMO COAPI/ASNAC 060/2009 (PROC.61.0021/2009-5).",
   "AvisoDados": null,
-  "HashAPI": "347285ee6acae773d5e31d903c02997162a584f2"
+  "HashAPI": "4f72f3e6903051794d9df7608bd7645607b37b50"
  },
  {
   "Title": "7402",
@@ -3817,11 +3817,11 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 297804.22,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/FUNCAMP, CONFORME  MEMO COAPI/ASNAC. 059/2009 (PROC.61.0020/2009-9).",
   "AvisoDados": null,
-  "HashAPI": "026bb79e044d988a1359a5f59d0451b6958cbc10"
+  "HashAPI": "87ec4618499d50cb8314f8402b14d0940f749e37"
  },
  {
   "Title": "7403",
@@ -3833,11 +3833,11 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 72256.83,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/FUNCAMP, CONFORME  MEMO COAPI/ASNAC. 059/2009 (PROC.61.0020/2009-9).",
   "AvisoDados": null,
-  "HashAPI": "924e4996f3db0ca7f983bd14eb52d70c3397d4b2"
+  "HashAPI": "fef91c53e2d82bd26fd8ee54b598357a4d846230"
  },
  {
   "Title": "7404",
@@ -3849,11 +3849,11 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 190793.79,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/FUNCAMP, CONFORME  MEMO COAPI/ASNAC. 059/2009 (PROC.61.0020/2009-9).",
   "AvisoDados": null,
-  "HashAPI": "72ad20ee828625c400fae3da9ba05b3c13477a1e"
+  "HashAPI": "820cfa552626236ad04f39f5bcb9d1cae6b2e0eb"
  },
  {
   "Title": "7405",
@@ -3865,11 +3865,11 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 271805.27,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/FUNCAMP, CONFORME  MEMO COAPI/ASNAC. 059/2009 (PROC.61.0020/2009-9).",
   "AvisoDados": null,
-  "HashAPI": "b855614e272d7d881c750de5575477f1dbb2e130"
+  "HashAPI": "0fba8d28953f451f742669efc25d793f55857fcf"
  },
  {
   "Title": "7406",
@@ -3881,11 +3881,11 @@
   "NaturezaDespesa": "33503904",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 326132.35,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/FUNCAMP, CONFORME  MEMO COAPI/ASNAC. 059/2009 (PROC.61.0020/2009-9).",
   "AvisoDados": null,
-  "HashAPI": "1bb5489e462e1c94ee123f046071526dbb97a8f9"
+  "HashAPI": "53fa201a54f86f7aa1d831ec09b7ef8918e297f3"
  },
  {
   "Title": "7407",
@@ -3897,11 +3897,11 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 722207.54,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/FUNCAMP, CONFORME  MEMO COAPI/ASNAC. 059/2009 (PROC.61.0020/2009-9).",
   "AvisoDados": null,
-  "HashAPI": "24a3000b9c5ac291291dfd760e783f51859dbf77"
+  "HashAPI": "9eaca8eae736dc3de34ac5d33508f6dc87741f1f"
  },
  {
   "Title": "7408",
@@ -3913,11 +3913,11 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 16500.02,
   "Observacao": "PARA ATENDER CONVENIO  CNPQ-INCT/FUSP , CONFORME  MEMO COAPI/ASNAC. 061/2009 (PROC.61.0032/2009-7).",
   "AvisoDados": null,
-  "HashAPI": "175263e4848de7467f288fb3763edfae9b18f676"
+  "HashAPI": "a5acab121be56ed56aec427fab0502010f59222d"
  },
  {
   "Title": "7409",
@@ -3929,11 +3929,11 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 16499.73,
   "Observacao": "PARA ATENDER  CONVENIO  CNPQ-INCT/FUSP , CONFORME  MEMO COAPI/ASNAC. 061/2009 (PROC.61.0032/2009-7).",
   "AvisoDados": null,
-  "HashAPI": "9c44eac7951fb05c85be73a4274691515bc64761"
+  "HashAPI": "7946281300894a7d2cb0aeba2286a11328fb581d"
  },
  {
   "Title": "7410",
@@ -3945,11 +3945,11 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 94050.25,
   "Observacao": "PARA ATENDER  CONVENIO  CNPQ-INCT/FUSP , CONFORME  MEMO COAPI/ASNAC. 061/2009 (PROC.61.0032/2009-7).",
   "AvisoDados": null,
-  "HashAPI": "be7bca79a650bf2cc6ca83e225ff5218ebc6dd7b"
+  "HashAPI": "095bdad6e9ab6601c7bed6ea55a16014242bc07d"
  },
  {
   "Title": "7411",
@@ -3961,11 +3961,11 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 412023.57,
   "Observacao": "PARA ATENDER  CONVENIO  CNPQ-INCT/FUSP , CONFORME  MEMO COAPI/ASNAC. 061/2009 (PROC.61.0032/2009-7).",
   "AvisoDados": null,
-  "HashAPI": "be4c077d59007673b4387f912cb1fcd8c1abf166"
+  "HashAPI": "2e2ed7a9e6cce774ba067dd83c82e099553949b3"
  },
  {
   "Title": "7488",
@@ -4249,11 +4249,11 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 22426.76,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/AASDAP,  CONFORME MEMO COAPI/ASNAC. OO73/2009 (PROC. 61.0009/2009-5).",
   "AvisoDados": null,
-  "HashAPI": "0dd7aafcf324163047fdbbcc8989d587c36a705f"
+  "HashAPI": "73093bd594d16dde54b8979a00d586918edc3eb0"
  },
  {
   "Title": "8065",
@@ -4265,11 +4265,11 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 490158.23,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/AASDAP,  CONFORME MEMO COAPI/ASNAC. OO73/2009 (PROC. 61.0009/2009-5).",
   "AvisoDados": null,
-  "HashAPI": "0c7397e2f6e0cda6b2ace0a32e237d0ba33fdf43"
+  "HashAPI": "21b924aefee4e425f369427dd0d1ec6b614a59c3"
  },
  {
   "Title": "8066",
@@ -4281,11 +4281,11 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 7190.07,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/AASDAP,  CONFORME MEMO COAPI/ASNAC. OO73/2009 (PROC. 61.0009/2009-5).",
   "AvisoDados": null,
-  "HashAPI": "77a38e03e54ebad543be1365291fb6368680c587"
+  "HashAPI": "5b03f94ef5f011c0520ed2a706917b860a342fee"
  },
  {
   "Title": "8067",
@@ -4297,11 +4297,11 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 35995.39,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/AASDAP,  CONFORME MEMO COAPI/ASNAC. OO73/2009 (PROC. 61.0009/2009-5).",
   "AvisoDados": null,
-  "HashAPI": "83185f676ab7c7f8eba5f7ffae05c7f2a2634770"
+  "HashAPI": "98f4faef8bd74fcddb1f7678f1e06e7efc6bcb35"
  },
  {
   "Title": "8068",
@@ -4313,11 +4313,11 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 113732.23,
   "Observacao": "PARA ATENDER CONVENIO CNPQ-INCT/AASDAP,  CONFORME MEMO COAPI/ASNAC. OO73/2009 (PROC. 61.0009/2009-5).",
   "AvisoDados": null,
-  "HashAPI": "23e3d2646207d0442129228f5a0777b28d5698a0"
+  "HashAPI": "9b4b834788bb2fbc9a4f77cafa805c2a5ea6fb3a"
  },
  {
   "Title": "8215",
@@ -4585,11 +4585,11 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 148014.9,
   "Observacao": "PARA  ATENDER  CONVENIO CNPQ-INCT/FGV  , CONFORME MEMO COAPI/ASNAC 080/2009. (PROC. 610014/2009-9)",
   "AvisoDados": null,
-  "HashAPI": "5f4fe325dd0fc01eac7724730172d397ebd0faef"
+  "HashAPI": "ba95075cc3e4899a30bc3f17d30a7dd6fa2b7746"
  },
  {
   "Title": "8735",
@@ -4617,11 +4617,11 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 34786.94,
   "Observacao": "PARA  ATENDER CONVENIO CNPQ-INCT/FGV  , CONFORME  MEMO COAPI/ASNAC 080/2009. (PROC. 610014/2009-9)",
   "AvisoDados": null,
-  "HashAPI": "c234508faf08b83ab5227ede2e6f96654161e5ae"
+  "HashAPI": "530817b596c9ac667a7e36b12ac8be6decb3b14a"
  },
  {
   "Title": "8737",
@@ -4633,11 +4633,11 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 21618.53,
   "Observacao": "PARA  ATENDER CONVENIO CNPQ-INCT/FGV  , CONFORME  MEMO COAPI/ASNAC 080/2009. (PROC. 610014/2009-9)",
   "AvisoDados": null,
-  "HashAPI": "28f3c318d746be4060ae64341fc19f22e7cb9b8b"
+  "HashAPI": "21fb1256680e940f54017af96caca8a408a48fad"
  },
  {
   "Title": "8740",
@@ -4649,11 +4649,11 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 10231.3,
   "Observacao": "PARA  ATENDER CONVENIO CNPQ-INCT/FGV  , CONFORME  MEMO COAPI/ASNAC 080/2009. (PROC. 610014/2009-9)",
   "AvisoDados": null,
-  "HashAPI": "4634a4163b144af5c5efb87acba0b8e93d86237c"
+  "HashAPI": "868164a25875a181908db9381e8314ed7848be61"
  },
  {
   "Title": "8741",
@@ -4665,11 +4665,11 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 77977.58,
   "Observacao": "PARA  ATENDER CONVENIO CNPQ-INCT/FGV  , CONFORME  MEMO COAPI/ASNAC 080/2009. (PROC. 610014/2009-9)",
   "AvisoDados": null,
-  "HashAPI": "1d1a6ae3feab6b310ce6a28ecf1153f62ca23eeb"
+  "HashAPI": "42307c31213244e3f5a62cca2c27839e28cafac0"
  },
  {
   "Title": "8742",
@@ -4681,11 +4681,11 @@
   "NaturezaDespesa": "33503904",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 22833.23,
   "Observacao": "PARA  ATENDER CONVENIO CNPQ-INCT/FGV  , CONFORME  MEMO COAPI/ASNAC 080/2009. (PROC. 610014/2009-9)",
   "AvisoDados": null,
-  "HashAPI": "1284a36d83f5f199a6ddf53d92e15e4863b0f14f"
+  "HashAPI": "790e4b42cd94a47b85fd68b1640075ddef296e96"
  },
  {
   "Title": "8743",
@@ -5673,11 +5673,11 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -60721.09,
   "Observacao": "CANCELAMENTO TOTAL DA NE, CONF. SOLICITACAO NO E-MAIL DA CGEFO DE 16/SET/2009.",
   "AvisoDados": null,
-  "HashAPI": "640bea026e1e4dcacb1e8ebbad65c6326fe9a230"
+  "HashAPI": "d9517952fca4af07b474607820f7d3798bfb2666"
  },
  {
   "Title": "10229",
@@ -5689,11 +5689,11 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -13227.84,
   "Observacao": "CANCELAMENTO TOTAL DA NE, CONF. SOLICITACAO NO E-MAIL DA CGEFO DE 16/SET/2009.",
   "AvisoDados": null,
-  "HashAPI": "a1033e7e24bdb5546f7854188930cbc805ab8da4"
+  "HashAPI": "cf7919c2076c976443c7eef006a9a3a183150b70"
  },
  {
   "Title": "10230",
@@ -5705,11 +5705,11 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -98547.43,
   "Observacao": "CANCELAMENTO TOTAL DA NE, CONF. SOLICITACAO NO E-MAIL DA CGEFO DE 16/SET/2009.",
   "AvisoDados": null,
-  "HashAPI": "603bc4a35fa38fd7731ba7b1540c5c93f65b0488"
+  "HashAPI": "b107e1d0d0bb2647b0a5fdf8026c97089cf3b465"
  },
  {
   "Title": "10231",
@@ -5721,11 +5721,11 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -61814.4,
   "Observacao": "CANCELAMENTO TOTAL DA NE, CONF. SOLICITACAO NO E-MAIL DA CGEFO DE 16/SET/2009.",
   "AvisoDados": null,
-  "HashAPI": "dedc2911d6ab1df708241ef9af0358c4514cdfd6"
+  "HashAPI": "0af891b69546399deef9c3ae0b4efac122d5c84a"
  },
  {
   "Title": "10232",
@@ -5737,11 +5737,11 @@
   "NaturezaDespesa": "33503904",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -139220.38,
   "Observacao": "CANCELAMENTO TOTAL DA NE, CONF. SOLICITACAO NO E-MAIL DA CGEFO DE 16/SET/2009.",
   "AvisoDados": null,
-  "HashAPI": "705db59c07cb2666f06f078f642a37c841ccd21a"
+  "HashAPI": "042ae99dd95bb7ad758dc698ceeb79d6d4de5052"
  },
  {
   "Title": "10234",
@@ -5753,11 +5753,11 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -151338.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, CONF. SOLICITACAO NO E-MAIL DA CGEFO DE 16/SET/2009.",
   "AvisoDados": null,
-  "HashAPI": "3b8417644070532b63791fbf7cd015cd58806224"
+  "HashAPI": "7944c714c378b6aa8dfd5ac78b352352ca86315c"
  },
  {
   "Title": "14749",
@@ -7017,11 +7017,11 @@
   "NaturezaDespesa": "44302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -131396.2,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "6b08cdb821170f11b18b9315d5ee8a277df962b0"
+  "HashAPI": "ff3661e9b0400d10b82e419948a018d1eefa5f5d"
  },
  {
   "Title": "30702",
@@ -7033,11 +7033,11 @@
   "NaturezaDespesa": "33302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -78603.8,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "9b491dadb0e0bd3257d095aaf0a519e3aba47d95"
+  "HashAPI": "8f78c6fc5a8401e40618b097a6e15aeb31a21fbd"
  },
  {
   "Title": "30703",
@@ -7049,11 +7049,11 @@
   "NaturezaDespesa": "44302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 131396.2,
   "Observacao": "estorno para acerto.",
   "AvisoDados": null,
-  "HashAPI": "3cd9f8b69a3d69d1980637e774b0cf434fa744b0"
+  "HashAPI": "d0ad8db5b699cbf610c556538de702ce93257dfc"
  },
  {
   "Title": "30706",
@@ -7065,11 +7065,11 @@
   "NaturezaDespesa": "44302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -131396.2,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "d2865c0bcb92d5aa5f21ac31437940f1a6c86464"
+  "HashAPI": "215901a5a7450de09b9248e58abeece518e08b2d"
  },
  {
   "Title": "30709",
@@ -7081,11 +7081,11 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -156000.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "b88f6f10b6acf581951afc3739f6e1c633ea80f2"
+  "HashAPI": "6c3e116d03ed17831cf4ad1f3a3fdcb421cafe3d"
  },
  {
   "Title": "30714",
@@ -7097,11 +7097,11 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -364000.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "a174fbfaaa535944e97404db15285db70da70402"
+  "HashAPI": "abc49b9f5699e1e94ee3e08c86e64769e0a36ba3"
  },
  {
   "Title": "30728",
@@ -7113,11 +7113,11 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -148000.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "32a0402ed3541e3716e816670ed9accfef3de274"
+  "HashAPI": "3451a7143999f2d6989de5ee877a369392e29a7e"
  },
  {
   "Title": "30749",
@@ -7129,11 +7129,11 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -119500.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "25f2f4ec8cb4570856a5681ff8715804f0deb34d"
+  "HashAPI": "a923da06c3cec4de2928acd3ed79e9b48705b22f"
  },
  {
   "Title": "30790",
@@ -7161,11 +7161,11 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -27600.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "200eef6c1c638db85e4311548698bfef8fae92d6"
+  "HashAPI": "dc52f9e7eabd643165297ab1f629b9f501cd0e36"
  },
  {
   "Title": "30796",
@@ -7177,11 +7177,11 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -27000.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "e7871a2b8781713a18647bf5ee84931a118edd1e"
+  "HashAPI": "0ee2cba6520d279c484bad72b559090930291739"
  },
  {
   "Title": "30797",
@@ -7193,11 +7193,11 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -21000.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "2a518ba9b4daa1867dd70675813f5cb0f13f357c"
+  "HashAPI": "a5848568aa5af2c9ae598dfeb7e2f134ed2154c8"
  },
  {
   "Title": "30799",
@@ -7209,11 +7209,11 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -64400.0,
   "Observacao": "CANCELAMENTO TOTAL DA NE, TENDO EM VISTA, A NAO IMPLEMENTACAO DOS CONVENIOS, CONF. MEMO.COPES 142/2009.",
   "AvisoDados": null,
-  "HashAPI": "ef2e7b34a8d1c3af7d0eeb999de6257739bf6b21"
+  "HashAPI": "5ce1a83f7647be3637d8151716bfd6974f36092e"
  },
  {
   "Title": "30812",
@@ -8025,11 +8025,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -1729771.0,
   "Observacao": "CANCELAMENTO PARCIAL DA NE, CONFORME E-MAIL DE 20/11/2009.",
   "AvisoDados": null,
-  "HashAPI": "ecd008b0b36d3d1d2cbb7d453d22967ee7ea7aff"
+  "HashAPI": "6c09d2dc271ff29e82c68f157e498e6409d02f66"
  },
  {
   "Title": "41342",
@@ -8233,11 +8233,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 1729771.0,
   "Observacao": "EMISSÃO INDEVIDA",
   "AvisoDados": null,
-  "HashAPI": "d8dc6a64192d35a6ed9c2ff169b3c8c16fbc3dc6"
+  "HashAPI": "f01f0f54cb4b1e6fab7122ed69e1c9d24cd38341"
  },
  {
   "Title": "43150",
@@ -8249,11 +8249,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -435477.47,
   "Observacao": "ANULAÇÃO PARCIAL DO EMPENHO, CONFORME E-MAIL DE 20NOV2009.",
   "AvisoDados": null,
-  "HashAPI": "0ee0a1081a0260dea24e56c4ec458353a8618000"
+  "HashAPI": "abf6ddf666e7b4e4e7fc4fe6f36a932a6b85c7bf"
  },
  {
   "Title": "44027",
@@ -10105,11 +10105,11 @@
   "NaturezaDespesa": "33302003",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 375263.34,
   "Observacao": "PARA ATENDER CONVENIO ENTRE  O CNPQ  E  A FAPEAL , REFERENTE AO PROGRAMA DE APOIO  A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO COPES 039/2010. (PROC.670001/2008-2).",
   "AvisoDados": null,
-  "HashAPI": "2d3d044c6f6478c386f9f8e2eaca63abdb69bb10"
+  "HashAPI": "2db3ad25e7acd4307fa98882fe14fb9883d9eace"
  },
  {
   "Title": "76196",
@@ -10121,11 +10121,11 @@
   "NaturezaDespesa": "33302005",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 1131525.03,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEAM , REFERENTE AO PROGRAMA DE APOIO  A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO COPES 039/2010 (670016/2008-0).",
   "AvisoDados": null,
-  "HashAPI": "5b746ac972e789b41a571a3a37fca2bad814cda5"
+  "HashAPI": "fd94cfb2adca6dbbbb78a0b180804a2c55fa757d"
  },
  {
   "Title": "76202",
@@ -10153,11 +10153,11 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0172249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 1131525.03,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPES , REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO COPES 039/2010 PROC.670002/2008-9.",
   "AvisoDados": null,
-  "HashAPI": "792808fcdff4efd65d6cbf1c1cca56268e885be6"
+  "HashAPI": "3952a051087a8fd9b3ceaa8df9cbab747fd06c1f"
  },
  {
   "Title": "76297",
@@ -10169,11 +10169,11 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 382036.23,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEG , REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO COPES 039/2010 PROC.670003/2008-5",
   "AvisoDados": null,
-  "HashAPI": "72922a4a3eb7416b02385f275f2b189a7e4e0fc0"
+  "HashAPI": "cf4ee0689bbe30323f414ac927e21278c10aff9c"
  },
  {
   "Title": "76299",
@@ -10185,11 +10185,11 @@
   "NaturezaDespesa": "33302017",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 234000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEMA , REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO COPES 039/2010 PROC.670021/2008-3",
   "AvisoDados": null,
-  "HashAPI": "93dfbb273f3859b9a86cf351ca80bd20228f4c57"
+  "HashAPI": "78d5f24027b67d24076d19e7b7c469456d6b084d"
  },
  {
   "Title": "76302",
@@ -10217,11 +10217,11 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0172249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 65917.18,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE , REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO COPES 039/2010 PROC.670007/2008-0",
   "AvisoDados": null,
-  "HashAPI": "83c5d71210b8c4eedede29298ed2facb798c9b87"
+  "HashAPI": "4d0cd30a22516c365c438805217dbfddc9730444"
  },
  {
   "Title": "76307",
@@ -10233,11 +10233,11 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 32848.46,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FACEPE , REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO COPES 039/2010 PROC.670007/2008-0.",
   "AvisoDados": null,
-  "HashAPI": "105dd8f25d5cf8dab4c52ab52ecce08f573da062"
+  "HashAPI": "406b3e2d808a19d7f6506a70a36d50f6d5c41e8b"
  },
  {
   "Title": "76308",
@@ -10265,11 +10265,11 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 16692.27,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPITEC, REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO COPES 039/2010 PROC.670000/2008-6.",
   "AvisoDados": null,
-  "HashAPI": "ac1861d9fcc8538792ad6d95d487f365bc002ed7"
+  "HashAPI": "c2d9a41529a893e9b3dab4437b998529f457bb31"
  },
  {
   "Title": "77367",
@@ -11481,11 +11481,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0134249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 630706.47,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESC, REFERENTE AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF.MEM.ASNAC DE 10/06/10 PROC.670006/2008-4.",
   "AvisoDados": null,
-  "HashAPI": "83349cd3a0d4738d6f1d16bdc0b7aee395161a0b"
+  "HashAPI": "1c83d201c0ae05d4ab2274eda8a88e8205b4f7e7"
  },
  {
   "Title": "83045",
@@ -11497,11 +11497,11 @@
   "NaturezaDespesa": "44302005",
   "FonteRecurso": "0134249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 468474.97,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEAM, REF. AO PROGRAMA DE APOIO A NUCLEOS DE EXCELENCIA-PRONEX, CONF. MEMO CGEFO 095/2010 PROC. 670016/2008-0",
   "AvisoDados": null,
-  "HashAPI": "b46107095e228a300e67974c48dceddc62e19a4f"
+  "HashAPI": "caf4ff544f893e60036f8b341e1157cbb0733793"
  },
  {
   "Title": "83057",
@@ -11849,11 +11849,11 @@
   "NaturezaDespesa": "44302003",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 334736.66,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPEAL , REF. AO PROGRAMA DE APOIO A  NUCLEOS DE EXCELENCIA - PRONEX, CONF. MEMO CGEFO 176/2010 (PROC.670001/2008-2)",
   "AvisoDados": null,
-  "HashAPI": "8301471bafcf24f74a7f702920db65ebc0699c4b"
+  "HashAPI": "b1d3efe187951ecc7083674cc3ee9889b4a2ae94"
  },
  {
   "Title": "92351",
@@ -11865,11 +11865,11 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 149604.22,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPES  , REF. AO PROGRAMA DE APOIO A  NUCLEOS DE EXCELENCIA - PRONEX, CONF. MEMO CGEFO 176/2010 (PROC.670002/2008-9)",
   "AvisoDados": null,
-  "HashAPI": "9d81a7bc5ece5c46add1c4fdd0ea46ab0c2e2e1f"
+  "HashAPI": "fc918026af56d6f61b8b165bf8afeae3fb20efde"
  },
  {
   "Title": "92358",
@@ -11881,11 +11881,11 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 1925000.0,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPESC , REF. AO PROGRAMA DE APOIO A  NUCLEOS DE EXCELENCIA - PRONEX, CONF. MEMO CGEFO 176/2010 (PROC.670006/2008-4)",
   "AvisoDados": null,
-  "HashAPI": "53226a019ba354eb82284fcf530a81a49c7e773f"
+  "HashAPI": "93222452c628f3eee3bdaca3d7a04e11dc06fa4a"
  },
  {
   "Title": "92365",
@@ -11897,11 +11897,11 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 159067.92,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A FAPITEC, REF. AO PROGRAMA DE APOIO A  NUCLEOS DE EXCELENCIA - PRONEX, CONF. MEMO CGEFO 176/2010 (PROC.670000/2008-6)",
   "AvisoDados": null,
-  "HashAPI": "7df45fde69d9d52932146effca96bc39c857b491"
+  "HashAPI": "1d3cc736f177a95975ed03e496e42b0ff36d4c1b"
  },
  {
   "Title": "92375",
@@ -11913,11 +11913,11 @@
   "NaturezaDespesa": "44302048",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": 91605.27,
   "Observacao": "PARA ATENDER CONVENIO ENTRE O CNPQ E A SECT  , REF.  AO PROGRAMA DE APOIO A  NUCLEOS DE EXCELENCIA - PRONEX, CONF. MEMO CGEFO 176/2010 (PROC.670022/2008-0)",
   "AvisoDados": null,
-  "HashAPI": "cf0942eeabad195d77d6f1ecc12308675173b7a8"
+  "HashAPI": "8842bf94aca49892bc8e6c0a6d006d5fac125d15"
  },
  {
   "Title": "93208",
@@ -16953,11 +16953,11 @@
   "NaturezaDespesa": "44302042",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -15000.0,
   "Observacao": "EMPENHADO CANCELADO NO SIAFI SOB NUMERO 2009NE029461.",
   "AvisoDados": null,
-  "HashAPI": "5d39a31ecd73d7220ffe2c9f6c761ada171fbcba"
+  "HashAPI": "9f1aa2fe8901f0dd4b79105182d60a007e2a8317"
  },
  {
   "Title": "118206",
@@ -16969,11 +16969,11 @@
   "NaturezaDespesa": "44302042",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -39200.0,
   "Observacao": "EMPENHADO CANCELADO NO SIAFI SOB NUMERO 2009NE029460.",
   "AvisoDados": null,
-  "HashAPI": "9201bfbe7485debeb85517241dfd6fe7239fa6de"
+  "HashAPI": "0e423b5bef74d6eb811260271768e4c637ff44ad"
  },
  {
   "Title": "118207",
@@ -16985,11 +16985,11 @@
   "NaturezaDespesa": "33302042",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -13000.0,
   "Observacao": "EMPENHADO CANCELADO NO SIAFI SOB NUMERO 2009NE029462.",
   "AvisoDados": null,
-  "HashAPI": "ae6baaf074fc0369ae98fada03c2d1c2074f05d3"
+  "HashAPI": "a20c410f471e88c4a70083c58370664388483a7f"
  },
  {
   "Title": "118208",
@@ -17001,11 +17001,11 @@
   "NaturezaDespesa": "33302042",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "4886",
+  "PTRES": "004886",
   "Valor": -16800.0,
   "Observacao": "EMPENHADO CANCELADO NO SIAFI SOB NUMERO 2009NE029458.",
   "AvisoDados": null,
-  "HashAPI": "48e6db09491449e933ba231248b52f62f2770b71"
+  "HashAPI": "6ecebbe755e393b299e1d47595123fc9c95af346"
  },
  {
   "Title": "118796",
