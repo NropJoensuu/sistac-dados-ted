@@ -4,6 +4,9 @@ Coleta os TEDs do CNPq na API pública do TransfereGov e grava JSON em dados/.
 Mesma lógica de cargaTED() do sistac (project/ted/services.py): filtra os
 planos de ação por sigla_unidade_descentralizada=CNPq no servidor e busca os
 programas e termos de execução correspondentes. Só dados públicos da API.
+
+Desde a ADR 0009 (passo c), grava também o detalhe das notas de crédito
+(ted_nc.json, uma linha por evento) e das programações financeiras (ted_pf.json).
 """
 
 import hashlib
@@ -34,8 +37,27 @@ CAMPOS_TERMO = ','.join([
     'tx_numero_ns_termo', 'tx_num_processo_sei',
 ])
 
-CAMPOS_PF = 'id_programacao,id_plano_acao,tx_situacao_programacao,dh_recebimento_programacao'
-CAMPOS_TRF = 'id_programacao,cd_fonte_recurso_trf,vl_valor_trf'
+CAMPOS_PF = ','.join([
+    'id_programacao', 'id_plano_acao', 'tx_numero_programacao', 'tx_situacao_programacao',
+    'dh_recebimento_programacao', 'ug_emitente_programacao', 'ug_favorecida_programacao',
+])
+CAMPOS_TRF = ','.join([
+    'id_programacao', 'cd_fonte_recurso_trf', 'cd_categoria_gasto_trf',
+    'cd_situacao_contabil_trf', 'vl_valor_trf',
+])
+CAMPOS_NC = ','.join([
+    'id_nota', 'id_plano_acao', 'tx_numero_nota', 'dt_emissao_nota', 'tx_situacao_nota',
+    'cd_ug_emitente_nota', 'cd_gestao_emitente_nota',
+    'cd_ug_favorecida_nota', 'cd_gestao_favorecida_nota',
+])
+CAMPOS_EVENTO = ','.join([
+    'id_nota', 'cd_evento', 'codigo_natureza', 'descricao_natureza',
+    'cd_fonte_recurso_evento', 'cd_plano_interno_evento', 'cd_ptres_evento',
+    'cd_ug_responsavel_evento', 'nome_esfera_orcamentaria', 'vl_evento',
+])
+
+# tx_observacao_nota e tx_observacao_programacao ficam de fora de propósito: são texto
+# livre e trazem nomes de pessoas, e este repositório é público (ADR 0009, critério 2).
 
 TENTATIVAS = 4
 
@@ -114,15 +136,23 @@ def main():
     ids_pf = sorted(pf['id_programacao'] for pf in programacoes)
     repasses = em_lotes('trf', 'id_programacao', ids_pf, CAMPOS_TRF)
 
+    # notas de crédito do plano + eventos (detalhe orçamentário de cada nota)
+    notas = em_lotes('nota_credito', 'id_plano_acao', ids_plano, CAMPOS_NC)
+    ids_nota = sorted(n['id_nota'] for n in notas)
+    eventos = em_lotes('evento', 'id_nota', ids_nota, CAMPOS_EVENTO)
+
     os.makedirs(PASTA, exist_ok=True)
     print('planos:', grava('plano_acao.json', planos, 'id_plano_acao'))
     print('programas:', grava('programa.json', programas, 'id_programa'))
     print('termos:', grava('termo_execucao.json', termos, 'id_plano_acao'))
     print('programações financeiras:', len(programacoes), '| repasses:', len(repasses))
-    print('ted:', grava('ted.json', une_ted(planos, programas, termos, programacoes, repasses), 'IdPlanoAcao'))
+    print('notas de crédito:', len(notas), '| eventos:', len(eventos))
+    print('ted:', grava('ted.json', une_ted(planos, programas, termos, programacoes, repasses, notas), 'IdPlanoAcao'))
+    print('ted_nc:', grava('ted_nc.json', linhas_nc(notas, eventos), 'Title'))
+    print('ted_pf:', grava('ted_pf.json', linhas_pf(programacoes, repasses), 'Title'))
 
 
-def une_ted(planos, programas, termos, programacoes=(), repasses=()):
+def une_ted(planos, programas, termos, programacoes=(), repasses=(), notas=()):
     """
     Junta plano + programa + termo num registro por plano de ação, já com os
     nomes das colunas da lista TED do SharePoint (docs/03-mvp-ted.md §4.4 do
@@ -133,6 +163,7 @@ def une_ted(planos, programas, termos, programacoes=(), repasses=()):
     prog_por_id = {p['id_programa']: p for p in programas}
     termo_por_plano = {t['id_plano_acao']: t for t in termos}  # 1:1 (v0.3)
     fin = _financeiro(programacoes, repasses)
+    nc = _resumo_nc(notas)
     registros = []
     for p in planos:
         prog = prog_por_id.get(p.get('id_programa'), {})
@@ -165,25 +196,138 @@ def une_ted(planos, programas, termos, programacoes=(), repasses=()):
             'NumeroNSTermo': termo.get('tx_numero_ns_termo'),
             'ReferenciaExterna': termo.get('tx_num_processo_sei'),
             **fin.get(p['id_plano_acao'], VAZIO_FIN),
+            **nc.get(p['id_plano_acao'], VAZIO_NC),
         }
-        if reg['DataUltimaPF'] and not ('1900' <= reg['DataUltimaPF'][:4] <= '2100'):
-            reg['DataUltimaPF'] = None
+        for campo in ('DataUltimaPF', 'DataUltimaNC'):
+            if reg[campo] and not _data_valida(reg[campo]):
+                reg[campo] = None
         # A API já trouxe data com ano inválido (DataAssinatura "0232-12-21" no
         # plano 1876, em 2026-10-18) e o SharePoint recusa datas antes de 1900.
         # Data fora da faixa vira vazia e o valor original fica em AvisoDados.
         avisos = []
         for campo in ('VigenciaInicio', 'VigenciaFim', 'DataAssinatura'):
             valor = reg[campo]
-            if valor and not ('1900' <= valor[:4] <= '2100'):
+            if valor and not _data_valida(valor):
                 avisos.append(f'{campo} inválida na API: {valor}')
                 reg[campo] = None
         reg['AvisoDados'] = '; '.join(avisos) or None
-        reg['HashAPI'] = hashlib.sha1(json.dumps(reg, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
-        registros.append(reg)
+        registros.append(_com_hash(reg))
     return registros
 
 
+def _data_valida(valor):
+    return '1900' <= valor[:4] <= '2100'
+
+
+def _com_hash(reg):
+    reg['HashAPI'] = hashlib.sha1(json.dumps(reg, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+    return reg
+
+
+def _data(valor, campo, avisos):
+    """Data ISO (AAAA-MM-DD); fora da faixa do SharePoint vira vazia e vai para o aviso."""
+    if not valor:
+        return None
+    if not _data_valida(valor):
+        avisos.append(f'{campo} inválida na API: {valor}')
+        return None
+    return valor[:10]
+
+
+def _distintos(valores):
+    # a API mistura trf003/TRF003 e traz espaço sobrando
+    return ', '.join(sorted({v.strip().upper() for v in valores if v and v.strip()})) or None
+
+
+def _ug(ug, gestao):
+    return '/'.join(v for v in (ug, gestao) if v) or None
+
+
+def _chave_evento(e):
+    """Ordem estável dos eventos dentro da nota; define o n da chave {id_nota}-{n}."""
+    return tuple(str(e.get(c) or '') for c in ('cd_evento', 'codigo_natureza', 'cd_fonte_recurso_evento',
+                                               'cd_plano_interno_evento', 'cd_ptres_evento')) + (e.get('vl_evento') or 0,)
+
+
+def linhas_nc(notas, eventos):
+    """
+    Uma linha por evento da nota de crédito (lista TED_NotaCredito, ADR 0009 item C).
+    Nota sem evento vira uma linha com os campos de evento vazios. Não há total de
+    NC: o sentido dos códigos de evento ainda depende de confirmação da COPES.
+    """
+    por_nota = {}
+    for e in eventos:
+        por_nota.setdefault(e['id_nota'], []).append(e)
+    linhas = []
+    for nota in notas:
+        for n, e in enumerate(sorted(por_nota.get(nota['id_nota'], []), key=_chave_evento) or [{}], 1):
+            avisos = []
+            natureza = ' – '.join(v for v in (e.get('codigo_natureza'), e.get('descricao_natureza')) if v) or None
+            reg = {
+                'Title': f"{nota['id_nota']}-{n}",
+                'IdPlanoAcao': nota['id_plano_acao'],
+                'IdNota': nota['id_nota'],
+                'NumeroNC': nota.get('tx_numero_nota'),
+                'DataEmissao': _data(nota.get('dt_emissao_nota'), 'DataEmissao', avisos),
+                'SituacaoNC': nota.get('tx_situacao_nota'),
+                'UGEmitente': _ug(nota.get('cd_ug_emitente_nota'), nota.get('cd_gestao_emitente_nota')),
+                'UGFavorecida': _ug(nota.get('cd_ug_favorecida_nota'), nota.get('cd_gestao_favorecida_nota')),
+                'CodigoEvento': e.get('cd_evento'),
+                'NaturezaDespesa': natureza,
+                'FonteRecurso': e.get('cd_fonte_recurso_evento'),
+                'PlanoInterno': e.get('cd_plano_interno_evento'),
+                'PTRES': e.get('cd_ptres_evento'),
+                'UGResponsavel': e.get('cd_ug_responsavel_evento'),
+                'EsferaOrcamentaria': e.get('nome_esfera_orcamentaria'),
+                'Valor': e.get('vl_evento'),
+            }
+            reg['AvisoDados'] = '; '.join(avisos) or None
+            linhas.append(_com_hash(reg))
+    return linhas
+
+
+def linhas_pf(programacoes, repasses):
+    """Uma linha por programação financeira (lista TED_PF, ADR 0009 item C); os trf entram somados."""
+    por_pf = {}
+    for t in repasses:
+        por_pf.setdefault(t['id_programacao'], []).append(t)
+    linhas = []
+    for pf in programacoes:
+        trfs = por_pf.get(pf['id_programacao'], [])
+        avisos = []
+        reg = {
+            'Title': str(pf['id_programacao']),
+            'IdPlanoAcao': pf['id_plano_acao'],
+            'NumeroPF': pf.get('tx_numero_programacao'),
+            'Situacao': pf.get('tx_situacao_programacao'),
+            'DataRecebimento': _data(pf.get('dh_recebimento_programacao'), 'DataRecebimento', avisos),
+            'UGEmitente': pf.get('ug_emitente_programacao'),
+            'UGFavorecida': pf.get('ug_favorecida_programacao'),
+            'Valor': round(sum(t.get('vl_valor_trf') or 0 for t in trfs), 2) if trfs else None,
+            'FontesRecurso': _distintos(t.get('cd_fonte_recurso_trf') for t in trfs),
+            'CategoriaGasto': _distintos(t.get('cd_categoria_gasto_trf') for t in trfs),
+            'SituacaoContabil': _distintos(t.get('cd_situacao_contabil_trf') for t in trfs),
+        }
+        reg['AvisoDados'] = '; '.join(avisos) or None
+        linhas.append(_com_hash(reg))
+    return linhas
+
+
 VAZIO_FIN = {'ValorPFRecebido': None, 'QtdPF': 0, 'FontesRecurso': None, 'DataUltimaPF': None}
+VAZIO_NC = {'QtdNC': 0, 'DataUltimaNC': None}
+
+
+def _resumo_nc(notas):
+    """Quantidade e data da última NC ENVIADA por plano, no mesmo critério do PF. Sem valor (ADR 0009, item C)."""
+    resumo = {}
+    for nota in notas:
+        if nota.get('tx_situacao_nota') == 'ENVIADA':
+            d = resumo.setdefault(nota['id_plano_acao'], {'QtdNC': 0, 'DataUltimaNC': None})
+            d['QtdNC'] += 1
+            data = (nota.get('dt_emissao_nota') or '')[:10]
+            if data and data > (d['DataUltimaNC'] or ''):
+                d['DataUltimaNC'] = data
+    return resumo
 
 
 def _financeiro(programacoes, repasses):
