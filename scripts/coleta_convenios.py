@@ -125,7 +125,7 @@ def financeiro(pasta, registros):
     lista_emp = []
     for id_e, e in empenhos.items():
         avisos = ['ID_EMPENHO repetido na fonte; mantida a primeira linha'] if id_e in repetidos else []
-        lista_emp.append(com_hash({
+        reg = com_hash({
             'Title': id_e,
             'NumeroConvenio': e['NR_CONVENIO'],
             'NumeroEmpenho': e['NR_EMPENHO'] or None,
@@ -138,7 +138,12 @@ def financeiro(pasta, registros):
             'PTRES': e['PTRES'] or None,
             'Valor': numero(e['VALOR_EMPENHO']),
             'Observacao': e['OBSERVACAO_EMPENHO'] or None,
-        }, avisos))
+        }, avisos)
+        # A observação é texto livre e traz nomes de pessoas: não entra no JSON público
+        # (ADR 0009, critério 2). Sai depois do hash para o HashAPI não mudar e o fluxo
+        # não regravar os 2.572 empenhos; o SHA-1 não expõe o texto.
+        del reg['Observacao']
+        lista_emp.append(reg)
 
     # desembolsos agrupados por data e OB, em ordem de data, como em detalhes_convenio()
     agrupado = {}
