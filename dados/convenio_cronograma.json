@@ -16296,6 +16296,42 @@
   "HashAPI": "8b008920bec4f207cbf96cb6ab9b29572b5bb9a2"
  },
  {
+  "Title": "7AAJHM-Concedente-1",
+  "NumeroConvenio": "7AAJHM",
+  "Parcela": 1,
+  "Responsavel": "Concedente",
+  "DataPrevista": "2026-11-30",
+  "Valor": 2649610.76,
+  "Situacao": "Em aberto",
+  "DataQuitacao": null,
+  "AvisoDados": null,
+  "HashAPI": "4626ed92e88a170d95869ac088bb0c0f5b5e7d72"
+ },
+ {
+  "Title": "7AAJHM-Concedente-2",
+  "NumeroConvenio": "7AAJHM",
+  "Parcela": 2,
+  "Responsavel": "Concedente",
+  "DataPrevista": "2026-12-31",
+  "Valor": 2649610.76,
+  "Situacao": "Em aberto",
+  "DataQuitacao": null,
+  "AvisoDados": null,
+  "HashAPI": "35ba4372e147e3b524cf3be7a679d5f1ea12c379"
+ },
+ {
+  "Title": "7AAJHM-Concedente-3",
+  "NumeroConvenio": "7AAJHM",
+  "Parcela": 3,
+  "Responsavel": "Concedente",
+  "DataPrevista": "2027-02-28",
+  "Valor": 2649610.76,
+  "Situacao": "Em aberto",
+  "DataQuitacao": null,
+  "AvisoDados": null,
+  "HashAPI": "1868c2762032bf90181d8b34d2f5e25653ad8ea0"
+ },
+ {
   "Title": "802122-Concedente-1",
   "NumeroConvenio": "802122",
   "Parcela": 1,

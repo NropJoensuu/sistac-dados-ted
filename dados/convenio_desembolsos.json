@@ -21166,5 +21166,29 @@
   "NumerosEmpenho": "2026NE007036",
   "AvisoDados": null,
   "HashAPI": "ebc906e84d381c25d74a220842be78a1a2f5b3ba"
+ },
+ {
+  "Title": "417389",
+  "NumeroConvenio": "969850",
+  "DataDesembolso": "2026-11-09",
+  "NumeroOB": "2026OB034328",
+  "UGEmitente": "364102",
+  "Observacao": "PI 10158 SLR 640321/2025 PROC 630022/2025-9 PROC SEI 01300.006112/2024-38, FONTE 1001A0035A, TED 962272, REFERENTE AO PAGAMENTO DOS RECURSOS DO CONVÊNIO 969850/2024.",
+  "Valor": 1600000.0,
+  "NumerosEmpenho": "2024NE010572",
+  "AvisoDados": null,
+  "HashAPI": "1535feb08aa97a10c44865c263e10c3485e6205e"
+ },
+ {
+  "Title": "417396",
+  "NumeroConvenio": "969850",
+  "DataDesembolso": "2026-11-09",
+  "NumeroOB": "2026OB034329",
+  "UGEmitente": "364102",
+  "Observacao": "PI 10158 SLR 640321/2025 PROC 630022/2025-9 PROC SEI 01300.006112/2024-38, FONTE 1001A0035A, TED 962272, REFERENTE AO PAGAMENTO DOS RECURSOS DO CONVÊNIO 969850/2024.",
+  "Valor": 2400000.0,
+  "NumerosEmpenho": "2024NE010573",
+  "AvisoDados": null,
+  "HashAPI": "bbeaf3942c9da9d70112102a1fdb975ff100ea4f"
  }
 ]
