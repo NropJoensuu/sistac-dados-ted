@@ -9,10 +9,10 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1600000.0,
   "AvisoDados": null,
-  "HashAPI": "6c99d64d0b0dd3528f47057463bdd82088390fcf"
+  "HashAPI": "5e1a52f4adf16cf70050e0ab1ec376dc28d9d139"
  },
  {
   "Title": "1116",
@@ -24,10 +24,10 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 2400000.0,
   "AvisoDados": null,
-  "HashAPI": "ce38a70fc2c6b38089cd3fb34eb883cafdb7a32d"
+  "HashAPI": "9c0eb9bd501af99716a49a990c3f6b431980f5d8"
  },
  {
   "Title": "1367",
@@ -114,10 +114,10 @@
   "NaturezaDespesa": "33302003",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 170000.0,
   "AvisoDados": null,
-  "HashAPI": "38398b5682e739af789b9c2c83799749ad7f156d"
+  "HashAPI": "59d0dfb5c27fd5c25dd27636fab96f00f5783d3a"
  },
  {
   "Title": "1592",
@@ -129,10 +129,10 @@
   "NaturezaDespesa": "44302003",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 30000.0,
   "AvisoDados": null,
-  "HashAPI": "dbd343099c6a4660992b4e2241bff38b73aad4f8"
+  "HashAPI": "627fdf90382aa82aefb25dd83ed8768b63f0645c"
  },
  {
   "Title": "1603",
@@ -144,10 +144,10 @@
   "NaturezaDespesa": "33302005",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 680000.0,
   "AvisoDados": null,
-  "HashAPI": "46919df98ae2a70a1acc472ce7263d8f6506efa7"
+  "HashAPI": "20bab043445482603a9feae1a3c1d5ab9b24ba58"
  },
  {
   "Title": "1607",
@@ -159,10 +159,10 @@
   "NaturezaDespesa": "44302005",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 120000.0,
   "AvisoDados": null,
-  "HashAPI": "7deed600befd1c55d4ed3edc450f976eed353277"
+  "HashAPI": "04f2652c704069b60dcf929a821b18a84422a07f"
  },
  {
   "Title": "1611",
@@ -174,10 +174,10 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1700000.0,
   "AvisoDados": null,
-  "HashAPI": "c77356bc82824f7788c9feab88fbcdac60e5b029"
+  "HashAPI": "bf5ad004e126c87c453cad023978a3cab48ae388"
  },
  {
   "Title": "1615",
@@ -189,10 +189,10 @@
   "NaturezaDespesa": "44302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 300000.0,
   "AvisoDados": null,
-  "HashAPI": "32dda71a6800b10d25b9d290c1ed978959dae2ab"
+  "HashAPI": "30ad20522044e0878f00f573e52f87061c8fb8e9"
  },
  {
   "Title": "1616",
@@ -204,10 +204,10 @@
   "NaturezaDespesa": "33302009",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1190000.0,
   "AvisoDados": null,
-  "HashAPI": "b7bdc1eb3cafa6df74b023c7b0dd6719ddc987b9"
+  "HashAPI": "be10aea8b90e444a47698b3647b9e13e87b4e7ab"
  },
  {
   "Title": "1617",
@@ -219,10 +219,10 @@
   "NaturezaDespesa": "44302009",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 210000.0,
   "AvisoDados": null,
-  "HashAPI": "ec0070b48433ac52e4660d4b75a38fb1ee398885"
+  "HashAPI": "2f279b8ff11f70f5dfbc4a242a6967afb50b1a3b"
  },
  {
   "Title": "1618",
@@ -234,10 +234,10 @@
   "NaturezaDespesa": "33302011",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 850000.0,
   "AvisoDados": null,
-  "HashAPI": "8c4cb76fca1f56b70aa9eaf4143415dc38af5c0b"
+  "HashAPI": "dbfe0dcf8bc57d1557c4f075a9858c4bd2876cad"
  },
  {
   "Title": "1619",
@@ -249,10 +249,10 @@
   "NaturezaDespesa": "44302011",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 150000.0,
   "AvisoDados": null,
-  "HashAPI": "774731016f9d05ff9a1ff8c645e286f64458739a"
+  "HashAPI": "97b2cce1e42e24e11cbf6c0fdffa72d42a3af6d3"
  },
  {
   "Title": "1620",
@@ -264,10 +264,10 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 680000.0,
   "AvisoDados": null,
-  "HashAPI": "ac6455ef06c65b98d8179ded1134048af858d019"
+  "HashAPI": "82001d3ff0fbb72a847f44a28093d945be1cf3e4"
  },
  {
   "Title": "1622",
@@ -279,10 +279,10 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 120000.0,
   "AvisoDados": null,
-  "HashAPI": "f2648c73d969e37afca768f593490c2f356afbf7"
+  "HashAPI": "cd4dd11deea002975719b38e5f834aaa817fd7e0"
  },
  {
   "Title": "1628",
@@ -294,10 +294,10 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 340000.0,
   "AvisoDados": null,
-  "HashAPI": "8acbfbefde7f32c2ff73895302b9341a84b7a3f5"
+  "HashAPI": "c75554ac481ea11737a119509f99a0b04fdf5ebd"
  },
  {
   "Title": "1630",
@@ -309,10 +309,10 @@
   "NaturezaDespesa": "44302015",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 60000.0,
   "AvisoDados": null,
-  "HashAPI": "56824cd584e68cd4abd96445d88ccac85cf81859"
+  "HashAPI": "0681c4a0acaabee61bf3f37f8e20d246a3204bf6"
  },
  {
   "Title": "1632",
@@ -324,10 +324,10 @@
   "NaturezaDespesa": "33302023",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1700000.0,
   "AvisoDados": null,
-  "HashAPI": "a4caa0d69d6ec607d314d89bdb4d8238808ac5b1"
+  "HashAPI": "1ab34958f663058e7ef538e02fa1113ca83e937f"
  },
  {
   "Title": "1633",
@@ -339,10 +339,10 @@
   "NaturezaDespesa": "44302023",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 300000.0,
   "AvisoDados": null,
-  "HashAPI": "7a0279d1568195e9ee155a42633436c36bc18cb5"
+  "HashAPI": "e81ac9915af4d1c68b20823a13dcc61d389b4e35"
  },
  {
   "Title": "1635",
@@ -354,10 +354,10 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1190000.0,
   "AvisoDados": null,
-  "HashAPI": "16b4b433b2a97e85f02b19e008b83537b08f81c4"
+  "HashAPI": "964435079f80dd070273c91875a3da99054e6c50"
  },
  {
   "Title": "1636",
@@ -369,10 +369,10 @@
   "NaturezaDespesa": "44302025",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 210000.0,
   "AvisoDados": null,
-  "HashAPI": "36100fc7dbe9b39ed79694db3c52737b71b6e678"
+  "HashAPI": "3415853db9ca863545bf616ac0fbd204b758282f"
  },
  {
   "Title": "1639",
@@ -384,10 +384,10 @@
   "NaturezaDespesa": "33302029",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 850000.0,
   "AvisoDados": null,
-  "HashAPI": "42810fd9ce2bce839d64e4077dff1f4111ac4f27"
+  "HashAPI": "d1170a779d21410f0bac0befe9b8299eb41efa46"
  },
  {
   "Title": "1640",
@@ -399,10 +399,10 @@
   "NaturezaDespesa": "44302029",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 150000.0,
   "AvisoDados": null,
-  "HashAPI": "29e42a6386faed5328b2617b67232348055857ab"
+  "HashAPI": "3edc99da657e9fb04ff798f79cec064a14368d17"
  },
  {
   "Title": "1641",
@@ -414,10 +414,10 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 3570000.0,
   "AvisoDados": null,
-  "HashAPI": "4618f65b7a795af1fbb7deb70779b1364426a772"
+  "HashAPI": "392058f4e0002296492aa86375ced82519e939a1"
  },
  {
   "Title": "1642",
@@ -429,10 +429,10 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 630000.0,
   "AvisoDados": null,
-  "HashAPI": "4fc251a8d4ff57ef9a54b5b0c1c6e03b08a5c634"
+  "HashAPI": "5ac5f1a79afe059689105ad9e3e2740f89d80f04"
  },
  {
   "Title": "1643",
@@ -444,10 +444,10 @@
   "NaturezaDespesa": "33302037",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 393550.0,
   "AvisoDados": null,
-  "HashAPI": "369448d7b7c90382c31be878f5463f6a5451a9d8"
+  "HashAPI": "bddfeaa310b09462b76c5c890027226653ffd662"
  },
  {
   "Title": "1644",
@@ -459,10 +459,10 @@
   "NaturezaDespesa": "44302037",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 69450.0,
   "AvisoDados": null,
-  "HashAPI": "6f946d7e75d10b760cad200e3329096cc22d54bd"
+  "HashAPI": "d27d9aab07695b04df6e024ed89743a72187b167"
  },
  {
   "Title": "1645",
@@ -474,10 +474,10 @@
   "NaturezaDespesa": "33302043",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 850000.0,
   "AvisoDados": null,
-  "HashAPI": "f21d2c202cf27f0fc3241e0258456d31185931b8"
+  "HashAPI": "f458f7ff27d0ae278cef9bd9e1c3dd67615dd473"
  },
  {
   "Title": "1647",
@@ -489,10 +489,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 150000.0,
   "AvisoDados": null,
-  "HashAPI": "b132cbf2a632226c2f6173b0bf1d68231fa0d3c9"
+  "HashAPI": "f99a601e90b73dca9ee998ab4dd2509649f09f4b"
  },
  {
   "Title": "1649",
@@ -504,10 +504,10 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 170000.0,
   "AvisoDados": null,
-  "HashAPI": "f5bda87236daf5d29811ce7e3d0548f5113398ff"
+  "HashAPI": "d14566b0c64cb32b4bad7d939b9c9912c75ca5c0"
  },
  {
   "Title": "1650",
@@ -519,10 +519,10 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 30000.0,
   "AvisoDados": null,
-  "HashAPI": "675bdb618a1ade28e2c396f0c4efc2da7b5be9bf"
+  "HashAPI": "9277bbfd4d007dcab52d986081b1c19b470e486a"
  },
  {
   "Title": "1674",
@@ -804,10 +804,10 @@
   "NaturezaDespesa": "33302019",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 850000.0,
   "AvisoDados": null,
-  "HashAPI": "14c19925b794237aa36a9643b0bc2996f739659c"
+  "HashAPI": "5f79fe342fddc93b4dc74bbe1f164343c534b238"
  },
  {
   "Title": "1818",
@@ -819,10 +819,10 @@
   "NaturezaDespesa": "44302019",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 150000.0,
   "AvisoDados": null,
-  "HashAPI": "ce6361b66ad1906ecee8cf80cfdc13eb9e6d8e18"
+  "HashAPI": "8fb17f3e705ce0f68876864448e793a65e33c4c7"
  },
  {
   "Title": "1820",
@@ -834,10 +834,10 @@
   "NaturezaDespesa": "33302048",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 97462.6,
   "AvisoDados": null,
-  "HashAPI": "2c583a939979cb7d2e41ead7fb34ab2943501c0a"
+  "HashAPI": "57dc9baea0b1c8a66d2d0986a7f00a1f6e7f74c8"
  },
  {
   "Title": "1821",
@@ -849,10 +849,10 @@
   "NaturezaDespesa": "44302048",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 103713.0,
   "AvisoDados": null,
-  "HashAPI": "ad6e36475131bea8802bdccef866419db7b92dac"
+  "HashAPI": "decdb373dd00b5dea983adbdc86b6470745dbf49"
  },
  {
   "Title": "1824",
@@ -864,10 +864,10 @@
   "NaturezaDespesa": "33302017",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 306000.0,
   "AvisoDados": null,
-  "HashAPI": "fcbcc104c45eb083b2e480caff13a54ba400ab16"
+  "HashAPI": "771fac6cc61ef0728ab23f5f39935213071a5e3f"
  },
  {
   "Title": "1826",
@@ -879,10 +879,10 @@
   "NaturezaDespesa": "44302017",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 54000.0,
   "AvisoDados": null,
-  "HashAPI": "c6759ad32b2a68a74deed885c24c3f40fe8bff34"
+  "HashAPI": "45115610010e05c93b7cb3a15f17f9eebeaa74b6"
  },
  {
   "Title": "1836",
@@ -1284,10 +1284,10 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 189000.0,
   "AvisoDados": null,
-  "HashAPI": "bc9b1c31596e28bd8221af8a2dd88ac2acbc30ee"
+  "HashAPI": "4e02bdf31da3aae6a58420a8d3a0dacc34198d3e"
  },
  {
   "Title": "2028",
@@ -1299,10 +1299,10 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 441000.0,
   "AvisoDados": null,
-  "HashAPI": "8d9395e14ca0a8a2d215eb5cc4cc2e18581d7352"
+  "HashAPI": "f8975a11d0f6171334f00a10b58e1a27a1368059"
  },
  {
   "Title": "2029",
@@ -1359,10 +1359,10 @@
   "NaturezaDespesa": "33302023",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 236250.0,
   "AvisoDados": null,
-  "HashAPI": "02c4764f9493c979b84b0cb80d62ea2d25d4cf66"
+  "HashAPI": "4448d993da8dd8e72fdd921de1a23cfa37ce4074"
  },
  {
   "Title": "2207",
@@ -1374,10 +1374,10 @@
   "NaturezaDespesa": "44302023",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 551250.0,
   "AvisoDados": null,
-  "HashAPI": "a6b37257fc794812a31479b8dd7359cc285d8484"
+  "HashAPI": "fcbf1b865a51772a428f12cdaa45de1f920ffe92"
  },
  {
   "Title": "2213",
@@ -1389,10 +1389,10 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 156000.0,
   "AvisoDados": null,
-  "HashAPI": "a02ddb48d39a1cced15f0dff044d651e2017d86a"
+  "HashAPI": "4772427a4e9cee783411dbbf65c7f40c80ab3851"
  },
  {
   "Title": "2214",
@@ -1404,10 +1404,10 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 364000.0,
   "AvisoDados": null,
-  "HashAPI": "ec9a995cf1831f7c745688dbd27343ae226bf2a6"
+  "HashAPI": "557359a872bd6bda0c39ed381d2575748005521b"
  },
  {
   "Title": "2216",
@@ -1419,10 +1419,10 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 111000.0,
   "AvisoDados": null,
-  "HashAPI": "2debc3b300324c3dd03213f16cdfc5ba87a4d41c"
+  "HashAPI": "03c4123d43cd0f09071cbafe71b9c87f07553235"
  },
  {
   "Title": "2218",
@@ -1434,10 +1434,10 @@
   "NaturezaDespesa": "44302007",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 259000.0,
   "AvisoDados": null,
-  "HashAPI": "d914eb05c229d09bbf10d154d765e287ea23fc29"
+  "HashAPI": "5236ec5a65cd1c3a2649c4073ab412e19c8ea7bc"
  },
  {
   "Title": "2221",
@@ -1449,10 +1449,10 @@
   "NaturezaDespesa": "33302009",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 96000.0,
   "AvisoDados": null,
-  "HashAPI": "c1f0135d7e632b6c63d6ef4834d526da844687ec"
+  "HashAPI": "66c84c5562624047b917598bbca473c4499a6b9f"
  },
  {
   "Title": "2222",
@@ -1464,10 +1464,10 @@
   "NaturezaDespesa": "44302009",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 224000.0,
   "AvisoDados": null,
-  "HashAPI": "0415d9c05982727826b9cd9e1253c0f76f904078"
+  "HashAPI": "f3c482766741509a85683ffa7caf313589567f73"
  },
  {
   "Title": "2223",
@@ -1479,10 +1479,10 @@
   "NaturezaDespesa": "33302029",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 96000.0,
   "AvisoDados": null,
-  "HashAPI": "4d7525f4438e61220b7cecca059f11cb7f272874"
+  "HashAPI": "30256e3a7efad026a759eb46c7bde867d2daab6f"
  },
  {
   "Title": "2224",
@@ -1494,10 +1494,10 @@
   "NaturezaDespesa": "44302029",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 224000.0,
   "AvisoDados": null,
-  "HashAPI": "8bd965efbffcdf667bb1ea5055bf340a3f7b432f"
+  "HashAPI": "a8d2823cc97dd22eaba9577331c343a66ae76c10"
  },
  {
   "Title": "2225",
@@ -1509,10 +1509,10 @@
   "NaturezaDespesa": "33302043",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 96000.0,
   "AvisoDados": null,
-  "HashAPI": "d57b0c09ca08f265378b85a3aeb91ea14d96d3c7"
+  "HashAPI": "1f877d0310a8f5f980d510ce605884ab066df9ba"
  },
  {
   "Title": "2227",
@@ -1524,10 +1524,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 224000.0,
   "AvisoDados": null,
-  "HashAPI": "7657774e1298e8ba5e51aa420c1f875c5807e76a"
+  "HashAPI": "5e67e09f023222584450a2e606d3049bf57f092c"
  },
  {
   "Title": "2229",
@@ -1539,10 +1539,10 @@
   "NaturezaDespesa": "33302019",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 69000.0,
   "AvisoDados": null,
-  "HashAPI": "b6b393e182cb1049458fd630170635b180957cba"
+  "HashAPI": "c2b8707a5fcec515733dfd8434acfc5132332043"
  },
  {
   "Title": "2231",
@@ -1554,10 +1554,10 @@
   "NaturezaDespesa": "44302019",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 161000.0,
   "AvisoDados": null,
-  "HashAPI": "aed060a90526b212c5fd59465b45a63d06e62bb7"
+  "HashAPI": "017151d711036c65c8e5405e26e3cdd83b7391c9"
  },
  {
   "Title": "2237",
@@ -1569,10 +1569,10 @@
   "NaturezaDespesa": "33302005",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 69000.0,
   "AvisoDados": null,
-  "HashAPI": "11fc7d1a2fd124143af84b21b1614bf91473d4d1"
+  "HashAPI": "148bcc1ac69ecbcf7f75c159dbe69976d006d08c"
  },
  {
   "Title": "2239",
@@ -1584,10 +1584,10 @@
   "NaturezaDespesa": "44302005",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 161000.0,
   "AvisoDados": null,
-  "HashAPI": "a05273327fabced2a52d548d25a2bc8b122d83d3"
+  "HashAPI": "43b1adf67602d58e4f26f52e37104cfbc45bdb8c"
  },
  {
   "Title": "2242",
@@ -1599,10 +1599,10 @@
   "NaturezaDespesa": "33302037",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 63000.0,
   "AvisoDados": null,
-  "HashAPI": "5e887211491236548a3b316a485adedbade7017c"
+  "HashAPI": "263e7a42dd4aca997184b4ccde473603252be406"
  },
  {
   "Title": "2245",
@@ -1614,10 +1614,10 @@
   "NaturezaDespesa": "44302037",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 147000.0,
   "AvisoDados": null,
-  "HashAPI": "66ddb8ec1569ca44f0839ef424b242beb4ca24ac"
+  "HashAPI": "220028b4a6484803554fcd2f502ab0d61c94308a"
  },
  {
   "Title": "2247",
@@ -1629,10 +1629,10 @@
   "NaturezaDespesa": "33302021",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 48000.0,
   "AvisoDados": null,
-  "HashAPI": "dfe829e5a5eb23c8498d27530c06ecc6e30c3c73"
+  "HashAPI": "559d8a93215c4000dac60b916cf4a13e9f35e55e"
  },
  {
   "Title": "2248",
@@ -1644,10 +1644,10 @@
   "NaturezaDespesa": "44302021",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 112000.0,
   "AvisoDados": null,
-  "HashAPI": "244f5b3adfbd1af52c42d250d7fcb49153518fe3"
+  "HashAPI": "6e2a9559148f3e7e2ff6cd5ee884581f19d77ad2"
  },
  {
   "Title": "2250",
@@ -1659,10 +1659,10 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 48000.0,
   "AvisoDados": null,
-  "HashAPI": "5b3e828e2d806dea9f8c79c371dfc650f69b5981"
+  "HashAPI": "d7927ae9ac67aefa88334ca0f5fa1081300a5589"
  },
  {
   "Title": "2254",
@@ -1674,10 +1674,10 @@
   "NaturezaDespesa": "44302025",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 112000.0,
   "AvisoDados": null,
-  "HashAPI": "8761fd59f7fbdc9947d37af98825b4ddaa88c89d"
+  "HashAPI": "37f2d52ad7b728b7fc7417df573f718bf641b246"
  },
  {
   "Title": "2256",
@@ -1689,10 +1689,10 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 30900.0,
   "AvisoDados": null,
-  "HashAPI": "60594af0bc2e0f3bcb9580dc8edbd0ef47615189"
+  "HashAPI": "c0f8b01bd48ed2e1e1ac0045569c3eb91fa72516"
  },
  {
   "Title": "2257",
@@ -1704,10 +1704,10 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 72100.0,
   "AvisoDados": null,
-  "HashAPI": "8bbe4c92f8e341e9bdff642ea20f517dc536089b"
+  "HashAPI": "5d5f715148feeb3e5e5721e898380ac53c218340"
  },
  {
   "Title": "2265",
@@ -1719,10 +1719,10 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 27600.0,
   "AvisoDados": null,
-  "HashAPI": "c6aed060b23f5233974bbbf5ee5a9780e46b2f1f"
+  "HashAPI": "b389b17751580edcb1e9ea47cc2948296cea387a"
  },
  {
   "Title": "2270",
@@ -1734,10 +1734,10 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 64400.0,
   "AvisoDados": null,
-  "HashAPI": "d462c4bb33ea2f4c97471ff4fac14b310cc7e33e"
+  "HashAPI": "a72f27497fd3c39f941647434bced29973842e87"
  },
  {
   "Title": "2274",
@@ -1749,10 +1749,10 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 21000.0,
   "AvisoDados": null,
-  "HashAPI": "d958eb4354cc74723cb9ede87dfaf0f754c058ef"
+  "HashAPI": "655d3ef0cec7744b71e012cab6e1829f856287e5"
  },
  {
   "Title": "2275",
@@ -1764,10 +1764,10 @@
   "NaturezaDespesa": "44302015",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 49000.0,
   "AvisoDados": null,
-  "HashAPI": "ed3acb5ebd5806d4a07a1f51969ff9af63caa805"
+  "HashAPI": "e65ac65e80b90a0bf3c94175e9391ebb2b822d06"
  },
  {
   "Title": "2277",
@@ -1779,10 +1779,10 @@
   "NaturezaDespesa": "33302048",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 21000.0,
   "AvisoDados": null,
-  "HashAPI": "418ddd25f835835081ac00c113793623b5c8f2dc"
+  "HashAPI": "612a964af3de3218f2f9210c2ea0c0f2a3ac9bad"
  },
  {
   "Title": "2282",
@@ -1794,10 +1794,10 @@
   "NaturezaDespesa": "44302048",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 49000.0,
   "AvisoDados": null,
-  "HashAPI": "48b7158d9c4f936d89734897d77dbd33feb3df9f"
+  "HashAPI": "e95d91a7fab9a4561566fef4500fbcb85e5bbbc4"
  },
  {
   "Title": "2287",
@@ -1809,10 +1809,10 @@
   "NaturezaDespesa": "33302042",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 16800.0,
   "AvisoDados": null,
-  "HashAPI": "8a7009050317cbac6099eb6d88f58ea364a0edff"
+  "HashAPI": "5a18c74c22a8e6dca4f2dfa692bd899dfad17ee1"
  },
  {
   "Title": "2290",
@@ -1824,10 +1824,10 @@
   "NaturezaDespesa": "44302042",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 39200.0,
   "AvisoDados": null,
-  "HashAPI": "3cf7f0f7ca6d27691512c0c2cc42390ce72b9004"
+  "HashAPI": "2ab89c66bc285c29437593bbfab8ed80efe2b4d7"
  },
  {
   "Title": "2294",
@@ -1839,10 +1839,10 @@
   "NaturezaDespesa": "33302017",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 15000.0,
   "AvisoDados": null,
-  "HashAPI": "9bbc583864c7ede471401a473dbe21ff14dc056f"
+  "HashAPI": "7f24b2a5c91427587c7ddde685f0afc29771d23c"
  },
  {
   "Title": "2300",
@@ -1854,10 +1854,10 @@
   "NaturezaDespesa": "44302017",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 35000.0,
   "AvisoDados": null,
-  "HashAPI": "2617ee6a889c2bf8eaaa25e4de6358ced414d6a7"
+  "HashAPI": "3633349357cf7dd223c4d61655873b0beca3236f"
  },
  {
   "Title": "2305",
@@ -1869,10 +1869,10 @@
   "NaturezaDespesa": "33302001",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 6450.0,
   "AvisoDados": null,
-  "HashAPI": "144a26e3d29a12cda9c630c7878ccbcc3e0e355a"
+  "HashAPI": "a81945b89105a775b482a2765bf8471ab52cd371"
  },
  {
   "Title": "2306",
@@ -1884,10 +1884,10 @@
   "NaturezaDespesa": "44302001",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 15050.0,
   "AvisoDados": null,
-  "HashAPI": "10a76c39736a3a330290d2f25305c467854155bb"
+  "HashAPI": "28f9e719fb5596f12e33ca993e0a496be2838fcd"
  },
  {
   "Title": "2312",
@@ -2094,10 +2094,10 @@
   "NaturezaDespesa": "44302001",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 5500.0,
   "AvisoDados": null,
-  "HashAPI": "9d7ac17f65f781c4c8c1006ea8e5fa6cf3ee202f"
+  "HashAPI": "45313a25dc6bcc4b777c52936b91985137e40383"
  },
  {
   "Title": "3171",
@@ -2109,10 +2109,10 @@
   "NaturezaDespesa": "33302001",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 4500.0,
   "AvisoDados": null,
-  "HashAPI": "812574e8029f419ffc03b71a28f8096408c341d5"
+  "HashAPI": "69f35ff87da206b017d79180094434a4d30ae12b"
  },
  {
   "Title": "3279",
@@ -2124,10 +2124,10 @@
   "NaturezaDespesa": "44302005",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 66000.0,
   "AvisoDados": null,
-  "HashAPI": "2800048c5324a6ef5bdf364fa088a571938ca349"
+  "HashAPI": "b56e1a2b5cf320bd1073acfbfa85f2f60febcfff"
  },
  {
   "Title": "3280",
@@ -2139,10 +2139,10 @@
   "NaturezaDespesa": "33302005",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 54000.0,
   "AvisoDados": null,
-  "HashAPI": "66c71ac511199df71825dc121b51542e9d565e24"
+  "HashAPI": "9616d5af0d1099dd5b178b480914f04c964732f7"
  },
  {
   "Title": "3281",
@@ -2154,10 +2154,10 @@
   "NaturezaDespesa": "44302007",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 100000.0,
   "AvisoDados": null,
-  "HashAPI": "0f39be02c4557e1c1416778485f14c2cf62349ce"
+  "HashAPI": "b1ef2432d372a224c500bc07b243904aab9a8118"
  },
  {
   "Title": "3294",
@@ -2169,10 +2169,10 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 90000.0,
   "AvisoDados": null,
-  "HashAPI": "136d83d935924cd2be67023a2fcf282ab9469a2d"
+  "HashAPI": "2b6f936986fef81dc0959541164293409727877c"
  },
  {
   "Title": "3300",
@@ -2184,10 +2184,10 @@
   "NaturezaDespesa": "44302009",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 94000.0,
   "AvisoDados": null,
-  "HashAPI": "3aa267d8bb182a236bf1d586fc5df18e2232e275"
+  "HashAPI": "11622ea8cc63b81bd7b8fd9cc20e573eedfc1eb6"
  },
  {
   "Title": "3304",
@@ -2199,10 +2199,10 @@
   "NaturezaDespesa": "44302009",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 76000.0,
   "AvisoDados": null,
-  "HashAPI": "14679278bf99ba564cbbfa1236cdb928dc5cdf85"
+  "HashAPI": "cf323bd732fdfb1ea79861b348c1b68568e7227f"
  },
  {
   "Title": "3307",
@@ -2214,10 +2214,10 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 27000.0,
   "AvisoDados": null,
-  "HashAPI": "4312e4344470e27ccd7b49447344b25eb235218c"
+  "HashAPI": "1d8262b8d7cec93222504a87cec49cf4f851a757"
  },
  {
   "Title": "3310",
@@ -2229,10 +2229,10 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 21000.0,
   "AvisoDados": null,
-  "HashAPI": "941a1e4f872bbf8ad8fbba32bae3836e7c365e67"
+  "HashAPI": "85efa3949a845527c297d61f93f6e47a18e78aa1"
  },
  {
   "Title": "3312",
@@ -2244,10 +2244,10 @@
   "NaturezaDespesa": "44302015",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 19000.0,
   "AvisoDados": null,
-  "HashAPI": "81429eedfa48c9c8bb858273e0d0ec25d972a251"
+  "HashAPI": "a7bad4eba06d634d7fa42259a6f3dd41f0ca31e7"
  },
  {
   "Title": "3314",
@@ -2259,10 +2259,10 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 16000.0,
   "AvisoDados": null,
-  "HashAPI": "18c1341fcef14a6e25556a0870416746b0c3ac9e"
+  "HashAPI": "d9a76e7aff10ad7b18b930f7fff3f0a4970005e5"
  },
  {
   "Title": "3316",
@@ -2274,10 +2274,10 @@
   "NaturezaDespesa": "44302017",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 11000.0,
   "AvisoDados": null,
-  "HashAPI": "4f83eb9514861ae6192d5469c81cf76ee7e42de4"
+  "HashAPI": "1e3ef791586d653cbdff4cf8260d38853d96e96f"
  },
  {
   "Title": "3319",
@@ -2289,10 +2289,10 @@
   "NaturezaDespesa": "33302017",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 9000.0,
   "AvisoDados": null,
-  "HashAPI": "41124718c768ebf7d942657dbb9f6220a6a67a6c"
+  "HashAPI": "436c202285930a2d87173e7a89ba605a10cafd72"
  },
  {
   "Title": "3320",
@@ -2304,10 +2304,10 @@
   "NaturezaDespesa": "44302021",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 47000.0,
   "AvisoDados": null,
-  "HashAPI": "a43d7a36c5bff7681fe5783d0c3b78c090bed5c7"
+  "HashAPI": "a7ab30194be6401a1e27d1546ca553bce099c363"
  },
  {
   "Title": "3323",
@@ -2319,10 +2319,10 @@
   "NaturezaDespesa": "33302021",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 38000.0,
   "AvisoDados": null,
-  "HashAPI": "04f8aa0d102d6dcf3ef74d0c2bcc31c508b72ed6"
+  "HashAPI": "50668b8dec41b7d088d8e19939258256fb298f68"
  },
  {
   "Title": "3339",
@@ -2334,10 +2334,10 @@
   "NaturezaDespesa": "44302019",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 66000.0,
   "AvisoDados": null,
-  "HashAPI": "680a021f0362a8160405f29b505c55bc3d97c55c"
+  "HashAPI": "385286aba366c8e435919ae07cf86210b2b33e90"
  },
  {
   "Title": "3341",
@@ -2349,10 +2349,10 @@
   "NaturezaDespesa": "33302019",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 54000.0,
   "AvisoDados": null,
-  "HashAPI": "6e400268aad9c3dc6571733bc4f222d4728ea7f3"
+  "HashAPI": "08d5a0aff44d64d7268e688dfc21c3dbe15d36dc"
  },
  {
   "Title": "3343",
@@ -2364,10 +2364,10 @@
   "NaturezaDespesa": "44302025",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 47000.0,
   "AvisoDados": null,
-  "HashAPI": "02d3d749f0e5bf9d8e0dc4f3c52dd6db8ab26d6e"
+  "HashAPI": "7675da958787c3c40c81f247c27813b68c03739f"
  },
  {
   "Title": "3351",
@@ -2379,10 +2379,10 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 38000.0,
   "AvisoDados": null,
-  "HashAPI": "f3e08972521ea99baacf3e44796d1571893db3eb"
+  "HashAPI": "4fafc0afee6196a615908403f13e1204dc630355"
  },
  {
   "Title": "3352",
@@ -2394,10 +2394,10 @@
   "NaturezaDespesa": "44302029",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 94000.0,
   "AvisoDados": null,
-  "HashAPI": "35e5ca75ed081ca9596ac302728ff188f5aa0d63"
+  "HashAPI": "51e68589e8267b6c92452f58015191c97b40d3f7"
  },
  {
   "Title": "3355",
@@ -2409,10 +2409,10 @@
   "NaturezaDespesa": "33302029",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 76000.0,
   "AvisoDados": null,
-  "HashAPI": "e93b573e6f3c0d4c556b629752d02b4b5d426c13"
+  "HashAPI": "88d385af76dd8c5679cedceca8576354ec8a36fb"
  },
  {
   "Title": "3356",
@@ -2424,10 +2424,10 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 148000.0,
   "AvisoDados": null,
-  "HashAPI": "e8761e2b303eb207af6ae7223987c126c809a8f6"
+  "HashAPI": "ee40065209e58e5f6602e5b402943c16038be664"
  },
  {
   "Title": "3358",
@@ -2439,10 +2439,10 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 119500.0,
   "AvisoDados": null,
-  "HashAPI": "dd7c72e8f79471b32b0485188f88f6a8e3402127"
+  "HashAPI": "857024cb6a88d743f33f0eea3e1da122c2885385"
  },
  {
   "Title": "3362",
@@ -2454,10 +2454,10 @@
   "NaturezaDespesa": "44302037",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 58000.0,
   "AvisoDados": null,
-  "HashAPI": "03fe71d345498aaaa4e00ebf1c575c13e5856e63"
+  "HashAPI": "1de9e79e15f17ee4c90e39f115d6a78bccf0909d"
  },
  {
   "Title": "3364",
@@ -2469,10 +2469,10 @@
   "NaturezaDespesa": "33302037",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 47000.0,
   "AvisoDados": null,
-  "HashAPI": "c784428819520f811808d796b3204fa24d8d58e8"
+  "HashAPI": "7e29a11946a7ecc8296bba275563d4d420a4cb2f"
  },
  {
   "Title": "3366",
@@ -2484,10 +2484,10 @@
   "NaturezaDespesa": "44302042",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 15000.0,
   "AvisoDados": null,
-  "HashAPI": "956fc35bf747eac342213d48e33f9425c894a7af"
+  "HashAPI": "191482996b1f27ee324e9ccdfac61868520faf9d"
  },
  {
   "Title": "3368",
@@ -2499,10 +2499,10 @@
   "NaturezaDespesa": "33302042",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 13000.0,
   "AvisoDados": null,
-  "HashAPI": "5345822c1d1f8324505d15e6d60665b4fb7d6dc7"
+  "HashAPI": "1a38796260731b377f8baef2a1cd811cea7aea23"
  },
  {
   "Title": "3390",
@@ -2514,10 +2514,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 94000.0,
   "AvisoDados": null,
-  "HashAPI": "d665d5fb34ddfd26c9c54a107c71fdf34b045b38"
+  "HashAPI": "ce38831e1b98a38f091686f1281870d4c17025c1"
  },
  {
   "Title": "3393",
@@ -2529,10 +2529,10 @@
   "NaturezaDespesa": "33302043",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 76000.0,
   "AvisoDados": null,
-  "HashAPI": "05e3ef00c4bdbe286bd9f75f36f4c37cad850c54"
+  "HashAPI": "ed32a66d0e1e2e013fb1e9325d4a2ab608a8cedf"
  },
  {
   "Title": "3396",
@@ -2544,10 +2544,10 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 30000.0,
   "AvisoDados": null,
-  "HashAPI": "3d8a2fc7f76009097d5fb0a7f16227750ae1c0dd"
+  "HashAPI": "ea4858559d04443b7c0b44dba5403b9646fd7b61"
  },
  {
   "Title": "3398",
@@ -2559,10 +2559,10 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 24500.0,
   "AvisoDados": null,
-  "HashAPI": "15651a17911a7812b2064ee1d44e457bb79800fb"
+  "HashAPI": "b1687814186faf6b937038b7a587de6964bebb05"
  },
  {
   "Title": "3402",
@@ -2574,10 +2574,10 @@
   "NaturezaDespesa": "44302048",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 19000.0,
   "AvisoDados": null,
-  "HashAPI": "7b08f18574aa11d31b3c4b100f606618eab9f3fb"
+  "HashAPI": "a3438a51320786e8f64c10f00c9db886eb0be015"
  },
  {
   "Title": "3404",
@@ -2589,10 +2589,10 @@
   "NaturezaDespesa": "33302048",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 16000.0,
   "AvisoDados": null,
-  "HashAPI": "2bdb61c2c4f6df56735cb5edec40323fe44d081c"
+  "HashAPI": "a6390efa6284fe8d2ce3b3de306ccb2b7296e0c8"
  },
  {
   "Title": "3538",
@@ -2604,10 +2604,10 @@
   "NaturezaDespesa": "44302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 131396.2,
   "AvisoDados": null,
-  "HashAPI": "cd6e764f22f2560844fbdd956400fd3661f6d295"
+  "HashAPI": "201a0b5c8abb6b287233f66a6905d8c013c04c67"
  },
  {
   "Title": "3545",
@@ -2619,10 +2619,10 @@
   "NaturezaDespesa": "33302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 78603.8,
   "AvisoDados": null,
-  "HashAPI": "2f41173be69de39a679eba7f1e820409edf6d7e6"
+  "HashAPI": "af7fb0ac8f5457264e02c17046399a0fe0ef8f9e"
  },
  {
   "Title": "3546",
@@ -2634,10 +2634,10 @@
   "NaturezaDespesa": "44302033",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 65698.1,
   "AvisoDados": null,
-  "HashAPI": "a3b75abea5eea31a3c3954d2e7a13a4b8667ddf8"
+  "HashAPI": "488627ac3fae04ab6ac22fa9897ce66b3b7f0d07"
  },
  {
   "Title": "3548",
@@ -2649,10 +2649,10 @@
   "NaturezaDespesa": "33302033",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 39301.9,
   "AvisoDados": null,
-  "HashAPI": "32fb27a64cfa0fa6723b036330bb4dc65527c0f5"
+  "HashAPI": "68301e78cd0acd45b382ad64653a78604bd6d9d9"
  },
  {
   "Title": "3551",
@@ -2664,10 +2664,10 @@
   "NaturezaDespesa": "44302041",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 65698.1,
   "AvisoDados": null,
-  "HashAPI": "04a60f5447329bf9f567549727d0bad4bb7594d9"
+  "HashAPI": "27db86699dccb08ea75ac28cc96b240908296b38"
  },
  {
   "Title": "3552",
@@ -2679,10 +2679,10 @@
   "NaturezaDespesa": "33302041",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 39301.9,
   "AvisoDados": null,
-  "HashAPI": "187528f088b89f78efb3dfe26e4f5c49a1438def"
+  "HashAPI": "c1a94862c76f55114cb971108518668774cdda9e"
  },
  {
   "Title": "3981",
@@ -2694,10 +2694,10 @@
   "NaturezaDespesa": "33302023",
   "FonteRecurso": "0135395240",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 106934.18,
   "AvisoDados": null,
-  "HashAPI": "0824b68e193d358bd56fb8ede54b6a2a4ffcb6c7"
+  "HashAPI": "04151e1d13d3b06e18ad70d3ed7a73c1624410da"
  },
  {
   "Title": "3992",
@@ -2709,10 +2709,10 @@
   "NaturezaDespesa": "44302023",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 51649.8,
   "AvisoDados": null,
-  "HashAPI": "7b6be125439f1be34abe733be0a7dd7bb6c705c1"
+  "HashAPI": "85d3ee374b20a990236a04b02aaa5e2c3a9a90ce"
  },
  {
   "Title": "4007",
@@ -2724,10 +2724,10 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 52836.08,
   "AvisoDados": null,
-  "HashAPI": "ecc00ef85c0c04f0c98c86ef59544786552697b5"
+  "HashAPI": "462b2d95f145fe373951a59e685a6d7c9106bee5"
  },
  {
   "Title": "4016",
@@ -2739,10 +2739,10 @@
   "NaturezaDespesa": "33302021",
   "FonteRecurso": "0135395240",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 14656.53,
   "AvisoDados": null,
-  "HashAPI": "cbc506beb90caa897ecff4c106839941df4d27e3"
+  "HashAPI": "ed296734600ed26ef6998791363e9b3815821516"
  },
  {
   "Title": "4017",
@@ -2754,10 +2754,10 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 9500.0,
   "AvisoDados": null,
-  "HashAPI": "32c9bb1afb018497659caa69ed3074d742527904"
+  "HashAPI": "773360d15aad1ac380f418613895ecbf6453bbc1"
  },
  {
   "Title": "4022",
@@ -2769,10 +2769,10 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 12129.9,
   "AvisoDados": null,
-  "HashAPI": "41eb7a6138d7bbf772c5d788a2bea2487e329a48"
+  "HashAPI": "7242ada4e9e6197d6f8ad3003677eb4a2adbd535"
  },
  {
   "Title": "4023",
@@ -2784,10 +2784,10 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0135395240",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 19557.96,
   "AvisoDados": null,
-  "HashAPI": "8bc1a1a62962ae53316243ced380326f71a34e08"
+  "HashAPI": "c34038559d9f183a83606b94187919dab7068268"
  },
  {
   "Title": "4024",
@@ -2799,10 +2799,10 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 5500.0,
   "AvisoDados": null,
-  "HashAPI": "70faffae3a659930f04e74d7d3520e4658eeee2b"
+  "HashAPI": "4bf7d0414fea558fe1cb8d920d259d4370cc8735"
  },
  {
   "Title": "5316",
@@ -2814,10 +2814,10 @@
   "NaturezaDespesa": "33302048",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 0.05,
   "AvisoDados": null,
-  "HashAPI": "39d816e1214e873a3f1c5dcb90eeff992f151c28"
+  "HashAPI": "1c86facfdd07b799fdf9160cf7ede905b674e36f"
  },
  {
   "Title": "6362",
@@ -2829,10 +2829,10 @@
   "NaturezaDespesa": "44302039",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 3000000.0,
   "AvisoDados": null,
-  "HashAPI": "65c72b318b5c393b34018cbab8e5bb4fe3b80a58"
+  "HashAPI": "73ca9f26fa2594ae74909e831f17d55656c1ea94"
  },
  {
   "Title": "6369",
@@ -2844,10 +2844,10 @@
   "NaturezaDespesa": "33302039",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 6000000.0,
   "AvisoDados": null,
-  "HashAPI": "bc468fc9b7aa79f4e8239c6583560b33b053301e"
+  "HashAPI": "a66272788eced4e92d283ae53447329aa477c762"
  },
  {
   "Title": "7087",
@@ -2949,10 +2949,10 @@
   "NaturezaDespesa": "44302039",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 1000000.0,
   "AvisoDados": null,
-  "HashAPI": "7b435462f0a4406edffb9ef3c41628f7ef6582bd"
+  "HashAPI": "b8cb4efdc4a734c707beb3f464df1f85a211fdb4"
  },
  {
   "Title": "7307",
@@ -2964,10 +2964,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 1729771.0,
   "AvisoDados": null,
-  "HashAPI": "a8021735a56e7880d97cc84959b19eefd4f29efa"
+  "HashAPI": "edeee3b0213425e018f42ffb269a74f04bcd975d"
  },
  {
   "Title": "7312",
@@ -2979,10 +2979,10 @@
   "NaturezaDespesa": "44302039",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -1000000.0,
   "AvisoDados": null,
-  "HashAPI": "7b5c8c50e76a5bc00bee6fb2982a7a0ef22f0ed4"
+  "HashAPI": "ad74da8d4395ac179a7f6540c0076bd6380bee6d"
  },
  {
   "Title": "7313",
@@ -2994,10 +2994,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -1729771.0,
   "AvisoDados": null,
-  "HashAPI": "5c138b33db94ad635362396cb267eec9fb724cf1"
+  "HashAPI": "828927017c40075968c1c022ba24905f5e34ef0b"
  },
  {
   "Title": "7318",
@@ -3024,10 +3024,10 @@
   "NaturezaDespesa": "44302039",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": -3000000.0,
   "AvisoDados": null,
-  "HashAPI": "62cccf887d49cfd2893b2ce8fbb0d2be766d1f0f"
+  "HashAPI": "513cc3859d65115fa09af98aedf40852bd504b07"
  },
  {
   "Title": "7326",
@@ -3039,10 +3039,10 @@
   "NaturezaDespesa": "33302039",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": -5000000.0,
   "AvisoDados": null,
-  "HashAPI": "7bf0d53c74f45c3d7d7314c8be1361c845b78894"
+  "HashAPI": "b1e9d2eee3400eed82aa8377784a54cff0fcbf14"
  },
  {
   "Title": "7337",
@@ -3054,10 +3054,10 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 60721.09,
   "AvisoDados": null,
-  "HashAPI": "3648e7454ac4be7a326d353f918e93a55b53152c"
+  "HashAPI": "bbb0f94075cece21cae3b7f7a6ae1f930c961602"
  },
  {
   "Title": "7338",
@@ -3069,10 +3069,10 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 13227.84,
   "AvisoDados": null,
-  "HashAPI": "f56729628886b8b3c1d78a11bf677126fbf41d5a"
+  "HashAPI": "a1a35a64087500c8f0f7a06cb4613d020ba7c221"
  },
  {
   "Title": "7339",
@@ -3084,10 +3084,10 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 98547.43,
   "AvisoDados": null,
-  "HashAPI": "9097401be84ece5b7e82ff1a565f778238d5c61d"
+  "HashAPI": "f08d334bcefb3bc1e8b7b80c33ceff3cecde7fb8"
  },
  {
   "Title": "7340",
@@ -3099,10 +3099,10 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 61814.4,
   "AvisoDados": null,
-  "HashAPI": "f9ebb263ddee219605b2d4efe96b9da8289f7911"
+  "HashAPI": "b3c1914eda3838fce1ee8646cbf4a6a998a0f85b"
  },
  {
   "Title": "7341",
@@ -3114,10 +3114,10 @@
   "NaturezaDespesa": "33503904",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 139220.38,
   "AvisoDados": null,
-  "HashAPI": "beb7de86ce4e7e95377e76a1c2f4838a2e34ce7e"
+  "HashAPI": "d4c0ac8a9e16a38f38725f71d4a0b14d294168ae"
  },
  {
   "Title": "7342",
@@ -3129,10 +3129,10 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 151338.0,
   "AvisoDados": null,
-  "HashAPI": "090c716834de23736de516b869fd5c31cbea3a64"
+  "HashAPI": "6a2b10dd98a4003a77d49d4530b61e565341d82c"
  },
  {
   "Title": "7343",
@@ -3504,10 +3504,10 @@
   "NaturezaDespesa": "44302039",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 1000000.0,
   "AvisoDados": null,
-  "HashAPI": "43a87920fb1884694228d4169fab3670b852ae91"
+  "HashAPI": "16d5bfbc994b00195d5df0acb472f8fa2c889110"
  },
  {
   "Title": "7383",
@@ -3519,10 +3519,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 1729771.0,
   "AvisoDados": null,
-  "HashAPI": "8966df217728596d407fe01b4b6e0b46cf846184"
+  "HashAPI": "a2dae2cf27ba43b5bb53ef3a84fa5cf3b6b1753a"
  },
  {
   "Title": "7384",
@@ -3534,10 +3534,10 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 249856.0,
   "AvisoDados": null,
-  "HashAPI": "f64d0f6605503c42a2ac671b5b9f47e9a1c343b9"
+  "HashAPI": "8f9bbe81c685ff761953090194347e06daa5dca0"
  },
  {
   "Title": "7400",
@@ -3549,10 +3549,10 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 149057.17,
   "AvisoDados": null,
-  "HashAPI": "000a1fbaa4193c0d9abde915e55d8236d917f84a"
+  "HashAPI": "90a606524c5003e4c0ea0a7facf928ba5c4c5f3e"
  },
  {
   "Title": "7401",
@@ -3564,10 +3564,10 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 4471.59,
   "AvisoDados": null,
-  "HashAPI": "4f72f3e6903051794d9df7608bd7645607b37b50"
+  "HashAPI": "347285ee6acae773d5e31d903c02997162a584f2"
  },
  {
   "Title": "7402",
@@ -3579,10 +3579,10 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 297804.22,
   "AvisoDados": null,
-  "HashAPI": "87ec4618499d50cb8314f8402b14d0940f749e37"
+  "HashAPI": "026bb79e044d988a1359a5f59d0451b6958cbc10"
  },
  {
   "Title": "7403",
@@ -3594,10 +3594,10 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 72256.83,
   "AvisoDados": null,
-  "HashAPI": "fef91c53e2d82bd26fd8ee54b598357a4d846230"
+  "HashAPI": "924e4996f3db0ca7f983bd14eb52d70c3397d4b2"
  },
  {
   "Title": "7404",
@@ -3609,10 +3609,10 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 190793.79,
   "AvisoDados": null,
-  "HashAPI": "820cfa552626236ad04f39f5bcb9d1cae6b2e0eb"
+  "HashAPI": "72ad20ee828625c400fae3da9ba05b3c13477a1e"
  },
  {
   "Title": "7405",
@@ -3624,10 +3624,10 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 271805.27,
   "AvisoDados": null,
-  "HashAPI": "0fba8d28953f451f742669efc25d793f55857fcf"
+  "HashAPI": "b855614e272d7d881c750de5575477f1dbb2e130"
  },
  {
   "Title": "7406",
@@ -3639,10 +3639,10 @@
   "NaturezaDespesa": "33503904",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 326132.35,
   "AvisoDados": null,
-  "HashAPI": "53fa201a54f86f7aa1d831ec09b7ef8918e297f3"
+  "HashAPI": "1bb5489e462e1c94ee123f046071526dbb97a8f9"
  },
  {
   "Title": "7407",
@@ -3654,10 +3654,10 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 722207.54,
   "AvisoDados": null,
-  "HashAPI": "9eaca8eae736dc3de34ac5d33508f6dc87741f1f"
+  "HashAPI": "24a3000b9c5ac291291dfd760e783f51859dbf77"
  },
  {
   "Title": "7408",
@@ -3669,10 +3669,10 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 16500.02,
   "AvisoDados": null,
-  "HashAPI": "a5acab121be56ed56aec427fab0502010f59222d"
+  "HashAPI": "175263e4848de7467f288fb3763edfae9b18f676"
  },
  {
   "Title": "7409",
@@ -3684,10 +3684,10 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 16499.73,
   "AvisoDados": null,
-  "HashAPI": "7946281300894a7d2cb0aeba2286a11328fb581d"
+  "HashAPI": "9c44eac7951fb05c85be73a4274691515bc64761"
  },
  {
   "Title": "7410",
@@ -3699,10 +3699,10 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 94050.25,
   "AvisoDados": null,
-  "HashAPI": "095bdad6e9ab6601c7bed6ea55a16014242bc07d"
+  "HashAPI": "be7bca79a650bf2cc6ca83e225ff5218ebc6dd7b"
  },
  {
   "Title": "7411",
@@ -3714,10 +3714,10 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 412023.57,
   "AvisoDados": null,
-  "HashAPI": "2e2ed7a9e6cce774ba067dd83c82e099553949b3"
+  "HashAPI": "be4c077d59007673b4387f912cb1fcd8c1abf166"
  },
  {
   "Title": "7488",
@@ -3984,10 +3984,10 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 22426.76,
   "AvisoDados": null,
-  "HashAPI": "73093bd594d16dde54b8979a00d586918edc3eb0"
+  "HashAPI": "0dd7aafcf324163047fdbbcc8989d587c36a705f"
  },
  {
   "Title": "8065",
@@ -3999,10 +3999,10 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 490158.23,
   "AvisoDados": null,
-  "HashAPI": "21b924aefee4e425f369427dd0d1ec6b614a59c3"
+  "HashAPI": "0c7397e2f6e0cda6b2ace0a32e237d0ba33fdf43"
  },
  {
   "Title": "8066",
@@ -4014,10 +4014,10 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 7190.07,
   "AvisoDados": null,
-  "HashAPI": "5b03f94ef5f011c0520ed2a706917b860a342fee"
+  "HashAPI": "77a38e03e54ebad543be1365291fb6368680c587"
  },
  {
   "Title": "8067",
@@ -4029,10 +4029,10 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 35995.39,
   "AvisoDados": null,
-  "HashAPI": "98f4faef8bd74fcddb1f7678f1e06e7efc6bcb35"
+  "HashAPI": "83185f676ab7c7f8eba5f7ffae05c7f2a2634770"
  },
  {
   "Title": "8068",
@@ -4044,10 +4044,10 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 113732.23,
   "AvisoDados": null,
-  "HashAPI": "9b4b834788bb2fbc9a4f77cafa805c2a5ea6fb3a"
+  "HashAPI": "23e3d2646207d0442129228f5a0777b28d5698a0"
  },
  {
   "Title": "8215",
@@ -4299,10 +4299,10 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 148014.9,
   "AvisoDados": null,
-  "HashAPI": "ba95075cc3e4899a30bc3f17d30a7dd6fa2b7746"
+  "HashAPI": "5f4fe325dd0fc01eac7724730172d397ebd0faef"
  },
  {
   "Title": "8735",
@@ -4329,10 +4329,10 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 34786.94,
   "AvisoDados": null,
-  "HashAPI": "530817b596c9ac667a7e36b12ac8be6decb3b14a"
+  "HashAPI": "c234508faf08b83ab5227ede2e6f96654161e5ae"
  },
  {
   "Title": "8737",
@@ -4344,10 +4344,10 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 21618.53,
   "AvisoDados": null,
-  "HashAPI": "21fb1256680e940f54017af96caca8a408a48fad"
+  "HashAPI": "28f3c318d746be4060ae64341fc19f22e7cb9b8b"
  },
  {
   "Title": "8740",
@@ -4359,10 +4359,10 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 10231.3,
   "AvisoDados": null,
-  "HashAPI": "868164a25875a181908db9381e8314ed7848be61"
+  "HashAPI": "4634a4163b144af5c5efb87acba0b8e93d86237c"
  },
  {
   "Title": "8741",
@@ -4374,10 +4374,10 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 77977.58,
   "AvisoDados": null,
-  "HashAPI": "42307c31213244e3f5a62cca2c27839e28cafac0"
+  "HashAPI": "1d1a6ae3feab6b310ce6a28ecf1153f62ca23eeb"
  },
  {
   "Title": "8742",
@@ -4389,10 +4389,10 @@
   "NaturezaDespesa": "33503904",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 22833.23,
   "AvisoDados": null,
-  "HashAPI": "790e4b42cd94a47b85fd68b1640075ddef296e96"
+  "HashAPI": "1284a36d83f5f199a6ddf53d92e15e4863b0f14f"
  },
  {
   "Title": "8743",
@@ -5319,10 +5319,10 @@
   "NaturezaDespesa": "33501404",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -60721.09,
   "AvisoDados": null,
-  "HashAPI": "d9517952fca4af07b474607820f7d3798bfb2666"
+  "HashAPI": "640bea026e1e4dcacb1e8ebbad65c6326fe9a230"
  },
  {
   "Title": "10229",
@@ -5334,10 +5334,10 @@
   "NaturezaDespesa": "33503004",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -13227.84,
   "AvisoDados": null,
-  "HashAPI": "cf7919c2076c976443c7eef006a9a3a183150b70"
+  "HashAPI": "a1033e7e24bdb5546f7854188930cbc805ab8da4"
  },
  {
   "Title": "10230",
@@ -5349,10 +5349,10 @@
   "NaturezaDespesa": "33503304",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -98547.43,
   "AvisoDados": null,
-  "HashAPI": "b107e1d0d0bb2647b0a5fdf8026c97089cf3b465"
+  "HashAPI": "603bc4a35fa38fd7731ba7b1540c5c93f65b0488"
  },
  {
   "Title": "10231",
@@ -5364,10 +5364,10 @@
   "NaturezaDespesa": "33503604",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -61814.4,
   "AvisoDados": null,
-  "HashAPI": "0af891b69546399deef9c3ae0b4efac122d5c84a"
+  "HashAPI": "dedc2911d6ab1df708241ef9af0358c4514cdfd6"
  },
  {
   "Title": "10232",
@@ -5379,10 +5379,10 @@
   "NaturezaDespesa": "33503904",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -139220.38,
   "AvisoDados": null,
-  "HashAPI": "042ae99dd95bb7ad758dc698ceeb79d6d4de5052"
+  "HashAPI": "705db59c07cb2666f06f078f642a37c841ccd21a"
  },
  {
   "Title": "10234",
@@ -5394,10 +5394,10 @@
   "NaturezaDespesa": "44505204",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T046G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -151338.0,
   "AvisoDados": null,
-  "HashAPI": "7944c714c378b6aa8dfd5ac78b352352ca86315c"
+  "HashAPI": "3b8417644070532b63791fbf7cd015cd58806224"
  },
  {
   "Title": "14749",
@@ -6579,10 +6579,10 @@
   "NaturezaDespesa": "44302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -131396.2,
   "AvisoDados": null,
-  "HashAPI": "ff3661e9b0400d10b82e419948a018d1eefa5f5d"
+  "HashAPI": "6b08cdb821170f11b18b9315d5ee8a277df962b0"
  },
  {
   "Title": "30702",
@@ -6594,10 +6594,10 @@
   "NaturezaDespesa": "33302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -78603.8,
   "AvisoDados": null,
-  "HashAPI": "8f78c6fc5a8401e40618b097a6e15aeb31a21fbd"
+  "HashAPI": "9b491dadb0e0bd3257d095aaf0a519e3aba47d95"
  },
  {
   "Title": "30703",
@@ -6609,10 +6609,10 @@
   "NaturezaDespesa": "44302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 131396.2,
   "AvisoDados": null,
-  "HashAPI": "d0ad8db5b699cbf610c556538de702ce93257dfc"
+  "HashAPI": "3cd9f8b69a3d69d1980637e774b0cf434fa744b0"
  },
  {
   "Title": "30706",
@@ -6624,10 +6624,10 @@
   "NaturezaDespesa": "44302027",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -131396.2,
   "AvisoDados": null,
-  "HashAPI": "215901a5a7450de09b9248e58abeece518e08b2d"
+  "HashAPI": "d2865c0bcb92d5aa5f21ac31437940f1a6c86464"
  },
  {
   "Title": "30709",
@@ -6639,10 +6639,10 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -156000.0,
   "AvisoDados": null,
-  "HashAPI": "6c3e116d03ed17831cf4ad1f3a3fdcb421cafe3d"
+  "HashAPI": "b88f6f10b6acf581951afc3739f6e1c633ea80f2"
  },
  {
   "Title": "30714",
@@ -6654,10 +6654,10 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -364000.0,
   "AvisoDados": null,
-  "HashAPI": "abc49b9f5699e1e94ee3e08c86e64769e0a36ba3"
+  "HashAPI": "a174fbfaaa535944e97404db15285db70da70402"
  },
  {
   "Title": "30728",
@@ -6669,10 +6669,10 @@
   "NaturezaDespesa": "44302035",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -148000.0,
   "AvisoDados": null,
-  "HashAPI": "3451a7143999f2d6989de5ee877a369392e29a7e"
+  "HashAPI": "32a0402ed3541e3716e816670ed9accfef3de274"
  },
  {
   "Title": "30749",
@@ -6684,10 +6684,10 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -119500.0,
   "AvisoDados": null,
-  "HashAPI": "a923da06c3cec4de2928acd3ed79e9b48705b22f"
+  "HashAPI": "25f2f4ec8cb4570856a5681ff8715804f0deb34d"
  },
  {
   "Title": "30790",
@@ -6714,10 +6714,10 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -27600.0,
   "AvisoDados": null,
-  "HashAPI": "dc52f9e7eabd643165297ab1f629b9f501cd0e36"
+  "HashAPI": "200eef6c1c638db85e4311548698bfef8fae92d6"
  },
  {
   "Title": "30796",
@@ -6729,10 +6729,10 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -27000.0,
   "AvisoDados": null,
-  "HashAPI": "0ee2cba6520d279c484bad72b559090930291739"
+  "HashAPI": "e7871a2b8781713a18647bf5ee84931a118edd1e"
  },
  {
   "Title": "30797",
@@ -6744,10 +6744,10 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -21000.0,
   "AvisoDados": null,
-  "HashAPI": "a5848568aa5af2c9ae598dfeb7e2f134ed2154c8"
+  "HashAPI": "2a518ba9b4daa1867dd70675813f5cb0f13f357c"
  },
  {
   "Title": "30799",
@@ -6759,10 +6759,10 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -64400.0,
   "AvisoDados": null,
-  "HashAPI": "5ce1a83f7647be3637d8151716bfd6974f36092e"
+  "HashAPI": "ef2e7b34a8d1c3af7d0eeb999de6257739bf6b21"
  },
  {
   "Title": "30812",
@@ -7164,10 +7164,10 @@
   "NaturezaDespesa": "33302003",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 261136.11,
   "AvisoDados": null,
-  "HashAPI": "d16be9e01be3e73e978756ecf91f88e45c5e3d04"
+  "HashAPI": "ae37934a03c7e74d8106583d775265795ad26c6f"
  },
  {
   "Title": "41000",
@@ -7179,10 +7179,10 @@
   "NaturezaDespesa": "44302003",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 175944.89,
   "AvisoDados": null,
-  "HashAPI": "ce1726ad8c55af1c57527df7db8d950f21bd0d47"
+  "HashAPI": "2e1e830c69ccfedba29a63e8049d5afdced28e3f"
  },
  {
   "Title": "41009",
@@ -7194,10 +7194,10 @@
   "NaturezaDespesa": "33302005",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 588474.97,
   "AvisoDados": null,
-  "HashAPI": "0620770115ab17d20239c2cca5a1629650b8c593"
+  "HashAPI": "0661b064bbb4a47251931a8dc8118ac9642b1a79"
  },
  {
   "Title": "41018",
@@ -7209,10 +7209,10 @@
   "NaturezaDespesa": "44302005",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 396495.03,
   "AvisoDados": null,
-  "HashAPI": "2be71f54d77bcf4a72de3f06774532bb3cae82aa"
+  "HashAPI": "19902f36bb5712d64c4dc56be3e1678dfad92ba3"
  },
  {
   "Title": "41031",
@@ -7224,10 +7224,10 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1471187.43,
   "AvisoDados": null,
-  "HashAPI": "1eeba3f3b85610f3bed2111c346edc861d32c14a"
+  "HashAPI": "e63af97722475407ecd1bd736c0a56284913236c"
  },
  {
   "Title": "41033",
@@ -7239,10 +7239,10 @@
   "NaturezaDespesa": "44302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 991237.57,
   "AvisoDados": null,
-  "HashAPI": "c0f5eb58f4f4384dc32876650ba0e5881d8d459b"
+  "HashAPI": "945d2a9a4ac0e704752bd7e4b0a64d44c655b4e7"
  },
  {
   "Title": "41057",
@@ -7254,10 +7254,10 @@
   "NaturezaDespesa": "33302009",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1029831.5,
   "AvisoDados": null,
-  "HashAPI": "5b2d96082735ca03e25f45b11f97c042904545c7"
+  "HashAPI": "88fa0ea70c45b79ee4e9b532c08d51e09621ed56"
  },
  {
   "Title": "41077",
@@ -7269,10 +7269,10 @@
   "NaturezaDespesa": "44302009",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 693866.5,
   "AvisoDados": null,
-  "HashAPI": "abc969823635c40063966aced92318423b6f9fa9"
+  "HashAPI": "1b4f16e4d68038f3924e3aaf9a46d02c62ba83db"
  },
  {
   "Title": "41100",
@@ -7284,10 +7284,10 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 588474.97,
   "AvisoDados": null,
-  "HashAPI": "f1f8449feaf113d746ce13d656d860144853271c"
+  "HashAPI": "90aa4fa13845df9f1f4009fb90908c4243aae6dd"
  },
  {
   "Title": "41119",
@@ -7299,10 +7299,10 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 396495.03,
   "AvisoDados": null,
-  "HashAPI": "b04c5efcdde1878b5c6907023e60bbc032b64c18"
+  "HashAPI": "8464bca16e862115fc8c159f56d495bb6aaeaf0d"
  },
  {
   "Title": "41141",
@@ -7314,10 +7314,10 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 477963.77,
   "AvisoDados": null,
-  "HashAPI": "b5216b1e4a2c413cb47eca0efd2547556256c6f8"
+  "HashAPI": "0c73baf4f2c3a1142c521ab44eb504ad3863b8d4"
  },
  {
   "Title": "41159",
@@ -7329,10 +7329,10 @@
   "NaturezaDespesa": "44302015",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 322036.23,
   "AvisoDados": null,
-  "HashAPI": "9e2eacc0440963a2ed87fd14b73579fcb7f392cb"
+  "HashAPI": "7bcc1a544c3970111df7dd44caa2fc3d2f992345"
  },
  {
   "Title": "41171",
@@ -7344,10 +7344,10 @@
   "NaturezaDespesa": "33302023",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1011441.84,
   "AvisoDados": null,
-  "HashAPI": "2664e1f61c02611d366cf3d1d6c6f8197bc75323"
+  "HashAPI": "6df8d279e519e74695883912391f1dd2e96fc8e1"
  },
  {
   "Title": "41184",
@@ -7359,10 +7359,10 @@
   "NaturezaDespesa": "44302023",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 681476.16,
   "AvisoDados": null,
-  "HashAPI": "343574f313ff259a191cdb7b330e88ac6efac2df"
+  "HashAPI": "04836b4f74b3caeaf9dde24c846e67a452c76c1c"
  },
  {
   "Title": "41315",
@@ -7464,10 +7464,10 @@
   "NaturezaDespesa": "33302019",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 919492.37,
   "AvisoDados": null,
-  "HashAPI": "443128039c89a75ec89e23cc78e338990392c7d9"
+  "HashAPI": "0877f4446a7f96d5e5b788af1ceb230be0b42f3e"
  },
  {
   "Title": "41335",
@@ -7479,10 +7479,10 @@
   "NaturezaDespesa": "44302019",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 619523.63,
   "AvisoDados": null,
-  "HashAPI": "17c10db620d09a8a26f92e87b22c99628d7f40fe"
+  "HashAPI": "bd518e06b2faae2bdd0c10bfa0d98527e84b5739"
  },
  {
   "Title": "41339",
@@ -7494,10 +7494,10 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1029831.5,
   "AvisoDados": null,
-  "HashAPI": "17976924ce73d9ff093f849753a86086c1baad6d"
+  "HashAPI": "196ffe7ca84ae48e3a5e30eec28006f322353f53"
  },
  {
   "Title": "41340",
@@ -7509,10 +7509,10 @@
   "NaturezaDespesa": "44302025",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 693866.5,
   "AvisoDados": null,
-  "HashAPI": "1ceb5f3fc2b366396a580c83239e1d984e97df53"
+  "HashAPI": "e4ae22dc590b6312ade91eae1283893bea8efaca"
  },
  {
   "Title": "41341",
@@ -7524,10 +7524,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -1729771.0,
   "AvisoDados": null,
-  "HashAPI": "6c09d2dc271ff29e82c68f157e498e6409d02f66"
+  "HashAPI": "ecd008b0b36d3d1d2cbb7d453d22967ee7ea7aff"
  },
  {
   "Title": "41342",
@@ -7539,10 +7539,10 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1103390.13,
   "AvisoDados": null,
-  "HashAPI": "5c237ec2e250f36121e133d70c85ef2874a03592"
+  "HashAPI": "6cf711e8109cdeb4b9e02084f8c560228bb985f4"
  },
  {
   "Title": "41343",
@@ -7554,10 +7554,10 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 743427.87,
   "AvisoDados": null,
-  "HashAPI": "f62ff62f49340059adf7da49470e6858dfbee90d"
+  "HashAPI": "0b23059e42e8655300dcc457cae4fa34f58fc2e0"
  },
  {
   "Title": "41345",
@@ -7569,10 +7569,10 @@
   "NaturezaDespesa": "33302029",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 551695.66,
   "AvisoDados": null,
-  "HashAPI": "946577d412788d08324a806ceb5527e59b30d116"
+  "HashAPI": "aa3351c3f176588f553fe0fd27b32940d58f864e"
  },
  {
   "Title": "41346",
@@ -7584,10 +7584,10 @@
   "NaturezaDespesa": "44302029",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 371714.34,
   "AvisoDados": null,
-  "HashAPI": "f145d50a3421cb25e58988bcecb050bd47e9c483"
+  "HashAPI": "125ba3803eb2bc44fcaff42afe029bc0e18af2a2"
  },
  {
   "Title": "41348",
@@ -7599,10 +7599,10 @@
   "NaturezaDespesa": "33302037",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 356211.46,
   "AvisoDados": null,
-  "HashAPI": "bd6841ba5bd5f2c980bcc8b2c506b3d8ffd72368"
+  "HashAPI": "93b87ece7a6c615f9257804b7cdeb83888a566ac"
  },
  {
   "Title": "41350",
@@ -7614,10 +7614,10 @@
   "NaturezaDespesa": "44302037",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 240003.54,
   "AvisoDados": null,
-  "HashAPI": "f85af44b190896177986813bf9e0f70b3931e6fd"
+  "HashAPI": "44c0fff1f74c77eb53339498ffec2285d2c6b1ed"
  },
  {
   "Title": "41351",
@@ -7629,10 +7629,10 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 239067.92,
   "AvisoDados": null,
-  "HashAPI": "f82e68b0a83e42ea8510fea9d1281c5140e2785f"
+  "HashAPI": "a2f5684aabd0124d10f72ec41ce7bf102c49bbe5"
  },
  {
   "Title": "41352",
@@ -7644,10 +7644,10 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 161076.08,
   "AvisoDados": null,
-  "HashAPI": "101a7d342f0cf9ced3f76a838a781f52797dab25"
+  "HashAPI": "3455d80f9bd5f64561b485f32c4bdbcde1dfccae"
  },
  {
   "Title": "41356",
@@ -7659,10 +7659,10 @@
   "NaturezaDespesa": "33302048",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 239067.92,
   "AvisoDados": null,
-  "HashAPI": "ed80e587ee029d78c6a3c11a4854131011995b27"
+  "HashAPI": "c0fdbdb80d20654ebb186351509efd2851b371b9"
  },
  {
   "Title": "41358",
@@ -7674,10 +7674,10 @@
   "NaturezaDespesa": "44302048",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 161076.08,
   "AvisoDados": null,
-  "HashAPI": "922d09b90e443fd3d388b4eb9c5253a61d256174"
+  "HashAPI": "844753ad8b7907554168f2e3eebced964fd73d27"
  },
  {
   "Title": "42055",
@@ -7719,10 +7719,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 1729771.0,
   "AvisoDados": null,
-  "HashAPI": "f01f0f54cb4b1e6fab7122ed69e1c9d24cd38341"
+  "HashAPI": "d8dc6a64192d35a6ed9c2ff169b3c8c16fbc3dc6"
  },
  {
   "Title": "43150",
@@ -7734,10 +7734,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -435477.47,
   "AvisoDados": null,
-  "HashAPI": "abf6ddf666e7b4e4e7fc4fe6f36a932a6b85c7bf"
+  "HashAPI": "0ee0a1081a0260dea24e56c4ec458353a8618000"
  },
  {
   "Title": "44027",
@@ -8664,10 +8664,10 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 500000.0,
   "AvisoDados": null,
-  "HashAPI": "4d098ddcc87d628f6700701dc22e2e817a93d5d7"
+  "HashAPI": "8bc1fa286c6bc5d9ddd229ff7f9d2e1169cb78de"
  },
  {
   "Title": "48471",
@@ -8679,10 +8679,10 @@
   "NaturezaDespesa": "44302031",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 500000.0,
   "AvisoDados": null,
-  "HashAPI": "034447f2657b6cac26254da4be754bd42c1899f7"
+  "HashAPI": "c63d2e35e44bd1b79e52fba7b08ce072fa0e4252"
  },
  {
   "Title": "48474",
@@ -9474,10 +9474,10 @@
   "NaturezaDespesa": "33302003",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 375263.34,
   "AvisoDados": null,
-  "HashAPI": "2db3ad25e7acd4307fa98882fe14fb9883d9eace"
+  "HashAPI": "2d3d044c6f6478c386f9f8e2eaca63abdb69bb10"
  },
  {
   "Title": "76196",
@@ -9489,10 +9489,10 @@
   "NaturezaDespesa": "33302005",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 1131525.03,
   "AvisoDados": null,
-  "HashAPI": "fd94cfb2adca6dbbbb78a0b180804a2c55fa757d"
+  "HashAPI": "5b746ac972e789b41a571a3a37fca2bad814cda5"
  },
  {
   "Title": "76202",
@@ -9519,10 +9519,10 @@
   "NaturezaDespesa": "33302013",
   "FonteRecurso": "0172249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 1131525.03,
   "AvisoDados": null,
-  "HashAPI": "3952a051087a8fd9b3ceaa8df9cbab747fd06c1f"
+  "HashAPI": "792808fcdff4efd65d6cbf1c1cca56268e885be6"
  },
  {
   "Title": "76297",
@@ -9534,10 +9534,10 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 382036.23,
   "AvisoDados": null,
-  "HashAPI": "cf4ee0689bbe30323f414ac927e21278c10aff9c"
+  "HashAPI": "72922a4a3eb7416b02385f275f2b189a7e4e0fc0"
  },
  {
   "Title": "76299",
@@ -9549,10 +9549,10 @@
   "NaturezaDespesa": "33302017",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 234000.0,
   "AvisoDados": null,
-  "HashAPI": "78d5f24027b67d24076d19e7b7c469456d6b084d"
+  "HashAPI": "93dfbb273f3859b9a86cf351ca80bd20228f4c57"
  },
  {
   "Title": "76302",
@@ -9579,10 +9579,10 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0172249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 65917.18,
   "AvisoDados": null,
-  "HashAPI": "4d0cd30a22516c365c438805217dbfddc9730444"
+  "HashAPI": "83c5d71210b8c4eedede29298ed2facb798c9b87"
  },
  {
   "Title": "76307",
@@ -9594,10 +9594,10 @@
   "NaturezaDespesa": "33302031",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 32848.46,
   "AvisoDados": null,
-  "HashAPI": "406b3e2d808a19d7f6506a70a36d50f6d5c41e8b"
+  "HashAPI": "105dd8f25d5cf8dab4c52ab52ecce08f573da062"
  },
  {
   "Title": "76308",
@@ -9624,10 +9624,10 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 16692.27,
   "AvisoDados": null,
-  "HashAPI": "c2d9a41529a893e9b3dab4437b998529f457bb31"
+  "HashAPI": "ac1861d9fcc8538792ad6d95d487f365bc002ed7"
  },
  {
   "Title": "77367",
@@ -10764,10 +10764,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0134249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 630706.47,
   "AvisoDados": null,
-  "HashAPI": "1c83d201c0ae05d4ab2274eda8a88e8205b4f7e7"
+  "HashAPI": "83349cd3a0d4738d6f1d16bdc0b7aee395161a0b"
  },
  {
   "Title": "83045",
@@ -10779,10 +10779,10 @@
   "NaturezaDespesa": "44302005",
   "FonteRecurso": "0134249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 468474.97,
   "AvisoDados": null,
-  "HashAPI": "caf4ff544f893e60036f8b341e1157cbb0733793"
+  "HashAPI": "b46107095e228a300e67974c48dceddc62e19a4f"
  },
  {
   "Title": "83057",
@@ -10794,10 +10794,10 @@
   "NaturezaDespesa": "33302011",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1571141.5,
   "AvisoDados": null,
-  "HashAPI": "e83213db38b681eb1e53aaff116d0385133cd4f9"
+  "HashAPI": "c434c8920d97ad4168aa7a497a3b9497896eb391"
  },
  {
   "Title": "83058",
@@ -10809,10 +10809,10 @@
   "NaturezaDespesa": "44302011",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 862154.67,
   "AvisoDados": null,
-  "HashAPI": "b23a9f3dec3bd2ee5edb25563278f995bc9f4411"
+  "HashAPI": "f84d106537749024db4ad84241f9801ede9d0da7"
  },
  {
   "Title": "83060",
@@ -10824,10 +10824,10 @@
   "NaturezaDespesa": "44302015",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 417963.87,
   "AvisoDados": null,
-  "HashAPI": "b7cf065560a0d565ec0e0891bd09ff29935ddded"
+  "HashAPI": "f0d8bd450be22550d161dd5ec101116d35d80f3d"
  },
  {
   "Title": "83062",
@@ -10839,10 +10839,10 @@
   "NaturezaDespesa": "44302017",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 306000.0,
   "AvisoDados": null,
-  "HashAPI": "74e7f1b8eeb5b3904eff81fefeffd2dcc1ab7ed2"
+  "HashAPI": "6e4eac06d1e541db2381d65feeac11d4edf46490"
  },
  {
   "Title": "83063",
@@ -10854,10 +10854,10 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 2828812.57,
   "AvisoDados": null,
-  "HashAPI": "e3cc3549b69b917a2f0d3a1448cb3828fc86c72d"
+  "HashAPI": "0c75254eabee6ec5cfe54b2644df9be9988d5549"
  },
  {
   "Title": "83065",
@@ -10869,10 +10869,10 @@
   "NaturezaDespesa": "44302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1171187.43,
   "AvisoDados": null,
-  "HashAPI": "c6c89fdb3051c3592b197cb486adf2906fc691fe"
+  "HashAPI": "c89360484ace7c453063281e73682d5420d2948e"
  },
  {
   "Title": "83066",
@@ -10884,10 +10884,10 @@
   "NaturezaDespesa": "33302019",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1830507.63,
   "AvisoDados": null,
-  "HashAPI": "03e40420bec4c9e63253def4bb7ae80fc52816d1"
+  "HashAPI": "9ae4143d5e27639982e06a7aed9cd41f35df4d06"
  },
  {
   "Title": "83067",
@@ -10899,10 +10899,10 @@
   "NaturezaDespesa": "44302019",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 669492.37,
   "AvisoDados": null,
-  "HashAPI": "05002e816bedec463f371f7c53e6406b2f74ae95"
+  "HashAPI": "6005d6decf7be7ef6cdb2952389c23911f2b103c"
  },
  {
   "Title": "83068",
@@ -10914,10 +10914,10 @@
   "NaturezaDespesa": "33302037",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 690238.54,
   "AvisoDados": null,
-  "HashAPI": "8672b7985f13d5414e970f96dfaddf72ac738b8f"
+  "HashAPI": "1a33d3ba7df0ae867f11ac4e627e1e79fd90e1bd"
  },
  {
   "Title": "83069",
@@ -10929,10 +10929,10 @@
   "NaturezaDespesa": "44302037",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 278261.46,
   "AvisoDados": null,
-  "HashAPI": "3b93dcf8b5803e976d9cd95660747e8a55f0df18"
+  "HashAPI": "a395c8d30c22d7afde57160d6e8a900ecc3f2602"
  },
  {
   "Title": "84953",
@@ -11109,10 +11109,10 @@
   "NaturezaDespesa": "44302003",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 334736.66,
   "AvisoDados": null,
-  "HashAPI": "b1d3efe187951ecc7083674cc3ee9889b4a2ae94"
+  "HashAPI": "8301471bafcf24f74a7f702920db65ebc0699c4b"
  },
  {
   "Title": "92351",
@@ -11124,10 +11124,10 @@
   "NaturezaDespesa": "44302013",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 149604.22,
   "AvisoDados": null,
-  "HashAPI": "fc918026af56d6f61b8b165bf8afeae3fb20efde"
+  "HashAPI": "9d81a7bc5ece5c46add1c4fdd0ea46ab0c2e2e1f"
  },
  {
   "Title": "92358",
@@ -11139,10 +11139,10 @@
   "NaturezaDespesa": "44302043",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 1925000.0,
   "AvisoDados": null,
-  "HashAPI": "93222452c628f3eee3bdaca3d7a04e11dc06fa4a"
+  "HashAPI": "53226a019ba354eb82284fcf530a81a49c7e773f"
  },
  {
   "Title": "92365",
@@ -11154,10 +11154,10 @@
   "NaturezaDespesa": "44302047",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 159067.92,
   "AvisoDados": null,
-  "HashAPI": "1d3cc736f177a95975ed03e496e42b0ff36d4c1b"
+  "HashAPI": "7df45fde69d9d52932146effca96bc39c857b491"
  },
  {
   "Title": "92375",
@@ -11169,10 +11169,10 @@
   "NaturezaDespesa": "44302048",
   "FonteRecurso": "0142249013",
   "PlanoInterno": "2095T045G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": 91605.27,
   "AvisoDados": null,
-  "HashAPI": "8842bf94aca49892bc8e6c0a6d006d5fac125d15"
+  "HashAPI": "cf0942eeabad195d77d6f1ecc12308675173b7a8"
  },
  {
   "Title": "93208",
@@ -11754,10 +11754,10 @@
   "NaturezaDespesa": "33302009",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1835394.72,
   "AvisoDados": null,
-  "HashAPI": "7b5f6bed4b721a67314ee7d8160b0bf86069292b"
+  "HashAPI": "01c30fef0c2c015e2ad558225326a51d04d27f38"
  },
  {
   "Title": "94452",
@@ -12024,10 +12024,10 @@
   "NaturezaDespesa": "33302035",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 7792250.0,
   "AvisoDados": null,
-  "HashAPI": "a792901d35e8f4e50a3a264059cabb16dcebc7d9"
+  "HashAPI": "98fefc5e123ed783cdd44e3130275cff7d9eb6d4"
  },
  {
   "Title": "95689",
@@ -12039,10 +12039,10 @@
   "NaturezaDespesa": "44302029",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 501695.66,
   "AvisoDados": null,
-  "HashAPI": "e603cc0eeec57a15c5126aa8fd8f02556ae52868"
+  "HashAPI": "d880ba1286e8021a03d8bf885f933aa941934191"
  },
  {
   "Title": "95800",
@@ -12204,10 +12204,10 @@
   "NaturezaDespesa": "33302029",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 998304.34,
   "AvisoDados": null,
-  "HashAPI": "aa347c82f3a0351d1747db7b107c0db1ce3222a4"
+  "HashAPI": "b2050cad98c3f3fbe01853bdb828831010174140"
  },
  {
   "Title": "96024",
@@ -15594,10 +15594,10 @@
   "NaturezaDespesa": "33302045",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1539140.7,
   "AvisoDados": null,
-  "HashAPI": "6d627a1a9ed763efce2c7db80ea2798e91e61d84"
+  "HashAPI": "9a34d113e7208e9648f9362c534b0a93c5407717"
  },
  {
   "Title": "107300",
@@ -15609,10 +15609,10 @@
   "NaturezaDespesa": "44302045",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1442255.74,
   "AvisoDados": null,
-  "HashAPI": "c3cc51b6022ca8c82b6e4b3881710c1b32c7584a"
+  "HashAPI": "c79b40dbaba82cb2913cede396fdb5dd084af919"
  },
  {
   "Title": "107302",
@@ -15894,10 +15894,10 @@
   "NaturezaDespesa": "44302042",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -15000.0,
   "AvisoDados": null,
-  "HashAPI": "9f1aa2fe8901f0dd4b79105182d60a007e2a8317"
+  "HashAPI": "5d39a31ecd73d7220ffe2c9f6c761ada171fbcba"
  },
  {
   "Title": "118206",
@@ -15909,10 +15909,10 @@
   "NaturezaDespesa": "44302042",
   "FonteRecurso": "0142024289",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -39200.0,
   "AvisoDados": null,
-  "HashAPI": "0e423b5bef74d6eb811260271768e4c637ff44ad"
+  "HashAPI": "9201bfbe7485debeb85517241dfd6fe7239fa6de"
  },
  {
   "Title": "118207",
@@ -15924,10 +15924,10 @@
   "NaturezaDespesa": "33302042",
   "FonteRecurso": "0172024307",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -13000.0,
   "AvisoDados": null,
-  "HashAPI": "a20c410f471e88c4a70083c58370664388483a7f"
+  "HashAPI": "ae6baaf074fc0369ae98fada03c2d1c2074f05d3"
  },
  {
   "Title": "118208",
@@ -15939,10 +15939,10 @@
   "NaturezaDespesa": "33302042",
   "FonteRecurso": "0134024198",
   "PlanoInterno": "2095T235G08",
-  "PTRES": "004886",
+  "PTRES": "4886",
   "Valor": -16800.0,
   "AvisoDados": null,
-  "HashAPI": "6ecebbe755e393b299e1d47595123fc9c95af346"
+  "HashAPI": "48e6db09491449e933ba231248b52f62f2770b71"
  },
  {
   "Title": "118796",
@@ -17349,10 +17349,10 @@
   "NaturezaDespesa": "33302015",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1000000.0,
   "AvisoDados": null,
-  "HashAPI": "e095fa3c891ad093dd5eb7bec62c7c55bb0b1070"
+  "HashAPI": "7ae212b3e9219271df98878f281fb25e07365a80"
  },
  {
   "Title": "132648",
@@ -17364,10 +17364,10 @@
   "NaturezaDespesa": "33302003",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 257250.0,
   "AvisoDados": null,
-  "HashAPI": "fbdd0a5cae22d65d09a1e8f708936cb7a4183c75"
+  "HashAPI": "9e74abec2dd7c9f1e367a0dea3d3ee7f70a817c7"
  },
  {
   "Title": "132654",
@@ -17379,10 +17379,10 @@
   "NaturezaDespesa": "33302017",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 105750.0,
   "AvisoDados": null,
-  "HashAPI": "af793571b67e180e366222d93f9c2000aeb486d5"
+  "HashAPI": "a26a653352e607ddf221f384627507fc2f19dc4a"
  },
  {
   "Title": "132658",
@@ -17394,10 +17394,10 @@
   "NaturezaDespesa": "33302009",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 279000.0,
   "AvisoDados": null,
-  "HashAPI": "8d74ac49f65bf90afa83bee2fd79a93bff633cc1"
+  "HashAPI": "169254fad369230ee205be1c9c51ccd3554fef2c"
  },
  {
   "Title": "132661",
@@ -17409,10 +17409,10 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 264250.0,
   "AvisoDados": null,
-  "HashAPI": "e6f5632e679554b39ca0c69310b2d14e38610ee1"
+  "HashAPI": "c6bb9e3b823a8e08f69af1d77cdaf862f5534655"
  },
  {
   "Title": "132668",
@@ -17424,10 +17424,10 @@
   "NaturezaDespesa": "33302047",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 375750.0,
   "AvisoDados": null,
-  "HashAPI": "d985d7608f1defc394c9ea9160555ad1a9763c26"
+  "HashAPI": "a049f4df61c9476de4af483e7b6bc19d234bbd36"
  },
  {
   "Title": "132670",
@@ -17439,10 +17439,10 @@
   "NaturezaDespesa": "44302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 1213144.75,
   "AvisoDados": null,
-  "HashAPI": "3095fe5d41363a928529f6816c8dda50bef31644"
+  "HashAPI": "fbe69f0500daa2bef7657d896e7f14264b351dbd"
  },
  {
   "Title": "132672",
@@ -17454,10 +17454,10 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 779520.75,
   "AvisoDados": null,
-  "HashAPI": "01a3b49f31403eb3febab6d5157f020d3cbc00f1"
+  "HashAPI": "b8aa2c0a9a1e8f71d1c109fef5c00318577f42e8"
  },
  {
   "Title": "132677",
@@ -17469,10 +17469,10 @@
   "NaturezaDespesa": "44302023",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 778750.0,
   "AvisoDados": null,
-  "HashAPI": "0fde9910790a55de63ce303d8116939c0f8ed8e8"
+  "HashAPI": "10853ffe264b7b6eed98c9768e06d0cc062ddade"
  },
  {
   "Title": "132680",
@@ -17484,10 +17484,10 @@
   "NaturezaDespesa": "44302029",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 921610.25,
   "AvisoDados": null,
-  "HashAPI": "ea1e2f835fadf090f2821e49d02084ed3182b1c3"
+  "HashAPI": "8d6efacd4e9aaf7e6fe077178ce4993f95923e2f"
  },
  {
   "Title": "132684",
@@ -17499,10 +17499,10 @@
   "NaturezaDespesa": "33302029",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 370513.25,
   "AvisoDados": null,
-  "HashAPI": "325ea2045fae84bfd8a2d3745ea2fd42d19f5fa4"
+  "HashAPI": "2c485c078876c918d394f0b70a7d69d52cdd5a0d"
  },
  {
   "Title": "132687",
@@ -17514,10 +17514,10 @@
   "NaturezaDespesa": "44302045",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 750000.0,
   "AvisoDados": null,
-  "HashAPI": "f1b96ab11ed9c72c69786c59c3f753e342eee40f"
+  "HashAPI": "8731b50ab5cb27f752b1303c03695e6eaeeba246"
  },
  {
   "Title": "132691",
@@ -17529,10 +17529,10 @@
   "NaturezaDespesa": "33302045",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 750000.0,
   "AvisoDados": null,
-  "HashAPI": "ba168ea0d5a1c6e5f4e95faa1c94864cbf3fbdeb"
+  "HashAPI": "09038595c6323880ad2a26aad9c4c5b8fb21fa35"
  },
  {
   "Title": "132696",
@@ -17544,10 +17544,10 @@
   "NaturezaDespesa": "44302033",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 36000.0,
   "AvisoDados": null,
-  "HashAPI": "78fb0fa9003505e6de2a8263e2ec9a9bf0c8093f"
+  "HashAPI": "277ebbf41264e0cf2be8727a1d9b43d7383bc55b"
  },
  {
   "Title": "132855",
@@ -17559,10 +17559,10 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": -779520.75,
   "AvisoDados": null,
-  "HashAPI": "86465f12740202e6198384cf42433231dc11b076"
+  "HashAPI": "cf839880929a7a9e522b43c3fed84e90f8c2891d"
  },
  {
   "Title": "132874",
@@ -17574,10 +17574,10 @@
   "NaturezaDespesa": "33302007",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 779520.75,
   "AvisoDados": null,
-  "HashAPI": "b8cea4f78fc81f70f0933a344d50d437d890f062"
+  "HashAPI": "1a64a08d8018f072d46169e259bfaeac48630cf3"
  },
  {
   "Title": "132878",
@@ -17589,10 +17589,10 @@
   "NaturezaDespesa": "44302045",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": -750000.0,
   "AvisoDados": null,
-  "HashAPI": "20134108e7af91c68a348258898df308de2e8979"
+  "HashAPI": "8373770d0708ea93c882d12db4a2c98321e7d74b"
  },
  {
   "Title": "132884",
@@ -17604,10 +17604,10 @@
   "NaturezaDespesa": "44302045",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 750000.0,
   "AvisoDados": null,
-  "HashAPI": "eff4e0f0c89fda50f30f0f2f448c310da820aa52"
+  "HashAPI": "7e8bf7709cdbea2537c8f9125d518946026d0642"
  },
  {
   "Title": "132909",
@@ -20799,10 +20799,10 @@
   "NaturezaDespesa": "44302015",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": -0.1,
   "AvisoDados": null,
-  "HashAPI": "a0b138260af90c47b99f3bdea19f71c44b4fe109"
+  "HashAPI": "236bf16446424b2f31eb6ca1ad8c596855793070"
  },
  {
   "Title": "144880",
@@ -29754,10 +29754,10 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": -264250.0,
   "AvisoDados": null,
-  "HashAPI": "947c5078a3269d5d3eb78a95f53644e0164a06f4"
+  "HashAPI": "eed2e82f30cdcb5cb0f8260421c0b8c4f8351419"
  },
  {
   "Title": "246257",
@@ -29769,10 +29769,10 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": 264250.0,
   "AvisoDados": null,
-  "HashAPI": "e4e98aa1e8e2feeeca8a09b7cd717c23abd98738"
+  "HashAPI": "d638b7954ea02cc7ad2ad12ca2a017a3df8c4615"
  },
  {
   "Title": "247510",
@@ -37224,10 +37224,10 @@
   "NaturezaDespesa": "33302025",
   "FonteRecurso": "0100000000",
   "PlanoInterno": "8686",
-  "PTRES": "6373",
+  "PTRES": "006373",
   "Valor": -264250.0,
   "AvisoDados": null,
-  "HashAPI": "014ab83823009f4e3de5def8d326ec0cf88c964e"
+  "HashAPI": "e55f205dbd2d6aa3b76d3616e2e90babf4374318"
  },
  {
   "Title": "384460",
