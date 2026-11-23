@@ -5319,13 +5319,13 @@
   "ValorRendimentoAplicacao": 264964.17,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 307423.2,
+  "ValorSaldoConta": 307542.36,
   "OperaOBTV": false,
   "QtdTA": 6,
   "QtdProrroga": 2,
   "DataUltimoDesembolso": "2019-12-31",
   "AvisoDados": null,
-  "HashAPI": "92d4294eeff6216f5e49c71f5aadd6dd1e303fc0"
+  "HashAPI": "4e0fbff8d66919dbfbf3ef6633e52f39abf7c3d2"
  },
  {
   "Title": "748762",
@@ -7539,13 +7539,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 4000368.89,
+  "ValorSaldoConta": 4001490.94,
   "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 2,
   "DataUltimoDesembolso": "2022-08-25",
   "AvisoDados": null,
-  "HashAPI": "46c4356745094680af0aca5b50b89704b072ab91"
+  "HashAPI": "9c6e8e25a0c5e12b19d880b9cf409fb92cb8afa6"
  },
  {
   "Title": "794017",
@@ -7576,13 +7576,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 805954.31,
+  "ValorSaldoConta": 806266.7,
   "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "DataUltimoDesembolso": "2016-07-18",
   "AvisoDados": null,
-  "HashAPI": "804b6e72b02cfd919c9eb93b071293f7d5d8e24f"
+  "HashAPI": "02b000f3bed0bb7295a31bda5657d25a95037588"
  },
  {
   "Title": "794021",
@@ -7761,13 +7761,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 2188741.89,
+  "ValorSaldoConta": 2189590.24,
   "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 3,
   "DataUltimoDesembolso": "2023-05-09",
   "AvisoDados": null,
-  "HashAPI": "f6310e80d910321681488423232f2356d9e1c2e9"
+  "HashAPI": "de809822405f1bca8a3c8ec70ad77d1a40173407"
  },
  {
   "Title": "794032",
@@ -8057,13 +8057,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 9182013.07,
+  "ValorSaldoConta": 9185571.99,
   "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "DataUltimoDesembolso": "2022-09-26",
   "AvisoDados": null,
-  "HashAPI": "41667c3ffc7b5ded9157aaf7c58ff3be06b1cf60"
+  "HashAPI": "e4de98e0bed363cdf90810b8ace633e3975e7c28"
  },
  {
   "Title": "794076",
@@ -8760,13 +8760,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 21030211.06,
+  "ValorSaldoConta": 21038362.3,
   "OperaOBTV": true,
   "QtdTA": 7,
   "QtdProrroga": 2,
   "DataUltimoDesembolso": "2016-06-07",
   "AvisoDados": null,
-  "HashAPI": "f7e6bef899c9cc0a611b256f564f5b6bdccf5b4d"
+  "HashAPI": "66fbf28fa7edd0a0f1bcae1ecec94f45e0b33f14"
  },
  {
   "Title": "794801",
@@ -9019,13 +9019,13 @@
   "ValorRendimentoAplicacao": 23820.0,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 1067189.78,
+  "ValorSaldoConta": 1067603.42,
   "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 2,
   "DataUltimoDesembolso": "2022-07-22",
   "AvisoDados": null,
-  "HashAPI": "a6741c4701dc9daff547bf6bc90e473a8aba5cd5"
+  "HashAPI": "3351a53b035780ca541b50199c388f5033a3496e"
  },
  {
   "Title": "795206",
@@ -9093,13 +9093,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 299841.04,
+  "ValorSaldoConta": 299957.25,
   "OperaOBTV": true,
   "QtdTA": 4,
   "QtdProrroga": 2,
   "DataUltimoDesembolso": "2026-05-21",
   "AvisoDados": null,
-  "HashAPI": "3e50b0c2b28f396d8420b186a2290e95ee106282"
+  "HashAPI": "92a2f834571e551efb38406f6b7e6289efb43db7"
  },
  {
   "Title": "795214",
@@ -9352,13 +9352,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 293964.48,
+  "ValorSaldoConta": 294091.4,
   "OperaOBTV": true,
   "QtdTA": 3,
   "QtdProrroga": 4,
   "DataUltimoDesembolso": "2022-09-22",
   "AvisoDados": null,
-  "HashAPI": "3d0882c146338e73ca693593a350c5ded46d2289"
+  "HashAPI": "059ab532d2d268179c7dbe3f5c23c18e6ed9c73e"
  },
  {
   "Title": "795257",
@@ -9574,13 +9574,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 777025.69,
+  "ValorSaldoConta": 777326.86,
   "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-08-05",
   "AvisoDados": null,
-  "HashAPI": "a97993948df97c22dea0f1f830c235ba6467648b"
+  "HashAPI": "f7fc8b77b9af9cff3bf13ee9c55fbffd2acb2775"
  },
  {
   "Title": "7AAHEN",
@@ -9648,13 +9648,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 603254.08,
+  "ValorSaldoConta": 603487.9,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-10-27",
   "AvisoDados": null,
-  "HashAPI": "27469f1293e280e764cea9da524e2d8b18bbadf4"
+  "HashAPI": "73789618c8c4b1b73504f21a303d23eefd52a420"
  },
  {
   "Title": "7AAJHM",
@@ -11054,13 +11054,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 241361.36,
+  "ValorSaldoConta": 241454.91,
   "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2020-12-02",
   "AvisoDados": null,
-  "HashAPI": "2bc9ebd165c418c00ed372dbea471679c2c98bf9"
+  "HashAPI": "e2c5a6ddbd39c822cac550d2aad64949530c1266"
  },
  {
   "Title": "873477",
@@ -11905,13 +11905,13 @@
   "ValorRendimentoAplicacao": 108763.5,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 329246.22,
+  "ValorSaldoConta": 329373.84,
   "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2022-12-21",
   "AvisoDados": null,
-  "HashAPI": "b9eadb4b5f0cd2ca3d76b8699c016b123c82eee4"
+  "HashAPI": "7584f168af278cec71c8d12ae599df25a5aa0af6"
  },
  {
   "Title": "911386",
@@ -11979,13 +11979,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 216984.26,
+  "ValorSaldoConta": 217079.77,
   "OperaOBTV": true,
   "QtdTA": 2,
   "QtdProrroga": 1,
   "DataUltimoDesembolso": "2023-08-21",
   "AvisoDados": null,
-  "HashAPI": "19ec7e00114100c8a2d503dcd8252eac7673fa14"
+  "HashAPI": "16f2330167968a749bacd6daccafc3e438ab54ef"
  },
  {
   "Title": "928394",
@@ -12164,13 +12164,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 26895.23,
+  "ValorSaldoConta": 26905.66,
   "OperaOBTV": true,
   "QtdTA": 1,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2024-12-13",
   "AvisoDados": null,
-  "HashAPI": "e4e51da76e12a7602bdfec6c07f83f53c9ebf8ff"
+  "HashAPI": "548a15789ce4402dbb3db0abb6d48bb3a5a1b02f"
  },
  {
   "Title": "955804",
@@ -12238,13 +12238,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 23987.15,
+  "ValorSaldoConta": 23997.72,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2025-10-06",
   "AvisoDados": null,
-  "HashAPI": "83fc07be71f89553fa54bd6ef7e5f5739317d333"
+  "HashAPI": "cf4fdf37207c4108bb0eb4d138d6ff0d016b5e98"
  },
  {
   "Title": "959796",
@@ -12275,13 +12275,13 @@
   "ValorRendimentoAplicacao": 113500.18,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 23.71,
+  "ValorSaldoConta": 23.72,
   "OperaOBTV": true,
   "QtdTA": 5,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-07-27",
   "AvisoDados": null,
-  "HashAPI": "ecb00dabfbde1edd3dc482e8e025ea11f7a482a2"
+  "HashAPI": "be14109ff44bd89b2a6f3d14f5afccada79fee8a"
  },
  {
   "Title": "964658",
@@ -12312,13 +12312,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 49365.11,
+  "ValorSaldoConta": 49386.84,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2025-04-14",
   "AvisoDados": null,
-  "HashAPI": "cdc8c673a0ed4b7229598c123f4e1cf0dbf7c7ca"
+  "HashAPI": "9d7957ac613ff20237a193f7fdb8c7d6d53cd43c"
  },
  {
   "Title": "965445",
@@ -12349,13 +12349,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 3534555.9,
+  "ValorSaldoConta": 3535925.89,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "DataUltimoDesembolso": "2025-10-22",
   "AvisoDados": null,
-  "HashAPI": "20142d5207f48b9fe59a670ac0c2809afb5b61d2"
+  "HashAPI": "8ce2949ff238a904fcf08e378d708fc4671f0c82"
  },
  {
   "Title": "967649",
@@ -12386,13 +12386,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 2413495.8,
+  "ValorSaldoConta": 2414431.27,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-10-09",
   "AvisoDados": null,
-  "HashAPI": "5e1d8ceae3eb7fbdf6be1113070763a2618a14a4"
+  "HashAPI": "e2ed58ec45ef8f2dcff1944557c18a2efadf55ff"
  },
  {
   "Title": "967650",
@@ -12423,13 +12423,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 283187.62,
+  "ValorSaldoConta": 283297.38,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-08-25",
   "AvisoDados": null,
-  "HashAPI": "47580008fc8abbe6f1b2d9258b97a70d2e10b079"
+  "HashAPI": "90fbf5dbfe4d448460f0a2ee4358101b151affd5"
  },
  {
   "Title": "967651",
@@ -12460,13 +12460,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 499199.88,
+  "ValorSaldoConta": 499419.61,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-07-10",
   "AvisoDados": null,
-  "HashAPI": "eea6a12f094ad02c88ee295f14e026f6e4b8d2e9"
+  "HashAPI": "884ad57c714f54e5290c8cb49e5a85f324fc5bee"
  },
  {
   "Title": "967652",
@@ -12497,13 +12497,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 1388834.25,
+  "ValorSaldoConta": 1389372.58,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2025-12-09",
   "AvisoDados": null,
-  "HashAPI": "31e8aa6fa4f97741556d364ac05b6ff6725ae5b1"
+  "HashAPI": "fe65c2f462f342d2738d9f5fdd006ca57ef648b7"
  },
  {
   "Title": "967653",
@@ -12534,13 +12534,13 @@
   "ValorRendimentoAplicacao": 56697.57,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 218824.35,
+  "ValorSaldoConta": 220009.17,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-03-12",
   "AvisoDados": null,
-  "HashAPI": "bba57537d3766f77e6b3f3bd71316ab379123bf6"
+  "HashAPI": "b007a67f3bf29300a233d948caa92ddc3223fa61"
  },
  {
   "Title": "967654",
@@ -12571,13 +12571,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 1019018.25,
+  "ValorSaldoConta": 1019413.23,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2025-12-09",
   "AvisoDados": null,
-  "HashAPI": "ce5163cb7f42cb64f9c13c09aaa75a6c7b571a0d"
+  "HashAPI": "d5c9f67442471d41a5719e69d9f70bac56f8e442"
  },
  {
   "Title": "967655",
@@ -12645,13 +12645,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 448624.32,
+  "ValorSaldoConta": 448798.2,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-07-09",
   "AvisoDados": null,
-  "HashAPI": "ad0d9c3f02f5b5bc5a86b8515d2fa03bc909ad4b"
+  "HashAPI": "530ee62e06c2f00ae75b1c6ebaee070e5b2092fb"
  },
  {
   "Title": "967711",
@@ -12719,13 +12719,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 2983595.32,
+  "ValorSaldoConta": 2984908.59,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-10-09",
   "AvisoDados": null,
-  "HashAPI": "23edd68c4ec9fd8b66dc3a1305391499705732d0"
+  "HashAPI": "912f81dc757d2d3b6bc4dc1a179f230dc376b929"
  },
  {
   "Title": "967715",
@@ -12756,13 +12756,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 2387656.12,
+  "ValorSaldoConta": 2388581.57,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-07-09",
   "AvisoDados": null,
-  "HashAPI": "56cbdaf842448099d5e18293947ca1a472624935"
+  "HashAPI": "0d2cb6fcfd6ead4e67c7652d0f9106041cc8043f"
  },
  {
   "Title": "967717",
@@ -12793,13 +12793,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 1474815.75,
+  "ValorSaldoConta": 1475387.39,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-06-30",
   "AvisoDados": null,
-  "HashAPI": "90d3232fa2fe7eea510b0cb356155db08f57fe57"
+  "HashAPI": "66b0ffc8919f08d92c0ffe63272411e188826d8a"
  },
  {
   "Title": "967718",
@@ -12830,13 +12830,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 9390950.87,
+  "ValorSaldoConta": 9394590.78,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-10-09",
   "AvisoDados": null,
-  "HashAPI": "d21a37f8dd49fb36180290307162c4eab02e2d6e"
+  "HashAPI": "bfdd66fee49c231d3fc96aeaf61b3a7ae7a4e6d5"
  },
  {
   "Title": "967825",
@@ -12867,13 +12867,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 1294541.38,
+  "ValorSaldoConta": 1295043.14,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "DataUltimoDesembolso": "2025-12-09",
   "AvisoDados": null,
-  "HashAPI": "a234fb099d8394820e438261f9da24aeb8bb4732"
+  "HashAPI": "f8bcdbbca149301e8e359e7498b82ef3dc59b0be"
  },
  {
   "Title": "967826",
@@ -12904,13 +12904,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 6406571.3,
+  "ValorSaldoConta": 6409054.48,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2025-12-09",
   "AvisoDados": null,
-  "HashAPI": "ebdf45c9457056546e2046c795f53c91fc7830c6"
+  "HashAPI": "8e2ec17c0098b5da5a8092e74d031307acb7cf3e"
  },
  {
   "Title": "967827",
@@ -12978,13 +12978,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 4822016.31,
+  "ValorSaldoConta": 4823885.32,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "DataUltimoDesembolso": "2026-10-09",
   "AvisoDados": null,
-  "HashAPI": "c8930dc6e03245fa7b0e4b55be01b6c68c291595"
+  "HashAPI": "167d69256c9388ecdf3b7ea69c0f969fc5b1a5a2"
  },
  {
   "Title": "968031",
@@ -13015,13 +13015,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 69987.59,
+  "ValorSaldoConta": 70014.71,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-06-15",
   "AvisoDados": null,
-  "HashAPI": "333419d02ce0a7184d3b5437ae63d9fb0bacf804"
+  "HashAPI": "a311718670f5c1e8687cc5cff0e93351684c646d"
  },
  {
   "Title": "968032",
@@ -13052,13 +13052,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 4768617.64,
+  "ValorSaldoConta": 4770465.95,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-10-09",
   "AvisoDados": null,
-  "HashAPI": "6faff6adcb564e0e3ea726d67e893728bb45f811"
+  "HashAPI": "618f2ef2f3a17530364f9b1c0ada21e22cf2f8b8"
  },
  {
   "Title": "968033",
@@ -13089,13 +13089,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 644322.68,
+  "ValorSaldoConta": 644572.42,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "DataUltimoDesembolso": "2026-06-15",
   "AvisoDados": null,
-  "HashAPI": "0b2f48d69c327a2e6f5bad9f4d1e08f7da479fba"
+  "HashAPI": "eba902586876dd596e7e9ac6503212f4177a369c"
  },
  {
   "Title": "968079",
@@ -13126,13 +13126,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 2215675.19,
+  "ValorSaldoConta": 2216533.98,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": 1,
   "DataUltimoDesembolso": "2026-07-09",
   "AvisoDados": null,
-  "HashAPI": "0d455f8737c0297223744bb862f48fe63fe39f63"
+  "HashAPI": "3e4dd35d4e3b162548819408de96ced8ae5308d8"
  },
  {
   "Title": "968082",
@@ -13163,13 +13163,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 1728060.94,
+  "ValorSaldoConta": 1728730.73,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-06-15",
   "AvisoDados": null,
-  "HashAPI": "e60944e0d45e11b32cc140d54dc428073b1639d0"
+  "HashAPI": "cb0e7e4806564a0017cc31005669601021599792"
  },
  {
   "Title": "968101",
@@ -13200,13 +13200,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 2564085.18,
+  "ValorSaldoConta": 2565079.01,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-08-14",
   "AvisoDados": null,
-  "HashAPI": "1f03965e6ef653be774ac4b5d668ba6983156c93"
+  "HashAPI": "e62c0f0c3fb577aa8e5fb1c9cbfd61470b1f3520"
  },
  {
   "Title": "968170",
@@ -13237,13 +13237,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 146584.79,
+  "ValorSaldoConta": 146641.6,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2025-10-22",
   "AvisoDados": null,
-  "HashAPI": "d34fec86b28ab2b303c8f789ffd85cf48698fa55"
+  "HashAPI": "d91518374be886a7ff2a7168f61f78752d386f09"
  },
  {
   "Title": "968328",
@@ -13274,13 +13274,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 408685.65,
+  "ValorSaldoConta": 408844.05,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-06-18",
   "AvisoDados": null,
-  "HashAPI": "fb7c0fa651663baa8e878c3353de764123fa8bef"
+  "HashAPI": "2dfd9972b70a81c9db022d0d404a2425d1e0350d"
  },
  {
   "Title": "969850",
@@ -13311,13 +13311,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 8078653.53,
+  "ValorSaldoConta": 8081784.79,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-11-09",
   "AvisoDados": null,
-  "HashAPI": "42e92e12a0a4c7d2c44a7902ac686fe6b702cb15"
+  "HashAPI": "51ecd987962ddb3a0bbe50a5c69e4c16c7d1f7b2"
  },
  {
   "Title": "974869",
@@ -13422,13 +13422,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 11094472.23,
+  "ValorSaldoConta": 11098772.42,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-04-29",
   "AvisoDados": null,
-  "HashAPI": "2c62d12ddeed67396db65ad77affb7e6bd25c7d4"
+  "HashAPI": "3b5c788d83ba6e4005aa6e57db7846c869c73be2"
  },
  {
   "Title": "995151",
@@ -13459,13 +13459,13 @@
   "ValorRendimentoAplicacao": null,
   "ValorSaldoRemanTesouro": null,
   "ValorSaldoRemanConvenente": null,
-  "ValorSaldoConta": 208966.17,
+  "ValorSaldoConta": 209047.16,
   "OperaOBTV": true,
   "QtdTA": null,
   "QtdProrroga": null,
   "DataUltimoDesembolso": "2026-05-19",
   "AvisoDados": null,
-  "HashAPI": "fd9274a5b9e99c82507849dabdd8ae3e939231fe"
+  "HashAPI": "c59fb0bba7f876a8928e363fd68d24308c0e1008"
  },
  {
   "Title": "995324",
