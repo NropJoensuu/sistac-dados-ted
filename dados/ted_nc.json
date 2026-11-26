@@ -95,9 +95,9 @@
   "PTRES": "236784",
   "UGResponsavel": "580006",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 500000,
+  "Valor": -500000,
   "AvisoDados": null,
-  "HashAPI": "03367477296a488b33819d44f7f6a9a63512cc6d"
+  "HashAPI": "aff1a0d0fb14c01044ada225ef937040f32ac1c0"
  },
  {
   "Title": "1007-1",
@@ -175,9 +175,9 @@
   "PTRES": "236784",
   "UGResponsavel": "580006",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 500000,
+  "Valor": -500000,
   "AvisoDados": null,
-  "HashAPI": "9709867aec458ca495ab61d3e73009554144f50a"
+  "HashAPI": "88712a7242be26a070b9442796ef914ff74635c4"
  },
  {
   "Title": "1011-1",
@@ -415,9 +415,9 @@
   "PTRES": "250300",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 381408,
+  "Valor": -381408,
   "AvisoDados": null,
-  "HashAPI": "122f5267d3e36757524ce4a6a445a98f8b98cfbe"
+  "HashAPI": "0d75b60f04c3bd976041d246179706cf88898d4a"
  },
  {
   "Title": "10207-1",
@@ -435,9 +435,9 @@
   "PTRES": "250300",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1829890,
+  "Valor": -1829890,
   "AvisoDados": null,
-  "HashAPI": "642776ba46868cb83c9c95e6685692ba11b408fc"
+  "HashAPI": "7f885f6a8e63998b4d998fbfb8c9fe573523257b"
  },
  {
   "Title": "10209-1",
@@ -575,9 +575,9 @@
   "PTRES": "236782",
   "UGResponsavel": "580005",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 495000,
+  "Valor": -495000,
   "AvisoDados": null,
-  "HashAPI": "d0a3781c6714a3ecd4f7f905de92df45fcc15970"
+  "HashAPI": "a5bb08a2315a10b3e34f05972740a4aa429d53a7"
  },
  {
   "Title": "10352-1",
@@ -795,9 +795,9 @@
   "PTRES": "236542",
   "UGResponsavel": "530013",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 3039954.44,
+  "Valor": -3039954.44,
   "AvisoDados": null,
-  "HashAPI": "6863b7f68e7ccbbb2f1a66e795f9577d101125b4"
+  "HashAPI": "d11c3bf67face903a79786dd3946e97081af1109"
  },
  {
   "Title": "10488-1",
@@ -2895,9 +2895,9 @@
   "PTRES": "233372",
   "UGResponsavel": "170011",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 374400,
+  "Valor": -374400,
   "AvisoDados": null,
-  "HashAPI": "a651f64d62c0e1ae18b733cd53b27629cf563e58"
+  "HashAPI": "7ffe201aa7362cc4e9c4736ba8597e5bd0cf912c"
  },
  {
   "Title": "11237-1",
@@ -3175,9 +3175,9 @@
   "PTRES": "250745",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 420000,
+  "Valor": -420000,
   "AvisoDados": null,
-  "HashAPI": "3c973fd658d4a2291c53b7d1862a1fee93d5674c"
+  "HashAPI": "8166474afb4f5e95872bcceedac30d3a2d89acb6"
  },
  {
   "Title": "11324-2",
@@ -3195,9 +3195,9 @@
   "PTRES": "250745",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 21000,
+  "Valor": -21000,
   "AvisoDados": null,
-  "HashAPI": "14f255b7671d0dfc20a62a5b02aefb4b54dcd0e6"
+  "HashAPI": "f81b28fb0a40b729893ceaf788c30de44f1c242e"
  },
  {
   "Title": "11331-1",
@@ -3935,9 +3935,9 @@
   "PTRES": "204532",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 2623865,
+  "Valor": -2623865,
   "AvisoDados": null,
-  "HashAPI": "037d2a625cbf0e7c062275971ce0d7dbf028fc00"
+  "HashAPI": "433257028b4d0bd238ca3d45be1e19cbaf741b75"
  },
  {
   "Title": "11862-1",
@@ -4475,9 +4475,9 @@
   "PTRES": "236784",
   "UGResponsavel": "580006",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 600000,
+  "Valor": -600000,
   "AvisoDados": null,
-  "HashAPI": "46499bb473e7c7cb7991f029737772c5d3fdd401"
+  "HashAPI": "5a770a00d6d126e2841b10222469a31ae485d368"
  },
  {
   "Title": "12613-1",
@@ -4775,9 +4775,9 @@
   "PTRES": "172665",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 3130000,
+  "Valor": -3130000,
   "AvisoDados": null,
-  "HashAPI": "5c8ec065d21c4bc04bb50dd25df11fd2430eab86"
+  "HashAPI": "b58bffb0d37cf30f850969d2f2ce31652401e807"
  },
  {
   "Title": "1307-1",
@@ -9695,9 +9695,9 @@
   "PTRES": "172673",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 479850,
+  "Valor": -479850,
   "AvisoDados": null,
-  "HashAPI": "dad45b329a536634e920ada4455bf30649c25df0"
+  "HashAPI": "07a5fc4f7cde56a77bb0d5e4e27c1b1994ee73e7"
  },
  {
   "Title": "1896-1",
@@ -9735,9 +9735,9 @@
   "PTRES": "172665",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 5663800,
+  "Valor": -5663800,
   "AvisoDados": null,
-  "HashAPI": "fedbd55f31e2583a6ce96a05638e2a3fa9b73f28"
+  "HashAPI": "232129a0c25aff1055a29c10105bcf3ce6c01ea9"
  },
  {
   "Title": "19-1",
@@ -10295,9 +10295,9 @@
   "PTRES": "172672",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1000000,
+  "Valor": -1000000,
   "AvisoDados": null,
-  "HashAPI": "d8ffe8e90fbbd53737bd6d35fa17244673fd030e"
+  "HashAPI": "30cace5131f6a8b52f9b2ec27ccc7634303dc193"
  },
  {
   "Title": "2162-1",
@@ -10375,9 +10375,9 @@
   "PTRES": "172672",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1000000,
+  "Valor": -1000000,
   "AvisoDados": null,
-  "HashAPI": "a6fa324a0ec2a12c7fd034526ac6ba56264a51bf"
+  "HashAPI": "3438b3824b2388f0938ae88c869d9e3c0cfc1029"
  },
  {
   "Title": "2169-1",
@@ -10435,9 +10435,9 @@
   "PTRES": "172676",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1863025,
+  "Valor": -1863025,
   "AvisoDados": null,
-  "HashAPI": "be04282effb099f9ae530bf87711acd006174ef1"
+  "HashAPI": "1565b5cd386bc00c615e5ead123caafcf76f0bcb"
  },
  {
   "Title": "2181-1",
@@ -10595,9 +10595,9 @@
   "PTRES": "172672",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 6000000,
+  "Valor": -6000000,
   "AvisoDados": null,
-  "HashAPI": "a43794c938e7e7d79129868e79e0ed3f5135b554"
+  "HashAPI": "eb3e801cd8227d4f6c8f8c0662a141e6171413d8"
  },
  {
   "Title": "2265-1",
@@ -10695,9 +10695,9 @@
   "PTRES": "172672",
   "UGResponsavel": "364102",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 3905740.72,
+  "Valor": -3905740.72,
   "AvisoDados": null,
-  "HashAPI": "b4c59cc5c0fb4f630d78c5f75c83e01f66da9977"
+  "HashAPI": "ef710a2ff38d63e9e76e0c6b8d623a66d3bae52f"
  },
  {
   "Title": "2292-1",
@@ -10815,9 +10815,9 @@
   "PTRES": "172672",
   "UGResponsavel": "364102",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 3905740.72,
+  "Valor": -3905740.72,
   "AvisoDados": null,
-  "HashAPI": "a1b008fc70ac9da8bdc530c7c16e8134db14e57d"
+  "HashAPI": "8e86837f1b4e139362c431a181f1beafd481cdc4"
  },
  {
   "Title": "2301-1",
@@ -10855,9 +10855,9 @@
   "PTRES": "172672",
   "UGResponsavel": "364102",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 302528.9,
+  "Valor": -302528.9,
   "AvisoDados": null,
-  "HashAPI": "a29d5dd76de356635b277f993a9feb2c421c78b4"
+  "HashAPI": "54ce4a79ddb0a06d3c9f86486d6428627e50cd5b"
  },
  {
   "Title": "2303-1",
@@ -10935,9 +10935,9 @@
   "PTRES": "172675",
   "UGResponsavel": "364102",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 75547.1,
+  "Valor": -75547.1,
   "AvisoDados": null,
-  "HashAPI": "a79ba1b160558e0885da8a3afb95d0c347b5e8a6"
+  "HashAPI": "98a83eeb959bd3dd613a0c28fbada921f1afcfb2"
  },
  {
   "Title": "2307-1",
@@ -11015,9 +11015,9 @@
   "PTRES": "172665",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 5589527,
+  "Valor": -5589527,
   "AvisoDados": null,
-  "HashAPI": "9bb8a2d1a3c6da82e08ebbc11ead503e6da8cb8c"
+  "HashAPI": "a528be55bcdfd76b3bbc71423560b82a69879969"
  },
  {
   "Title": "2310-1",
@@ -11035,9 +11035,9 @@
   "PTRES": "172676",
   "UGResponsavel": "364102",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 676391.29,
+  "Valor": -676391.29,
   "AvisoDados": null,
-  "HashAPI": "250d4d6f767c7b45e6fe75aa9cc11dbd1fa0a7d7"
+  "HashAPI": "a8de9ab3ce9968053e077826dc6ce9618e34b2c8"
  },
  {
   "Title": "2311-1",
@@ -11075,9 +11075,9 @@
   "PTRES": "172678",
   "UGResponsavel": "364102",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 235593.81,
+  "Valor": -235593.81,
   "AvisoDados": null,
-  "HashAPI": "5dd2432b6ac58b7cd9ad86447b8b4b7168daa79e"
+  "HashAPI": "40606a656dbf76bc3529c9aa95d05454464b1ce4"
  },
  {
   "Title": "2313-1",
@@ -11435,9 +11435,9 @@
   "PTRES": "213342",
   "UGResponsavel": "240298",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 400000,
+  "Valor": -400000,
   "AvisoDados": null,
-  "HashAPI": "89e9c0a1e9858ef6d137cf6213fb40005f138c8e"
+  "HashAPI": "a94f1b5bac74d193071aba2cecd1cf8eddd73a50"
  },
  {
   "Title": "2623-1",
@@ -14155,9 +14155,9 @@
   "PTRES": "172680",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 241200,
+  "Valor": -241200,
   "AvisoDados": null,
-  "HashAPI": "94a2bb37d57744feb8c66fb0ce6d33327e2b57aa"
+  "HashAPI": "5f25922b1b4bc5e6eb858f36811e7e228d1072dd"
  },
  {
   "Title": "3681-1",
@@ -14795,9 +14795,9 @@
   "PTRES": "172680",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 4000000,
+  "Valor": -4000000,
   "AvisoDados": null,
-  "HashAPI": "a157d0f6adcb4668512354281b125140764f9b60"
+  "HashAPI": "d8207363a4607ba674a7b4d8920c23b4197d9b6d"
  },
  {
   "Title": "385-1",
@@ -14815,9 +14815,9 @@
   "PTRES": "172665",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 15000000,
+  "Valor": -15000000,
   "AvisoDados": null,
-  "HashAPI": "4701ebc146cbcdd6c13a067332ab79b28cf5c6ff"
+  "HashAPI": "b71d06bb5e9b084849cd5c87bb0031b7ae3f9efa"
  },
  {
   "Title": "386-1",
@@ -14975,9 +14975,9 @@
   "PTRES": "172665",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 4500000,
+  "Valor": -4500000,
   "AvisoDados": null,
-  "HashAPI": "111719b4a22a223663c763514028e89cbcfb0aba"
+  "HashAPI": "4b1ca8a7740868d4b667b6f103707760dde25b7f"
  },
  {
   "Title": "3948-1",
@@ -15395,9 +15395,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 588900,
+  "Valor": -588900,
   "AvisoDados": null,
-  "HashAPI": "c1a5f5d3ce34c3389c75ccfc6f114567c840a337"
+  "HashAPI": "57f52539cf61bd1d657da7fdae36e94d22ea5929"
  },
  {
   "Title": "4006-1",
@@ -16735,9 +16735,9 @@
   "PTRES": "234058",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 736250,
+  "Valor": -736250,
   "AvisoDados": null,
-  "HashAPI": "91a1a3bfec3bad4ea12733d827cec78e06f171f7"
+  "HashAPI": "008d5f340f55ff8cf0898c176a3d1ce017f14230"
  },
  {
   "Title": "4312-2",
@@ -16755,9 +16755,9 @@
   "PTRES": "234058",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 2205000,
+  "Valor": -2205000,
   "AvisoDados": null,
-  "HashAPI": "361f817a12b1a2d3bf8e8c7f460d6999a63cd979"
+  "HashAPI": "8a86bcf949c0b0bfa497a4f85d6b9d2dfd5f7083"
  },
  {
   "Title": "4312-3",
@@ -16775,9 +16775,9 @@
   "PTRES": "234058",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 58750,
+  "Valor": -58750,
   "AvisoDados": null,
-  "HashAPI": "152d716c840c9ca2c9df1885b25728f45fc4a1be"
+  "HashAPI": "a316a411a4ff759f3218da095ceaacc182b45cfc"
  },
  {
   "Title": "4313-1",
@@ -18255,9 +18255,9 @@
   "PTRES": "172665",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1560000,
+  "Valor": -1560000,
   "AvisoDados": null,
-  "HashAPI": "701c88cee7a23eed7fb5cd57a7b757cc38d78666"
+  "HashAPI": "f1d9bd8a0ca9d3d6aa95f2eb39d80b1ccfcf5fe6"
  },
  {
   "Title": "4608-1",
@@ -19095,9 +19095,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 144040,
+  "Valor": -144040,
   "AvisoDados": null,
-  "HashAPI": "e93245e3cb7531aa1a814063f439fc77c4a730bc"
+  "HashAPI": "6a871ffcf85f25657a04354a675f2f4653338aac"
  },
  {
   "Title": "4673-1",
@@ -19115,9 +19115,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1972054.81,
+  "Valor": -1972054.81,
   "AvisoDados": null,
-  "HashAPI": "ba1116bf6fef6437b130cd5daa06cb1672a9944d"
+  "HashAPI": "0c178d967f9b5a6620a2807bf2338537d06926ee"
  },
  {
   "Title": "4682-1",
@@ -19135,9 +19135,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1972054.81,
+  "Valor": -1972054.81,
   "AvisoDados": null,
-  "HashAPI": "8bd3d47540f78eaa53ccd1fc986d6665acccce69"
+  "HashAPI": "240b83bade6b74f121e1d0ebf1b6820a11fb196a"
  },
  {
   "Title": "4683-1",
@@ -19195,9 +19195,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 28839927.4,
+  "Valor": -28839927.4,
   "AvisoDados": null,
-  "HashAPI": "249f62f2cec9b2e5d58199bad2eb108936b9ee2f"
+  "HashAPI": "d721fa93b4a3d1a44a136e2a69a4845e35274b6b"
  },
  {
   "Title": "47-1",
@@ -19575,9 +19575,9 @@
   "PTRES": "233524",
   "UGResponsavel": "238024",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 300000,
+  "Valor": -300000,
   "AvisoDados": null,
-  "HashAPI": "e5b914d05209c75cc935599c20230635874b8887"
+  "HashAPI": "6335d6961eb4a23305dfb7dcc302d46e695f1913"
  },
  {
   "Title": "4885-1",
@@ -19595,9 +19595,9 @@
   "PTRES": "233524",
   "UGResponsavel": "238024",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1000000,
+  "Valor": -1000000,
   "AvisoDados": null,
-  "HashAPI": "eb8529c398093e1463e8d339ed1cb4762561abf9"
+  "HashAPI": "0c1f194406e654cc5f4d39466e5b07e5008c5be1"
  },
  {
   "Title": "4886-1",
@@ -19655,9 +19655,9 @@
   "PTRES": "233524",
   "UGResponsavel": "810008",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 300000,
+  "Valor": -300000,
   "AvisoDados": null,
-  "HashAPI": "f2e3710f2bdb27fe758ad22231b7acfc14059ae8"
+  "HashAPI": "886b7ef23e5941148148490769cd05e00076128f"
  },
  {
   "Title": "49-1",
@@ -19715,9 +19715,9 @@
   "PTRES": "233524",
   "UGResponsavel": "238012",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 300000,
+  "Valor": -300000,
   "AvisoDados": null,
-  "HashAPI": "5d9e31336d966ebf8a4b7bc491c661e459055d8e"
+  "HashAPI": "bb986617bad1c2a71fdf8b0d975b745363728444"
  },
  {
   "Title": "4906-1",
@@ -20175,9 +20175,9 @@
   "PTRES": "172572",
   "UGResponsavel": "240119",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 267141.9,
+  "Valor": -267141.9,
   "AvisoDados": null,
-  "HashAPI": "abe7beecd7fa84c5ceffa45d3945766c46efbf9e"
+  "HashAPI": "cb277ca805dac854d5e5eb89b77d0cd56080f360"
  },
  {
   "Title": "4970-1",
@@ -20675,9 +20675,9 @@
   "PTRES": "234058",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 710000,
+  "Valor": -710000,
   "AvisoDados": null,
-  "HashAPI": "63963651dbb8075f2f1642a0abee1972fcebb946"
+  "HashAPI": "a46805e81632ab55b44e12cb1b04b49b501cfe42"
  },
  {
   "Title": "5160-2",
@@ -20695,9 +20695,9 @@
   "PTRES": "234058",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 50000,
+  "Valor": -50000,
   "AvisoDados": null,
-  "HashAPI": "b76068ef45b82f356e4d3a5c6cbe93788e9a6baf"
+  "HashAPI": "25872ad7275af8b63f4eb62244a1262d5393db67"
  },
  {
   "Title": "5160-3",
@@ -20715,9 +20715,9 @@
   "PTRES": "234057",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 490000,
+  "Valor": -490000,
   "AvisoDados": null,
-  "HashAPI": "bfd852a456b0f8174193ea888e3a4cfb2af64703"
+  "HashAPI": "99a218c968e00d9cea445942e0a00b749d0ffdd4"
  },
  {
   "Title": "5162-1",
@@ -21535,9 +21535,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 50000000,
+  "Valor": -50000000,
   "AvisoDados": null,
-  "HashAPI": "5c60ea1a4dd4163845e0d48b3395feca757876bc"
+  "HashAPI": "719dc41f4f64dbacd42f53cdb15f54455c70d3ef"
  },
  {
   "Title": "5550-1",
@@ -21655,9 +21655,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 14700000,
+  "Valor": -14700000,
   "AvisoDados": null,
-  "HashAPI": "465715d7e7c4e318f7754016509a36a0689dc3a7"
+  "HashAPI": "93e976ed806ca1ec7fb8794671fa7843b0e6748f"
  },
  {
   "Title": "5585-2",
@@ -21675,9 +21675,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 300000,
+  "Valor": -300000,
   "AvisoDados": null,
-  "HashAPI": "80ff6298aca9420022aee005297a60abc0953ca3"
+  "HashAPI": "bbe9db32564de5e6fecb77d62ac61c61b58ae319"
  },
  {
   "Title": "5595-1",
@@ -21715,9 +21715,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 41653519.9,
+  "Valor": -41653519.9,
   "AvisoDados": null,
-  "HashAPI": "9156e2f262c811f3de2ef054aaa96b7fb6fdf46d"
+  "HashAPI": "01f981aa943e7d928774831c7d4b847a2a3b01af"
  },
  {
   "Title": "5596-2",
@@ -21735,9 +21735,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 31467939.56,
+  "Valor": -31467939.56,
   "AvisoDados": null,
-  "HashAPI": "74881193072b14b9e1d61e2d16a5eed7bc4943c0"
+  "HashAPI": "a4161df5fed5e0b4849e601c16659033360d7f34"
  },
  {
   "Title": "562-1",
@@ -22135,9 +22135,9 @@
   "PTRES": "233950",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 79132.85,
+  "Valor": -79132.85,
   "AvisoDados": null,
-  "HashAPI": "aee153e6abfeadfbdf70e49faa8e7036a1434ff2"
+  "HashAPI": "d200afe54be58c2479c735547976a2ec1c7a9bf0"
  },
  {
   "Title": "5705-1",
@@ -22195,9 +22195,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 3646480.03,
+  "Valor": -3646480.03,
   "AvisoDados": null,
-  "HashAPI": "40e64c04208b855b1dd85deca06737d7e9c82c2b"
+  "HashAPI": "4f24dc7838f4ebacb3b5156a1c16d896a952f010"
  },
  {
   "Title": "5718-2",
@@ -22215,9 +22215,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 8232060.44,
+  "Valor": -8232060.44,
   "AvisoDados": null,
-  "HashAPI": "ab2a1c3744e864988d019909a66d93e5f6ddd779"
+  "HashAPI": "ad660aa18366bf9a903643d9e30b3ebce41d45f2"
  },
  {
   "Title": "5719-1",
@@ -22235,9 +22235,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 0.07,
+  "Valor": -0.07,
   "AvisoDados": null,
-  "HashAPI": "863d66af4fb11f734308f42f34960f79f35ffbfd"
+  "HashAPI": "9e39dbbb1bc8de6a61e3c0a5a8c0e3644d38d871"
  },
  {
   "Title": "5757-1",
@@ -22355,9 +22355,9 @@
   "PTRES": "233518",
   "UGResponsavel": "810008",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1000000,
+  "Valor": -1000000,
   "AvisoDados": null,
-  "HashAPI": "8051bf569c1a9ae919dd3cce4de37749b27b7cc2"
+  "HashAPI": "83e1289567a4fc4e8530eaa7a7e804f3508150c9"
  },
  {
   "Title": "5781-1",
@@ -22535,9 +22535,9 @@
   "PTRES": "233518",
   "UGResponsavel": "810008",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1000000,
+  "Valor": -1000000,
   "AvisoDados": null,
-  "HashAPI": "1bcd58f08b799cd29669f8d3bc10fd4f875a2fdf"
+  "HashAPI": "f63bb4bcd74f4af16dbdefd6a73f9da63dbc900e"
  },
  {
   "Title": "5823-1",
@@ -22835,9 +22835,9 @@
   "PTRES": "233518",
   "UGResponsavel": "810008",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1000000,
+  "Valor": -1000000,
   "AvisoDados": null,
-  "HashAPI": "38cecefbc428bd9c7a721622423c9fde12b283da"
+  "HashAPI": "8049d53d602140e8775e97f3bbec3fece9a2ae03"
  },
  {
   "Title": "5931-1",
@@ -23355,9 +23355,9 @@
   "PTRES": "204532",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1358401.15,
+  "Valor": -1358401.15,
   "AvisoDados": null,
-  "HashAPI": "257db291c8393dde9bcbd7f5421e68740f5c618f"
+  "HashAPI": "712fe7236d681d5762d09c0e44002da822e4df30"
  },
  {
   "Title": "615-1",
@@ -23495,9 +23495,9 @@
   "PTRES": "241847",
   "UGResponsavel": "240317",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1000000,
+  "Valor": -1000000,
   "AvisoDados": null,
-  "HashAPI": "058e19f948edf649e6d31d150c87a6ea59d1ae1b"
+  "HashAPI": "2f36df36a228be540e7cd103ada8ca0537c152bb"
  },
  {
   "Title": "6209-1",
@@ -24195,9 +24195,9 @@
   "PTRES": "233518",
   "UGResponsavel": "238022",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 199570,
+  "Valor": -199570,
   "AvisoDados": null,
-  "HashAPI": "aea3db861985a316489ddf0d7b8029bc9999409b"
+  "HashAPI": "0eff73f3476d267b2ba64ba3f244c067d094c6ea"
  },
  {
   "Title": "6348-1",
@@ -25415,9 +25415,9 @@
   "PTRES": "172665",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 7832854.3,
+  "Valor": -7832854.3,
   "AvisoDados": null,
-  "HashAPI": "2c3d730da2fc4264d71da547a68314a7e3311680"
+  "HashAPI": "68e6856ce50b5aff62defb0d61d1ca19601c9c36"
  },
  {
   "Title": "6811-1",
@@ -25535,9 +25535,9 @@
   "PTRES": "234146",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 187320,
+  "Valor": -187320,
   "AvisoDados": null,
-  "HashAPI": "59e3ffdf4fb194ec4ba566b48ab638615e5d6e21"
+  "HashAPI": "47f0a7f4502b16a79d873f725979bc6ee6ceb0e3"
  },
  {
   "Title": "6867-2",
@@ -25555,9 +25555,9 @@
   "PTRES": "234146",
   "UGResponsavel": null,
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 131040,
+  "Valor": -131040,
   "AvisoDados": null,
-  "HashAPI": "99b7587f12bb5ea8d218aa8600681a95af9757a6"
+  "HashAPI": "cec4c211ed5c720cdd4fe756678ec1e2e2ef0ff2"
  },
  {
   "Title": "6868-1",
@@ -26075,9 +26075,9 @@
   "PTRES": "172572",
   "UGResponsavel": "240119",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 14538.99,
+  "Valor": -14538.99,
   "AvisoDados": null,
-  "HashAPI": "65160ce3f3249c5941da36fd7d8ac7448a890d41"
+  "HashAPI": "d76d074cc1e55793f2a246d9a0105f0ce143e89a"
  },
  {
   "Title": "724-1",
@@ -26195,9 +26195,9 @@
   "PTRES": "246049",
   "UGResponsavel": "443024",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 500000,
+  "Valor": -500000,
   "AvisoDados": null,
-  "HashAPI": "22c9c6d4b6b91f6cd31f28620e442f60c4aa2931"
+  "HashAPI": "b64065fc0037b8418b9300a574305f7dabe91c80"
  },
  {
   "Title": "7350-1",
@@ -26315,9 +26315,9 @@
   "PTRES": "246049",
   "UGResponsavel": "443024",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 249600,
+  "Valor": -249600,
   "AvisoDados": null,
-  "HashAPI": "b807d4e551cb15c563a26631f6e611e501f95c74"
+  "HashAPI": "4abeb204e8bd4427ffe158230a0b0239cf5f8a2a"
  },
  {
   "Title": "7408-2",
@@ -26335,9 +26335,9 @@
   "PTRES": "246049",
   "UGResponsavel": "443024",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 250400,
+  "Valor": -250400,
   "AvisoDados": null,
-  "HashAPI": "e055e693adc22a1e9d213e33885191bb87d7985b"
+  "HashAPI": "94df00efb4ec9c3faa9a18d2a2d81a51020e5af9"
  },
  {
   "Title": "7435-1",
@@ -26655,9 +26655,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 44980,
+  "Valor": -44980,
   "AvisoDados": null,
-  "HashAPI": "e66f7583f0c6a607acd6892948daf6da97534793"
+  "HashAPI": "cbdc7ae87d15043b71175f0ced9d12fbdc96ff8c"
  },
  {
   "Title": "7691-1",
@@ -27595,9 +27595,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 351578,
+  "Valor": -351578,
   "AvisoDados": null,
-  "HashAPI": "1623fc54c2497acaf9f7aac58fd4491435d3b879"
+  "HashAPI": "561ba9c415d9f714d83fc15a592ab7d936244eca"
  },
  {
   "Title": "8036-1",
@@ -27635,9 +27635,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 41795.2,
+  "Valor": -41795.2,
   "AvisoDados": null,
-  "HashAPI": "625a7819656bfb06f7a652d39bb7bfa82ae3a74b"
+  "HashAPI": "440d277435af9974cd3369a7bee5e6da578c5d47"
  },
  {
   "Title": "8057-1",
@@ -27735,9 +27735,9 @@
   "PTRES": "250316",
   "UGResponsavel": "254444",
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 252000,
+  "Valor": -252000,
   "AvisoDados": null,
-  "HashAPI": "71cba485a3c4a240ad16732727c0068569bc38c5"
+  "HashAPI": "990c77e746af8a25d1541823a34ecd71d23be57c"
  },
  {
   "Title": "8065-2",
@@ -27755,9 +27755,9 @@
   "PTRES": "250316",
   "UGResponsavel": "254444",
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 2714000,
+  "Valor": -2714000,
   "AvisoDados": null,
-  "HashAPI": "6aeda4d9fa39f4de3afbb64a3613688aee795dd8"
+  "HashAPI": "83e86141417465c60a1f0fa7f13430245d2fdb98"
  },
  {
   "Title": "8065-3",
@@ -27775,9 +27775,9 @@
   "PTRES": "234048",
   "UGResponsavel": "254444",
   "EsferaOrcamentaria": "Orçamento de Seguridade Social",
-  "Valor": 234000,
+  "Valor": -234000,
   "AvisoDados": null,
-  "HashAPI": "3edccd236a4d475d168a6d970a719ba297ee28f1"
+  "HashAPI": "fc79f282a28451556bc1bab180eedb8d8aaf9fe2"
  },
  {
   "Title": "8066-1",
@@ -27975,9 +27975,9 @@
   "PTRES": "250298",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 120160,
+  "Valor": -120160,
   "AvisoDados": null,
-  "HashAPI": "448a5a41da56bccc598b456aa961e6200023fdad"
+  "HashAPI": "c61b49ea184a2032ff1cc168ce994fed76ec341d"
  },
  {
   "Title": "8105-1",
@@ -28615,9 +28615,9 @@
   "PTRES": "233949",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 2700000,
+  "Valor": -2700000,
   "AvisoDados": null,
-  "HashAPI": "03290b7cea574881ca9cc241dab5907ce41632d6"
+  "HashAPI": "9c879f4e887115e27045681552e53027b3bad7c3"
  },
  {
   "Title": "8453-1",
@@ -29195,9 +29195,9 @@
   "PTRES": "172557",
   "UGResponsavel": "240112",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 537520,
+  "Valor": -537520,
   "AvisoDados": null,
-  "HashAPI": "3db90e0427e24a50eb1bb5b45f698658c8429510"
+  "HashAPI": "7e3fb35cc298880635935493b2bc5ed444613fe0"
  },
  {
   "Title": "861-1",
@@ -29395,9 +29395,9 @@
   "PTRES": "235933",
   "UGResponsavel": "440206",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 800000,
+  "Valor": -800000,
   "AvisoDados": null,
-  "HashAPI": "5b6737936249a0c32817f02531d24c750de0c56c"
+  "HashAPI": "0c0874313e369f526092f501c3d2e1b9674d4fbc"
  },
  {
   "Title": "8679-1",
@@ -29435,9 +29435,9 @@
   "PTRES": "235933",
   "UGResponsavel": "440206",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 800000,
+  "Valor": -800000,
   "AvisoDados": null,
-  "HashAPI": "07a4e6d5d3fed7eff5d5edf76982d182535c918f"
+  "HashAPI": "f275bd59d29ef2ac983e7b0c602fd0c0324e0108"
  },
  {
   "Title": "8684-1",
@@ -29475,9 +29475,9 @@
   "PTRES": "250297",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 829778,
+  "Valor": -829778,
   "AvisoDados": null,
-  "HashAPI": "9354c6ede930981e2fea58967aa08f57339abd75"
+  "HashAPI": "3eee7295291002615fcbeffe186291dd0b66b080"
  },
  {
   "Title": "8702-1",
@@ -29495,9 +29495,9 @@
   "PTRES": "250297",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 829778,
+  "Valor": -829778,
   "AvisoDados": null,
-  "HashAPI": "0201af01edc159f51b04607fc76da3d7aff59e51"
+  "HashAPI": "ea14015d9a68a5345eee6eb704354ad363c05ef7"
  },
  {
   "Title": "8709-1",
@@ -29675,9 +29675,9 @@
   "PTRES": "233980",
   "UGResponsavel": "364120",
   "EsferaOrcamentaria": "Orçamento Fiscal",
-  "Valor": 1170000,
+  "Valor": -1170000,
   "AvisoDados": null,
-  "HashAPI": "10e632cc10cec132b88c432bc0697d91c0140981"
+  "HashAPI": "58595e8bc55e8ad2093569765499136b25c02129"
  },
  {
   "Title": "8805-1",
