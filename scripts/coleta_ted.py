@@ -56,6 +56,10 @@ CAMPOS_EVENTO = ','.join([
     'cd_ug_responsavel_evento', 'nome_esfera_orcamentaria', 'vl_evento',
 ])
 
+# Eventos de NC que anulam um evento anterior: o valor entra negativo (ADR 0014).
+# 300302 anula 300300/300301 e 300308 anula 300306. 300301 e 300309 seguem positivos.
+EVENTOS_ANULACAO = {'300302', '300308'}
+
 # tx_observacao_nota e tx_observacao_programacao ficam de fora de propósito: são texto
 # livre e trazem nomes de pessoas, e este repositório é público (ADR 0009, critério 2).
 
@@ -252,8 +256,8 @@ def _chave_evento(e):
 def linhas_nc(notas, eventos):
     """
     Uma linha por evento da nota de crédito (lista TED_NotaCredito, ADR 0009 item C).
-    Nota sem evento vira uma linha com os campos de evento vazios. Não há total de
-    NC: o sentido dos códigos de evento ainda depende de confirmação da COPES.
+    Nota sem evento vira uma linha com os campos de evento vazios. Eventos de anulação
+    (EVENTOS_ANULACAO) entram com valor negativo, para que a soma dê o crédito líquido (ADR 0014).
     """
     por_nota = {}
     for e in eventos:
@@ -279,11 +283,19 @@ def linhas_nc(notas, eventos):
                 'PTRES': e.get('cd_ptres_evento'),
                 'UGResponsavel': e.get('cd_ug_responsavel_evento'),
                 'EsferaOrcamentaria': e.get('nome_esfera_orcamentaria'),
-                'Valor': e.get('vl_evento'),
+                'Valor': _valor_evento(e),
             }
             reg['AvisoDados'] = '; '.join(avisos) or None
             linhas.append(_com_hash(reg))
     return linhas
+
+
+def _valor_evento(e):
+    """Valor do evento com sinal: negativo nos eventos de anulação (ADR 0014)."""
+    v = e.get('vl_evento')
+    if v is not None and e.get('cd_evento') in EVENTOS_ANULACAO:
+        return -abs(v)
+    return v
 
 
 def linhas_pf(programacoes, repasses):
